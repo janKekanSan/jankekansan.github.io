@@ -1,0 +1,11 @@
+/* Inspiration */
+    https://evenbettermotherfucking.website
+    jan Lentan at https://devurandom.xyz
+
+/* Creator */
+    gregdan3 (jan Kekan San)
+
+/* Tools */
+    neovim (lunarvim)
+    discount
+    docker (for testing)

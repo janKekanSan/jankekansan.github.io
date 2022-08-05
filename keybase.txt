@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/gregdan3
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://gregdan3.neocities.org
+  * I am gregdan3 (https://keybase.io/gregdan3) on keybase.
+  * I have a public key with fingerprint 1600 EADF 31AA 3989 84A3  6AC1 88D4 EF22 F6C1 4CA7
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01019b3f916171b40cfdd97025d54ea098faa7c5bbe00bf97bc363effb8d151c171d0a",
+      "fingerprint": "1600eadf31aa398984a36ac188d4ef22f6c14ca7",
+      "host": "keybase.io",
+      "key_id": "88d4ef22f6c14ca7",
+      "kid": "01019b3f916171b40cfdd97025d54ea098faa7c5bbe00bf97bc363effb8d151c171d0a",
+      "uid": "1a49c64b1226da6bfa077da4e6ff6619",
+      "username": "gregdan3"
+    },
+    "service": {
+      "hostname": "gregdan3.neocities.org",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1628103883,
+  "expire_in": 157680000,
+  "prev": "6004cb5084621e0162eb0ce0c68756c7e9f2132a5481efc960df1817dc84466a",
+  "seqno": 11,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMNJAnicrZJrTBRXGIYXuVSIRAn0hgVk2kq5rXNmZueyxUaIVUmptihS0YacmTmz
+TICdZXdAFgINFcslQovYRootCiwrUETNGkrACBupqUgtoA2KQWOVoG0DhUKtibaz
+pP3T9GfPn5Pz5X2f857vfBcDvXUBXpXXZrGlwRSn1/Bgc74OBtwbLsZ4RbRjxmIs
+Gy1vKEdENjUzWxYxI4YDHHA8KXGABgzgKVyQRJFjcMIgGigEcY6VIGQEA88jHOcl
+juEFkiaRJPGsCAxA0EwiDrE4TJLNJmS1WGWzqmEBjeMIihIJICQ5lmMpSNJQACwr
+UkgiCIkWACVARjNmKTaPQwvHQxvSy4pW0w6Zy/H+Q/8/585fxgFIcQJN8YAgaBHS
+vARxhhEhhWhJomnAeYQ2ZDXDXKSpTVZkEqGZxEriMK1aIAvI01jPS/6l0JuRIsiq
+jGx6xWrSKBaroiqCkqNpslTVYjN6GKrd4jHtR3zm37hMXjaLWkc1RwGy2mTFjBmB
+phRU2cMHNMECnGRZMg5DhRbZijJlj8LA0CyuLc89qEBDat9ACbwBZymaAAjXfIjH
+BYQLNMsYaIFBnEQAkoAGigVIEjgaFyXAAkYUWIqiaU+DbCjPrGhsoOWEJo1pk01m
+qOZbEVbiHtzno/MK0Pn5rvCMmi7Af80/A3jVvfqp3pd5oe763WE6cPWuD6aXssZi
+fyv3O9W32DDdGe86uXFz4FY7eWoi4rsnx3++LiacPxcRrEtrylNdaMPZofAtcxUt
+j9p6DrsXRlJfqv/Ycp/tW/ml3bn7jYj+byouDYTVjPi7olrUoSpjbZmhvKH5TG3j
+n0UVxXdfVy3OZ8fi+hzrbiXFfCheWGoZeLnj6LXJC3uzhyNXZAw87fqkL5E8cmzP
+1VV7h3oT54j60cOfZuQNFU+1hQa3HoPF1tjubYnBZS82xdS5Jpx2h/lGD/fuYvs7
+OaX9jbOBG+voTUTQjn2lsTFjYvJIXeRQR3rXQenmmdfG4aXmy/rCkC1J9TN1p5v+
+SE8N973YG9R0bmvD+WfuxaZxX910fJ0b/WhPzXtKdU6DV0tIVEbH2eRfw3y6b1uM
+u/R2zh35C31gWt78BISe+L2mPr7PcWXGmTQ/caB86ofbKcE3Hh5f3+a3Zi74AVr3
+Y79gdzDclIQtBO1v7byzvnLTzoeTqWEp8Xc+y138Pvqg8MXRGfbV59zt6Y/Lq275
+u9ZuT5A+8nNeqRqNTr6cIGPtJww7FFNITTVetL3o0P2FEe/dBbNpoS2jrWG9QW86
+KqfdPp8/n5o/XvZ+/s7wCt9VjY7WbZ1rx3Qnw8fbfwKnuyfVxJq3H8+/ZX9w5JXC
+npWzMaUb5mu/9Ysa8O5qE+erswgrKPkLO+TJsg==
+=OTdJ
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/gregdan3
+
+==================================================================
