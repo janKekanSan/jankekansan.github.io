@@ -115,6 +115,10 @@ th {
   border: 0.06em solid var(--prim-ac);
   padding: 4pt;
 }
+h5,
+h6 {
+  color: red; /*do not use*/
+}
 
 .python,
 .rust,
