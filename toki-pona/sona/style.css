@@ -1,33 +1,14 @@
 @font-face {
-  font-family: linjasuwi;
+  font-family: sp;
   src: url("/linjasuwi.otf");
 }
-
-details {
-  margin: 0.5em;
-  padding-inline-start: 0em;
-  border-inline-start: 4px solid var(--spoil-fg);
-  background: var(--spoil-bg);
-  color: var(--spoil-fg);
-}
-summary {
-  margin: 0.5em;
-  cursor: pointer;
-}
-details summary > * {
-  display: inline; /*fix block elems*/
-}
-details > p {
-  padding-left: 0.3em;
-}
-
 .tokipona p,
 .tokipona div {
-  font-family: linjasuwi;
+  font-family: sp;
   font-size: 2.25em;
 }
 .tokipona table tbody tr td:nth-child(1) {
-  font-family: linjasuwi;
+  font-family: sp;
   font-size: 2.25em;
-  border: 0.03em solid var(--prim-ac);
+  text-align: center;
 }
