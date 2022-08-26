@@ -10,5 +10,6 @@
 .tokipona table tbody tr td:nth-child(1) {
   font-family: sp;
   font-size: 2.25em;
+  border: 1px solid var(--prim-ac);
   text-align: center;
 }
