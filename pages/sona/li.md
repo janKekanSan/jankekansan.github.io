@@ -3,25 +3,24 @@ title: Actions with li
 author: gregdan3
 date: 2022-08-16T00:00:00.000Z
 ---
-
 [Check out the video lesson too!](https://youtu.be/xaYd936H--o)
 
 <!-- toc -->
 
-- [Words to Know](#words-to-know)
-  - [Particles](#particles)
-  - [Content Words](#content-words)
+  - [Words to Know](#words-to-know)
+    - [Particles](#particles)
+    - [Content Words](#content-words)
 - [Overview](#overview)
-  - [Predicates and li](#predicates-and-li)
-  - [Multiple li](#multiple-li)
+    - [Predicates and li](#predicates-and-li)
+    - [Multiple li](#multiple-li)
 - [Exercises](#exercises)
   - [Toki Pona to English](#toki-pona-to-english)
     - [Single li](#single-li)
     - [Multiple li](#multiple-li-1)
   - [English to Toki Pona](#english-to-toki-pona)
 - [Takeaway](#takeaway)
-  - [Grammar](#grammar)
-  - [Content Words and Particles](#content-words-and-particles)
+    - [Grammar](#grammar)
+    - [Content Words and Particles](#content-words-and-particles)
 
 <!-- tocstop -->
 
@@ -373,3 +372,5 @@ There are also a handful of words which are so-called **pseudo-particles**. This
 [Previous lesson](./mi-sina.html)
 
 [Next lesson](./e.html)
+
+

@@ -4,7 +4,10 @@ author: gregdan3
 date: 2022-09-24T00:00:00.000Z
 ---
 
+
 <!-- toc -->
+
+
 
 <!-- tocstop -->
 
@@ -49,3 +52,5 @@ Fwiw, I think this applies just as much to English too- we just don't think abou
 ---
 
 [Back home](/toki-pona/)
+
+

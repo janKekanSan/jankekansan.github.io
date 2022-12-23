@@ -3,25 +3,24 @@ title: Pre-predicates
 author: gregdan3
 date: date unknown
 ---
-
 [Check out the video lesson too!](https://youtu.be/YjxSaqAZwqk)
 
 <!-- toc -->
 
-- [Words to Know](#words-to-know)
-  - [Particles](#particles)
-  - [Content Words](#content-words)
-  - [Pre-predicates](#pre-predicates)
+  - [Words to Know](#words-to-know)
+    - [Particles](#particles)
+    - [Content Words](#content-words)
+    - [Pre-predicates](#pre-predicates)
 - [Overview](#overview)
-  - [Every Pre-predicate](#every-pre-predicate)
-    - [wile](#wile)
-    - [ken](#ken)
-    - [kama](#kama)
-    - [awen](#awen)
-    - [sona](#sona)
-    - [alasa / lukin](#alasa--lukin)
-  - [Multiple pre-predicates](#multiple-pre-predicates)
-  - [ala](#ala)
+    - [Every Pre-predicate](#every-pre-predicate)
+      - [wile](#wile)
+      - [ken](#ken)
+      - [kama](#kama)
+      - [awen](#awen)
+      - [sona](#sona)
+      - [alasa / lukin](#alasa--lukin)
+    - [Multiple pre-predicates](#multiple-pre-predicates)
+    - [ala](#ala)
 - [Exercises](#exercises)
   - [Toki Pona to English](#toki-pona-to-english)
     - [One pre-pred](#one-pre-pred)
@@ -30,8 +29,8 @@ date: date unknown
     - [ala and other things](#ala-and-other-things)
   - [English to Toki Pona](#english-to-toki-pona)
 - [Takeaway](#takeaway)
-  - [Clarity of Grammar](#clarity-of-grammar)
-  - [Ambiguity](#ambiguity)
+    - [Clarity of Grammar](#clarity-of-grammar)
+    - [Ambiguity](#ambiguity)
 
 <!-- tocstop -->
 
@@ -148,9 +147,8 @@ You are learning!
 
 </details>
 
-The [kama]{.tokipona} pre-pred means the predicate is beginning, or _progressive_.
-It's similar to a word in English that ends with "-ing," such as learning or growing.
-It can also refer to beginning actions, such as going to sleep.
+The [kama]{.tokipona} pre-pred refers to things changing, which may be beginnings or endings, or something becoming different over time!
+It's similar to words in English that end with "-ing," such as learning or growing.
 
 <details><summary> [kasi li kama suli]{.tokipona} </summary>
 
@@ -176,7 +174,7 @@ I am still listening.
 
 </details>
 
-The [awen]{.tokipona} pre-pred means the predicate is on-going, continuing, or not changing. This is different from [kama]{.tokipona} in that the [kama]{.tokipona} pre-pred does imply change!
+The [awen]{.tokipona} pre-pred means the predicate describes something staying the same- _not_ changing, as opposed to the [kama]{.tokipona} pre-pred which does refer to change.
 
 You can still restate this without the pre-predicate:
 
@@ -513,11 +511,15 @@ You've been sorting through boxes of donations, trying to make a list of contrib
 
 <details><summary> [**ona li pana e ni ala・ona li pana e ni**]{.tokipona} </summary>
 
-They didn't give this. They gave that!
+They gave _not_ this. They gave that!
 
 ::: info
 
-While negating the predicate can be similar to negating the object, choosing one over the other can emphasize your intended meaning better!
+The English here is a bit clunky to better reflect the original Toki Pona!
+
+While negating the predicate can be similar to negating the object, choosing one over the other can emphasize your intended meaning better! If the original sentence had used [ala]{.tokipona} on [pana]{.tokipona} instead, this would be the translation:
+
+> They didn't give this. They gave that!
 
 :::
 
@@ -666,3 +668,5 @@ That said, if any ambiguity or even simple misunderstanding comes up when speaki
 [Previous lesson](./mod-pi.html)
 
 [Next lesson](./preps.html)
+
+

@@ -3,21 +3,20 @@ title: Instructions with o
 author: gregdan3
 date: date unknown
 ---
-
 [Check out the video lesson too!](https://youtu.be/lf3lDjIWiYI)
 
 <!-- toc -->
 
-- [Words to Know](#words-to-know)
-  - [Particles](#particles)
-  - [Content Words](#content-words)
-  - [Critters](#critters)
+  - [Words to Know](#words-to-know)
+    - [Particles](#particles)
+    - [Content Words](#content-words)
+    - [Critters](#critters)
 - [Overview](#overview)
-  - [Instructions](#instructions)
-  - [Attention](#attention)
-  - [taso sentences](#taso-sentences)
-  - [taso modifier](#taso-modifier)
-  - [taso head](#taso-head)
+    - [Instructions](#instructions)
+    - [Attention](#attention)
+    - [taso sentences](#taso-sentences)
+    - [taso modifier](#taso-modifier)
+    - [taso head](#taso-head)
 - [Exercises](#exercises)
   - [Toki Pona to English](#toki-pona-to-english)
     - [o for commands](#o-for-commands)
@@ -27,9 +26,9 @@ date: date unknown
     - [Modifier taso](#modifier-taso)
   - [English to Toki Pona](#english-to-toki-pona)
 - [Takeaway](#takeaway)
-  - [Giving Instructions](#giving-instructions)
-  - [Grammar](#grammar)
-  - [Other Notes](#other-notes)
+    - [Giving Instructions](#giving-instructions)
+    - [Grammar](#grammar)
+    - [Other Notes](#other-notes)
 
 <!-- tocstop -->
 
@@ -122,9 +121,11 @@ If the subject is not listening or not able to listen, you would interpret the s
 
 <details><summary> [lipu o pakala ala ]{.tokipona} </summary>
 
+The paper should not be ripped.
+
 The paper must not be torn.
 
-The documents must not be shredded.
+The documents should not be shredded.
 
 </details>
 
@@ -221,7 +222,7 @@ Without [taso]{.tokipona}, the sentences are not as clearly related.
 
 #### taso modifier
 
-[taso]{.tokipona} is a modifier the rest of the time, but only as the _last_ modifier of a phrase, affecting the entire phrase. Consider these examples:
+[taso]{.tokipona} is a modifier the rest of the time, but usually as the _last_ modifier of a phrase, affecting the entire phrase. Consider these examples:
 
 <details><summary> [kute taso li pona e sona sina ]{.tokipona} </summary>
 
@@ -462,13 +463,15 @@ Only they are able to excite the party!
 
 [mi wile e kiwen pimeja pona taso]{.tokipona}
 
+[mi wile taso e kiwen pimeja pona]{.tokipona}
+
 ::: warning
 
 This is a little tricky!
-In English, saying "I only want the rock" means the _rock_ is the exclusive thing in the sentence, not wanting!
-When translated, [taso]{.tokipona} only applies to the object.
+In English, saying "I only want the rock" means the _rock_ is the exclusive thing in the sentence.
+When translated in the first example, [taso]{.tokipona} only applies to the object.
 
-Otherwise, you would be saying "I am only wanting (and it happens to be wanting this rock)." Weird to think about, huh?
+If you translated with [taso]{.tokipona} on the predicate, the "only" thing would be the "want." But it
 
 :::
 
@@ -605,3 +608,5 @@ Now that we've learned the word [sitelen]{.tokipona}, here's a fun side note: To
 [Previous lesson](./preps.html)
 
 [Next lesson](./interjections.html)
+
+

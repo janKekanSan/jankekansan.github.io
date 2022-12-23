@@ -4,12 +4,13 @@ author: gregdan3
 date: 2022-07-30T00:00:00.000Z
 ---
 
+
 <!-- toc -->
 
 - [How to Learn](#how-to-learn)
-  - [Toki Pona is a Real Language](#toki-pona-is-a-real-language)
-  - [Simplicity in Toki Pona](#simplicity-in-toki-pona)
-  - [Lesson Notes](#lesson-notes)
+    - [Toki Pona is a Real Language](#toki-pona-is-a-real-language)
+    - [Simplicity in Toki Pona](#simplicity-in-toki-pona)
+    - [Lesson Notes](#lesson-notes)
 - [How to Read](#how-to-read)
   - [Vowels](#vowels)
   - [Consonants](#consonants)
@@ -218,3 +219,5 @@ Try to pronounce the following words. The pronunciation is in a clip under the s
 ---
 
 [Next lesson](./mi-sina.html)
+
+

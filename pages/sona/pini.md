@@ -3,7 +3,6 @@ title: Finale
 author: gregdan3
 date: date unknown
 ---
-
 ::: error
 
 This lesson is a work in progress!
@@ -13,9 +12,9 @@ This lesson is a work in progress!
 <!-- toc -->
 
 - [nimi ku suli](#nimi-ku-suli)
-  - [Widespread](#widespread)
-  - [Common](#common)
-  - [Uncommon](#uncommon)
+    - [Widespread](#widespread)
+    - [Common](#common)
+    - [Uncommon](#uncommon)
 - [Differences](#differences)
 
 <!-- tocstop -->
@@ -103,3 +102,5 @@ The previous use gives only the definition which is no longer used.
 [Other lessons](/toki-pona/#namako)
 
 [Back home](/toki-pona/)
+
+

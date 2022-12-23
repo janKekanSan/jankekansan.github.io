@@ -4,7 +4,10 @@ author: gregdan3
 date: 2022-07-30T00:00:00.000Z
 ---
 
+
 <!-- toc -->
+
+
 
 <!-- tocstop -->
 
@@ -50,3 +53,5 @@ Notes about usage:
 ---
 
 [Back home](/toki-pona/)
+
+

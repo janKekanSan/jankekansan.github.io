@@ -156,3 +156,5 @@ More tools are coming!
     [nimi_pi_pu_ala.txt](http://tokipona.org/nimi_pi_pu_ala.txt)
 
 
+
+

@@ -3,19 +3,18 @@ title: Modifiers and pi
 author: gregdan3
 date: date unknown
 ---
-
 [Check out the video lesson too!](https://youtu.be/J6ThX6dQyCI)
 
 <!-- toc -->
 
-- [Words to Know](#words-to-know)
-  - [Particles](#particles)
-  - [Content Words](#content-words)
+  - [Words to Know](#words-to-know)
+    - [Particles](#particles)
+    - [Content Words](#content-words)
 - [Overview](#overview)
-  - [en, quickly!](#en-quickly)
-  - [One Modifier](#one-modifier)
-  - [Many Modifiers](#many-modifiers)
-  - [pi phrases](#pi-phrases)
+    - [en, quickly!](#en-quickly)
+    - [One Modifier](#one-modifier)
+    - [Many Modifiers](#many-modifiers)
+    - [pi phrases](#pi-phrases)
 - [Exercises](#exercises)
   - [Toki Pona to English](#toki-pona-to-english)
     - [One Modifier](#one-modifier-1)
@@ -23,9 +22,9 @@ date: date unknown
     - [pi phrases](#pi-phrases-1)
   - [English to Toki Pona](#english-to-toki-pona)
 - [Takeaway](#takeaway)
-  - [Terminology](#terminology)
-  - [Grammar](#grammar)
-  - [Modifiers and Meaning](#modifiers-and-meaning)
+    - [Terminology](#terminology)
+    - [Grammar](#grammar)
+    - [Modifiers and Meaning](#modifiers-and-meaning)
 
 <!-- tocstop -->
 
@@ -504,3 +503,5 @@ You can see this in English too: a blue book is a kind of book, and a deep under
 [Previous lesson](./e.html)
 
 [Next lesson](./pre-predicates.html)
+
+

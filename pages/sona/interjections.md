@@ -4,16 +4,17 @@ author: gregdan3
 date: date unknown
 ---
 
+
 <!-- toc -->
 
-- [Words to Know](#words-to-know)
-  - [Particles](#particles)
-  - [Content Words](#content-words)
+  - [Words to Know](#words-to-know)
+    - [Particles](#particles)
+    - [Content Words](#content-words)
 - [Overview](#overview)
-  - [Interjections](#interjections)
-  - [a, the interjection that ever](#a-the-interjection-that-ever)
-  - [o-alikes / well-wishes](#o-alikes--well-wishes)
-  - [Feelings, Opinions, and Remarks](#feelings-opinions-and-remarks)
+    - [Interjections](#interjections)
+    - [a, the interjection that ever](#a-the-interjection-that-ever)
+    - [o-alikes / well-wishes](#o-alikes--well-wishes)
+    - [Feelings, Opinions, and Remarks](#feelings-opinions-and-remarks)
 - [Exercises](#exercises)
   - [Toki Pona to English](#toki-pona-to-english)
   - [English to Toki Pona](#english-to-toki-pona)
@@ -671,3 +672,5 @@ These are useful in conversations, explanations
 [Previous lesson](./o.html)
 
 [Next lesson](./la.html)
+
+

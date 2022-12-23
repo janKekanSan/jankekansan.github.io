@@ -4,7 +4,10 @@ author: gregdan3
 date: date unknown
 ---
 
+
 <!-- toc -->
+
+
 
 <!-- tocstop -->
 
@@ -24,3 +27,5 @@ Far more often than not, their uses _aren't_ in these extremes. They're average 
 ---
 
 [Back home](/toki-pona/)
+
+

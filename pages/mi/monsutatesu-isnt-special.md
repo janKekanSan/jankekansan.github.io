@@ -4,7 +4,10 @@ author: gregdan3
 date: 2022-11-04T00:00:00.000Z
 ---
 
+
 <!-- toc -->
+
+
 
 <!-- tocstop -->
 
@@ -41,3 +44,5 @@ and you can still do these without pilin if you really are pilin't, it's just ha
 ---
 
 [Back home](/toki-pona/)
+
+

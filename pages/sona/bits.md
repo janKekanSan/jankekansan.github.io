@@ -3,7 +3,6 @@ title: Some Bits
 author: gregdan3
 date: date unknown
 ---
-
 ::: error
 
 This lesson is a work in progress!
@@ -12,18 +11,18 @@ This lesson is a work in progress!
 
 <!-- toc -->
 
-- [Words to Know](#words-to-know)
-  - [Particles](#particles)
-  - [Content Words](#content-words)
+  - [Words to Know](#words-to-know)
+    - [Particles](#particles)
+    - [Content Words](#content-words)
 - [Overview](#overview)
-  - [Proper Names](#proper-names)
-  - [Numbers](#numbers)
-  - [Multiple li, e, pi, and more](#multiple-li-e-pi-and-more)
-    - [en](#en)
-  - [anu](#anu)
-  - [kin](#kin)
-  - [funny nanpa](#funny-nanpa)
-  - [Proper Nouns](#proper-nouns)
+    - [Proper Names](#proper-names)
+    - [Numbers](#numbers)
+    - [Multiple li, e, pi, and more](#multiple-li-e-pi-and-more)
+      - [en](#en)
+    - [anu](#anu)
+    - [kin](#kin)
+    - [funny nanpa](#funny-nanpa)
+    - [Proper Nouns](#proper-nouns)
 - [Exercises](#exercises)
   - [Toki Pona to English](#toki-pona-to-english)
   - [English to Toki Pona](#english-to-toki-pona)
@@ -353,3 +352,5 @@ When something is extra, it means there is another thing happening besides the t
 [Previous lesson](./seme.html)
 
 [Next lesson](./pini.html)
+
+

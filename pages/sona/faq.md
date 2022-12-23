@@ -3,7 +3,6 @@ title: Frequently Asked Questions
 author: gregdan3
 date: unknown
 ---
-
 ## Table of Contents
 
 <!-- toc -->
@@ -12,14 +11,14 @@ date: unknown
 - [Can you modify prepositions?](#can-you-modify-prepositions)
 - [Can you modify particles?](#can-you-modify-particles)
 - [How do I say...](#how-do-i-say)
-  - [Who?](#who)
-  - [What?](#what)
-  - [Where?](#where)
-  - [When?](#when)
-  - [Why?](#why)
-  - [How?](#how)
-  - [Whose?](#whose)
-  - [Which?](#which)
+    - [Who?](#who)
+    - [What?](#what)
+    - [Where?](#where)
+    - [When?](#when)
+    - [Why?](#why)
+    - [How?](#how)
+    - [Whose?](#whose)
+    - [Which?](#which)
 - [How do I say "think?"](#how-do-i-say-think)
 
 <!-- tocstop -->
@@ -114,3 +113,5 @@ isipin
 ---
 
 [Back home](/toki-pona/)
+
+

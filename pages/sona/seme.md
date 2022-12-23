@@ -3,7 +3,6 @@ title: Asking and Answering Questions
 author: gregdan3
 date: date unknown
 ---
-
 ::: error
 
 This lesson is a work in progress!
@@ -12,9 +11,9 @@ This lesson is a work in progress!
 
 <!-- toc -->
 
-- [Words to Know](#words-to-know)
-  - [Particles](#particles)
-  - [Content Words](#content-words)
+  - [Words to Know](#words-to-know)
+    - [Particles](#particles)
+    - [Content Words](#content-words)
 - [Overview](#overview)
 - [Exercises](#exercises)
   - [Toki Pona to English](#toki-pona-to-english)
@@ -156,3 +155,5 @@ This lesson is a work in progress!
 [Previous lesson](./la.html)
 
 [Next lesson](./bits.html)
+
+

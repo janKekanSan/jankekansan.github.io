@@ -3,15 +3,14 @@ title: You and I
 author: gregdan3
 date: 2022-07-30T00:00:00.000Z
 ---
-
 [Check out the video lesson too!](https://youtu.be/J93GWOMbgdg)
 
 <!-- toc -->
 
-- [Words to Know](#words-to-know)
+  - [Words to Know](#words-to-know)
 - [Overview](#overview)
-  - [You and I](#you-and-i)
-  - [Hello and Goodbye](#hello-and-goodbye)
+    - [You and I](#you-and-i)
+    - [Hello and Goodbye](#hello-and-goodbye)
 - [Exercises](#exercises)
   - [Toki Pona to English](#toki-pona-to-english)
     - [mi](#mi)
@@ -19,9 +18,9 @@ date: 2022-07-30T00:00:00.000Z
     - [Hello and Goodbye](#hello-and-goodbye-1)
   - [English to Toki Pona](#english-to-toki-pona)
 - [Takeaway](#takeaway)
-  - [Action/Description Duality](#actiondescription-duality)
-  - [Broadness](#broadness)
-  - [Hello and Goodbye](#hello-and-goodbye-2)
+    - [Action/Description Duality](#actiondescription-duality)
+    - [Broadness](#broadness)
+    - [Hello and Goodbye](#hello-and-goodbye-2)
 
 <!-- tocstop -->
 
@@ -498,3 +497,5 @@ Another one of the examples is a sentence, and is the most common way to say goo
 [Previous lesson](./open.html)
 
 [Next lesson](./li.html)
+
+

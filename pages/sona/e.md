@@ -3,28 +3,27 @@ title: Objects with e
 author: gregdan3
 date: 2022-09-09T00:00:00.000Z
 ---
-
 [Check out the video lesson too!](https://youtu.be/ZLcSwYEZmIY)
 
 <!-- toc -->
 
-- [Words to Know](#words-to-know)
-  - [Particles](#particles)
-  - [Content Words](#content-words)
+  - [Words to Know](#words-to-know)
+    - [Particles](#particles)
+    - [Content Words](#content-words)
 - [Overview](#overview)
-  - [Objects and e](#objects-and-e)
-  - [Changing things](#changing-things)
-  - [Not changing things](#not-changing-things)
-  - [Multiple e](#multiple-e)
-  - [Multiple li and multiple e](#multiple-li-and-multiple-e)
+    - [Objects and e](#objects-and-e)
+    - [Changing things](#changing-things)
+    - [Not changing things](#not-changing-things)
+    - [Multiple e](#multiple-e)
+    - [Multiple li and multiple e](#multiple-li-and-multiple-e)
 - [Exercises](#exercises)
   - [Toki Pona to English](#toki-pona-to-english)
     - [Single e](#single-e)
     - [Multiple e](#multiple-e-1)
   - [English to Toki Pona](#english-to-toki-pona)
 - [Takeaway](#takeaway)
-  - [Grammar](#grammar)
-  - [Content Words and Particles](#content-words-and-particles)
+    - [Grammar](#grammar)
+    - [Content Words and Particles](#content-words-and-particles)
 
 <!-- tocstop -->
 
@@ -510,3 +509,5 @@ The list of particles we know has grown to include [e]{.tokipona}! Every other n
 [Previous lesson](./li.html)
 
 [Next lesson](./mod-pi.html)
+
+

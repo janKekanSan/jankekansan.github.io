@@ -1,9 +1,8 @@
 ---
-title: "Context, Comparisons, la"
+title: 'Context, Comparisons, la'
 author: gregdan3
 date: date unknown
 ---
-
 ::: error
 
 This lesson is a work in progress!
@@ -12,13 +11,13 @@ This lesson is a work in progress!
 
 <!-- toc -->
 
-- [Words to Know](#words-to-know)
-  - [Particles](#particles)
-  - [Content Words](#content-words)
+  - [Words to Know](#words-to-know)
+    - [Particles](#particles)
+    - [Content Words](#content-words)
 - [Overview](#overview)
-  - [Intro to la](#intro-to-la)
-  - [Phrases and la](#phrases-and-la)
-  - [Sentences and la](#sentences-and-la)
+    - [Intro to la](#intro-to-la)
+    - [Phrases and la](#phrases-and-la)
+    - [Sentences and la](#sentences-and-la)
 - [Exercises](#exercises)
   - [Toki Pona to English](#toki-pona-to-english)
   - [English to Toki Pona](#english-to-toki-pona)
@@ -263,3 +262,5 @@ but! don't worry much about not getting la yet! it is the most complex part of t
 [Previous lesson](./interjections.html)
 
 [Next lesson](./seme.html)
+
+
