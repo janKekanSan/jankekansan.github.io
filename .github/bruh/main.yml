@@ -1,0 +1,21 @@
+---
+name: deploy
+on:
+  push:
+    branches:
+      - main
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - run: sudo apt-get install -y pandoc htmlmin npm
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 1
+      - run: cd ${{ github.workspace }}
+      - run: npm i
+      - run: make
+      - uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: "${{ github.workspace }}/build"
