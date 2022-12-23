@@ -6,12 +6,13 @@ STATICDIR=static
 PAGES=$(shell find $(PAGEDIR) -type f -name \*.md)
 STATICS=$(shell find $(STATICDIR) -type f)
 TEMPLATE=templates/default.html
+REDIRECT=templates/redirect.html
 
 PAGES_BUILT=$(patsubst $(PAGEDIR)/%.md,$(BUILDDIR)/%.html,$(PAGES))
 STATICS_BUILT=$(patsubst static/%,$(BUILDDIR)/%,$(STATICS))
 LUA_FILTER=rm-colgroup.lua
 
-MD_TO_HTML=pandoc --lua-filter=$(LUA_FILTER) --from=markdown+yaml_metadata_block --template=$(TEMPLATE)
+MD_TO_HTML=pandoc --lua-filter=$(LUA_FILTER) --from=markdown+yaml_metadata_block
 MINIFIER=htmlmin --remove-comments --remove-all-empty-space
 TOC_MAKER=npx markdown-toc --maxdepth 5 --no-stripHeadingTags --indent="  " --bullets="-" -i
 MAPPER=npx markmap --no-open
@@ -27,7 +28,7 @@ clean:
 
 $(BUILDDIR)/lipu/index.html:
 	@mkdir -p $(@D)
-	./blogindex.sh | $(MD_TO_HTML) -o $@
+	./blogindex.sh | $(MD_TO_HTML) --template=$(TEMPLATE) -o $@
 	$(MINIFIER) $@ $@
 
 $(BUILDDIR)/ilo/map.html:
@@ -39,7 +40,17 @@ $(BUILDDIR)/%.html: $(PAGEDIR)/%.md $(TEMPLATE)
 	@mkdir -p $(@D)
 	$(TOC_MAKER) $<
 	$(MD_TO_HTML) \
+		--template=$(TEMPLATE) \
 		--metadata="directory:$(subst pages/,,$<)" \
+		-o $@ $<
+	$(MINIFIER) $@ $@
+
+$(BUILDDIR)/toki-pona/%.html: $(PAGEDIR)/toki-pona/%.md $(REDIRECT)
+	@mkdir -p $(@D)
+	$(MD_TO_HTML) \
+		--template=$(REDIRECT) \
+		--metadata="directory:$(subst $(PAGEDIR)/,,$<)" \
+		--metadata="destination:$(patsubst $(PAGEDIR)/toki-pona/%.md,/%.html,$<)" \
 		-o $@ $<
 	$(MINIFIER) $@ $@
 
