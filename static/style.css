@@ -198,3 +198,39 @@ details p {
   background: var(--error-bg);
   color: var(--error-fg);
 }
+
+@font-face {
+  font-family: sp;
+  src: url("/ssk.ttf");
+}
+.tokipona {
+  font-family: sp;
+  font-size: 1.75em;
+}
+.tokipona::after {
+  content: "​";
+  /* fix line-end ligature on firefox */
+}
+.tokipona blockquote p {
+  font-size: 1.2em;
+  padding: 1.5%;
+}
+.tpdefinitions table tbody tr td:nth-child(1) {
+  font-family: sp;
+  font-size: 2.25em;
+  border: 1px solid var(--prim-ac);
+  text-align: center;
+}
+
+button.sptoggle {
+  position: fixed;
+  bottom: 2%;
+  right: 2%;
+  font-size: 0.8em;
+}
+@media (pointer: none), (pointer: coarse) {
+  button {
+    bottom: 95.5%;
+    right: 3%;
+  }
+}

@@ -1,5 +1,5 @@
 #!/bin/bash
-BLOGDIR=pages/blog
+BLOGDIR=pages/lipu
 
 POSTS=$(find ${BLOGDIR}/*.md)
 

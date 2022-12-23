@@ -1,18 +1,41 @@
 ---
-title: kama pona!
+title: Toki Pona
 author: gregdan3
-date: 2022-12-22T00:00:00.000Z
+date: 2022-07-02T00:00:00.000Z
 ---
+
+<!-- toc -->
+
+- [kama sona (learning)](#kama-sona-learning)
+- [namako (extra)](#namako-extra)
+- [nasin (methods)](#nasin-methods)
+- [mi (myself)](#mi-myself)
+- [ijo ante (other things)](#ijo-ante-other-things)
+- [lipu (pages)](#lipu-pages)
+  - [kalama (sound)](#kalama-sound)
+  - [sitelen (writing)](#sitelen-writing)
+  - [ante toki (translation)](#ante-toki-translation)
+- [ilo (tools)](#ilo-tools)
+
+<!-- tocstop -->
+
+---
+
 ### kama sona (learning)
 
-**kama sona** is my Toki Pona lesson series! There were many gaps in the existing lessons that I wanted to cover, like context-driven examples, sitelen pona, interjections, and more. Now we're here, and my series is almost done. Each lesson is the chapter of a book! They are long and detailed. Each one has important info to absorb. Be patient, and learn well!
+kama sona is my Toki Pona lesson series, with written and video lessons. It is based on many other Toki Pona lessons, but with important changes to lesson order, terminology, and design. These changes reduce misunderstandings, provide helpful context, and give more example material than any other lesson series I know! Reading an entire lesson and doing all of its exercises will give you enough understanding of its topic to practice right away.
+
+Start [a memrise
+course](https://app.memrise.com/course/5969373/essential-toki-pona-vocabulary/)
+or [memorizing game](https://jamesmoulang.itch.io/nasin-sona-musi)
+at the same time as you start these lessons, to help you memorize all the words.
+Be patient too; Toki Pona is easy to start, but like any language, it takes time to understand!
 
 **lipu sona (Lesson pages)**
 
 ::: info
 
-Start [a memrise course](https://app.memrise.com/course/5969373/essential-toki-pona-vocabulary/)
-or [memorizing game](https://jamesmoulang.itch.io/nasin-sona-musi) to help memorize the words!
+Each lesson is the chapter of a book! They are long and detailed. Each one has important info to absorb.
 
 :::
 
@@ -30,11 +53,20 @@ or [memorizing game](https://jamesmoulang.itch.io/nasin-sona-musi) to help memor
 - [[WIP] And Another Thing...](./sona/bits.html)
 - [[WIP] Finale](./sona/pini.html)
 
+Here are some others' lessons too:
+
 **pana sona pi jan ante (Others' Teaching)**
 
 - [Toki Pona: The Language of Good, by jan Sonja](https://www.amazon.com/dp/0978292308/) (ebook or paperback)
 - [lipu sona, by soweli Tesa](https://sowelitesa.kittycat.homes/lipu-sona/) (webpage)
 - [lipu sona pona, by jan Lentan](https://lipu-sona.pona.la/) (webpage)
+
+<!-- - [Toki Pona Lessons, by jan Misali](https://www.youtube.com/watch?v=2EZihKCB9iw&list=PLuYLhuXt4HrQwIDV7FBkA8zApw0pnEJrX) (youtube, in progress) -->
+<!-- - [Toki Pona in a fortnight, by astrodonunt](https://www.youtube.com/watch?v=qzWrG9iM9ac&list=PLOedATW-HKZO9BYoXRiHkX_SWi7VKsCKB) (youtube) -->
+<!-- - [12 days of sona pi toki pona, by jan Misali](https://www.youtube.com/watch?v=4L-dvvng4Zc&list=PLuYLhuXt4HrQIv3xnDxZqRaLfmxB2U5rJ) -->
+<!-- - [Toki Pona Lessons, by jan Lope](https://jan-lope.github.io/Toki_Pona_lessons_English/) -->
+<!-- - [76 Illustrated Lessons, unknown author](https://aiki.pbworks.com/f/tp+in+76+lessons+English.pdf) -->
+<!-- - [Toki Pona, by jan Pije](https://en.wikibooks.org/wiki/Updated_jan_Pije%27s_lessons) -->
 
 ### namako (extra)
 
@@ -44,7 +76,7 @@ I'm adding new lessons all the time! Check back once in a while.
 
 :::
 
-**namako** is a collection of lessons that work with [kama sona](#kama-sona), giving more examples,
+namako is a collection of lessons to add to kama sona with more examples,
 better understanding, and new ways of thinking about Toki Pona. Importantly,
 all of these lessons focus on how Toki Pona is used commonly, teaching a nasin
 that most others will understand.
@@ -52,12 +84,13 @@ that most others will understand.
 <!-- - Grammar -->
   <!-- - [Multiple _li_ with sina with mi](./sona/multiple-li.html) -->
   <!-- - [_la_ and prepositions](./sona/la-prepositions.html) -->
-  <!-- - [_ona_ and _ni_](./sona/ona-ni.html) -->
 <!-- - Modifiers -->
   <!-- - [Proper nouns](./sona/proper-nouns.html) -->
   <!-- - [Colors and _kule_](./sona/kule.html) -->
   <!-- - [Negations with _ala_](./sona/ala.html) -->
   <!-- - [Numbers and _nanpa_](./sona/nanpa.html) -->
+
+<!-- - [_ona_ and _ni_](./sona/ona-ni.html) -->
 
 - **Specific Words**
   - [pali doesn't (usually) mean "do"](./sona/palint.html)
@@ -67,8 +100,8 @@ that most others will understand.
   <!-- - [Knowing Place](./sona/location.html) -->
   - [kepeken vs kepeken e](./sona/kepeken.html)
 - **Themed Lessons**
-  - [Instead of Phatic Phrases](./sona/phatic-phrases.html)
   - [Conlang Critic opener](./sona/conlang-critic.html)
+  - [Instead of Phatic Phrases](./sona/phatic-phrases.html)
     <!-- - [Advanced Comparisons](./sona/comparisons.html) -->
     <!-- - [Concepts and Translation](./sona/ante-toki.html) -->
     <!-- - [Modern Toki Pona vs. pu](./sona/modern-tp.html) -->
@@ -108,18 +141,22 @@ all of them are beneficial to your understanding of Toki Pona.
 
 ### mi (myself)
 
-My more opinionated takes on Toki Pona!
+My thoughts and feelings on Toki Pona. Sometimes insight, sometimes my nasin, sometimes meta!
 Anything labeled "scrap" is pulled from a conversation and is mostly unedited.
 
+- **meta**
+  - [Growing Toki Pona](./mi/growing-toki-pona.html)
+  - [How I Feel About Toki Pona](./mi/open.html)
+- **musi (fun)**
+  - [Toki Pona is a weird name!](./mi/toki-pona-is-a-weird-name.html)
 - **sona (understanding)**
   - [Context is Always There (scrap)](./mi/context-always.html)
   - [Critter Categories (scrap)](./mi/critters.html)
   - [Predicate is better than Verb (scrap)](./mi/predicate-vs-verb.html)
   - [Monsutatesu isn't special (scrap)](./mi/monsutatesu-isnt-special.html)
 
-<!-- - [misikeke li pona](./mi/misikeke.html) -->
-<!-- - [linluwi li pona](./mi/linluwi-li-pona.html) -->
-<!-- - [epiku li ike](./mi/epikunt.html) -->
+<!-- - [misikeke li pona](./sona/misikeke.html) -->
+<!-- - [epiku li ike](./sona/epikunt.html) -->
 
 ### ijo ante (other things)
 
@@ -143,6 +180,27 @@ Anything labeled "scrap" is pulled from a conversation and is mostly unedited.
   - [jan Usawi](https://www.youtube.com/@janusawi8794) (music!)
   - [lipu Wikipesija](https://wikipesija.org/wiki/lipu_open) (wiki)
 
+## lipu (pages)
+
+I've translated a few stories, books, and songs into Toki Pona. I've also written some things of my own. Check it all out!
+
+#### kalama (sound)
+
+- [Goodnight Moon - "mun o pimeja pona"](./lipu/mun-o-pimeja-pona.html) - **[o kute pona!](https://www.youtube.com/watch?v=Q2UIw8PZsZ8)**
+- [It's okay to not like things - "sina ken wile ala ijo"](./lipu/sina-ken-wile-ala-ijo.html) - **[o kute pona!](https://www.youtube.com/watch?v=iKry3P51SVI)**
+
+#### sitelen (writing)
+
+- [College Mao - "musi lawa"](./lipu/musi-lawa.html)
+- [Knowledge of Very Tiny Things - "sona pi ijo lili a"](./lipu/sona-pi-ijo-lili-a.html)
+- [Knowledge of Light Travel - "sona pi tawa suno"](./lipu/sona-pi-tawa-suno.html)
+
+#### ante toki (translation)
+
+- [The Princess on the Pea - "jan lawa meli lon kili lili"](./lipu/jan-lawa-meli-lon-kili-lili.html)
+- [The Fisherman and his Wife - "jan pi alasa kala en jan olin ona"](./lipu/jan-pi-alasa-kala-en-jan-olin-ona.html)
+- [Homeward Bound - "tawa tomo"](./lipu/tawa-tomo.html)
+
 ## ilo (tools)
 
 ::: info
@@ -154,5 +212,3 @@ More tools are coming!
 - [An explorable map of Toki Pona concepts](./ilo/map.html)
   - Most data is from [nimi_pu.txt](http://tokipona.org/nimi_pu.txt) and
     [nimi_pi_pu_ala.txt](http://tokipona.org/nimi_pi_pu_ala.txt)
-
-

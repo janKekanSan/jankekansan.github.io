@@ -1,4 +1,3 @@
-% blogzone
-% gregdan3
+% Blog pi jan Kekan San
+% jan Kekan San
 % date unknown
-

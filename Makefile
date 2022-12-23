@@ -16,28 +16,23 @@ MINIFIER=htmlmin --remove-comments --remove-all-empty-space
 TOC_MAKER=npx markdown-toc --maxdepth 5 --no-stripHeadingTags --indent="  " --bullets="-" -i
 MAPPER=npx markmap --no-open
 
-DEVNAME=gregdan3-website
+DEVNAME=mun-la
 
 .PHONY: all clean dev stopdev
 
-all: $(BUILDDIR)/blog/index.html $(BUILDDIR)/mind-map/index.html $(PAGES_BUILT) $(STATICS_BUILT) 
+all: $(BUILDDIR)/lipu/index.html $(PAGES_BUILT) $(STATICS_BUILT)
 
 clean:
 	rm -rf $(BUILDDIR)/*
 
-$(BUILDDIR)/mind-map/index.html:
-	@mkdir -p $(@D)
-	./mapindex.sh | $(MD_TO_HTML) -o $@
-	$(MINIFIER) $@ $@
-
-$(BUILDDIR)/blog/index.html: 
+$(BUILDDIR)/lipu/index.html:
 	@mkdir -p $(@D)
 	./blogindex.sh | $(MD_TO_HTML) -o $@
 	$(MINIFIER) $@ $@
 
-$(BUILDDIR)/toki-pona/ilo/map.html:
+$(BUILDDIR)/ilo/map.html:
 	@mkdir -p $(@D)
-	$(MAPPER) pages/toki-pona/ilo/map.md -o $@
+	$(MAPPER) pages/ilo/map.md -o $@
 	$(MINIFIER) $@ $@
 
 $(BUILDDIR)/%.html: $(PAGEDIR)/%.md $(TEMPLATE)
@@ -45,10 +40,7 @@ $(BUILDDIR)/%.html: $(PAGEDIR)/%.md $(TEMPLATE)
 	$(TOC_MAKER) $<
 	$(MD_TO_HTML) \
 		--metadata="directory:$(subst pages/,,$<)" \
-		--metadata="toki-pona:$(shell echo $(@D) | grep -o 'toki-pona')" \
-		--metadata="extra-css:" \
 		-o $@ $<
-	# TODO: dir level metadata instead of... this? for css
 	$(MINIFIER) $@ $@
 
 $(BUILDDIR)/%: $(STATICDIR)/%
