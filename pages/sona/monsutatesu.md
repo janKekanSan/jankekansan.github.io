@@ -21,7 +21,3 @@ I make you afraid!
 </details>
 
 This is weird, right?
-
----
-
-[Back home](/toki-pona/)

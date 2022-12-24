@@ -110,8 +110,3 @@ New speakers ask this question often
 
 isipin
 
----
-
-[Back home](/toki-pona/)
-
-

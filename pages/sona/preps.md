@@ -542,4 +542,3 @@ This applies to every preposition, but understandably, it affects [tawa]{.tokipo
 
 [Next lesson](./o.html)
 
-

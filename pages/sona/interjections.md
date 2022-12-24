@@ -673,4 +673,3 @@ These are useful in conversations, explanations
 
 [Next lesson](./la.html)
 
-

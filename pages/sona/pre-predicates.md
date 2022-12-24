@@ -669,4 +669,3 @@ That said, if any ambiguity or even simple misunderstanding comes up when speaki
 
 [Next lesson](./preps.html)
 
-

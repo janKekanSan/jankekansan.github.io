@@ -17,7 +17,3 @@ If these issues were not enough to consider removing the three from your vocabul
 Most importantly, `meli`, `mije`, and `tonsi` are redundant. If gender is about self-expression, and it is, then _any_ words may be used to express your gender.
 
 I believe `meli`, `mije`, and `tonsi` are important to Toki Pona, and will remain- but I also expect they will be used even less over time.
-
----
-
-[Back home](/toki-pona/)

@@ -220,4 +220,3 @@ Try to pronounce the following words. The pronunciation is in a clip under the s
 
 [Next lesson](./mi-sina.html)
 
-

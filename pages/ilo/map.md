@@ -4,6 +4,7 @@ markmap:
   maxWidth: 200
   embedAssets: false
 ---
+
 - **NOTES**
   - a word under a node is in that semantic space _sometimes_, **not** always
   - most data from [nimi_pu.txt](http://tokipona.org/nimi_pu.txt) and [nimi_pi_pu_ala.txt](http://tokipona.org/nimi_pi_pu_ala.txt)
@@ -2596,5 +2597,4 @@ markmap:
     - attract
     - attach
     - clip
-- [Go back home](/toki-pona/)
-
+- [Go back home](/)

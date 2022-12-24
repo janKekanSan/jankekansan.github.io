@@ -112,7 +112,3 @@ too, until you're no longer thinking about it!
 Also, I recorded the final result. Enjoy!
 
 <audio controls src="/sound/conlangcritic.mp3"> </audio>
-
----
-
-[Back home](/toki-pona/)

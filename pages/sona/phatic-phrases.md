@@ -194,7 +194,3 @@ You're watching your friend race around a track, going for first place.
 You friend has been lagging just barely behind first or second throughout the race, but toward the end of the race, they get a second wind and manage to pick up their pace just enough to take the win.
 After the race, you rush up to them and say "sina tawa pona a!"
 In context, this phrase is just as much "You moved well!" as "You ran quickly!"
-
----
-
-[Back home](/toki-pona/)

@@ -97,10 +97,7 @@ The previous use gives only the definition which is no longer used.
 
 ---
 
-[Previous lesson](./pini.html)
+[Previous lesson](./bits.html)
 
-[Other lessons](/toki-pona/#namako)
-
-[Back home](/toki-pona/)
-
+[Other lessons](/sona/#namako-extra)
 

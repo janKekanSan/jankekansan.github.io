@@ -56,7 +56,3 @@ There is some fringe use of `kepeken e` in the form of transitive prepositions!
 
 Consider: `mi kepeken ilo e sina`. The core of the sentence is `mi kepeken e sina`, which would mean `I apply using to you`. The original has `kepeken ilo`,
 `using tools`. If this is considered, the sentence now reads `I apply tool-using to you.` In other words, this is a concise way to say `I make you use tools.`
-
----
-
-[Back home](/toki-pona/)

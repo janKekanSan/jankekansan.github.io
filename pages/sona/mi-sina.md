@@ -498,4 +498,3 @@ Another one of the examples is a sentence, and is the most common way to say goo
 
 [Next lesson](./li.html)
 
-

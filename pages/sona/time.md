@@ -13,7 +13,3 @@ tenpo ante
 tenpo sona
 
 tenpo wawa
-
----
-
-[Back home](/sona/)

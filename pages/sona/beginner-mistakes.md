@@ -17,7 +17,3 @@ takes "ken la" to be an _interjection_ meaning "maybe", which it is not!
 particle. If nothing follows it, the "la" doesn't mean anything.
 
 To say "maybe" in response to a statement or question, "ken" is all you need.
-
----
-
-[Back home](/toki-pona/)

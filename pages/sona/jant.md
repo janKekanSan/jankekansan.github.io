@@ -13,7 +13,3 @@ To this end, any of Toki Pona's content words are viable head nouns. I have pers
 ## No Head Noun
 
 ## Only Head Nouns
-
----
-
-[Back home](/toki-pona/)

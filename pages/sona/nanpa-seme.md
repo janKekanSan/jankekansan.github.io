@@ -21,7 +21,3 @@ nanpa seli
 nanpa wawa
 
 nanpa pona
-
----
-
-[Back home](/toki-pona/)

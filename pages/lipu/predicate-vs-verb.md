@@ -1,19 +1,8 @@
----
-title: Predicate is better than Verb
-author: gregdan3
-date: 2022-07-30T00:00:00.000Z
----
-
-
-<!-- toc -->
-
-
-
-<!-- tocstop -->
+% Predicate is better than Verb (scrap)
+% gregdan3
+% 2022-10-13T00:00:00.000Z
 
 [in response to an analysis of Toki Pona's grammar, calling the li-phrase a "verb"]
-
-<!-- ## Defense -->
 
 So first, I had to look up a couple of these words! That was a fun time, a a a. I'll be up front in saying, I'm not strongly familiar with how formal analysis of grammar works.
 
@@ -43,15 +32,3 @@ Notes about usage:
 - including the dash in pre-pred helps recognizability if you need it
 - When speaking aloud and writing, pre-pred and prep/preposition are easy to distinguish. My learners in VR have had no trouble thus far with the updated terminology
 - Not all of our learners are linguists, or even have a useful understanding of grammar terminology. This can work for us (we provide new terms and their definitions) or against us (we are unable to use these terms and have to rely on even more broad terms)
-
-<!-- ## Usage -->
-
-<!-- ## Confusions -->
-
-<!-- The term "predicate" comes with baggage of its own that I am conscious of, and reference in notes during my lesson. -->
-
----
-
-[Back home](/toki-pona/)
-
-

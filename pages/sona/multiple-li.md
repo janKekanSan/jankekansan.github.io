@@ -17,7 +17,3 @@ Secondary format, sometimes simultaneous with above: "mi [modifier] li [action]"
 always use multiple sentences, so mi/sina never take multiple subjects
 
 never do mi [action] li action
-
----
-
-[Back home](/toki-pona/)

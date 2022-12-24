@@ -199,6 +199,26 @@ details p {
   color: var(--error-fg);
 }
 
+.blogentry {
+  padding: 0em;
+  margin: 0.5em;
+  border-inline-start: 0.25em solid var(--prim-ac);
+  background: var(--sec-bg);
+  /* border-inline-start: 0.25em solid gold; */
+  /* background: lightyellow; */
+}
+.bloglink {
+  padding-inline: 1em;
+  font-weight: bold;
+}
+.blogdetails {
+  margin: 1.5em;
+  padding: 0.3em;
+  padding-inline: 0.5em;
+  /* border-inline-start: 0.25em solid var(--prim-ac); */
+  /* background: var(--sec-bg); */
+}
+
 @font-face {
   font-family: sp;
   src: url("/ssk.ttf");

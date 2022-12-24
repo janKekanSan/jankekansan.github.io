@@ -263,4 +263,3 @@ but! don't worry much about not getting la yet! it is the most complex part of t
 
 [Next lesson](./seme.html)
 
-

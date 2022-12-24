@@ -504,4 +504,3 @@ You can see this in English too: a blue book is a kind of book, and a deep under
 
 [Next lesson](./pre-predicates.html)
 
-

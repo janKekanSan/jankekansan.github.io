@@ -156,4 +156,3 @@ This lesson is a work in progress!
 
 [Next lesson](./bits.html)
 
-

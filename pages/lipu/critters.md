@@ -1,15 +1,6 @@
----
-title: Critter Categories
-author: gregdan3
-date: 2022-09-24T00:00:00.000Z
----
-
-
-<!-- toc -->
-
-
-
-<!-- tocstop -->
+% Critter Categories (scrap)
+% gregdan3
+% 2022-09-24T00:00:00.000Z
 
 soweli is not like animal in English- it doesn't refer to any kind of animal, just to a collection of creatures with sufficiently similar traits (mammals + marsupials being a large majority of that)
 
@@ -48,9 +39,3 @@ Again, feeling is important.
 That's my experience, yes- I strive to consider the meanings of words to my conversational partner, and this lets me better understand them and them better understand me.
 
 Fwiw, I think this applies just as much to English too- we just don't think about it as often. Maybe because the definitions of English words are more specific, so we assume others are operating on the same specific definition? And that is correct often enough to not come up
-
----
-
-[Back home](/toki-pona/)
-
-

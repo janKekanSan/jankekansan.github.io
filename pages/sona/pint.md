@@ -34,7 +34,3 @@ mi tawa tomo suli. tomo la mi kama wawa
 </details>
 
 Here, the adjectives behind `pi` now modify something other than the subject- they modify the object of a preposition. This can also easily be broken up, with a separate sentence describing the head of the prepositional object, a `tomo`. However, there is a purpose to the `kama wawa` that actually goes back to applying to the subject! This version of the statement is even more clear as to what the tomo is for, and what you'll do when you get there.
-
----
-
-[Back home](/toki-pona/)

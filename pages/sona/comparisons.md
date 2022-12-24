@@ -27,7 +27,3 @@ lifetimes, civilizations
 poka, weka
 
 nearby, far away
-
----
-
-[Back home](/toki-pona/)

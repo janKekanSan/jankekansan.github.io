@@ -609,4 +609,3 @@ Now that we've learned the word [sitelen]{.tokipona}, here's a fun side note: To
 
 [Next lesson](./interjections.html)
 
-

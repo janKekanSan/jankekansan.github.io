@@ -8,7 +8,3 @@
 - large jo: to hold, to have inherently, or to possess
 
 "experiential tie" jo is just a more philosophically-motivated understanding of jo, and is likely used by many (even unintentionally)
-
----
-
-[Back home](/toki-pona/)
