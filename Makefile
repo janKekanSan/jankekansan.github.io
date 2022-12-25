@@ -6,7 +6,6 @@ STATICDIR=static
 PAGES=$(shell find $(PAGEDIR) -type f -name \*.md)
 STATICS=$(shell find $(STATICDIR) -type f)
 TEMPLATE=templates/default.html
-REDIRECT=templates/redirect.html
 
 PAGES_BUILT=$(patsubst $(PAGEDIR)/%.md,$(BUILDDIR)/%.html,$(PAGES))
 STATICS_BUILT=$(patsubst static/%,$(BUILDDIR)/%,$(STATICS))
@@ -42,15 +41,6 @@ $(BUILDDIR)/%.html: $(PAGEDIR)/%.md $(TEMPLATE)
 	$(MD_TO_HTML) \
 		--template=$(TEMPLATE) \
 		--metadata="directory:$(subst pages/,,$<)" \
-		-o $@ $<
-	$(MINIFIER) $@ $@
-
-$(BUILDDIR)/toki-pona/%.html: $(PAGEDIR)/toki-pona/%.md $(REDIRECT)
-	@mkdir -p $(@D)
-	$(MD_TO_HTML) \
-		--template=$(REDIRECT) \
-		--metadata="directory:$(subst $(PAGEDIR)/,,$<)" \
-		--metadata="destination:$(patsubst $(PAGEDIR)/toki-pona/%.md,/%.html,$<)" \
 		-o $@ $<
 	$(MINIFIER) $@ $@
 

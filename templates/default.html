@@ -19,6 +19,9 @@
       property="og:description"
       content="Learn Toki Pona, because it's fun and free!"
     />
+    $if(destination)$
+    <meta http-equiv="refresh" content="0;url=$destination$" />
+    $endif$
     <title>mun! - $pagetitle$</title>
     <link href="https://mun.la/" rel="canonical" />
     <link href="/style.css" rel="stylesheet" type="text/css" />
