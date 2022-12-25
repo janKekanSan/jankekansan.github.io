@@ -76,13 +76,7 @@ This lesson is a big collection of quickly explained but unrelated ideas, to fil
 
 #### nasin pona
 
-::: info
-
-Toki Pona has a way to use names, but try _not_ using them. You'll learn a lot!
-
-:::
-
-In Toki Pona, you can refer to things by their name. To do this, you start with describing the thing. What kind of thing is this? Languages are `toki`, games are `musi`, and people are usually `jan`! Then you can use the name right after, like a modifier.
+In Toki Pona, you can refer to things by their name. To do this, you start with describing the thing. What kind of thing is this? Languages are [toki]{.tokipona}, games are [musi]{.tokipona}, and people are usually [jan]{.tokipona}! Then you can use the name right after, like a modifier.
 
 <details><summary> mi lon ma Kanse! </summary>
 
@@ -98,7 +92,15 @@ I'm in France!
 
 </details>
 
-In [sitelen pona]{.tokipona}, proper names are written in a box, then spelled by reading the first letter of each symbol in the box. Here we spell out "Kanse," which is what France is called in Toki Pona!
+In [sitelen pona]{.tokipona}, proper names are written in a box, then spelled by reading the first letter of each symbol in the box. Here we spell out **Kanse**, which is what France is called in Toki Pona!
+
+Here's a quick exchange between two people who have newly met!
+
+> [mi jan [kepeken ilo mute ike]]{.tokipona}!
+>
+> > [nimi sina li suwi! mi jan [alasa jan ante]]{.tokipona}!
+
+The first speaker's name is **Kimi**, and the second is **Aja**!
 
 ::: info
 
@@ -141,7 +143,11 @@ Finally, here's somebody named **Kawalo** introducing themselves, and somebody n
 >
 > > [toki a, jan [kala· walo:] o! mi jan [sewi· tawa·] [lukin··]]{.tokipona}
 
-Names aren't strict things in Toki Pona. Choose a name you love! And if you can describe something without its name, try it for practice!
+---
+
+No matter how you write them, names aren't set in stone in Toki Pona. Different speaker will use somewhat different names for the same places and things at the same time, and that's okay, the same way describing the same thing two different ways is okay!
+
+For your own name, just pick something you love!
 
 ### Numbers
 
@@ -305,7 +311,7 @@ The hunter is sleeping in their cabin or sleeping bag.
 
 </details>
 
-[anu]{.tokipona} can join any number of phrases, so it doesn't stop there!
+[anu]{.tokipona} can join any number of phrases, so it doesn't stop there! You could use this to list out a bunch of possibilities. Obviously, fewer is better for clarity!
 
 ## Exercises
 
