@@ -145,7 +145,7 @@ Finally, here's somebody named **Kawalo** introducing themselves, and somebody n
 
 ---
 
-No matter how you write them, names aren't set in stone in Toki Pona. Different speaker will use somewhat different names for the same places and things at the same time, and that's okay, the same way describing the same thing two different ways is okay!
+No matter how you write them, names aren't set in stone in Toki Pona. Different speakers will use somewhat different names for the same places and things, and that's okay! It's the same as describing the same thing two different ways- something we do in Toki Pona often!
 
 For your own name, just pick something you love!
 
@@ -242,6 +242,8 @@ There are two hundred and one (201, 100+100+1) people here.
 I've read fifteen (15, 5+5+5) books.
 
 </details>
+
+Of course, this won't let you refer to numbers like _one million_ so easily. But when was the last time a million of something was important to distinguish from "a lot?"
 
 ### kin
 
@@ -420,4 +422,6 @@ The hunter is sleeping in their cabin or sleeping bag.
 [Previous lesson](./seme.html)
 
 [Next lesson](./pini.html)
+
+
 
