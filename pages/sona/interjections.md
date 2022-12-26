@@ -129,7 +129,7 @@ Be happy as you play!
 
 </details>
 
-These two are similar: Do something in a good way! You'll see these used in response to goodbyes.
+These two are similar: Do something in a good way! You could see these used in response to goodbyes, for example, but there are many more with different uses.
 
 <details><summary> [pona tawa sina]{.tokipona} </summary>
 
@@ -141,6 +141,16 @@ Peace be upon you!
 
 This one is also a well-wish, but includes the preposition [tawa]{.tokipona}.
 
+<details><summary> [moli pona]{.tokipona} </summary>
+
+Die well!
+
+Have a good death!
+
+</details>
+
+This one is a bit joking- I use this myself when I beat somebody in a videogame!
+
 You can choose to include [o]{.tokipona} where it makes sense, making these complete sentences while keeping the well-wishing meaning:
 
 > [o tawa pona]{.tokipona}
@@ -149,7 +159,7 @@ You can choose to include [o]{.tokipona} where it makes sense, making these comp
 
 > [pona o tawa sina]{.tokipona}
 
-These versions could be instructions or well wishes. It's all about context!
+These versions could be instructions or well wishes- but they have similar meanings with or without [o]{.tokipona}. It's all about context!
 
 Try lots of different things! Experimenting is key to speaking Toki Pona.
 
@@ -185,9 +195,7 @@ The above is a literal translation, so here is a comparable conversation but wri
 
 Most other interjections are specific words! Their meaning as an interjection comes from what the word normally means. We already saw that [a]{.tokipona} can be used for any feeling, but words like [sona, wawa, musi,]{.tokipona} and others can do specific feelings: Excitement, interest, happiness, fear, anger, sadness, and everything between!
 
-These can also be used to express how you feel about a situation, similar to saying "[ni li]{.tokipona} [word]", or "[pilin mi li]{.tokipona} [word]".
-
-And they can be used to respond in a conversation!
+These can also be used to express how you feel about a situation, similar to saying "[ni li]{.tokipona} [word]", or "[pilin mi li]{.tokipona} [word]". They're great for using in a conversation!
 
 Here's a bunch of common use examples. This is not a complete list, and it doesn't cover every way you could use these words. But it does cover a lot of common uses. Try lots of things!
 
@@ -333,7 +341,7 @@ I lost my textbook. Crap!
 
 ::: info
 
-Many interjections overlap in use! [pona]{.tokipona} and [lon]{.tokipona} can both positively acknowledge a statement. But they're not the same!
+Many interjections overlap in use! [pona]{.tokipona} and [lon]{.tokipona} can both positively acknowledge a statement. Here, speaker two could even say [nasin sona]{.tokipona} instead. But these are all different- they express different things about how the speaker feels!
 
 :::
 
@@ -358,9 +366,10 @@ With the right context, any word can be used as an interjection in Toki Pona, so
 
 ## Exercises
 
+s
 ::: info
 
-Interjections are best understood as part of conversations, so the exercises are different for this lesson. The conversation will be shown above, and the translation will be in a spoiler below.
+Interjections are often part of conversations, so the exercises are different for this lesson. The sentences will be shown above, and the translation will be in a spoiler below.
 
 :::
 
@@ -412,7 +421,7 @@ At work, your friend has been working hard to get forklift certified! They've ta
 
 </details>
 
-You and a friend have had a bet going on: you bet that your sister could learn to do a cartwheel in just a week! Rude that you friend would bet against, huh? After a week though, your sister is still struggling to get her feet off the ground. But you finally catch it on video: she does a full cartwheel! You rush to your friend to deliver the news:
+You and a friend have had a bet going on: you bet that your sister could learn to do a cartwheel in just a week! Rude that your friend would bet against her, huh? After a week though, your sister is still struggling to get her feet off the ground. But you finally catch it on video: she does a full cartwheel! You rush to your friend to deliver the news:
 
 > [ona li ken tawa sike pona!]{.tokipona}
 >
@@ -560,11 +569,11 @@ Your friend invited you over to show off something exciting: they taught their p
 
 1: [mi pana e sona ni: jan li ken pana pona e sona]{.tokipona}
 
-2: [sona]{.tokipona}
+2: [sona]{.tokipona} / [sona pona]{.tokipona}
 
 ::: info
 
-[nasin]{.tokipona} can be used to refer to any
+[nasin sona]{.tokipona} and [nasin]{.tokipona} with other modifiers can be used to refer to specific methods and processes that are clever, effective, or otherwise good! This captures any sort of [nasin]{.tokipona}, such as teaching methods or speaking practices!
 
 :::
 
@@ -656,16 +665,15 @@ The idea of a park being [ma musi]{.tokipona}, or the rain being [telo sewi]{.to
 
 </details>
 
+## Takeaway
+
+There are a variety of ways to speak Toki Pona that aren't complete sentences, and they're enormously useful! [a]{.tokipona} can be used to express anything you can feel, and most every word in Toki Pona can be used as an interjection. There are many ways to express your appreciation and thanks, apologies, or love to others as well. Toki Pona rewards experimentation!
+
 ::: info
 
 By the way, check out [this side lesson about phatic phrases](./phatic-phrases.html)!
 
 :::
-
-## Takeaway
-
-There are a variety of ways to speak Toki Pona that aren't complete sentences! [a]{.tokipona} can be used however you want, there are many ways to say hello or goodbye, and every content word can express a feeling or opinion related to its meaning.
-These are useful in conversations, explanations
 
 ---
 
