@@ -1,7 +1,8 @@
-% [waso lili mi]{.tokipona}
-% jan Kekan San
-% 2021-11-05
-
+---
+title: '\[waso lili mi\]{.tokipona}'
+author: jan Kekan San
+date: 2021-11-05T00:00:00.000Z
+---
 ::: tokipona
 
 # waso lili mi
@@ -67,3 +68,5 @@ tan ni la, mama ona li kama, li awen e ona, li pana e moku tawa ona.
 waso mi li toki e ni: mi wile lape. mi tawa!
 
 :::
+
+

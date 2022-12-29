@@ -1,7 +1,8 @@
-% Toki Pona is a weird name!
-% gregdan3
-% 2021-08-10
-
+---
+title: Toki Pona is a weird name!
+author: jan Kekan San
+date: 2021-08-10T00:00:00.000Z
+---
 ### I spend paragraphs of your time to tell bad jokes
 
 In Toki Pona, all proper nouns external to the language are adjectives. This
@@ -52,3 +53,7 @@ misinterpret Toki Pona's name, which are all subtly wrong in funny ways.
   into or out of it. The mark of a language is, of course, the ability to
   perfectly represent information in it without altering the original meaning.
   Thus, Toki Pona should be referred to as a kind of "ijo" out of disrespect.
+
+
+
+

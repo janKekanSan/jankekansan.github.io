@@ -1,7 +1,8 @@
-% [sina ken wile ala ijo]{.tokipona}
-% jan Kekan San
-% 2022-06-01
-
+---
+title: '\[sina ken wile ala ijo\]{.tokipona}'
+author: jan Kekan San
+date: 2022-06-01T00:00:00.000Z
+---
 A cute skit from the early internet, now in Toki Pona. [Listen here](https://youtu.be/iKry3P51SVI)!
 
 <!-- cut -->
@@ -37,3 +38,8 @@ Check out the [original video](https://www.youtube.com/watch?v=0la5DBtOVNI)!
 | Don't be a dick about the things you don't like | o ike ala tawa ijo pi wile ala | don't be bad to the things you don't want |
 
 </details>
+
+
+
+
+

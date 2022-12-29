@@ -1,7 +1,8 @@
-% [jan pi alasa kala en jan olin ona]{.tokipona}
-% jan Kekan San
-% 2022-02-28
-
+---
+title: '\[jan pi alasa kala en jan olin ona\]{.tokipona}'
+author: jan Kekan San
+date: 2022-02-28T00:00:00.000Z
+---
 ::: tokipona
 
 mi ante e toki ni tawa toki pona tan [lipu "jan pi alasa kala en jan olin ona"](https://en.wikipedia.org/wiki/The_Fisherman_and_His_Wife)
@@ -235,3 +236,6 @@ sina! jan olin ona li lon tomo lili." ni la, jan pi alasa kala en jan olin ona
 li lon tomo lili lon tenpo ale.
 
 :::
+
+
+

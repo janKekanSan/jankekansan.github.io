@@ -1,7 +1,8 @@
-% How I feel about Toki Pona
-% gregdan3
-% 2021-07-14
-
+---
+title: How I feel about Toki Pona
+author: jan Kekan San
+date: 2021-07-14T00:00:00.000Z
+---
 Toki Pona is an experience. Toki Pona is art. Toki Pona is many things to many
 people. It is one of the most important things in my life. The passion put
 forth by the community is unmatched, and I am thrilled to be a part of this
@@ -26,3 +27,6 @@ languages in my life. None stuck until Toki Pona. Toki Pona gave me a language
 I could understand, discuss, use, and be excited about. But most importantly,
 Toki Pona gave me a bridge to learning other languages and a deeper
 understanding of my communication that I would never have had without it.
+
+
+

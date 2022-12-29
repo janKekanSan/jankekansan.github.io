@@ -1,7 +1,8 @@
-% [jan lawa meli lon kili lili]{.tokipona}
-% jan Kekan San
-% 2022-01-15
-
+---
+title: '\[jan lawa meli lon kili lili\]{.tokipona}'
+author: jan Kekan San
+date: 2022-01-15T00:00:00.000Z
+---
 ::: tokipona
 
 mi ante e toki ni tawa toki pona tan [lipu "jan lawa meli lon kili lili"](https://en.wikipedia.org/wiki/The_Princess_and_the_Pea)
@@ -71,3 +72,7 @@ kin la, ona li pana e kili lili ni tawa tomo pi sona majuna.
 jan li lanpan ala, li moku ala la, sina ken lukin e kili lili lon tomo ni!
 
 :::
+
+
+
+

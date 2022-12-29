@@ -1,7 +1,8 @@
-% [jan monsuta loje]{.tokipona}
-% jan Pensa
-% 2022-07-10
-
+---
+title: '\[jan monsuta loje\]{.tokipona}'
+author: jan Pensa
+date: 2022-07-10T00:00:00.000Z
+---
 "The Red Oni who Cried" in Toki Pona, translated by [jan Pensa](https://www.youtube.com/channel/UCo27SyuT3kdd12RCH_4HAgA). [Listen to my dub](https://youtu.be/9VjPV9BpU2I)!
 
 <!-- cut -->
@@ -38,3 +39,6 @@ jan monsuta loje li lukin e lipu ni la ona li pana e telo tan lukin ona li pilin
 jan pona ona pi pona nanpa wan li weka a.
 
 :::
+
+
+

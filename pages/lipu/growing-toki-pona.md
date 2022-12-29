@@ -1,7 +1,8 @@
-% Growing Toki Pona
-% gregdan3
-% 2022-10-29
-
+---
+title: Growing Toki Pona
+author: jan Kekan San
+date: 2022-10-29T00:00:00.000Z
+---
 This is a record of my process for interesting others in learning and speaking Toki Pona!
 
 ## Foreword
@@ -31,3 +32,7 @@ These are ordered by effectiveness I've observed. Start from the top!
 - **Art and Hobbies**: Toki Pona's community responds to work put in, and your work is much more visible because of the small size of the community. If you're a creator, you'll find an audience!
 - **Intellectual**: Toki Pona has few concepts compared to English- part of the fun is figuring out how you'd express an idea, point out an object, etc by only using Toki Pona's ideas!
 - **Philosophical**: Toki Pona's focus on simplicity comes from its creator's want to simplify her thoughts through a troubled time in her life. Learning a process to break down your thoughts into their core components can help you navigate your feelings.
+
+
+
+

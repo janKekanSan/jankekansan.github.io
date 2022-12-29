@@ -1,7 +1,8 @@
-% [tawa tomo]{.tokipona}
-% jan Kekan San
-% 2022-08-27
-
+---
+title: '\[tawa tomo\]{.tokipona}'
+author: jan Kekan San
+date: 2022-08-27T00:00:00.000Z
+---
 ::: tokipona
 
 mi ante e toki ni tawa toki pona tan kalama "tawa tomo"
@@ -95,3 +96,6 @@ Arrangement (not present) by Jay Althouse
 | I'll be homeward bound again.           | mi tawa tomo mi         | I travel to my home                    |
 
 </details>
+
+
+

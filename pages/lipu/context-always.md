@@ -1,7 +1,8 @@
-% Toki Pona Always Has Context (scrap)
-% gregdan3
-% 2022-09-23T00:00:00.000Z
-
+---
+title: Toki Pona Always Has Context (scrap)
+author: jan Kekan San
+date: 2022-09-23T00:00:00.000Z
+---
 my experience of toki pona is that there is an assumption of reasonability to a given statement which context can alter
 Toki Pona doesn't fix number, but when somebody says "mi pana e kili", without more information you'd assume some reasonable volume/quantity of kili that they could hand you. To my experience, it's more likely that somebody will offer me a whole apple than either slices or multiple apples when they say "Want some fruit?"
 This assumption of reasonability is critical to making toki pona usable- it's an argument about averages, rather than a statement about possibility
@@ -14,3 +15,5 @@ Otherwise, the "lili kili" example is good as a counterpoint- I hadn't used lili
 Here's a short version of this:
 Toki Pona words do not mark time or number, but this does not mean their use _is_ arbitrarily large/complex. It means their use _can be_ arbitrarily large/complex.
 Far more often than not, their uses _aren't_ in these extremes. They're average cases with reasonably sized meanings/outcomes, because that's the majority of what we deal with day to day.
+
+

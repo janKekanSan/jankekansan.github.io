@@ -1,7 +1,8 @@
-% [sona pi ijo lili a]{.tokipona}
-% jan Kekan San
-% 2022-09-29
-
+---
+title: '\[sona pi ijo lili a\]{.tokipona}'
+author: jan Kekan San
+date: 2022-09-29T00:00:00.000Z
+---
 I submitted this to lipu tenpo! Scientific article.
 
 <!-- cut -->
@@ -124,3 +125,6 @@ sina pana e kiwen tu tawa supa telo la telo li kama tawa pi sike mute mute.
 kon wawa li tawa lon nasin ken sama sike ni!
 
 :::
+
+
+

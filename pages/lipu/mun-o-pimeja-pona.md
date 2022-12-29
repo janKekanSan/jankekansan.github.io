@@ -1,7 +1,8 @@
-% [mun o pimeja pona]{.tokipona}
-% jan Kekan San
-% 2021-10-20
-
+---
+title: '\[mun o pimeja pona\]{.tokipona}'
+author: jan Kekan San
+date: 2021-10-20T00:00:00.000Z
+---
 "Goodnight Moon" in Toki Pona. [Listen here](https://youtu.be/Q2UIw8PZsZ8)!
 
 <!-- cut -->
@@ -167,3 +168,5 @@ goodnight air
 goodnight noises everywhere
 
 </details>
+
+

@@ -1,7 +1,8 @@
-% Monsutatesu isn't special (scrap)
-% gregdan3
-% 2022-11-03T00:00:00.000Z
-
+---
+title: Monsutatesu isn't special (scrap)
+author: jan Kekan San
+date: 2022-11-03T00:00:00.000Z
+---
 mi monsuta could be I am afraid or I am scary
 
 musi does this too, "entertaining" or "entertained"
@@ -31,3 +32,5 @@ we already collectively distinguish musi (entertaining) from pilin musi (enterta
 relatedly, musi interjection can be interpreted either/both ways and still be correct bc of the subject you interpret to be taking musi ("musi!" -> "This is funny!" / "I am amused!"). context doesn't even need to save the day here! monsuta interjection, if it were used (i haven't heard it) would follow the same pattern ("monsuta!" -> "this is scary!" / "I am afraid!")
 
 and you can still do these without pilin if you really are pilin't, it's just harder
+
+

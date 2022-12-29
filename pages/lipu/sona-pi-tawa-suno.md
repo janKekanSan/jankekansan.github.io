@@ -1,7 +1,8 @@
-% [sona pi tawa suno]{.tokipona}
-% gregdan3
-% 2022-10-29
-
+---
+title: '\[sona pi tawa suno\]{.tokipona}'
+author: jan Kekan San
+date: 2022-10-29T00:00:00.000Z
+---
 I submitted this to lipu tenpo too! Scientific article.
 
 <!-- cut -->
@@ -49,3 +50,6 @@ taso, jan ante li tawa ala la tenpo ona li suli tawa tenpo sina!
 tenpo sina li lili.
 
 :::
+
+
+

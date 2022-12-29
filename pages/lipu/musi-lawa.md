@@ -1,7 +1,8 @@
-% [o toki ala e lawa]{.tokipona}
-% jan Kekan San
-% 2022-09-18
-
+---
+title: '\[o toki ala e lawa\]{.tokipona}'
+author: jan Kekan San
+date: 2022-09-18T00:00:00.000Z
+---
 My favorite card game's rules in Toki Pona.
 
 <!-- cut -->
@@ -179,3 +180,5 @@ toki pakala mute li ken. o lukin:
   - jan li pana e lipu ike. kulupu ona en nanpa ona li ike la ona o pana e lipu pona!
 
 :::
+
+
