@@ -5,9 +5,9 @@ POSTS=$(find ${BLOGDIR}/*.md)
 
 RETURNDATE=""
 
-# date is read from the 3rd %ed line
 function getdate {
-	FILEDATE=$(grep "^%" "$1" | sed '3q;d' | cut -d ' ' -f 2-)
+	FILEDATE=$(sed -n 4p "$1")
+	FILEDATE=${FILEDATE#"date: "}
 	RETURNDATE=$(date -u --date="$FILEDATE" "+%s")
 }
 
@@ -26,8 +26,8 @@ for f in $POSTS; do
 	getdate "$f"
 	MTIME=$RETURNDATE
 
-	TITLE=$(head -n 1 "$f")
-	TITLE=${TITLE#"% "}
+	TITLE=$(sed -n 2p "$f" | sed "s/'//g")
+	TITLE=${TITLE#"title: "}
 
 	OUTPAGE=${f%.md}.html
 	OUTPAGE=${OUTPAGE#"${BLOGDIR}/"}
