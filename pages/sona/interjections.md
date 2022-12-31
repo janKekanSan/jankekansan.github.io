@@ -366,7 +366,6 @@ With the right context, any word can be used as an interjection in Toki Pona, so
 
 ## Exercises
 
-s
 ::: info
 
 Interjections are often part of conversations, so the exercises are different for this lesson. The sentences will be shown above, and the translation will be in a spoiler below.
