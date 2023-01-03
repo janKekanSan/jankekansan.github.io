@@ -5,6 +5,8 @@ date: date unknown
 ---
 [Check out the video lesson too!](https://youtu.be/YjxSaqAZwqk)
 
+<details><summary>**Table of Contents**</summary>
+
 <!-- toc -->
 
   - [Words to Know](#words-to-know)
@@ -34,15 +36,17 @@ date: date unknown
 
 <!-- tocstop -->
 
+</details>
+
 ### Words to Know
 
 #### Particles
 
 ::: tpdefinitions
 
-| Glyph | Word | Use                               |
-| ----- | ---- | --------------------------------- |
-| ala   | ala  | (negates previous word or phrase) |
+| Word                                    | Use                               |
+| --------------------------------------- | --------------------------------- |
+| [ala]{.glyph}<br/>[ala]{.glyphsubtitle} | (negates previous word or phrase) |
 
 :::
 
@@ -50,16 +54,16 @@ date: date unknown
 
 ::: tpdefinitions
 
-| Glyph | Word  | Definition                                 |
-| ----- | ----- | ------------------------------------------ |
-| wile  | wile  | want, need                                 |
-| ken   | ken   | capability, power, permission, possibility |
-| kama  | kama  | summon, arrive, invite                     |
-| awen  | awen  | remain, stay, continue, stop, protect      |
-| sona  | sona  | knowledge, understanding, to know          |
-| alasa | alasa | hunt, seek, search, forage                 |
-| lukin | lukin | eyes, to look                              |
-| ala   | ala   | none, nothing, not, zero                   |
+| Word                                        | Definition                                 |
+| ------------------------------------------- | ------------------------------------------ |
+| [wile]{.glyph}<br/>[wile]{.glyphsubtitle}   | want, need                                 |
+| [ken]{.glyph}<br/>[ken]{.glyphsubtitle}     | capability, power, permission, possibility |
+| [kama]{.glyph}<br/>[kama]{.glyphsubtitle}   | summon, arrive, invite                     |
+| [awen]{.glyph}<br/>[awen]{.glyphsubtitle}   | remain, stay, continue, stop, protect      |
+| [sona]{.glyph}<br/>[sona]{.glyphsubtitle}   | knowledge, understanding, to know          |
+| [alasa]{.glyph}<br/>[alasa]{.glyphsubtitle} | hunt, seek, search, forage                 |
+| [lukin]{.glyph}<br/>[lukin]{.glyphsubtitle} | eyes, to look                              |
+| [ala]{.glyph}<br/>[ala]{.glyphsubtitle}     | none, nothing, not, zero                   |
 
 :::
 
@@ -69,15 +73,15 @@ The word [ala]{.tokipona} is a particle _and_ content word! You'll be able to te
 
 ::: tpdefinitions
 
-| Glyph | Word  | Definition                     |
-| ----- | ----- | ------------------------------ |
-| wile  | wile  | to want, to need               |
-| ken   | ken   | to be able, to have permission |
-| kama  | kama  | to begin, to become            |
-| awen  | awen  | to continue                    |
-| sona  | sona  | to be skilled in               |
-| alasa | alasa | to try                         |
-| lukin | lukin | to try                         |
+| Word                                        | Definition                     |
+| ------------------------------------------- | ------------------------------ |
+| [wile]{.glyph}<br/>[wile]{.glyphsubtitle}   | to want, to need               |
+| [ken]{.glyph}<br/>[ken]{.glyphsubtitle}     | to be able, to have permission |
+| [kama]{.glyph}<br/>[kama]{.glyphsubtitle}   | to begin, to become            |
+| [awen]{.glyph}<br/>[awen]{.glyphsubtitle}   | to continue                    |
+| [sona]{.glyph}<br/>[sona]{.glyphsubtitle}   | to be skilled in               |
+| [alasa]{.glyph}<br/>[alasa]{.glyphsubtitle} | to try                         |
+| [lukin]{.glyph}<br/>[lukin]{.glyphsubtitle} | to try                         |
 
 :::
 

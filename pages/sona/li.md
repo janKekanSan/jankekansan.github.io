@@ -5,6 +5,8 @@ date: 2022-08-16T00:00:00.000Z
 ---
 [Check out the video lesson too!](https://youtu.be/xaYd936H--o)
 
+<details><summary>**Table of Contents**</summary>
+
 <!-- toc -->
 
   - [Words to Know](#words-to-know)
@@ -24,6 +26,8 @@ date: 2022-08-16T00:00:00.000Z
 
 <!-- tocstop -->
 
+</details>
+
 ### Words to Know
 
 All new words will be separated into categories!
@@ -34,31 +38,31 @@ Particles are for grammar. They are used for sentence structure, introducing new
 
 ::: tpdefinitions
 
-| Glyph | Word | Use                                          |
-| ----- | ---- | -------------------------------------------- |
-| li    | li   | (mark a predicate; begin a predicate phrase) |
+| Word                                  | Use                                          |
+| ------------------------------------- | -------------------------------------------- |
+| [li]{.glyph}<br/>[li]{.glyphsubtitle} | (mark a predicate; begin a predicate phrase) |
 
 :::
 
 #### Content Words
 
-Content words have meaning, and can be in both the subject and predicate, plus others we'll see later!
+Content words have meaning, and can be used most places in a sentence- so far, the subject and predicate!
 
 ::: tpdefinitions
 
-| Glyph  | Word   | Definition                                    |
-| ------ | ------ | --------------------------------------------- |
-| kasi   | kasi   | plant, flower, tree, vegetation               |
-| kiwen  | kiwen  | rock, hard, tough, sturdy, durable            |
-| ko     | ko     | dust, goop, clay, paste, squishy thing        |
-| telo   | telo   | liquid, water, fluid                          |
-| kulupu | kulupu | group, collection, nation, community          |
-| jaki   | jaki   | gross, garbage, trash, sick                   |
-| wawa   | wawa   | power, strength, courage, energy, electricity |
-| suwi   | suwi   | sweet, soft, fluffy, cute, fragrant           |
-| nasa   | nasa   | strange, weird, silly, rare                   |
-| seli   | seli   | hot, fire, warm, hot object                   |
-| lete   | lete   | cold, ice, raw, undercooked, cold object      |
+| Word                                          | Definition                                    |
+| --------------------------------------------- | --------------------------------------------- |
+| [kasi]{.glyph}<br/>[kasi]{.glyphsubtitle}     | plant, flower, tree, vegetation               |
+| [kiwen]{.glyph}<br/>[kiwen]{.glyphsubtitle}   | rock, hard, tough, sturdy, durable            |
+| [ko]{.glyph}<br/>[ko]{.glyphsubtitle}         | dust, goop, clay, paste, squishy thing        |
+| [telo]{.glyph}<br/>[telo]{.glyphsubtitle}     | liquid, water, fluid                          |
+| [kulupu]{.glyph}<br/>[kulupu]{.glyphsubtitle} | group, collection, nation, community          |
+| [jaki]{.glyph}<br/>[jaki]{.glyphsubtitle}     | gross, garbage, trash, sick                   |
+| [wawa]{.glyph}<br/>[wawa]{.glyphsubtitle}     | power, strength, courage, energy, electricity |
+| [suwi]{.glyph}<br/>[suwi]{.glyphsubtitle}     | sweet, soft, fluffy, cute, fragrant           |
+| [nasa]{.glyph}<br/>[nasa]{.glyphsubtitle}     | strange, weird, silly, rare                   |
+| [seli]{.glyph}<br/>[seli]{.glyphsubtitle}     | hot, fire, warm, hot object                   |
+| [lete]{.glyph}<br/>[lete]{.glyphsubtitle}     | cold, ice, raw, undercooked, cold object      |
 
 :::
 

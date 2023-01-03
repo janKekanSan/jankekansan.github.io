@@ -153,3 +153,5 @@ And I wanted to help with some of the terminology problems floating around the c
 
 This, and many more things, drove me to create my own series. But most of the credit belongs to the Toki Pona VR community, where I found the most fascinating and excited people to practice with and to teach! They drove me to begin writing down what I knew, to help more discover the language, and to grow the community.
 
+
+

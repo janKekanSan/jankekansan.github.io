@@ -5,6 +5,8 @@ date: date unknown
 ---
 [Check out the video lesson too!](https://youtu.be/J6ThX6dQyCI)
 
+<details><summary>**Table of Contents**</summary>
+
 <!-- toc -->
 
   - [Words to Know](#words-to-know)
@@ -28,16 +30,18 @@ date: date unknown
 
 <!-- tocstop -->
 
+</details>
+
 ### Words to Know
 
 #### Particles
 
 ::: tpdefinitions
 
-| Glyph | Word | Use                                        |
-| ----- | ---- | ------------------------------------------ |
-| pi    | pi   | (groups modifiers into one modifier)       |
-| en    | en   | (mark additional subjects/subject phrases) |
+| Word                                  | Use                                        |
+| ------------------------------------- | ------------------------------------------ |
+| [pi]{.glyph}<br/>[pi]{.glyphsubtitle} | (groups modifiers into one modifier)       |
+| [en]{.glyph}<br/>[en]{.glyphsubtitle} | (mark additional subjects/subject phrases) |
 
 :::
 
@@ -45,19 +49,19 @@ date: date unknown
 
 ::: tpdefinitions
 
-| Glyph  | Word   | Definition                                 |
-| ------ | ------ | ------------------------------------------ |
-| ona    | ona    | he, she, it, they, them, their, themselves |
-| ni     | ni     | this, that                                 |
-| ale    | ale    | every, all, universe, countless            |
-| mute   | mute   | many, multiple, several, very              |
-| suno   | suno   | light, shine, brightness, glow             |
-| kule   | kule   | color, pigment, paint, relating to LGBTQ+  |
-| laso   | laso   | blue, green                                |
-| loje   | loje   | red                                        |
-| jelo   | jelo   | yellow                                     |
-| walo   | walo   | white, pale, desaturated                   |
-| pimeja | pimeja | black, dark, unlit, shaded                 |
+| Word                                          | Definition                                 |
+| --------------------------------------------- | ------------------------------------------ |
+| [ona]{.glyph}<br/>[ona]{.glyphsubtitle}       | he, she, it, they, them, their, themselves |
+| [ni]{.glyph}<br/>[ni]{.glyphsubtitle}         | this, that                                 |
+| [ale]{.glyph}<br/>[ale]{.glyphsubtitle}       | every, all, universe, countless            |
+| [mute]{.glyph}<br/>[mute]{.glyphsubtitle}     | many, multiple, several, very              |
+| [suno]{.glyph}<br/>[suno]{.glyphsubtitle}     | light, shine, brightness, glow             |
+| [kule]{.glyph}<br/>[kule]{.glyphsubtitle}     | color, pigment, paint, relating to LGBTQ+  |
+| [laso]{.glyph}<br/>[laso]{.glyphsubtitle}     | blue, green                                |
+| [loje]{.glyph}<br/>[loje]{.glyphsubtitle}     | red                                        |
+| [jelo]{.glyph}<br/>[jelo]{.glyphsubtitle}     | yellow                                     |
+| [walo]{.glyph}<br/>[walo]{.glyphsubtitle}     | white, pale, desaturated                   |
+| [pimeja]{.glyph}<br/>[pimeja]{.glyphsubtitle} | black, dark, unlit, shaded                 |
 
 :::
 

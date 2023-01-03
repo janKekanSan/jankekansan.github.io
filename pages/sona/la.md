@@ -9,6 +9,10 @@ This lesson is a work in progress!
 
 :::
 
+Video lesson still to come!
+
+<details><summary>**Table of Contents**</summary>
+
 <!-- toc -->
 
   - [Words to Know](#words-to-know)
@@ -25,7 +29,7 @@ This lesson is a work in progress!
 
 <!-- tocstop -->
 
----
+</details>
 
 ### Words to Know
 
@@ -33,9 +37,9 @@ This lesson is a work in progress!
 
 ::: tpdefinitions
 
-| Glyph | Word | Definition                                          |
-| ----- | ---- | --------------------------------------------------- |
-| la    | la   | (between context phrase/sentence and main sentence) |
+| Word                                  | Definition                                          |
+| ------------------------------------- | --------------------------------------------------- |
+| [la]{.glyph}<br/>[la]{.glyphsubtitle} | (between context phrase/sentence and main sentence) |
 
 :::
 
@@ -43,19 +47,19 @@ This lesson is a work in progress!
 
 ::: tpdefinitions
 
-| Glyph | Word  | Definition                                     |
-| ----- | ----- | ---------------------------------------------- |
-| open  | open  | start, begin, enable, open                     |
-| pini  | pini  | finish, stop, disable, close                   |
-| mani  | mani  | money, cash, barterable thing, thing of value  |
-| esun  | esun  | trade, barter, shopping, economy               |
-| len   | len   | cloth, cover, clothing, secret, hidden         |
-| mun   | mun   | moon, star, planet, celestial body             |
-| sin   | sin   | new, fresh, update                             |
-| olin  | olin  | love, respect, affection, emotional connection |
-| kon   | kon   | air, ghost, spirit, unseen agent               |
-| linja | linja | line, rope, string, hair, connection           |
-| sike  | sike  | circle, spiral, sphere, cycle                  |
+| Word                                        | Definition                                     |
+| ------------------------------------------- | ---------------------------------------------- |
+| [open]{.glyph}<br/>[open]{.glyphsubtitle}   | start, begin, enable, open                     |
+| [pini]{.glyph}<br/>[pini]{.glyphsubtitle}   | finish, stop, disable, close                   |
+| [mani]{.glyph}<br/>[mani]{.glyphsubtitle}   | money, cash, barterable thing, thing of value  |
+| [esun]{.glyph}<br/>[esun]{.glyphsubtitle}   | trade, barter, shopping, economy               |
+| [len]{.glyph}<br/>[len]{.glyphsubtitle}     | cloth, cover, clothing, secret, hidden         |
+| [mun]{.glyph}<br/>[mun]{.glyphsubtitle}     | moon, star, planet, celestial body             |
+| [sin]{.glyph}<br/>[sin]{.glyphsubtitle}     | new, fresh, update                             |
+| [olin]{.glyph}<br/>[olin]{.glyphsubtitle}   | love, respect, affection, emotional connection |
+| [kon]{.glyph}<br/>[kon]{.glyphsubtitle}     | air, ghost, spirit, unseen agent               |
+| [linja]{.glyph}<br/>[linja]{.glyphsubtitle} | line, rope, string, hair, connection           |
+| [sike]{.glyph}<br/>[sike]{.glyphsubtitle}   | circle, spiral, sphere, cycle                  |
 
 :::
 

@@ -227,6 +227,17 @@ details p {
   font-family: sp;
   font-size: 1.75em;
 }
+.glyph {
+  font-family: sp;
+  font-size: 2.25em;
+  vertical-align: bottom;
+  line-height: 0.5em;
+}
+.glyphsubtitle {
+  font-size: 1em;
+  vertical-align: text-bottom;
+  line-height: 0.5em;
+}
 .tokipona::after {
   content: "​";
   /* fix line-end ligature on firefox */
@@ -236,9 +247,6 @@ details p {
   padding: 1.5%;
 }
 .tpdefinitions table tbody tr td:nth-child(1) {
-  font-family: sp;
-  font-size: 2.25em;
-  border: 1px solid var(--prim-ac);
   text-align: center;
 }
 

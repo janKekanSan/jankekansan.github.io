@@ -5,6 +5,8 @@ date: date unknown
 ---
 [Check out the video lesson too!](https://youtu.be/hbUaLDRmULI)
 
+<details><summary>**Table of Contents**</summary>
+
 <!-- toc -->
 
   - [Words to Know](#words-to-know)
@@ -31,27 +33,29 @@ date: date unknown
 
 <!-- tocstop -->
 
+</details>
+
 ### Words to Know
 
 #### Content Words
 
 ::: tpdefinitions
 
-| Glyph   | Word    | Definition                             |
-| ------- | ------- | -------------------------------------- |
-| tawa    | tawa    | move, travel                           |
-| lon     | lon     | truth, existence, reality, real        |
-| tan     | tan     | cause, origin                          |
-| sama    | sama    | same, similar                          |
-| kepeken | kepeken | usage, the act of using                |
-| ilo     | ilo     | tool, instrument, machine              |
-| tenpo   | tenpo   | time, duration, event, occurrence      |
-| sewi    | sewi    | up, sky, spiritual, godly              |
-| anpa    | anpa    | below, under                           |
-| ma      | ma      | dirt, ground, place, location, country |
-| nasin   | nasin   | road, path, method, way, process       |
-| supa    | supa    | furniture, horizontal surface          |
-| poka    | poka    | beside, side, hip                      |
+| Word                                            | Definition                             |
+| ----------------------------------------------- | -------------------------------------- |
+| [tawa]{.glyph}<br/>[tawa]{.glyphsubtitle}       | move, travel                           |
+| [lon]{.glyph}<br/>[lon]{.glyphsubtitle}         | truth, existence, reality, real        |
+| [tan]{.glyph}<br/>[tan]{.glyphsubtitle}         | cause, origin                          |
+| [sama]{.glyph}<br/>[sama]{.glyphsubtitle}       | same, similar                          |
+| [kepeken]{.glyph}<br/>[kepeken]{.glyphsubtitle} | usage, the act of using                |
+| [ilo]{.glyph}<br/>[ilo]{.glyphsubtitle}         | tool, instrument, machine              |
+| [tenpo]{.glyph}<br/>[tenpo]{.glyphsubtitle}     | time, duration, event, occurrence      |
+| [sewi]{.glyph}<br/>[sewi]{.glyphsubtitle}       | up, sky, spiritual, godly              |
+| [anpa]{.glyph}<br/>[anpa]{.glyphsubtitle}       | below, under                           |
+| [ma]{.glyph}<br/>[ma]{.glyphsubtitle}           | dirt, ground, place, location, country |
+| [nasin]{.glyph}<br/>[nasin]{.glyphsubtitle}     | road, path, method, way, process       |
+| [supa]{.glyph}<br/>[supa]{.glyphsubtitle}       | furniture, horizontal surface          |
+| [poka]{.glyph}<br/>[poka]{.glyphsubtitle}       | beside, side, hip                      |
 
 :::
 
@@ -59,13 +63,13 @@ date: date unknown
 
 ::: tpdefinitions
 
-| Glyph   | Word    | Definition                            |
-| ------- | ------- | ------------------------------------- |
-| tawa    | tawa    | to, travel to, for, in the opinion of |
-| lon     | lon     | in the context of, in the presence of |
-| tan     | tan     | by, from, because of                  |
-| sama    | sama    | similar to                            |
-| kepeken | kepeken | to use                                |
+| Word                                            | Definition                            |
+| ----------------------------------------------- | ------------------------------------- |
+| [tawa]{.glyph}<br/>[tawa]{.glyphsubtitle}       | to, travel to, for, in the opinion of |
+| [lon]{.glyph}<br/>[lon]{.glyphsubtitle}         | in the context of, in the presence of |
+| [tan]{.glyph}<br/>[tan]{.glyphsubtitle}         | by, from, because of                  |
+| [sama]{.glyph}<br/>[sama]{.glyphsubtitle}       | similar to                            |
+| [kepeken]{.glyph}<br/>[kepeken]{.glyphsubtitle} | to use                                |
 
 :::
 

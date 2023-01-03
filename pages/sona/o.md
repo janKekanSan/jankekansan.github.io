@@ -5,6 +5,8 @@ date: date unknown
 ---
 [Check out the video lesson too!](https://youtu.be/lf3lDjIWiYI)
 
+<details><summary>**Table of Contents**</summary>
+
 <!-- toc -->
 
   - [Words to Know](#words-to-know)
@@ -32,16 +34,18 @@ date: date unknown
 
 <!-- tocstop -->
 
+</details>
+
 ### Words to Know
 
 #### Particles
 
 ::: tpdefinitions
 
-| Glyph | Word | Definition                      |
-| ----- | ---- | ------------------------------- |
-| o     | o    | (replaces li; command, require) |
-| taso  | taso | (but, however)                  |
+| Word                                      | Definition                      |
+| ----------------------------------------- | ------------------------------- |
+| [o]{.glyph}<br/>[o]{.glyphsubtitle}       | (replaces li; command, require) |
+| [taso]{.glyph}<br/>[taso]{.glyphsubtitle} | (but, however)                  |
 
 :::
 
@@ -49,19 +53,19 @@ date: date unknown
 
 ::: tpdefinitions
 
-| Glyph   | Word    | Definition                              |
-| ------- | ------- | --------------------------------------- |
-| taso    | taso    | only, exclusively, just                 |
-| tawa    | tawa    | move, travel                            |
-| utala   | utala   | fight, battle, competition, compete     |
-| weka    | weka    | remove, away, absent                    |
-| sitelen | sitelen | writing, drawing, art, painting, script |
-| moli    | moli    | die, kill, death                        |
-| tomo    | tomo    | home, room, building                    |
-| poki    | poki    | container, bag, box                     |
-| palisa  | palisa  | stick, rod, branch                      |
-| kili    | kili    | fruit, vegetable                        |
-| pan     | pan     | bread, wheat, pasta, carbs              |
+| Word                                            | Definition                              |
+| ----------------------------------------------- | --------------------------------------- |
+| [taso]{.glyph}<br/>[taso]{.glyphsubtitle}       | only, exclusively, just                 |
+| [tawa]{.glyph}<br/>[tawa]{.glyphsubtitle}       | move, travel                            |
+| [utala]{.glyph}<br/>[utala]{.glyphsubtitle}     | fight, battle, competition, compete     |
+| [weka]{.glyph}<br/>[weka]{.glyphsubtitle}       | remove, away, absent                    |
+| [sitelen]{.glyph}<br/>[sitelen]{.glyphsubtitle} | writing, drawing, art, painting, script |
+| [moli]{.glyph}<br/>[moli]{.glyphsubtitle}       | die, kill, death                        |
+| [tomo]{.glyph}<br/>[tomo]{.glyphsubtitle}       | home, room, building                    |
+| [poki]{.glyph}<br/>[poki]{.glyphsubtitle}       | container, bag, box                     |
+| [palisa]{.glyph}<br/>[palisa]{.glyphsubtitle}   | stick, rod, branch                      |
+| [kili]{.glyph}<br/>[kili]{.glyphsubtitle}       | fruit, vegetable                        |
+| [pan]{.glyph}<br/>[pan]{.glyphsubtitle}         | bread, wheat, pasta, carbs              |
 
 :::
 
@@ -69,13 +73,13 @@ date: date unknown
 
 ::: tpdefinitions
 
-| Glyph  | Word   | Definition                                  |
-| ------ | ------ | ------------------------------------------- |
-| soweli | soweli | animal, land creature                       |
-| waso   | waso   | bird, flying creature                       |
-| akesi  | akesi  | reptile, amphibian, scaly/leathery creature |
-| pipi   | pipi   | bug, insect, spider, exo-skeletal creature  |
-| kala   | kala   | fish, swimming creature                     |
+| Word   | Definition                                  |
+| ------ | ------------------------------------------- |
+| soweli | animal, land creature                       |
+| waso   | bird, flying creature                       |
+| akesi  | reptile, amphibian, scaly/leathery creature |
+| pipi   | bug, insect, spider, exo-skeletal creature  |
+| kala   | fish, swimming creature                     |
 
 :::
 

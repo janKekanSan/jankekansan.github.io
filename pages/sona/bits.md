@@ -9,6 +9,8 @@ This lesson is a work in progress!
 
 :::
 
+<details><summary>**Table of Contents**</summary>
+
 <!-- toc -->
 
   - [Words to Know](#words-to-know)
@@ -32,17 +34,19 @@ This lesson is a work in progress!
 
 <!-- tocstop -->
 
+</details>
+
 ### Words to Know
 
 #### Particles
 
 ::: tpdefinitions
 
-| Glyph | Word  | Use                                        |
-| ----- | ----- | ------------------------------------------ |
-| anu   | anu   | (connect phrases with 'or')                |
-| kin   | kin   | (indicate something is additional, extra)  |
-| nanpa | nanpa | (group modifiers into an ordinal, ranking) |
+| Word                                        | Use                                        |
+| ------------------------------------------- | ------------------------------------------ |
+| [anu]{.glyph}<br/>[anu]{.glyphsubtitle}     | (connect phrases with 'or')                |
+| [kin]{.glyph}<br/>[kin]{.glyphsubtitle}     | (indicate something is additional, extra)  |
+| [nanpa]{.glyph}<br/>[nanpa]{.glyphsubtitle} | (group modifiers into an ordinal, ranking) |
 
 :::
 
@@ -50,21 +54,21 @@ This lesson is a work in progress!
 
 ::: tpdefinitions
 
-| Glyph   | Word    | Definition                                |
-| ------- | ------- | ----------------------------------------- |
-| kipisi  | kipisi  | split, cut, divide                        |
-| leko    | leko    | square, cube, corner                      |
-| meli    | meli    | girl, woman, female                       |
-| mije    | mije    | boy, man, male                            |
-| monsuta | monsuta | fear, fright, scary, frightening, anxiety |
-| namako  | namako  | extra, ornamental, spicy                  |
-| soko    | soko    | mushroom, fungus                          |
-| tonsi   | tonsi   | transgender, non-binary                   |
-| unpa    | unpa    | sex, sexual relations                     |
-| wan     | wan     | one, unite, join, group                   |
-| tu      | tu      | two, split, divide, cut                   |
-| nanpa   | nanpa   | number                                    |
-| nimi    | nimi    | word, name                                |
+| Word                                            | Definition                                |
+| ----------------------------------------------- | ----------------------------------------- |
+| [kipisi]{.glyph}<br/>[kipisi]{.glyphsubtitle}   | split, cut, divide                        |
+| [leko]{.glyph}<br/>[leko]{.glyphsubtitle}       | square, cube, corner                      |
+| [meli]{.glyph}<br/>[meli]{.glyphsubtitle}       | girl, woman, female                       |
+| [mije]{.glyph}<br/>[mije]{.glyphsubtitle}       | boy, man, male                            |
+| [monsuta]{.glyph}<br/>[monsuta]{.glyphsubtitle} | fear, fright, scary, frightening, anxiety |
+| [namako]{.glyph}<br/>[namako]{.glyphsubtitle}   | extra, ornamental, spicy                  |
+| [soko]{.glyph}<br/>[soko]{.glyphsubtitle}       | mushroom, fungus                          |
+| [tonsi]{.glyph}<br/>[tonsi]{.glyphsubtitle}     | transgender, non-binary                   |
+| [unpa]{.glyph}<br/>[unpa]{.glyphsubtitle}       | sex, sexual relations                     |
+| [wan]{.glyph}<br/>[wan]{.glyphsubtitle}         | one, unite, join, group                   |
+| [tu]{.glyph}<br/>[tu]{.glyphsubtitle}           | two, split, divide, cut                   |
+| [nanpa]{.glyph}<br/>[nanpa]{.glyphsubtitle}     | number                                    |
+| [nimi]{.glyph}<br/>[nimi]{.glyphsubtitle}       | word, name                                |
 
 :::
 
@@ -211,15 +215,13 @@ Counting with this system works exactly as before, except you have bigger number
 
 ::: tpdefinitions
 
-<!-- this is a hack lmao -->
-
-| Glyph | Word | Number            |
-| ----- | ---- | ----------------- |
-| wan   | wan  | One (1)           |
-| tu    | tu   | Two (2)           |
-| luka  | luka | Five (5)          |
-| mute  | mute | Twenty (20)       |
-| ale   | ale  | One Hundred (100) |
+| Word                                      | Number            |
+| ----------------------------------------- | ----------------- |
+| [wan]{.glyph}<br/>[wan]{.glyphsubtitle}   | One (1)           |
+| [tu]{.glyph}<br/>[tu]{.glyphsubtitle}     | Two (2)           |
+| [luka]{.glyph}<br/>[luka]{.glyphsubtitle} | Five (5)          |
+| [mute]{.glyph}<br/>[mute]{.glyphsubtitle} | Twenty (20)       |
+| [ale]{.glyph}<br/>[ale]{.glyphsubtitle}   | One Hundred (100) |
 
 :::
 
@@ -422,6 +424,4 @@ The hunter is sleeping in their cabin or sleeping bag.
 [Previous lesson](./seme.html)
 
 [Next lesson](./pini.html)
-
-
 

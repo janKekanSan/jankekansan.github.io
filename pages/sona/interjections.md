@@ -3,7 +3,9 @@ title: Interjections
 author: gregdan3
 date: date unknown
 ---
+Video lesson still to come!
 
+<details><summary>**Table of Contents**</summary>
 
 <!-- toc -->
 
@@ -22,15 +24,17 @@ date: date unknown
 
 <!-- tocstop -->
 
+</details>
+
 ### Words to Know
 
 #### Particles
 
 ::: tpdefinitions
 
-| Glyph | Word | Definition                               |
-| ----- | ---- | ---------------------------------------- |
-| a     | a    | (mark exclamation, excitement, emphasis) |
+| Word                                | Definition                               |
+| ----------------------------------- | ---------------------------------------- |
+| [a]{.glyph}<br/>[a]{.glyphsubtitle} | (mark exclamation, excitement, emphasis) |
 
 :::
 
@@ -38,10 +42,10 @@ date: date unknown
 
 ::: tpdefinitions
 
-| Glyph  | Word   | Definition                            |
-| ------ | ------ | ------------------------------------- |
-| mu     | mu     | moo, meow, ribbit, bark, animal sound |
-| kalama | kalama | sound, noise                          |
+| Word                                          | Definition                            |
+| --------------------------------------------- | ------------------------------------- |
+| [mu]{.glyph}<br/>[mu]{.glyphsubtitle}         | moo, meow, ribbit, bark, animal sound |
+| [kalama]{.glyph}<br/>[kalama]{.glyphsubtitle} | sound, noise                          |
 
 :::
 

@@ -9,6 +9,10 @@ This lesson is a work in progress!
 
 :::
 
+Video lesson still to come!
+
+<details><summary>**Table of Contents**</summary>
+
 <!-- toc -->
 
   - [Words to Know](#words-to-know)
@@ -22,7 +26,7 @@ This lesson is a work in progress!
 
 <!-- tocstop -->
 
----
+</details>
 
 ### Words to Know
 
@@ -30,10 +34,10 @@ This lesson is a work in progress!
 
 ::: tpdefinitions
 
-| Glyph | Word | Definition                  |
-| ----- | ---- | --------------------------- |
-| seme  | seme | (request information)       |
-| anu   | anu  | (connect phrases with 'or') |
+| Word                                      | Definition                  |
+| ----------------------------------------- | --------------------------- |
+| [anu]{.glyph}<br/>[anu]{.glyphsubtitle}   | (connect phrases with 'or') |
+| [seme]{.glyph}<br/>[seme]{.glyphsubtitle} | (request information)       |
 
 :::
 
@@ -41,20 +45,20 @@ This lesson is a work in progress!
 
 ::: tpdefinitions
 
-| Glyph  | Word   | Definition                                     |
-| ------ | ------ | ---------------------------------------------- |
-| sijelo | sijelo | body, torso                                    |
-| lawa   | lawa   | head, mind, brain, control, plan, govern, lead |
-| sinpin | sinpin | front, face, wall                              |
-| luka   | luka   | hand, arm, tactile limb                        |
-| noka   | noka   | foot, leg, locomotive limb                     |
-| selo   | selo   | boundary, skin, bark, peel, outer layer        |
-| uta    | uta    | mouth, lips, eating orifice                    |
-| lupa   | lupa   | hole, door, window, orifice                    |
-| monsi  | monsi  | back, behind, rear                             |
-| nena   | nena   | bump, lump, extrusion, hill, mountain, nose    |
-| insa   | insa   | inside, center, between, organ                 |
-| ijo    | ijo    | thing                                          |
+| Word                                          | Definition                                     |
+| --------------------------------------------- | ---------------------------------------------- |
+| [sijelo]{.glyph}<br/>[sijelo]{.glyphsubtitle} | body, torso                                    |
+| [lawa]{.glyph}<br/>[lawa]{.glyphsubtitle}     | head, mind, brain, control, plan, govern, lead |
+| [sinpin]{.glyph}<br/>[sinpin]{.glyphsubtitle} | front, face, wall                              |
+| [luka]{.glyph}<br/>[luka]{.glyphsubtitle}     | hand, arm, tactile limb                        |
+| [noka]{.glyph}<br/>[noka]{.glyphsubtitle}     | foot, leg, locomotive limb                     |
+| [selo]{.glyph}<br/>[selo]{.glyphsubtitle}     | boundary, skin, bark, peel, outer layer        |
+| [uta]{.glyph}<br/>[uta]{.glyphsubtitle}       | mouth, lips, eating orifice                    |
+| [lupa]{.glyph}<br/>[lupa]{.glyphsubtitle}     | hole, door, window, orifice                    |
+| [monsi]{.glyph}<br/>[monsi]{.glyphsubtitle}   | back, behind, rear                             |
+| [nena]{.glyph}<br/>[nena]{.glyphsubtitle}     | bump, lump, extrusion, hill, mountain, nose    |
+| [insa]{.glyph}<br/>[insa]{.glyphsubtitle}     | inside, center, between, organ                 |
+| [ijo]{.glyph}<br/>[ijo]{.glyphsubtitle}       | thing                                          |
 
 :::
 

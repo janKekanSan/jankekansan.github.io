@@ -5,6 +5,8 @@ date: 2022-07-30T00:00:00.000Z
 ---
 [Check out the video lesson too!](https://youtu.be/J93GWOMbgdg)
 
+<details><summary>**Table of Contents**</summary>
+
 <!-- toc -->
 
   - [Words to Know](#words-to-know)
@@ -24,37 +26,37 @@ date: 2022-07-30T00:00:00.000Z
 
 <!-- tocstop -->
 
+</details>
+
 ### Words to Know
 
 ::: tpdefinitions
 
-| Glyph | Word | Definition                               |
-| ----- | ---- | ---------------------------------------- |
-| mi    | mi   | I, me, myself, we, mine, ours            |
-| sina  | sina | you, yourself, yours, y'all, y'all's     |
-| toki  | toki | talk, say, conversation, language, hello |
-| pona  | pona | good, simple, easy, fix, repair, help    |
-| ike   | ike  | bad, difficult, complex, challenging     |
-| jan   | jan  | person, people, someone, anyone          |
-| moku  | moku | food, eat                                |
-| musi  | musi | fun, entertaining, artistic, playful     |
-| suli  | suli | big, important, tall, wide               |
-| lili  | lili | small, miniature, tiny, few, young       |
-| lape  | lape | rest, sleep                              |
-| mama  | mama | parent, guardian, ancestor, caretaker    |
-| tawa  | tawa | move, go, travel                         |
+| Word                                      | Definition                               | Writing                                                          |
+| ----------------------------------------- | ---------------------------------------- | ---------------------------------------------------------------- |
+| [mi]{.glyph}<br/>[mi]{.glyphsubtitle}     | I, me, myself, we, mine, ours            | Left hand pointing thumb at yourself, other fingers closed       |
+| [sina]{.glyph}<br/>[sina]{.glyphsubtitle} | you, yourself, yours, y'all, y'all's     | Right hand index finger pointing at somebody else                |
+| [toki]{.glyph}<br/>[toki]{.glyphsubtitle} | talk, say, conversation, language, hello | Circle with three lines above like sound from a mouth            |
+| [pona]{.glyph}<br/>[pona]{.glyphsubtitle} | good, simple, easy, fix, repair, help    | Friendly smile                                                   |
+| [ike]{.glyph}<br/>[ike]{.glyphsubtitle}   | bad, difficult, complex, challenging     | Sad frown                                                        |
+| [jan]{.glyph}<br/>[jan]{.glyphsubtitle}   | person, people, someone, anyone          | Person's head and shoulders                                      |
+| [moku]{.glyph}<br/>[moku]{.glyphsubtitle} | food, eat                                | Hand outline with thumb and extended fingers, mouth on top       |
+| [musi]{.glyph}<br/>[musi]{.glyphsubtitle} | fun, entertaining, artistic, playful     | A very wide smile with cheeks circled                            |
+| [suli]{.glyph}<br/>[suli]{.glyphsubtitle} | big, important, tall, wide               | Big "V" shape. Sometimes the sides curve out!                    |
+| [lili]{.glyph}<br/>[lili]{.glyphsubtitle} | small, miniature, tiny, few, young       | Tiny "v" shape                                                   |
+| [lape]{.glyph}<br/>[lape]{.glyphsubtitle} | rest, sleep                              | Person laying on their side, their head to the right             |
+| [mama]{.glyph}<br/>[mama]{.glyphsubtitle} | parent, guardian, ancestor, caretaker    | Oval with small oval below, like a baby critter under its parent |
+| [tawa]{.glyph}<br/>[tawa]{.glyphsubtitle} | move, go, travel                         | Pair of legs walking to the right                                |
+
+As you're learning, it may seem daunting to learn a brand new writing system and all the words in it. Fortunately, all the glyphs naturally represent the ideas of the word they mean. To help, the "writing" description explains what each glyph represents, and how you can think about each word to help you remember it!
 
 :::
-
-<br/>
 
 ::: info
 
-Check out [this dictionary](https://lipu-linku.github.io)! If you ever get lost, set "core words" and "widespread words" then search for what you need.
+Check out [this dictionary](https://linku.la)! If you ever get lost, set "core words" and "widespread words" then search for what you need.
 
 :::
-
-<br/>
 
 ## Overview
 

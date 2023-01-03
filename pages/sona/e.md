@@ -5,6 +5,8 @@ date: 2022-09-09T00:00:00.000Z
 ---
 [Check out the video lesson too!](https://youtu.be/ZLcSwYEZmIY)
 
+<details><summary>**Table of Contents**</summary>
+
 <!-- toc -->
 
   - [Words to Know](#words-to-know)
@@ -27,7 +29,7 @@ date: 2022-09-09T00:00:00.000Z
 
 <!-- tocstop -->
 
----
+</details>
 
 ### Words to Know
 
@@ -35,9 +37,9 @@ date: 2022-09-09T00:00:00.000Z
 
 ::: tpdefinitions
 
-| Glyph | Word | Use                                      |
-| ----- | ---- | ---------------------------------------- |
-| e     | e    | (mark an object; begin an object phrase) |
+| Word                                | Use                                      |
+| ----------------------------------- | ---------------------------------------- |
+| [e]{.glyph}<br/>[e]{.glyphsubtitle} | (mark an object; begin an object phrase) |
 
 :::
 
@@ -45,19 +47,19 @@ date: 2022-09-09T00:00:00.000Z
 
 ::: tpdefinitions
 
-| Glyph  | Word   | Definition                                             |
-| ------ | ------ | ------------------------------------------------------ |
-| wile   | wile   | want, need, to want                                    |
-| lukin  | lukin  | eyes, to look, to try                                  |
-| sona   | sona   | knowledge, understanding, to know                      |
-| pali   | pali   | create, work, creation                                 |
-| lipu   | lipu   | paper, card, document, website, leaf, small flat thing |
-| kute   | kute   | ear, hear, listen, pay attention to                    |
-| jo     | jo     | have, possess, carry, own                              |
-| pana   | pana   | give, emit, provide, gift                              |
-| pakala | pakala | destroy, break, shatter, explode, ruin, mistake        |
-| pilin  | pilin  | feeling, emotion, touch, contact                       |
-| ante   | ante   | change, alter, other, different                        |
+| Word                                          | Definition                                             |
+| --------------------------------------------- | ------------------------------------------------------ |
+| [wile]{.glyph}<br/>[wile]{.glyphsubtitle}     | want, need, to want                                    |
+| [lukin]{.glyph}<br/>[lukin]{.glyphsubtitle}   | eyes, to look, to try                                  |
+| [sona]{.glyph}<br/>[sona]{.glyphsubtitle}     | knowledge, understanding, to know                      |
+| [pali]{.glyph}<br/>[pali]{.glyphsubtitle}     | create, work, creation                                 |
+| [lipu]{.glyph}<br/>[lipu]{.glyphsubtitle}     | paper, card, document, website, leaf, small flat thing |
+| [kute]{.glyph}<br/>[kute]{.glyphsubtitle}     | ear, hear, listen, pay attention to                    |
+| [jo]{.glyph}<br/>[jo]{.glyphsubtitle}         | have, possess, carry, own                              |
+| [pana]{.glyph}<br/>[pana]{.glyphsubtitle}     | give, emit, provide, gift                              |
+| [pakala]{.glyph}<br/>[pakala]{.glyphsubtitle} | destroy, break, shatter, explode, ruin, mistake        |
+| [pilin]{.glyph}<br/>[pilin]{.glyphsubtitle}   | feeling, emotion, touch, contact                       |
+| [ante]{.glyph}<br/>[ante]{.glyphsubtitle}     | change, alter, other, different                        |
 
 :::
 
