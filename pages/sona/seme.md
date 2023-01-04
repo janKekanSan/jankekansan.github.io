@@ -3,6 +3,7 @@ title: Asking and Answering Questions
 author: gregdan3
 date: date unknown
 ---
+
 ::: error
 
 This lesson is a work in progress!
@@ -15,9 +16,9 @@ Video lesson still to come!
 
 <!-- toc -->
 
-  - [Words to Know](#words-to-know)
-    - [Particles](#particles)
-    - [Content Words](#content-words)
+- [Words to Know](#words-to-know)
+  - [Particles](#particles)
+  - [Content Words](#content-words)
 - [Overview](#overview)
 - [Exercises](#exercises)
   - [Toki Pona to English](#toki-pona-to-english)
@@ -34,10 +35,10 @@ Video lesson still to come!
 
 ::: tpdefinitions
 
-| Word                                      | Definition                  |
-| ----------------------------------------- | --------------------------- |
-| [anu]{.glyph}<br/>[anu]{.glyphsubtitle}   | (connect phrases with 'or') |
-| [seme]{.glyph}<br/>[seme]{.glyphsubtitle} | (request information)       |
+| Word                                      | Definition                  | Writing         |
+| ----------------------------------------- | --------------------------- | --------------- |
+| [anu]{.glyph}<br/>[anu]{.glyphsubtitle}   | (connect phrases with 'or') | A letter "Y"    |
+| [seme]{.glyph}<br/>[seme]{.glyphsubtitle} | (request information)       | A question mark |
 
 :::
 
@@ -45,20 +46,20 @@ Video lesson still to come!
 
 ::: tpdefinitions
 
-| Word                                          | Definition                                     |
-| --------------------------------------------- | ---------------------------------------------- |
-| [sijelo]{.glyph}<br/>[sijelo]{.glyphsubtitle} | body, torso                                    |
-| [lawa]{.glyph}<br/>[lawa]{.glyphsubtitle}     | head, mind, brain, control, plan, govern, lead |
-| [sinpin]{.glyph}<br/>[sinpin]{.glyphsubtitle} | front, face, wall                              |
-| [luka]{.glyph}<br/>[luka]{.glyphsubtitle}     | hand, arm, tactile limb                        |
-| [noka]{.glyph}<br/>[noka]{.glyphsubtitle}     | foot, leg, locomotive limb                     |
-| [selo]{.glyph}<br/>[selo]{.glyphsubtitle}     | boundary, skin, bark, peel, outer layer        |
-| [uta]{.glyph}<br/>[uta]{.glyphsubtitle}       | mouth, lips, eating orifice                    |
-| [lupa]{.glyph}<br/>[lupa]{.glyphsubtitle}     | hole, door, window, orifice                    |
-| [monsi]{.glyph}<br/>[monsi]{.glyphsubtitle}   | back, behind, rear                             |
-| [nena]{.glyph}<br/>[nena]{.glyphsubtitle}     | bump, lump, extrusion, hill, mountain, nose    |
-| [insa]{.glyph}<br/>[insa]{.glyphsubtitle}     | inside, center, between, organ                 |
-| [ijo]{.glyph}<br/>[ijo]{.glyphsubtitle}       | thing                                          |
+| Word                                          | Definition                                     | Writing                                                                             |
+| --------------------------------------------- | ---------------------------------------------- | ----------------------------------------------------------------------------------- |
+| [sijelo]{.glyph}<br/>[sijelo]{.glyphsubtitle} | body, torso                                    | Like a wide chest: flat line on top, three lines to bottom from left, right, center |
+| [lawa]{.glyph}<br/>[lawa]{.glyphsubtitle}     | head, mind, brain, control, plan, govern, lead | A head wearing a hat, bill facing to the right                                      |
+| [sinpin]{.glyph}<br/>[sinpin]{.glyphsubtitle} | front, face, wall                              | The right half of a box with a dot to the right. Faces towards new writing!         |
+| [luka]{.glyph}<br/>[luka]{.glyphsubtitle}     | hand, arm, tactile limb                        | Hand outline with thumb and extended fingers                                        |
+| [noka]{.glyph}<br/>[noka]{.glyphsubtitle}     | foot, leg, locomotive limb                     | Foot facing to the right                                                            |
+| [selo]{.glyph}<br/>[selo]{.glyphsubtitle}     | boundary, skin, bark, peel, outer layer        | A table shape, but with four straight legs in two pairs nearer to the edges.        |
+| [uta]{.glyph}<br/>[uta]{.glyphsubtitle}       | mouth, lips, eating orifice                    | An open, smiling mouth with a dot beneath                                           |
+| [lupa]{.glyph}<br/>[lupa]{.glyphsubtitle}     | hole, door, window, orifice                    | A deep hole, curved at the bottom                                                   |
+| [monsi]{.glyph}<br/>[monsi]{.glyphsubtitle}   | back, behind, rear                             | The left half of a box with a dot on the left. Faces towards old writing!           |
+| [nena]{.glyph}<br/>[nena]{.glyphsubtitle}     | bump, lump, extrusion, hill, mountain, nose    | A tall hill                                                                         |
+| [insa]{.glyph}<br/>[insa]{.glyphsubtitle}     | inside, center, between, organ                 | The bottom half of a box with a dot in the center                                   |
+| [ijo]{.glyph}<br/>[ijo]{.glyphsubtitle}       | thing                                          | Just a circle. A perfectly generic object.                                          |
 
 :::
 
@@ -159,4 +160,3 @@ Video lesson still to come!
 [Previous lesson](./la.html)
 
 [Next lesson](./bits.html)
-

@@ -37,9 +37,9 @@ Video lesson still to come!
 
 ::: tpdefinitions
 
-| Word                                  | Definition                                          |
-| ------------------------------------- | --------------------------------------------------- |
-| [la]{.glyph}<br/>[la]{.glyphsubtitle} | (between context phrase/sentence and main sentence) |
+| Word                                  | Definition                                          | Writing                       |
+| ------------------------------------- | --------------------------------------------------- | ----------------------------- |
+| [la]{.glyph}<br/>[la]{.glyphsubtitle} | (between context phrase/sentence and main sentence) | A right parenthesis, or curve |
 
 :::
 
@@ -47,19 +47,19 @@ Video lesson still to come!
 
 ::: tpdefinitions
 
-| Word                                        | Definition                                     |
-| ------------------------------------------- | ---------------------------------------------- |
-| [open]{.glyph}<br/>[open]{.glyphsubtitle}   | start, begin, enable, open                     |
-| [pini]{.glyph}<br/>[pini]{.glyphsubtitle}   | finish, stop, disable, close                   |
-| [mani]{.glyph}<br/>[mani]{.glyphsubtitle}   | money, cash, barterable thing, thing of value  |
-| [esun]{.glyph}<br/>[esun]{.glyphsubtitle}   | trade, barter, shopping, economy               |
-| [len]{.glyph}<br/>[len]{.glyphsubtitle}     | cloth, cover, clothing, secret, hidden         |
-| [mun]{.glyph}<br/>[mun]{.glyphsubtitle}     | moon, star, planet, celestial body             |
-| [sin]{.glyph}<br/>[sin]{.glyphsubtitle}     | new, fresh, update                             |
-| [olin]{.glyph}<br/>[olin]{.glyphsubtitle}   | love, respect, affection, emotional connection |
-| [kon]{.glyph}<br/>[kon]{.glyphsubtitle}     | air, ghost, spirit, unseen agent               |
-| [linja]{.glyph}<br/>[linja]{.glyphsubtitle} | line, rope, string, hair, connection           |
-| [sike]{.glyph}<br/>[sike]{.glyphsubtitle}   | circle, spiral, sphere, cycle                  |
+| Word                                        | Definition                                     | Writing                                                             |
+| ------------------------------------------- | ---------------------------------------------- | ------------------------------------------------------------------- |
+| [open]{.glyph}<br/>[open]{.glyphsubtitle}   | start, begin, enable, open                     | A box with open top and horizonal line in center                    |
+| [pini]{.glyph}<br/>[pini]{.glyphsubtitle}   | finish, stop, disable, close                   | A vertical line, flat caps on top/bottom, like capital letter "`I`" |
+| [mani]{.glyph}<br/>[mani]{.glyphsubtitle}   | money, cash, barterable thing, thing of value  | Circle with two horns like cows                                     |
+| [esun]{.glyph}<br/>[esun]{.glyphsubtitle}   | trade, barter, shopping, economy               | A fancy letter "L" with loops at top right and bottom left          |
+| [len]{.glyph}<br/>[len]{.glyphsubtitle}     | cloth, cover, clothing, secret, hidden         | Box with 3 small lines from the bottom left, right, and center      |
+| [mun]{.glyph}<br/>[mun]{.glyphsubtitle}     | moon, star, planet, celestial body             | A crescent moon with points facing the left                         |
+| [sin]{.glyph}<br/>[sin]{.glyphsubtitle}     | new, fresh, update                             | 3 lines a bit away from the center, pointing left, right, and up    |
+| [olin]{.glyph}<br/>[olin]{.glyphsubtitle}   | love, respect, affection, emotional connection | 2 hearts; the top heart is covered a bit by the bottom heart        |
+| [kon]{.glyph}<br/>[kon]{.glyphsubtitle}     | air, ghost, spirit, unseen agent               | 2 wavy vertical lines, like smell lines in a comic                  |
+| [linja]{.glyph}<br/>[linja]{.glyphsubtitle} | line, rope, string, hair, connection           | A wavy horizontal line like a rope or string                        |
+| [sike]{.glyph}<br/>[sike]{.glyphsubtitle}   | circle, spiral, sphere, cycle                  | A big circle with a small circle inside it                          |
 
 :::
 

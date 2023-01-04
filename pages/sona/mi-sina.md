@@ -34,9 +34,9 @@ date: 2022-07-30T00:00:00.000Z
 
 | Word                                      | Definition                               | Writing                                                          |
 | ----------------------------------------- | ---------------------------------------- | ---------------------------------------------------------------- |
-| [mi]{.glyph}<br/>[mi]{.glyphsubtitle}     | I, me, myself, we, mine, ours            | Left hand pointing thumb at yourself, other fingers closed       |
-| [sina]{.glyph}<br/>[sina]{.glyphsubtitle} | you, yourself, yours, y'all, y'all's     | Right hand index finger pointing at somebody else                |
-| [toki]{.glyph}<br/>[toki]{.glyphsubtitle} | talk, say, conversation, language, hello | Circle with three lines above like sound from a mouth            |
+| [mi]{.glyph}<br/>[mi]{.glyphsubtitle}     | I, me, myself, we, mine, ours            | Left hand thumb pointing at yourself, other fingers closed       |
+| [sina]{.glyph}<br/>[sina]{.glyphsubtitle} | you, yourself, yours, y'all, y'all's     | Right hand index finger pointing away from you                   |
+| [toki]{.glyph}<br/>[toki]{.glyphsubtitle} | talk, say, conversation, language, hello | Circle with 3 lines ("emitters") above like sound from a mouth   |
 | [pona]{.glyph}<br/>[pona]{.glyphsubtitle} | good, simple, easy, fix, repair, help    | Friendly smile                                                   |
 | [ike]{.glyph}<br/>[ike]{.glyphsubtitle}   | bad, difficult, complex, challenging     | Sad frown                                                        |
 | [jan]{.glyph}<br/>[jan]{.glyphsubtitle}   | person, people, someone, anyone          | Person's head and shoulders                                      |

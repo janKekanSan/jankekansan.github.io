@@ -44,9 +44,9 @@ date: date unknown
 
 ::: tpdefinitions
 
-| Word                                    | Use                               |
-| --------------------------------------- | --------------------------------- |
-| [ala]{.glyph}<br/>[ala]{.glyphsubtitle} | (negates previous word or phrase) |
+| Word                                    | Use                               | Writing |
+| --------------------------------------- | --------------------------------- | ------- |
+| [ala]{.glyph}<br/>[ala]{.glyphsubtitle} | (negates previous word or phrase) | An X    |
 
 :::
 
@@ -54,16 +54,16 @@ date: date unknown
 
 ::: tpdefinitions
 
-| Word                                        | Definition                                 |
-| ------------------------------------------- | ------------------------------------------ |
-| [wile]{.glyph}<br/>[wile]{.glyphsubtitle}   | want, need                                 |
-| [ken]{.glyph}<br/>[ken]{.glyphsubtitle}     | capability, power, permission, possibility |
-| [kama]{.glyph}<br/>[kama]{.glyphsubtitle}   | summon, arrive, invite                     |
-| [awen]{.glyph}<br/>[awen]{.glyphsubtitle}   | remain, stay, continue, stop, protect      |
-| [sona]{.glyph}<br/>[sona]{.glyphsubtitle}   | knowledge, understanding, to know          |
-| [alasa]{.glyph}<br/>[alasa]{.glyphsubtitle} | hunt, seek, search, forage                 |
-| [lukin]{.glyph}<br/>[lukin]{.glyphsubtitle} | eyes, to look                              |
-| [ala]{.glyph}<br/>[ala]{.glyphsubtitle}     | none, nothing, not, zero                   |
+| Word                                        | Definition                                 | Writing                                      |
+| ------------------------------------------- | ------------------------------------------ | -------------------------------------------- |
+| [wile]{.glyph}<br/>[wile]{.glyphsubtitle}   | want, need                                 | Curvy letter "w"                             |
+| [ken]{.glyph}<br/>[ken]{.glyphsubtitle}     | capability, power, permission, possibility | Letter "K"                                   |
+| [kama]{.glyph}<br/>[kama]{.glyphsubtitle}   | summon, arrive, invite                     | Pair of legs walking to the left             |
+| [awen]{.glyph}<br/>[awen]{.glyphsubtitle}   | remain, stay, continue, stop, protect      | Pair of legs standing still, feet facing out |
+| [sona]{.glyph}<br/>[sona]{.glyphsubtitle}   | knowledge, understanding, to know          | Piece of paper with emitters                 |
+| [alasa]{.glyph}<br/>[alasa]{.glyphsubtitle} | hunt, seek, search, forage                 | A bow and arrow pointing to the right        |
+| [lukin]{.glyph}<br/>[lukin]{.glyphsubtitle} | eyes, to look                              | An eye with pupil in the center              |
+| [ala]{.glyph}<br/>[ala]{.glyphsubtitle}     | none, nothing, not, zero                   | An X                                         |
 
 :::
 
@@ -73,15 +73,15 @@ The word [ala]{.tokipona} is a particle _and_ content word! You'll be able to te
 
 ::: tpdefinitions
 
-| Word                                        | Definition                     |
-| ------------------------------------------- | ------------------------------ |
-| [wile]{.glyph}<br/>[wile]{.glyphsubtitle}   | to want, to need               |
-| [ken]{.glyph}<br/>[ken]{.glyphsubtitle}     | to be able, to have permission |
-| [kama]{.glyph}<br/>[kama]{.glyphsubtitle}   | to begin, to become            |
-| [awen]{.glyph}<br/>[awen]{.glyphsubtitle}   | to continue                    |
-| [sona]{.glyph}<br/>[sona]{.glyphsubtitle}   | to be skilled in               |
-| [alasa]{.glyph}<br/>[alasa]{.glyphsubtitle} | to try                         |
-| [lukin]{.glyph}<br/>[lukin]{.glyphsubtitle} | to try                         |
+| Word                                        | Definition                     | Writing                                      |
+| ------------------------------------------- | ------------------------------ | -------------------------------------------- |
+| [wile]{.glyph}<br/>[wile]{.glyphsubtitle}   | to want, to need               | Curvy letter "w"                             |
+| [ken]{.glyph}<br/>[ken]{.glyphsubtitle}     | to be able, to have permission | Letter "K"                                   |
+| [kama]{.glyph}<br/>[kama]{.glyphsubtitle}   | to begin, to become            | Pair of legs walking to the left             |
+| [awen]{.glyph}<br/>[awen]{.glyphsubtitle}   | to continue                    | Pair of legs standing still, feet facing out |
+| [sona]{.glyph}<br/>[sona]{.glyphsubtitle}   | to be skilled in               | Piece of paper with emitters                 |
+| [alasa]{.glyph}<br/>[alasa]{.glyphsubtitle} | to try                         | A bow and arrow pointing to the right        |
+| [lukin]{.glyph}<br/>[lukin]{.glyphsubtitle} | to try                         | An eye with pupil in the center              |
 
 :::
 

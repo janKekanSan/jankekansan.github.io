@@ -41,21 +41,21 @@ date: date unknown
 
 ::: tpdefinitions
 
-| Word                                            | Definition                             |
-| ----------------------------------------------- | -------------------------------------- |
-| [tawa]{.glyph}<br/>[tawa]{.glyphsubtitle}       | move, travel                           |
-| [lon]{.glyph}<br/>[lon]{.glyphsubtitle}         | truth, existence, reality, real        |
-| [tan]{.glyph}<br/>[tan]{.glyphsubtitle}         | cause, origin                          |
-| [sama]{.glyph}<br/>[sama]{.glyphsubtitle}       | same, similar                          |
-| [kepeken]{.glyph}<br/>[kepeken]{.glyphsubtitle} | usage, the act of using                |
-| [ilo]{.glyph}<br/>[ilo]{.glyphsubtitle}         | tool, instrument, machine              |
-| [tenpo]{.glyph}<br/>[tenpo]{.glyphsubtitle}     | time, duration, event, occurrence      |
-| [sewi]{.glyph}<br/>[sewi]{.glyphsubtitle}       | up, sky, spiritual, godly              |
-| [anpa]{.glyph}<br/>[anpa]{.glyphsubtitle}       | below, under                           |
-| [ma]{.glyph}<br/>[ma]{.glyphsubtitle}           | dirt, ground, place, location, country |
-| [nasin]{.glyph}<br/>[nasin]{.glyphsubtitle}     | road, path, method, way, process       |
-| [supa]{.glyph}<br/>[supa]{.glyphsubtitle}       | furniture, horizontal surface          |
-| [poka]{.glyph}<br/>[poka]{.glyphsubtitle}       | beside, side, hip                      |
+| Word                                            | Definition                             | Writing                                                           |
+| ----------------------------------------------- | -------------------------------------- | ----------------------------------------------------------------- |
+| [ilo]{.glyph}<br/>[ilo]{.glyphsubtitle}         | tool, instrument, machine              | A hammer shape!                                                   |
+| [tenpo]{.glyph}<br/>[tenpo]{.glyphsubtitle}     | time, duration, event, occurrence      | A clock, with hands pointing up and right                         |
+| [sewi]{.glyph}<br/>[sewi]{.glyphsubtitle}       | up, sky, spiritual, godly              | Three increasingly deep divets, then a vertical line on the right |
+| [anpa]{.glyph}<br/>[anpa]{.glyphsubtitle}       | below, under                           | The bottom half of a box with a dot beneath                       |
+| [ma]{.glyph}<br/>[ma]{.glyphsubtitle}           | dirt, ground, place, location, country | A circle with a plus in it, like a marker on a map                |
+| [nasin]{.glyph}<br/>[nasin]{.glyphsubtitle}     | road, path, method, way, process       | A vertical line with an up-facing arrow through its center        |
+| [supa]{.glyph}<br/>[supa]{.glyphsubtitle}       | furniture, horizontal surface          | A table with legs tilted outward slightly                         |
+| [poka]{.glyph}<br/>[poka]{.glyphsubtitle}       | beside, side, hip                      | The bottom half of a box with a dot to the right                  |
+| [tawa]{.glyph}<br/>[tawa]{.glyphsubtitle}       | move, travel                           | Pair of legs walking to the right                                 |
+| [lon]{.glyph}<br/>[lon]{.glyphsubtitle}         | truth, existence, reality, real        | A flat line with a dot over the center                            |
+| [tan]{.glyph}<br/>[tan]{.glyphsubtitle}         | cause, origin                          | A curved arrow pointing from the right to the left                |
+| [sama]{.glyph}<br/>[sama]{.glyphsubtitle}       | same, similar                          | An equals sign                                                    |
+| [kepeken]{.glyph}<br/>[kepeken]{.glyphsubtitle} | usage, the act of using                | A hand shape with a hammer shape on top                           |
 
 :::
 
@@ -63,13 +63,13 @@ date: date unknown
 
 ::: tpdefinitions
 
-| Word                                            | Definition                            |
-| ----------------------------------------------- | ------------------------------------- |
-| [tawa]{.glyph}<br/>[tawa]{.glyphsubtitle}       | to, travel to, for, in the opinion of |
-| [lon]{.glyph}<br/>[lon]{.glyphsubtitle}         | in the context of, in the presence of |
-| [tan]{.glyph}<br/>[tan]{.glyphsubtitle}         | by, from, because of                  |
-| [sama]{.glyph}<br/>[sama]{.glyphsubtitle}       | similar to                            |
-| [kepeken]{.glyph}<br/>[kepeken]{.glyphsubtitle} | to use                                |
+| Word                                            | Definition                            | Writing                                            |
+| ----------------------------------------------- | ------------------------------------- | -------------------------------------------------- |
+| [tawa]{.glyph}<br/>[tawa]{.glyphsubtitle}       | to, travel to, for, in the opinion of | Pair of legs walking to the right                  |
+| [lon]{.glyph}<br/>[lon]{.glyphsubtitle}         | in the context of, in the presence of | A flat line with a dot over the center             |
+| [tan]{.glyph}<br/>[tan]{.glyphsubtitle}         | by, from, because of                  | A curved arrow pointing from the right to the left |
+| [sama]{.glyph}<br/>[sama]{.glyphsubtitle}       | similar to                            | An equals sign                                     |
+| [kepeken]{.glyph}<br/>[kepeken]{.glyphsubtitle} | to use                                | A hand shape with a hammer shape on top            |
 
 :::
 

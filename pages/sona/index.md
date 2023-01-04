@@ -3,7 +3,7 @@ title: Learn Toki Pona!
 author: gregdan3
 date: 2022-12-24T00:00:00.000Z
 ---
-
+<details><summary>**Table of Contents**</summary>
 
 <!-- toc -->
 
@@ -14,6 +14,8 @@ date: 2022-12-24T00:00:00.000Z
 - [tan seme (why)](#tan-seme-why)
 
 <!-- tocstop -->
+
+</details>
 
 ## kama sona (learning)
 
@@ -152,6 +154,4 @@ I couldn't find a single other lesson series that covered interjections beyond "
 And I wanted to help with some of the terminology problems floating around the community!
 
 This, and many more things, drove me to create my own series. But most of the credit belongs to the Toki Pona VR community, where I found the most fascinating and excited people to practice with and to teach! They drove me to begin writing down what I knew, to help more discover the language, and to grow the community.
-
-
 

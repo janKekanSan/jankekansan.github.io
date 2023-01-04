@@ -42,10 +42,10 @@ date: date unknown
 
 ::: tpdefinitions
 
-| Word                                      | Definition                      |
-| ----------------------------------------- | ------------------------------- |
-| [o]{.glyph}<br/>[o]{.glyphsubtitle}       | (replaces li; command, require) |
-| [taso]{.glyph}<br/>[taso]{.glyphsubtitle} | (but, however)                  |
+| Word                                      | Definition                      | Writing                                                      |
+| ----------------------------------------- | ------------------------------- | ------------------------------------------------------------ |
+| [o]{.glyph}<br/>[o]{.glyphsubtitle}       | (replaces li; command, require) | Letter "o" beneath a vertical line like an exclamation point |
+| [taso]{.glyph}<br/>[taso]{.glyphsubtitle} | (but, however)                  | A vertical line with a horizontal line from its left         |
 
 :::
 
@@ -53,19 +53,18 @@ date: date unknown
 
 ::: tpdefinitions
 
-| Word                                            | Definition                              |
-| ----------------------------------------------- | --------------------------------------- |
-| [taso]{.glyph}<br/>[taso]{.glyphsubtitle}       | only, exclusively, just                 |
-| [tawa]{.glyph}<br/>[tawa]{.glyphsubtitle}       | move, travel                            |
-| [utala]{.glyph}<br/>[utala]{.glyphsubtitle}     | fight, battle, competition, compete     |
-| [weka]{.glyph}<br/>[weka]{.glyphsubtitle}       | remove, away, absent                    |
-| [sitelen]{.glyph}<br/>[sitelen]{.glyphsubtitle} | writing, drawing, art, painting, script |
-| [moli]{.glyph}<br/>[moli]{.glyphsubtitle}       | die, kill, death                        |
-| [tomo]{.glyph}<br/>[tomo]{.glyphsubtitle}       | home, room, building                    |
-| [poki]{.glyph}<br/>[poki]{.glyphsubtitle}       | container, bag, box                     |
-| [palisa]{.glyph}<br/>[palisa]{.glyphsubtitle}   | stick, rod, branch                      |
-| [kili]{.glyph}<br/>[kili]{.glyphsubtitle}       | fruit, vegetable                        |
-| [pan]{.glyph}<br/>[pan]{.glyphsubtitle}         | bread, wheat, pasta, carbs              |
+| Word                                            | Definition                              | Writing                                                     |
+| ----------------------------------------------- | --------------------------------------- | ----------------------------------------------------------- |
+| [taso]{.glyph}<br/>[taso]{.glyphsubtitle}       | only, exclusively, just                 | A vertical line with a horizontal line from its left        |
+| [utala]{.glyph}<br/>[utala]{.glyphsubtitle}     | fight, battle, competition, compete     | Two crossed swords with handles                             |
+| [weka]{.glyph}<br/>[weka]{.glyphsubtitle}       | remove, away, absent                    | 4 small lines on each diagonal, away from the center        |
+| [sitelen]{.glyph}<br/>[sitelen]{.glyphsubtitle} | writing, drawing, art, painting, script | Paper with three dots in a horizontal row                   |
+| [moli]{.glyph}<br/>[moli]{.glyphsubtitle}       | die, kill, death                        | Cartoony head with "x" for eyes                             |
+| [tomo]{.glyph}<br/>[tomo]{.glyphsubtitle}       | home, room, building                    | House shape, with three box sides and a triangle roof       |
+| [poki]{.glyph}<br/>[poki]{.glyphsubtitle}       | container, bag, box                     | Tall box with an open top                                   |
+| [palisa]{.glyph}<br/>[palisa]{.glyphsubtitle}   | stick, rod, branch                      | Tall, thin stick with rounded top and bottom                |
+| [kili]{.glyph}<br/>[kili]{.glyphsubtitle}       | fruit, vegetable                        | An apple with a little stem                                 |
+| [pan]{.glyph}<br/>[pan]{.glyphsubtitle}         | bread, wheat, pasta, carbs              | 3 arrows pointing down in a column, the top of a bread loaf |
 
 :::
 
@@ -73,13 +72,13 @@ date: date unknown
 
 ::: tpdefinitions
 
-| Word   | Definition                                  |
-| ------ | ------------------------------------------- |
-| soweli | animal, land creature                       |
-| waso   | bird, flying creature                       |
-| akesi  | reptile, amphibian, scaly/leathery creature |
-| pipi   | bug, insect, spider, exo-skeletal creature  |
-| kala   | fish, swimming creature                     |
+| Word                                          | Definition                                  | Writing                                                                                                     |
+| --------------------------------------------- | ------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| [soweli]{.glyph}<br/>[soweli]{.glyphsubtitle} | animal, land creature                       | Body starting on the left, round head on the right, a leg, three more separate legs, and two dotted eyes!   |
+| [waso]{.glyph}<br/>[waso]{.glyphsubtitle}     | bird, flying creature                       | From top, slant down-right into a beak, back to the center, and down to bottom. Then dot the eyes!          |
+| [akesi]{.glyph}<br/>[akesi]{.glyphsubtitle}   | reptile, amphibian, scaly/leathery creature | A tall oval with two or three lines across for legs. Then dot the eyes above the oval!                      |
+| [pipi]{.glyph}<br/>[pipi]{.glyphsubtitle}     | bug, insect, spider, exo-skeletal creature  | A vertical line with three lines across for legs. Then dot the eyes at the top two boxes!                   |
+| [kala]{.glyph}<br/>[kala]{.glyphsubtitle}     | fish, swimming creature                     | A fish in a loop: from top left of fin, down and around for body, back to the bottom left to finish the fin |
 
 :::
 

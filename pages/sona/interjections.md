@@ -32,9 +32,9 @@ Video lesson still to come!
 
 ::: tpdefinitions
 
-| Word                                | Definition                               |
-| ----------------------------------- | ---------------------------------------- |
-| [a]{.glyph}<br/>[a]{.glyphsubtitle} | (mark exclamation, excitement, emphasis) |
+| Word                                | Definition                               | Writing                                                      |
+| ----------------------------------- | ---------------------------------------- | ------------------------------------------------------------ |
+| [a]{.glyph}<br/>[a]{.glyphsubtitle} | (mark exclamation, excitement, emphasis) | Letter "a" beneath a vertical line like an exclamation point |
 
 :::
 
@@ -42,10 +42,10 @@ Video lesson still to come!
 
 ::: tpdefinitions
 
-| Word                                          | Definition                            |
-| --------------------------------------------- | ------------------------------------- |
-| [mu]{.glyph}<br/>[mu]{.glyphsubtitle}         | moo, meow, ribbit, bark, animal sound |
-| [kalama]{.glyph}<br/>[kalama]{.glyphsubtitle} | sound, noise                          |
+| Word                                          | Definition                            | Writing                                                              |
+| --------------------------------------------- | ------------------------------------- | -------------------------------------------------------------------- |
+| [mu]{.glyph}<br/>[mu]{.glyphsubtitle}         | moo, meow, ribbit, bark, animal sound | Circle animal face with two circle ears and dotted nose below center |
+| [kalama]{.glyph}<br/>[kalama]{.glyphsubtitle} | sound, noise                          | A mouth shape with emitters                                          |
 
 :::
 

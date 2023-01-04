@@ -3,6 +3,7 @@ title: And Another Thing...
 author: gregdan3
 date: date unknown
 ---
+
 ::: error
 
 This lesson is a work in progress!
@@ -13,9 +14,9 @@ This lesson is a work in progress!
 
 <!-- toc -->
 
-  - [Words to Know](#words-to-know)
-    - [Particles](#particles)
-    - [Content Words](#content-words)
+- [Words to Know](#words-to-know)
+  - [Particles](#particles)
+  - [Content Words](#content-words)
 - [Overview](#overview)
   - [Proper Names](#proper-names)
     - [nasin pona](#nasin-pona)
@@ -42,8 +43,8 @@ This lesson is a work in progress!
 
 ::: tpdefinitions
 
-| Word                                        | Use                                        |
-| ------------------------------------------- | ------------------------------------------ |
+| Word                                        | Use                                        | Writing |
+| ------------------------------------------- | ------------------------------------------ | ------- |
 | [anu]{.glyph}<br/>[anu]{.glyphsubtitle}     | (connect phrases with 'or')                |
 | [kin]{.glyph}<br/>[kin]{.glyphsubtitle}     | (indicate something is additional, extra)  |
 | [nanpa]{.glyph}<br/>[nanpa]{.glyphsubtitle} | (group modifiers into an ordinal, ranking) |
@@ -54,13 +55,13 @@ This lesson is a work in progress!
 
 ::: tpdefinitions
 
-| Word                                            | Definition                                |
-| ----------------------------------------------- | ----------------------------------------- |
+| Word                                            | Definition                                | Writing                                          |
+| ----------------------------------------------- | ----------------------------------------- | ------------------------------------------------ |
 | [kipisi]{.glyph}<br/>[kipisi]{.glyphsubtitle}   | split, cut, divide                        |
-| [leko]{.glyph}<br/>[leko]{.glyphsubtitle}       | square, cube, corner                      |
+| [leko]{.glyph}<br/>[leko]{.glyphsubtitle}       | square, cube, corner                      | A square, inside another square                  |
 | [meli]{.glyph}<br/>[meli]{.glyphsubtitle}       | girl, woman, female                       |
 | [mije]{.glyph}<br/>[mije]{.glyphsubtitle}       | boy, man, male                            |
-| [monsuta]{.glyph}<br/>[monsuta]{.glyphsubtitle} | fear, fright, scary, frightening, anxiety |
+| [monsuta]{.glyph}<br/>[monsuta]{.glyphsubtitle} | fear, fright, scary, frightening, anxiety | Cartoonish representation of shaking due to fear |
 | [namako]{.glyph}<br/>[namako]{.glyphsubtitle}   | extra, ornamental, spicy                  |
 | [soko]{.glyph}<br/>[soko]{.glyphsubtitle}       | mushroom, fungus                          |
 | [tonsi]{.glyph}<br/>[tonsi]{.glyphsubtitle}     | transgender, non-binary                   |
@@ -424,4 +425,3 @@ The hunter is sleeping in their cabin or sleeping bag.
 [Previous lesson](./seme.html)
 
 [Next lesson](./pini.html)
-
