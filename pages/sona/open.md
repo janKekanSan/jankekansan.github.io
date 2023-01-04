@@ -3,7 +3,7 @@ title: Getting Started
 author: gregdan3
 date: 2022-07-30T00:00:00.000Z
 ---
-
+<details><summary>**Table of Contents**</summary>
 
 <!-- toc -->
 
@@ -21,6 +21,8 @@ date: 2022-07-30T00:00:00.000Z
 - [Exercises](#exercises)
 
 <!-- tocstop -->
+
+</details>
 
 ## How to Learn
 
@@ -163,7 +165,7 @@ Your intuition from English is close enough that you don't need to worry.
 
 Toki Pona can be written with a system known as sitelen pona, or [sitelen pona]{.tokipona}. It has one character per word, which is easy with few words! I provide each character with each new word, and use it for all the exercises.
 
-In sitelen pona, speakers will either start a new line, or use an interpunct `・` at the end of sentences. No other punctuation is generally used.
+In sitelen pona, speakers will either start a new line, or use an interpunct `・` at the end of sentences. No other punctuation is generally used, though they are fine to use.
 
 > [jan li toki e ni・seme li lon・ona li wile tawa li wile lape]{.tokipona}
 
@@ -180,45 +182,67 @@ Lastly, symbols can be stacked or nested! Both are read from the bottom up, whic
 
 Here, the first symbol is read "toki pona" and it is nested. The second to last symbol is "linja suwi" and it is stacked.
 
+Don't worry about _all_ this just yet! You'll find what feels comfortable as you learn.
+
 ::: info
 
-There's a button labeled **Toggle SP** in the upper right for mobile, and the bottom right for desktop. It switches sitelen pona for English letters and back! <
+The font I'm using is called **sitelen seli kiwen**. Check it out [here](https://www.kreativekorp.com/software/fonts/sitelenselikiwen/)!
 
 :::
-
-Don't worry about _all_ this just yet! You'll find what feels comfortable as you learn.
 
 ## Exercises
 
 Try to pronounce the following words. The pronunciation is in a clip under the spoiler!
 
-<details><summary> [lukin]{.tokipona} - lukin </summary>
+::: info
+
+There's a button labeled **Toggle SP** in the top right for mobile, and the bottom right for desktop. It switches sitelen pona for English letters and back. Try it out here!
+
+:::
+
+<details><summary> [lukin]{.tokipona} </summary>
+"lukin"
+
 <audio controls src="/sound/lukin.mp3"> </audio>
+
 </details>
 
-<details><summary> [pona]{.tokipona} - pona </summary>
+<details><summary> [pona]{.tokipona} </summary>
+"pona"
+
 <audio controls src="/sound/pona.mp3"> </audio>
+
 </details>
 
-<details><summary> [soweli]{.tokipona} - soweli </summary>
+<details><summary> [soweli]{.tokipona} </summary>
+"soweli"
+
 <audio controls src="/sound/soweli.mp3"> </audio>
+
 </details>
 
-<details><summary> [kepeken]{.tokipona} - kepeken </summary>
+<details><summary> [kepeken]{.tokipona} </summary>
+"kepeken"
+
 <audio controls src="/sound/kepeken.mp3"> </audio>
+
 </details>
 
-<details><summary> [loje]{.tokipona} - loje </summary>
+<details><summary> [loje]{.tokipona} </summary>
+"loje"
+
 <audio controls src="/sound/loje.mp3"> </audio>
+
 </details>
 
-<details><summary> [e]{.tokipona} - e </summary>
+<details><summary> [e]{.tokipona} </summary>
+"e"
+
 <audio controls src="/sound/e.mp3"> </audio>
+
 </details>
 
 ---
 
 [Next lesson](./mi-sina.html)
-
-
 
