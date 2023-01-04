@@ -3,13 +3,38 @@ title: kama pona!
 author: gregdan3
 date: 2022-12-22T00:00:00.000Z
 ---
-## mi
+
+## mi (me)
 
 Hi, I'm jan Kekan San. I'm super active in **[ma pona pi toki pona](https://discord.gg/mapona)**, **[kama sona](https://discord.gg/ChC6qtVsSE)**, and I'm a **[Toki Pona youtuber apparently](https://www.youtube.com/@gregdan3d)**! I love Toki Pona dearly and I want to meet more people interested in the language. [I've done](./sona/) [a lot](./lipu/) [to accomplish that](https://www.youtube.com/@gregdan3d)!
 
 I want to grow Toki Pona. It has given me so many opportunities and led me to some of the most driven and dedicated people I know. I want to help others find excitement in Toki Pona and help create more art in Toki Pona.
 
 This site is all about Toki Pona, but most of it will not be _in_ Toki Pona unless it is titled in only Toki Pona- which only applies to my blog!
+
+## ante (other things)
+
+Here's a bunch of other cool people doing Toki Pona things in no particular order (because I haven't decided on one yet):
+
+<https://hecko.my.to/toki-pona/>
+
+<https://waso-mu.neocities.org/>
+
+<https://raacz.neocities.org/tokipona>
+
+<https://janketami.wordpress.com/>
+
+<https://datakinds.github.io/toki-pona/>
+
+<https://ap5.dev/tokipona>
+
+<https://lipamanka.github.io/>
+
+And here's a bunch of cool Toki Pona... Things!
+
+<https://kijetesantakalu.com/>
+
+<https://tokipona.me/>
 
 ## ilo (tools)
 
@@ -53,4 +78,3 @@ This isn't _everything_, but it's all my socials where I do Toki Pona stuff!
 **Other**
 
 - Ko-Fi: [gregdan3](https://ko-fi.com/gregdan3). If you like what you see, support!
-
