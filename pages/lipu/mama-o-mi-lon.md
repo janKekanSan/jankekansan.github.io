@@ -22,26 +22,26 @@ mi ante e toki ni tawa toki pona tan kalama "[mama o mi lon](https://youtu.be/U8
 
 ## mama o mi lon
 
-| toki pona           |
-| :------------------ |
-| mi tawa a           |
-| kon li tawa e mi    |
-| tawa tomo mi, a mi  |
-| mi awen a           |
-| kon li tawa li suwi |
-| mi tawa tomo mi     |
-| sina kama           |
-| e pilin olin e mi   |
-| mama o mi lon       |
-| mi pilin a          |
-| e seli e olin       |
-| mi pona lon tomo    |
-| mi luka a           |
-| ala la sina taso    |
-| lon poka mi, a mi   |
-| sina kama           |
-| e pilin olin e mi   |
-| mama o mi lon       |
+| toki pona          |
+| :----------------- |
+| mi tawa a          |
+| kon li tawa e mi   |
+| tawa tomo mi, a mi |
+| mi awen a          |
+| sewi li luka suwi  |
+| mi tawa tomo mi    |
+| mi lon poka        |
+| tomo sina li seli  |
+| mama o, mi lon     |
+| mi pilin a         |
+| e suno e olin      |
+| mi pona lon tomo   |
+| mi luka la         |
+| ala la sina taso   |
+| lon poka mi, a mi  |
+| mi lon poka        |
+| pi pilin olin suli |
+| mama o, mi lon     |
 
 :::
 
