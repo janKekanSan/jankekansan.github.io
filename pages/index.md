@@ -23,6 +23,8 @@ Others not in the webring:
 - [tan sike musi](https://datakinds.github.io/toki-pona/)
 - [jan ante mute mute](https://sona.pona.la/wiki/Personal_Sites)
 
+[fanart others have made for me!](./fanart.html)
+
 ## ilo (tools)
 
 **tan mi (from me)**
@@ -42,8 +44,8 @@ Others not in the webring:
 
 ## o toki tawa mi (talk to me)
 
-- [Ko-Fi: gregdan3](https://ko-fi.com/gregdan3). If you like what you see, support!
-- [YouTube: @gregdan3d](https://www.youtube.com/@gregdan3d). Tons of Toki Pona content!
+- [My Ko-Fi. If you like what you see, support!](https://ko-fi.com/gregdan3)
+- [My YouTube. Tons of Toki Pona content!](https://www.youtube.com/@gregdan3d)
 - [Discord](https://discord.com/users/497549183847497739), [Telegram](https://gregdan3.t.me/)
 - [Reddit](https://reddit.com/u/gregdan3d), [Twitter](https://twitter.com/gregdan3d), [Mastodon](https://toki.social/@gregdan3)
 - [VRChat: gregdan3](https://vrchat.com/home/user/usr_8a07de27-2d25-48d0-aa5d-d7e00faa7bde)
