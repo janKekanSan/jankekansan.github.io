@@ -109,7 +109,7 @@ Here, the subject is [mama]{.tokipona}, a parent or ancestor. Since the subject 
 
 #### Multiple li
 
-To say a subject does more than one thing, you say [li]{.tokipona} again, making another predicate. Saying [li]{.tokipona} multiple times is like saying "and" in English! Here's another example:
+To say a subject does more than one thing, you say [li]{.tokipona} again, making another predicate. Saying [li]{.tokipona} multiple times is like saying "and" in English, but just for the predicate! Here's an example:
 
 <details> <summary> [kulupu li suli li pona]{.tokipona} </summary>
 
@@ -135,7 +135,7 @@ You can have as many predicates as you want, but try to keep your sentences shor
 
 ::: warning
 
-[mi]{.tokipona} and [sina]{.tokipona} do not take [li]{.tokipona}, so you can't _normally_ do this with [mi]{.tokipona} and [sina]{.tokipona}. Instead, use separate sentences: [mi tawa・mi lape]{.tokipona}
+[mi]{.tokipona} and [sina]{.tokipona} do not take [li]{.tokipona}, so you can't _normally_ do this with them. Instead, use separate sentences: [mi tawa・mi lape]{.tokipona}
 
 :::
 

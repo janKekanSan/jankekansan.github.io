@@ -162,7 +162,7 @@ This uses a modifier (next lesson!) to demonstrate the point, now referencing a 
 
 #### Multiple e
 
-Like [li]{.tokipona}, [e]{.tokipona} can be used more than once to apply a predicate to more than one object at a time! This applies to every object that follows a predicate. Like [li]{.tokipona}, this is like "and" in English!
+Like [li]{.tokipona}, [e]{.tokipona} can be used more than once to apply a predicate to more than one object at a time! This applies to every object that follows a predicate. Like [li]{.tokipona}, this is like "and" in English, but now for the object!
 
 <details> <summary> [mi moku e suwi e lete]{.tokipona} </summary>
 
@@ -170,16 +170,15 @@ I eat sugar and ice.
 
 </details>
 
-<details> <summary> [kasi li pilin e seli e telo]{.tokipona} </summary>
+<details> <summary> [kasi li pilin e suno e telo]{.tokipona} </summary>
 
-The plant is touching the fire and the water!
+The plant is feeling the sun and the water!
 
 </details>
 
 #### Multiple li and multiple e
 
-When using multiple [li]{.tokipona} _and_ multiple [e]{.tokipona}, objects connect to the predicate right before.
-If you use [li]{.tokipona} twice and [e]{.tokipona} after both, only the second predicate [li]{.tokipona} matters to the object [e]{.tokipona}!
+When using multiple [li]{.tokipona} _and_ multiple [e]{.tokipona}, objects connect to the predicate right before. We saw this with using two [e]{.tokipona}, but it also applies if you use [li]{.tokipona} twice then [e]{.tokipona}- the first [li]{.tokipona} has no object, only the second one does.
 
 <details> <summary> [kasi li suwi li pana e ko]{.tokipona} </summary>
 

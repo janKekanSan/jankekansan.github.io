@@ -3,7 +3,7 @@ title: Interjections
 author: gregdan3
 date: date unknown
 ---
-Video lesson still to come!
+[Check out the video lesson too!](https://youtu.be/0hz1VHldmq4)
 
 <details><summary>**Table of Contents**</summary>
 

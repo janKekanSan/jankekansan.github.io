@@ -70,7 +70,7 @@ date: date unknown
 #### en, quickly!
 
 We saw before that [li]{.tokipona} can be used more than once to refer to multiple actions or traits of the subject.
-You can also use [e]{.tokipona} more than once for multiple objects, and you can use [li]{.tokipona} and [e]{.tokipona} together too!
+We also saw [e]{.tokipona} more than once for multiple objects, and you can them both together too!
 
 What about multiple subjects? The word [en]{.tokipona} is used to add subjects after the first.
 
@@ -86,7 +86,17 @@ Creating and sleeping heals people.
 
 </details>
 
-[en]{.tokipona} can be used any number of times, but only at the start of a sentence!
+[en]{.tokipona} can be used any number of times, but only at the start of a sentence, meaning before any predicates!
+
+Also, this can be used just as well with multiple [li]{.tokipona} and multiple [e]{.tokipona} at once. Here's a really involved example:
+
+<details><summary> [mi en sina en kulupu li tawa li moku e kasi e telo]{.tokipona} </summary>
+
+Me, you, and the group will travel, and eat plants and water!
+
+</details>
+
+Now to the main part of the lesson!
 
 #### One Modifier
 

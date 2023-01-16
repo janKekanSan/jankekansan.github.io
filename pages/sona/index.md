@@ -38,7 +38,7 @@ or [memorizing game](https://jamesmoulang.itch.io/nasin-sona-musi) to help memor
 - [Pre-predicates, ala](./pre-predicates.html) --- [On YouTube](https://youtu.be/YjxSaqAZwqk)
 - [Prepositions](./preps.html) --- [On YouTube](https://youtu.be/hbUaLDRmULI)
 - [Instructions with o](./o.html) --- [On YouTube](https://youtu.be/lf3lDjIWiYI)
-- [Interjections and a](./interjections.html)
+- [Interjections and a](./interjections.html) --- [On YouTube](https://youtu.be/0hz1VHldmq4)
 - [[WIP] Context, Comparisons, la](./la.html)
 - [[WIP] Questions, answers, seme](./seme.html)
 - [[WIP] And Another Thing...](./bits.html)
