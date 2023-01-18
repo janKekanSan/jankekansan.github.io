@@ -3,24 +3,26 @@ title: Fanart!
 author: jan mute
 date: 2023-01-01T00:00:00.000Z
 ---
+
 <details><summary>**Table of Contents**</summary>
 
 <!-- toc -->
 
 - [First](#first)
 - [waso mu](#waso-mu)
-    - [Comics](#comics)
+  - [Comics](#comics)
 - [squimpus](#squimpus)
-    - [Comics](#comics-1)
-    - [Doodles](#doodles)
-    - [uhhhh](#uhhhh)
-    - [Taken Pics](#taken-pics)
+  - [Comics](#comics-1)
+  - [Doodles](#doodles)
+  - [uhhhh](#uhhhh)
+  - [Taken Pics](#taken-pics)
 - [nyxoom](#nyxoom)
-    - [Avatars](#avatars)
-    - [Thumbnails](#thumbnails)
-    - [Doodles](#doodles-1)
+  - [Avatars](#avatars)
+  - [Thumbnails](#thumbnails)
+  - [Doodles](#doodles-1)
 - [vallee152](#vallee152)
 - [the rats](#the-rats)
+- [waso Wen](#waso-wen)
 
 <!-- tocstop -->
 
@@ -138,3 +140,12 @@ Funny, quickly made scribbles. I want to make an avatar out of one of these...
 
 Self-explanatory.
 
+---
+
+## waso Wen
+
+[from waso Wen, who makes games!](https://slimewitch.itch.io/)
+
+<img src="/art/fan/the_more_you_know.png" style="max-width:500px;width:100%;">
+
+GOLD
