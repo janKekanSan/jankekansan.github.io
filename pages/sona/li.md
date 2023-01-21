@@ -100,12 +100,12 @@ Here's a guided example:
 - Dad is being funny.
 - My parent is exciting!
 - My babysitter is amusing!
-- Grandpa is joking.
+- Grandpa joked!
 
 </details>
 
 Here, the subject is [mama]{.tokipona}, a parent or ancestor. Since the subject isn't [mi]{.tokipona} or [sina]{.tokipona}, [li]{.tokipona} is present and starts the predicate. Then the predicate is [musi]{.tokipona}, fun and entertainment.
-[musi]{.tokipona} could be either a description or action here, and these cannot be told apart without more context. Check under the spoiler for possible interpretations!
+[musi]{.tokipona} could be either a description or action here, and these cannot be told apart without more context- Toki Pona doesn't tell them apart! Check under the spoiler for possible interpretations.
 
 #### Multiple li
 
@@ -119,7 +119,13 @@ To say a subject does more than one thing, you say [li]{.tokipona} again, making
 
 </details>
 
-Here, the subject [kulupu]{.tokipona} is doing two different things: being [suli]{.tokipona} (big) and being [pona]{.tokipona} (good).
+Here, the subject [kulupu]{.tokipona} is doing two things: being [suli]{.tokipona} (big) and being [pona]{.tokipona} (good).
+
+Using more than one [li]{.tokipona} is the same as using two sentences with the same subject. This means we can restate the one sentence above as these two sentences, which have the same meaning together:
+
+> [kulupu li suli. kulupu li pona.]{.tokipona}
+
+Here's another example:
 
 <details> <summary> [jan li tawa li lape]{.tokipona} </summary>
 
@@ -129,7 +135,11 @@ Here, the subject [kulupu]{.tokipona} is doing two different things: being [suli
 
 </details>
 
-Here, [jan]{.tokipona} is doing two different things: [tawa]{.tokipona} (moving), and [lape]{.tokipona} (sleeping). Toki Pona words don't mark time, so these two actions can happen at different times!
+Here, [jan]{.tokipona} is doing two different things: [tawa]{.tokipona} (moving), and [lape]{.tokipona} (sleeping). Toki Pona words don't mark time, so these two actions can happen at different times, but be described in one sentence without issue!
+
+And again, this is the same as the following two sentences:
+
+> [jan li tawa. jan li lape. ]{.tokipona}
 
 You can have as many predicates as you want, but try to keep your sentences shorter- shorter sentences are easier to understand.
 
