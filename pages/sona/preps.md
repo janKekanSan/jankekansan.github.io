@@ -372,7 +372,7 @@ This learning method is great for people's understanding.
 
 Every time you try to take a vacation, something comes up and you have to cancel. It's like the universe is conspiring against you. You've been planning a trip to the Bahamas for months, but your boss said you can't take the time off. You're starting to think they're doing it on purpose. You think to yourself:
 
-<details><summary> [mi pali lon tenpo mute・mi wile tawa ma ante]{.tokipona} </summary>
+<details><summary> [mi pali lon tenpo mute! mi wile tawa ma ante]{.tokipona} </summary>
 
 I work too much. I want to go somewhere different!
 
@@ -390,7 +390,7 @@ The earth is flat like a dinner plate!
 
 Your teacher is emphasizing the relative size of the earth in comparison to other objects. This is an important idea for students to understand, because it helps them to put the earth's size into perspective. It also helps them to understand that the earth is a huge object, and that it is much larger than any one person. Your teacher says:
 
-<details><summary> [ma li suli ala tawa sewi・ona li suli tawa jan]{.tokipona} </summary>
+<details><summary> [ma li suli ala tawa sewi. ona li suli tawa jan]{.tokipona} </summary>
 
 The earth isn't large compared to the sky. It's large compared to people.
 
@@ -452,7 +452,7 @@ My philosophy is not from where I was born!
 
 You're trekking through a desert with a guide, stopping rest through the night. Your guide explains that you need to bundle up: the temperature of the desert depends on the sun, so the desert will become freezing when the sun sets. You ask a follow-up question: if it gets cold enough, will there be ice? And the guide explains:
 
-<details><summary> [kiwen lete li lon ala ma ni tan ni・telo li lon ala]{.tokipona} </summary>
+<details><summary> [kiwen lete li lon ala ma ni tan ni: telo li lon ala]{.tokipona} </summary>
 
 There is no ice here because of this: there is no water.
 
@@ -464,9 +464,9 @@ There is no ice here because of this: there is no water.
 
 <details><summary> Everyone is on the road. They're heading to the cool caves! </summary>
 
-[jan ale li lon nasin・ona li tawa ma anpa pona]{.tokipona}
+[jan ale li lon nasin! ona li tawa ma anpa pona]{.tokipona}
 
-[jan ale li tawa nasin・ona li tawa ma anpa pona]{.tokipona}
+[jan ale li tawa nasin! ona li tawa ma anpa pona]{.tokipona}
 
 [jan ale li tawa ma anpa pona]{.tokipona}
 
@@ -486,13 +486,13 @@ There is no ice here because of this: there is no water.
 
 [mi lon supa pona]{.tokipona}
 
-[mi awen lon supa ni・ona li pona tawa lukin]{.tokipona}
+[mi awen lon supa ni: ona li pona tawa lukin]{.tokipona}
 
 </details>
 
 <details><summary> **I'm giving this to my brother for your sake.**  </summary>
 
-[mi pana e ni tawa jan poka mi・ni li tawa sina]{.tokipona}
+[mi pana e ni tawa jan poka mi. ni li tawa sina]{.tokipona}
 
 ::: info
 

@@ -3,7 +3,6 @@ title: And Another Thing...
 author: gregdan3
 date: date unknown
 ---
-
 ::: error
 
 This lesson is a work in progress!
@@ -14,9 +13,9 @@ This lesson is a work in progress!
 
 <!-- toc -->
 
-- [Words to Know](#words-to-know)
-  - [Particles](#particles)
-  - [Content Words](#content-words)
+  - [Words to Know](#words-to-know)
+    - [Particles](#particles)
+    - [Content Words](#content-words)
 - [Overview](#overview)
   - [Proper Names](#proper-names)
     - [nasin pona](#nasin-pona)
@@ -29,9 +28,9 @@ This lesson is a work in progress!
 - [Exercises](#exercises)
   - [Toki Pona to English](#toki-pona-to-english)
   - [English to Toki Pona](#english-to-toki-pona)
-  - [Toki Pona to English](#toki-pona-to-english-1)
-  - [English to Toki Pona](#english-to-toki-pona-1)
 - [Takeaway](#takeaway)
+    - [Names](#names)
+    - [Numbers](#numbers-1)
 
 <!-- tocstop -->
 
@@ -43,11 +42,11 @@ This lesson is a work in progress!
 
 ::: tpdefinitions
 
-| Word                                        | Use                                        | Writing |
-| ------------------------------------------- | ------------------------------------------ | ------- |
-| [anu]{.glyph}<br/>[anu]{.glyphsubtitle}     | (connect phrases with 'or')                |
-| [kin]{.glyph}<br/>[kin]{.glyphsubtitle}     | (indicate something is additional, extra)  |
-| [nanpa]{.glyph}<br/>[nanpa]{.glyphsubtitle} | (group modifiers into an ordinal, ranking) |
+| Word                                        | Use                                        | Writing                                                            |
+| ------------------------------------------- | ------------------------------------------ | ------------------------------------------------------------------ |
+| [anu]{.glyph}<br/>[anu]{.glyphsubtitle}     | (connect phrases with 'or')                | A capital letter "Y" with a wide top                               |
+| [kin]{.glyph}<br/>[kin]{.glyphsubtitle}     | (indicate something is additional, extra)  | Asterisk or 6 pointed star below a line, like an exclamation point |
+| [nanpa]{.glyph}<br/>[nanpa]{.glyphsubtitle} | (group modifiers into an ordinal, ranking) | Two horizontal and vertical lines as in a hash symbol `#`          |
 
 :::
 
@@ -55,21 +54,21 @@ This lesson is a work in progress!
 
 ::: tpdefinitions
 
-| Word                                            | Definition                                | Writing                                          |
-| ----------------------------------------------- | ----------------------------------------- | ------------------------------------------------ |
-| [kipisi]{.glyph}<br/>[kipisi]{.glyphsubtitle}   | split, cut, divide                        |
-| [leko]{.glyph}<br/>[leko]{.glyphsubtitle}       | square, cube, corner                      | A square, inside another square                  |
-| [meli]{.glyph}<br/>[meli]{.glyphsubtitle}       | girl, woman, female                       |
-| [mije]{.glyph}<br/>[mije]{.glyphsubtitle}       | boy, man, male                            |
-| [monsuta]{.glyph}<br/>[monsuta]{.glyphsubtitle} | fear, fright, scary, frightening, anxiety | Cartoonish representation of shaking due to fear |
-| [namako]{.glyph}<br/>[namako]{.glyphsubtitle}   | extra, ornamental, spicy                  |
-| [soko]{.glyph}<br/>[soko]{.glyphsubtitle}       | mushroom, fungus                          |
-| [tonsi]{.glyph}<br/>[tonsi]{.glyphsubtitle}     | transgender, non-binary                   |
-| [unpa]{.glyph}<br/>[unpa]{.glyphsubtitle}       | sex, sexual relations                     |
-| [wan]{.glyph}<br/>[wan]{.glyphsubtitle}         | one, unite, join, group                   |
-| [tu]{.glyph}<br/>[tu]{.glyphsubtitle}           | two, split, divide, cut                   |
-| [nanpa]{.glyph}<br/>[nanpa]{.glyphsubtitle}     | number                                    |
-| [nimi]{.glyph}<br/>[nimi]{.glyphsubtitle}       | word, name                                |
+| Word                                                           | Definition                                | Writing                                                                                              |
+| -------------------------------------------------------------- | ----------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| [kipisi]{.glyph}<br/>[kipisi]{.glyphsubtitle}                  | split, cut, divide                        | A dot in the upper left and lower right divided down the diagonal by a line, like a percent sign `%` |
+| [leko]{.glyph}<br/>[leko]{.glyphsubtitle}                      | square, cube, corner                      | A square, inside another square                                                                      |
+| [meli]{.glyph}<br/>[meli]{.glyphsubtitle}                      | girl, woman, female                       | Circle with a curve from the bottom, around the top, and back to the bottom like long hair           |
+| [mije]{.glyph}<br/>[mije]{.glyphsubtitle}                      | boy, man, male                            | Circle with corners off the bottom like broad shoulders                                              |
+| [tonsi]{.glyph}<br/>[tonsi]{.glyphsubtitle}                    | transgender, non-binary                   | A circle with three lines coming off at upper left, upper right, bottom                              |
+| [monsuta]{.glyph}<br/>[monsuta]{.glyphsubtitle}                | fear, fright, scary, frightening, anxiety | Cartoonish shaking from fear; a zig zag that starts and ends going down and is larger in the middle  |
+| [namako2]{.glyph}[namako]{.glyph}<br/>[namako]{.glyphsubtitle} | extra, ornamental, spicy                  | An open-top pepper with emitters OR four lines away from the center going up, down, left, right      |
+| [soko]{.glyph}<br/>[soko]{.glyphsubtitle}                      | mushroom, fungus                          | A mushroom; half circle on top with smaller rectangle for the stalk in center to bottom              |
+| [unpa]{.glyph}<br/>[unpa]{.glyphsubtitle}                      | sex, sexual relations                     | Three crossing loops like a triple venn-diagram but simpler                                          |
+| [wan]{.glyph}<br/>[wan]{.glyphsubtitle}                        | one, unite, join, group                   | Number `1` with no base; a vertical line with a small slant down to the left from its top            |
+| [tu]{.glyph}<br/>[tu]{.glyphsubtitle}                          | two, split, divide, cut                   | Two vertical tally marks close together                                                              |
+| [nanpa]{.glyph}<br/>[nanpa]{.glyphsubtitle}                    | number                                    | Two horizontal and vertical lines as in a hash symbol `#`                                            |
+| [nimi]{.glyph}<br/>[nimi]{.glyphsubtitle}                      | word, name                                | A horizontal rectangle with slightly curved corners                                                  |
 
 :::
 
@@ -97,7 +96,7 @@ I'm in France!
 
 </details>
 
-In [sitelen pona]{.tokipona}, proper names are written in a box, then spelled by reading the first letter of each symbol in the box. Here we spell out **Kanse**, which is what France is called in Toki Pona!
+In [sitelen pona]{.tokipona}, proper names are written in a box called a cartouche, then spelled by reading the first letter of each symbol in the box. Here we spell out **Kanse**, which is what France is called in Toki Pona!
 
 Here's a quick exchange between two people who have newly met!
 
@@ -109,11 +108,17 @@ The first speaker's name is **Kimi**, and the second is **Aja**!
 
 ::: info
 
-Toki Pona lets people and places name themselves! For example, Japan is called "にほん (Nihon)" by Japanese speakers, so in Toki Pona, Japan is called **ma Nijon**.
+You can think of the box/cartouche being like the symbol [nimi]{.tokipona}!
 
 :::
 
 #### sitelen kalama
+
+::: error
+
+From the creator of this name-writing system: This is **not** intended to replace what was described above! Learn the official system first, and if you insist, this system will be waiting for you.
+
+:::
 
 There is a fancier way of writing names, known as [sitelen kalama]{.tokipona}. It works with the system described above, so you can do both at once!
 
@@ -147,6 +152,12 @@ Finally, here's somebody named **Kawalo** introducing themselves, and somebody n
 > [toki! mi jan [kala· walo:]]{.tokipona}
 >
 > > [toki a, jan [kala· walo:] o! mi jan [sewi· tawa·] [lukin··]]{.tokipona}
+
+::: info
+
+Toki Pona lets people and places name themselves! For example, Japan is called "にほん (Nihon)" by Japanese speakers, so in Toki Pona, Japan is called **ma Nijon**.
+
+:::
 
 ---
 
@@ -318,6 +329,12 @@ The hunter is sleeping in their cabin or sleeping bag.
 
 [anu]{.tokipona} can join any number of phrases, so it doesn't stop there! You could use this to list out a bunch of possibilities. Obviously, fewer is better for clarity!
 
+::: warning
+
+[anu]{.tokipona} is widely understood, but some speakers use it differently. Those above are the most common ways, but some repeat the intended particle after [anu]{.tokipona}, and others use [anu]{.tokipona} with modifiers or with particles like [pi]{.tokipona}!
+
+:::
+
 ## Exercises
 
 ### Toki Pona to English
@@ -404,24 +421,21 @@ The hunter is sleeping in their cabin or sleeping bag.
 
 </details>
 
-### Toki Pona to English
-
-<details> <summary> </summary>
-
----
-
-</details>
-
-### English to Toki Pona
-
-<details> <summary> </summary>
-
-</details>
-
 ## Takeaway
+
+#### Names
+
+Names in Toki Pona are very open ended! There are tons of ways to spell names using sitelen pona, and tons of ways to adapt a name into Toki Pona's sounds in the first place. There's also no need to have your own actual name be anything related to your name in Toki Pona- have fun with it!
+
+#### Numbers
+
+Numbers are not super important in Toki Pona. If you ever feel like counting an exact number of something, ask yourself if it's important to do so!
+
+Still, there are many ways to express numbers in Toki Pona when you need it. The systems here aren't exhaustive either- if you get clever, you can come up with systems on the spot! But often, comparisons to other things will help you the most.
 
 ---
 
 [Previous lesson](./seme.html)
 
 [Next lesson](./pini.html)
+

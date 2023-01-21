@@ -3,7 +3,6 @@ title: Asking and Answering Questions
 author: gregdan3
 date: date unknown
 ---
-
 ::: error
 
 This lesson is a work in progress!
@@ -16,9 +15,9 @@ Video lesson still to come!
 
 <!-- toc -->
 
-- [Words to Know](#words-to-know)
-  - [Particles](#particles)
-  - [Content Words](#content-words)
+  - [Words to Know](#words-to-know)
+    - [Particles](#particles)
+    - [Content Words](#content-words)
 - [Overview](#overview)
 - [Exercises](#exercises)
   - [Toki Pona to English](#toki-pona-to-english)
@@ -35,10 +34,10 @@ Video lesson still to come!
 
 ::: tpdefinitions
 
-| Word                                      | Definition                  | Writing         |
-| ----------------------------------------- | --------------------------- | --------------- |
-| [anu]{.glyph}<br/>[anu]{.glyphsubtitle}   | (connect phrases with 'or') | A letter "Y"    |
-| [seme]{.glyph}<br/>[seme]{.glyphsubtitle} | (request information)       | A question mark |
+| Word                                      | Definition                  | Writing                                |
+| ----------------------------------------- | --------------------------- | -------------------------------------- |
+| [anu]{.glyph}<br/>[anu]{.glyphsubtitle}   | (connect phrases with 'or') | A capital letter "`Y`" with a wide top |
+| [seme]{.glyph}<br/>[seme]{.glyphsubtitle} | (request information)       | A question mark                        |
 
 :::
 
@@ -160,3 +159,4 @@ Video lesson still to come!
 [Previous lesson](./la.html)
 
 [Next lesson](./bits.html)
+

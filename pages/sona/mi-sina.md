@@ -496,6 +496,12 @@ Another one of the examples is a sentence, and is the most common way to say goo
 
 ---
 
+::: info
+
+Don't forget, you can toggle the glyphs back to familiar letters with the **Toggle SP** button!
+
+:::
+
 [Previous lesson](./open.html)
 
 [Next lesson](./li.html)

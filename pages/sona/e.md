@@ -376,7 +376,7 @@ You're feeling the gum!
 
 You walk through the forest toward your personal getaway, a cozy cabin far from home. When you get there, you find the cabin in disrepair! Vines now creep up the sides, and weeds overgrow the garden; the home is clearly starved of care! You resolve to restore the garden and cabin, and remark to yourself:
 
-<details> <summary> [kasi li wile e pona・mi pona e kasi]{.tokipona} </summary>
+<details> <summary> [kasi li wile e pona! mi pona e kasi]{.tokipona} </summary>
 
 The garden needs help! I will help the plants.
 
@@ -471,7 +471,7 @@ This part of the lesson is a recent addition! Examples coming soon!
 
 <details> <summary> You muddied the water. </summary>
 
-[sina ko e telo・telo li ko]{.tokipona}
+[sina ko e telo! telo li ko]{.tokipona}
 
 </details>
 

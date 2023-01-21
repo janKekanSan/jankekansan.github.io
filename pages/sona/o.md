@@ -72,13 +72,13 @@ date: date unknown
 
 ::: tpdefinitions
 
-| Word                                          | Definition                                  | Writing                                                                                                     |
-| --------------------------------------------- | ------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| [soweli]{.glyph}<br/>[soweli]{.glyphsubtitle} | animal, land creature                       | Body starting on the left, round head on the right, a leg, three more separate legs, and two dotted eyes!   |
-| [waso]{.glyph}<br/>[waso]{.glyphsubtitle}     | bird, flying creature                       | From top, slant down-right into a beak, back to the center, and down to bottom. Then dot the eyes!          |
-| [akesi]{.glyph}<br/>[akesi]{.glyphsubtitle}   | reptile, amphibian, scaly/leathery creature | A tall oval with two or three lines across for legs. Then dot the eyes above the oval!                      |
-| [pipi]{.glyph}<br/>[pipi]{.glyphsubtitle}     | bug, insect, spider, exo-skeletal creature  | A vertical line with three lines across for legs. Then dot the eyes at the top two boxes!                   |
-| [kala]{.glyph}<br/>[kala]{.glyphsubtitle}     | fish, swimming creature                     | A fish in a loop: from top left of fin, down and around for body, back to the bottom left to finish the fin |
+| Word                                                     | Definition                                  | Writing                                                                                                     |
+| -------------------------------------------------------- | ------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| [soweli]{.glyph}<br/>[soweli]{.glyphsubtitle}            | animal, land creature                       | Body starting on the left, round head on the right, a leg, three more separate legs, and two dotted eyes!   |
+| [waso]{.glyph}<br/>[waso]{.glyphsubtitle}                | bird, flying creature                       | From top, slant down-right into a beak, back to the center, and down to bottom. Then dot the eyes!          |
+| [akesi]{.glyph}<br/>[akesi]{.glyphsubtitle}              | reptile, amphibian, scaly/leathery creature | A tall oval with two or three lines across for legs. Then dot the eyes above the oval!                      |
+| [pipi]{.glyph}<br/>[pipi]{.glyphsubtitle}                | bug, insect, spider, exo-skeletal creature  | A vertical line with three lines across for legs. Then dot the eyes at the top two boxes!                   |
+| [kala]{.glyph}[kala2]{.glyph}<br/>[kala]{.glyphsubtitle} | fish, swimming creature                     | A fish in a loop: from top left of fin, down and around for body, back to the bottom left to finish the fin |
 
 :::
 
@@ -173,13 +173,13 @@ This is an interjection, which we’ll learn more about in the next lesson!
 
 This may appear before or after a sentence, but both mean the same:
 
-<details><summary> [jan sona o・sina pona ]{.tokipona} </summary>
+<details><summary> [jan sona o! sina pona ]{.tokipona} </summary>
 
 Teacher, you’re excellent!
 
 </details>
 
-<details><summary> [sina pona・jan sona o ]{.tokipona} </summary>
+<details><summary> [sina pona! jan sona o ]{.tokipona} </summary>
 
 You’re excellent, teacher!
 
@@ -189,7 +189,7 @@ Here, [jan sona o]{.tokipona} is getting the attention of [jan sona]{.tokipona},
 
 You can use this interjection with an instruction, so you know that an instruction will be heard by its intended listener:
 
-<details><summary> [jan ale o・o pana e lipu sina ]{.tokipona} </summary>
+<details><summary> [jan ale o! o pana e lipu sina ]{.tokipona} </summary>
 
 Everyone, please turn in your papers!
 
@@ -209,7 +209,7 @@ Everyone must turn in their papers.
 
 Sometimes you'll see [taso]{.tokipona} at the start of a sentence. This is like saying "but" or "however," and is usually used before a _later_ sentence to connect two ideas.
 
-<details><summary> [mi kute e pakala・taso mi pona ]{.tokipona} </summary>
+<details><summary> [mi kute e pakala! taso mi pona ]{.tokipona} </summary>
 
 I heard something break. But I'm alright!
 
@@ -219,7 +219,7 @@ The first sentence establishes context, and the second provides some clarifying 
 
 For comparison, here is the second sentence without [taso]{.tokipona}:
 
-> [mi kute e pakala・mi pona]{.tokipona}
+> [mi kute e pakala! mi pona]{.tokipona}
 
 Without [taso]{.tokipona}, the sentences are not as clearly related.
 
@@ -303,7 +303,7 @@ Don't put the birds in a box!
 
 You've been frustratedly working on a piece of art for some time. It's a painting you wanted to gift to your teacher, but you don't think it's coming out right and want to destroy it. You show it to one of your friends for advice, and they say:
 
-<details><summary> [**o moli ala e sitelen sina・ona li pona** ]{.tokipona} </summary>
+<details><summary> [**o moli ala e sitelen sina! ona li pona** ]{.tokipona} </summary>
 
 Don't kill your painting. It's fantastic!
 
@@ -321,7 +321,7 @@ Don't destroy your painting. It's fantastic!
 
 Your dad is leaving you at home while he runs errands. He wants you to clean the house, because you made a mess of the place not long ago, bringing in a bunch of branches from outside. He says to you:
 
-<details><summary> [palisa o jaki ala e tomo・o weka e palisa ]{.tokipona} </summary>
+<details><summary> [palisa o jaki ala e tomo! o weka e palisa ]{.tokipona} </summary>
 
 Sticks must not make the house gross. Remove the sticks!
 
@@ -329,7 +329,7 @@ Sticks must not make the house gross. Remove the sticks!
 
 You’ve been hanging out on the porch for too long, and you’ve started to notice lots of obnoxious bugs coming out as the sun sets. In your frustration, you yell out at the bugs:
 
-<details><summary> [pipi o weka・o moli ]{.tokipona} </summary>
+<details><summary> [pipi o weka! o moli!]{.tokipona} </summary>
 
 Bugs, go away! Die!
 
@@ -381,7 +381,7 @@ Hey bird!
 
 Your pet lizard absolutely loves to eat lettuce, tearing right into it. You wanted to show off for some of your friends, but it seems your little lizard friend has stage fright: he won't eat in front of the crowd! You tell him gently:
 
-<details><summary> [o moku e kili・akesi lili o ]{.tokipona} </summary>
+<details><summary> [o moku e kili! akesi lili o ]{.tokipona} </summary>
 
 Please eat the lettuce, little lizard
 
@@ -391,7 +391,7 @@ Please eat the lettuce, little lizard
 
 You're discussing hobbies with a friend, especially when you like to work on your hobbies. Your friend is a morning person and loves feeling the sun as they're productive. You like the sun, but prefer to work in the dark when the moon is out. You tell them:
 
-<details><summary> [suno li pona・taso pimeja li pona e ken sitelen mi ]{.tokipona} </summary>
+<details><summary> [suno li pona! taso pimeja li pona e ken sitelen mi ]{.tokipona} </summary>
 
 The sun is good, but darkness helps my writing ability.
 
@@ -404,7 +404,7 @@ The sun is good, but darkness helps my writing ability.
 
 It's the middle of winter, and you've seen nothing but dreary gray skies for weeks. One day, the cloud cover finally breaks, opening up to reveal beautiful sunlight! You step outside to bask, but unfortunately, the air is still frigid around you. You remark to yourself:
 
-<details><summary> [mi pilin e suno・taso mi lete ]{.tokipona} </summary>
+<details><summary> [mi pilin e suno. taso mi lete ]{.tokipona} </summary>
 
 I feel the sunlight, but I feel cold.
 
@@ -412,7 +412,7 @@ I feel the sunlight, but I feel cold.
 
 You're a genius inventor, working on an amazing new tool: a working pair of wings you can strap to your back! When you come up with a working prototype, you demonstrate the invention in front of a crowd, explaining:
 
-<details><summary> [mi waso ala・taso mi ken tawa sewi ]{.tokipona} </summary>
+<details><summary> [mi waso ala. taso mi ken tawa sewi!]{.tokipona} </summary>
 
 I am not a bird, but I can fly!
 
@@ -438,7 +438,7 @@ This statement has two possible interpretations, even in the given context! It c
 
 Your friend is down-trodden, feeling rejected. They haven't been invited to any parties or events lately, and are worried that all their friends are abandoning them. As a way of lashing out, they insist their friends are the problem, but you console them with some helpful perspective:
 
-<details><summary> [jan pona sina li ike ala・ona li pali taso・ona li wile e sina ]{.tokipona} </summary>
+<details><summary> [jan pona sina li ike ala. ona li pali taso. ona li wile e sina ]{.tokipona} </summary>
 
 Your friends are not mean! They're only working. They want you.
 

@@ -46,9 +46,10 @@ or [memorizing game](https://jamesmoulang.itch.io/nasin-sona-musi) to help memor
 
 **pana sona pi jan ante (Others' Teaching)**
 
-- [Toki Pona: The Language of Good, by jan Sonja](https://www.amazon.com/dp/0978292308/) (ebook or paperback)
+- [o pilin e toki pona, by jan Telakoman](https://www.youtube.com/playlist?list=PLwYL9_SRAk8EXSZPSTm9lm2kD_Z1RzUgm) (playlist)
 - [lipu sona, by soweli Tesa](https://sowelitesa.kittycat.homes/lipu-sona/) (webpage)
 - [lipu sona pona, by jan Lentan](https://lipu-sona.pona.la/) (webpage)
+- [Toki Pona: The Language of Good, by jan Sonja](https://www.amazon.com/dp/0978292308/) (ebook or paperback)
 
 ## namako (extra)
 

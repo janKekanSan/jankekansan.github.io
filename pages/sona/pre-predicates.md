@@ -513,7 +513,7 @@ I'm not trying to turn red!
 
 You've been sorting through boxes of donations, trying to make a list of contributors to thank for their help. Somebody you're working with you points out that you've made a mistake- you attributed a donation to the wrong person! They say:
 
-<details><summary> [**ona li pana e ni ala・ona li pana e ni**]{.tokipona} </summary>
+<details><summary> [**ona li pana e ni ala. ona li pana e ni!**]{.tokipona} </summary>
 
 They gave _not_ this. They gave that!
 
@@ -531,7 +531,7 @@ While negating the predicate can be similar to negating the object, choosing one
 
 You're watching a friend confidently dive through piles of trash to find their lost hat. You're grossed out, but they insist they'll find it. Eventually, they come up from the pile with their hat! But the hat desperately needs to be washed after its garbage stint. Your friend tries to hand you the hat, and you exclaim:
 
-<details><summary> [ni li jaki mute・mi pilin ala e ni]{.tokipona} </summary>
+<details><summary> [ni li jaki mute! mi pilin ala e ni]{.tokipona} </summary>
 
 That is _so_ gross. I'm not touching that!
 
@@ -541,11 +541,11 @@ That is _so_ gross. I'm not touching that!
 
 <details><summary> **I don't think anyone has the answer.** </summary>
 
-[pilin mi li ni・jan ala li sona]{.tokipona}
+[pilin mi li ni: jan ala li sona]{.tokipona}
 
-[pilin mi li ni・jan li sona ala]{.tokipona}
+[pilin mi li ni: jan li sona ala]{.tokipona}
 
-[pilin mi li ni・ala li sona e ni]{.tokipona}
+[pilin mi li ni: ala li sona e ni]{.tokipona}
 
 ::: info
 
@@ -573,7 +573,7 @@ This one sentence needs to be broken up to accomplish two things: expressing tha
 
 [mi alasa e jan lili mi]{.tokipona}
 
-[mi alasa e jan ni・mi mama ona]{.tokipona}
+[mi alasa e jan ni: mi mama ona]{.tokipona}
 
 ::: info
 

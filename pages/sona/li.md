@@ -135,7 +135,7 @@ You can have as many predicates as you want, but try to keep your sentences shor
 
 ::: warning
 
-[mi]{.tokipona} and [sina]{.tokipona} do not take [li]{.tokipona}, so you can't _normally_ do this with them. Instead, use separate sentences: [mi tawa・mi lape]{.tokipona}
+[mi]{.tokipona} and [sina]{.tokipona} do not take [li]{.tokipona}, so you can't _normally_ do this with them. Instead, use separate sentences: [mi tawa. mi lape.]{.tokipona}
 
 :::
 
@@ -372,6 +372,10 @@ The word [li]{.tokipona} is a **particle**, and is not the only one! We will lea
 There are also a handful of words which are so-called **pseudo-particles**. This category is more blurry, but it contains words which have functions as particles _and_ as content words.
 
 ---
+
+::: info
+
+:::
 
 [Previous lesson](./mi-sina.html)
 

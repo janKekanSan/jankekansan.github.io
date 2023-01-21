@@ -173,7 +173,7 @@ Here's an example exchange to fit the idea in a conversation:
 >
 > > 2: [tawa pona]{.tokipona}
 > >
-> > > 1: [a・awen pona]{.tokipona}
+> > > 1: [a! awen pona]{.tokipona}
 
 <details><summary> See Translation! </summary>
 
@@ -209,7 +209,7 @@ Here's a bunch of common use examples. This is not a complete list, and it doesn
 
 > [o pali e ni]{.tokipona}
 >
-> > [a・mi pali]{.tokipona}
+> > [a! mi pali]{.tokipona}
 > >
 > > > [pona]{.tokipona}
 
@@ -267,7 +267,7 @@ I lost my textbook. Crap!
 
 [suwi]{.tokipona} interjection is used to say that something is cute, soft, or sweet.
 
-> [kala ni li suwi a・o lukin!]{.tokipona}
+> [kala ni li suwi a! o lukin!]{.tokipona}
 >
 > > [a a a suwi]{.tokipona}
 

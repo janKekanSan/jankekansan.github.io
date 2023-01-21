@@ -128,7 +128,7 @@ The nurse is giving instructions!
 
 Here, the _subject_ is modified: this is a [jan]{.tokipona}, and the [jan]{.tokipona} is [pona]{.tokipona}! It's similar to saying [jan li pona]{.tokipona}, but in a single phrase.
 
-<details><summary> [mi sona suli e lipu]{.tokipona} </summary>
+<details><summary> [mi sona suli e lipu.]{.tokipona} </summary>
 
 I critically understand the paper.
 
@@ -155,7 +155,7 @@ You're looking at a cute flower!
 
 Here, the object [kasi]{.tokipona} is modified with [suwi]{.tokipona}. Try splitting this into two sentences:
 
-> [sina lukin e kasi・kasi li suwi]{.tokipona}
+> [sina lukin e kasi. kasi li suwi!]{.tokipona}
 
 This means mostly the same: You look at the plant. The plant is cute.
 
@@ -307,7 +307,7 @@ I safely have your gift!
 
 A teacher is struggling to calm their students. The teacher comes in with a new plan each class, but the class stays rowdy! Finally, the teacher turns learning into a group activity, where each student learns one thing and then teaches it to their partner. When asked how the activity went later, the teacher responds excitedly:
 
-<details><summary> [pilin mi li ni・ona li kute sona e mi]{.tokipona} </summary>
+<details><summary> [pilin mi li ni: ona li kute sona e mi]{.tokipona} </summary>
 
 My thought is that they heard and understood me!
 
@@ -386,7 +386,7 @@ Remember, modifier order doesn't matter. Both the modifiers affect the head _sep
 
 You're having a conversation on the phone with a long distance friend who speaks Toki Pona! You're walking in public while doing so, keeping your volume down to be respectful. But a little kid comes running up and, in the blunt way only a child can, says you talk super weirdly! When you get back to your call, you explain:
 
-<details><summary> [jan lili li toki e ni・mi toki pi nasa mute]{.tokipona} </summary>
+<details><summary> [jan lili li toki e ni: mi toki pi nasa mute]{.tokipona} </summary>
 
 A small child said this: I speak weirdly!
 

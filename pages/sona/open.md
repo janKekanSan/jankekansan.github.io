@@ -44,6 +44,14 @@ If an exercise spoiler has **bold text**, there's a lesson with the translation!
 
 If you see a spoiler starting with "a note", it is not necessary to read. But it might still be helpful!
 
+::: info
+
+These lessons are best experienced over a long period of time, reading through one page and regularly reviewing the content and exercises.
+
+If you feel like you're not getting it, take a break and come back later!
+
+:::
+
 ## How to Read
 
 If you know the International Phonetic Alphabet, Toki Pona is read like that.
@@ -165,22 +173,22 @@ Your intuition from English is close enough that you don't need to worry.
 
 Toki Pona can be written with a system known as sitelen pona, or [sitelen pona]{.tokipona}. It has one character per word, which is easy with few words! I provide each character with each new word, and use it for all the exercises.
 
-In sitelen pona, speakers will either start a new line, or use an interpunct `・` at the end of sentences. No other punctuation is generally used, though they are fine to use.
+In sitelen pona, speakers will use a big blank space, a new line, or an interpunct `・` at the end of sentences. No other punctuation is generally used, though anything familiar is fine to use.
 
-> [jan li toki e ni・seme li lon・ona li wile tawa li wile lape]{.tokipona}
+> [jan li toki e ni: seme li lon? ona li wile tawa li wile lape]{.tokipona}
 
 Proper nouns are written in a box called a cartouche, which is an enclosed square around a group of symbols.
 Everything inside the cartouche is read by only its first character:
 
 > [sina wile lon poka mi la mi tu li tawa ma [kiwen alasa nasin sewi esun]]{.tokipona}
 
-The reading of the cartouche is "Kanse".
+The reading of the cartouche is **Kanse**.
 
 Lastly, symbols can be stacked or nested! Both are read from the bottom up, which is the same as reading from the outside in for nested symbols.
 
-> [toki-pona li pona mute tawa mi・toki ni la nasin sitelen li linja-suwi ala]{.tokipona}
+> [toki-pona li pona mute tawa mi! waso li jo e linja-suwi!]{.tokipona}
 
-Here, the first symbol is read "toki pona" and it is nested. The second to last symbol is "linja suwi" and it is stacked.
+The first symbol is read "toki pona" and it is two nested symbols, [toki]{.tokipona} outside and [pona]{.tokipona} inside. The last symbol is "linja suwi" and it is two stacked symbols, [linja]{.tokipona} below and [suwi]{.tokipona} above.
 
 Don't worry about _all_ this just yet! You'll find what feels comfortable as you learn.
 
@@ -242,7 +250,15 @@ There's a button labeled **Toggle SP** in the top right for mobile, and the bott
 
 </details>
 
+If you struggled with some of these, don't worry! A few of them were chosen to be tricky. Come back later and try the pronunciations again!
+
 ---
+
+::: info
+
+Remember to take breaks!
+
+:::
 
 [Next lesson](./mi-sina.html)
 
