@@ -3,24 +3,26 @@ title: Prepositions and Context
 author: gregdan3
 date: date unknown
 ---
+
 [Check out the video lesson too!](https://youtu.be/hbUaLDRmULI)
 
 <details><summary>**Table of Contents**</summary>
 
 <!-- toc -->
 
-  - [Words to Know](#words-to-know)
-    - [Content Words](#content-words)
-    - [Prepositions](#prepositions)
+- [Words to Know](#words-to-know)
+  - [Content Words](#content-words)
+  - [Prepositions](#prepositions)
 - [Overview](#overview)
-    - [Every Preposition](#every-preposition)
-      - [tawa](#tawa)
-      - [lon](#lon)
-      - [tan](#tan)
-      - [sama](#sama)
-      - [kepeken](#kepeken)
-    - [Multiple prepositions](#multiple-prepositions)
-    - [ala and prepositions](#ala-and-prepositions)
+  - [Every Preposition](#every-preposition)
+    - [tawa](#tawa)
+    - [lon](#lon)
+    - [tan](#tan)
+    - [sama](#sama)
+    - [kepeken](#kepeken)
+  - [Right After li](#right-after-li)
+  - [Multiple prepositions](#multiple-prepositions)
+  - [ala and prepositions](#ala-and-prepositions)
 - [Exercises](#exercises)
   - [Toki Pona to English](#toki-pona-to-english)
     - [One Preposition](#one-preposition)
@@ -28,8 +30,8 @@ date: date unknown
     - [ala and Prepositions](#ala-and-prepositions)
   - [English to Toki Pona](#english-to-toki-pona)
 - [Takeaway](#takeaway)
-    - [Grammar](#grammar)
-    - [New Ambiguity](#new-ambiguity)
+  - [Grammar](#grammar)
+  - [New Ambiguity](#new-ambiguity)
 
 <!-- tocstop -->
 
@@ -165,7 +167,7 @@ This can be a place:
 
 <details><summary> [kulupu li <u>**lon kiwen walo jelo**</u>]{.tokipona} </summary>
 
-The group is **on the rocks that are yellow and white**!
+The group is **on the yellow and white rocks**!
 
 </details>
 
@@ -198,19 +200,21 @@ All of these are different kinds of locations. Try lots of things out!
 
 [tan]{.tokipona} talks about the cause or origin of something. It is similar to "from" or "because of" in English.
 
-<details><summary> [mi wawa <u>**tan moku pona**</u>]{.tokipona} </summary>
-
-I'm strong because of good food!
-
-</details>
-
-This can describe some kinds of motion, or just be explanatory:
+This can describe some kinds of motion, or where something is from:
 
 <details><summary> [mi <u>**tan kulupu musi**</u>]{.tokipona} </summary>
 
 I'm from a comedy troupe!
 
 I got here from the improv group.
+
+</details>
+
+It can also describe the cause of something:
+
+<details><summary> [mi wawa <u>**tan moku pona**</u>]{.tokipona} </summary>
+
+I'm strong because of good food!
 
 </details>
 
@@ -256,11 +260,18 @@ The person is cooking the food **using a heating tool**.
 
 </details>
 
-[kepeken]{.tokipona} means "to use". The thing in a [kepeken]{.tokipona} prep phrase is being used by the subject. That's it!
+[kepeken]{.tokipona} means "to use". The thing in a [kepeken]{.tokipona} prep phrase is being used by the subject, maybe for some action or maybe in general. That's it!
 
 ---
 
 Now that we've covered all the prepositions, here are some important notes about using them!
+
+#### Right After li
+
+You might have noticed that the prepositions are a little different if they're right after [li]{.tokipona} / [mi]{.tokipona} / [sina]{.tokipona} or on their own!
+In the predicate, they describe the subject, such as an action the subject takes.
+Separate, prepositions describe where, when, how, or why the action happens- this still applies to the subject, but is a bit more indirect.
+Again, you'll get used to the difference, but it's right in the grammar when you need it!
 
 #### Multiple prepositions
 
@@ -336,7 +347,7 @@ Negating the subject ([jan ala li ...]{.tokipona}) and negating the prepositiona
 
 Most of the time, it makes things confusing! What does it mean when [jan ala li kepeken sona]{.tokipona}? Or when [mi tawa musi sama sina ala]{.tokipona}?
 
-The first is something like "Not-people" or "Non-persons" use knowledge. And the second is "I dance the same way as not-you." These are confusing!
+The first is something like "Not-people" or "Non-persons" use knowledge. And the second is "I dance the same way as not-you." These can be confusing- make sure you clarify yourself with another sentence, or restate!
 
 </details>
 
@@ -545,4 +556,3 @@ This applies to every preposition, but understandably, it affects [tawa]{.tokipo
 [Previous lesson](./pre-predicates.html)
 
 [Next lesson](./o.html)
-
