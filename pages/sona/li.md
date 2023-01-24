@@ -21,7 +21,8 @@ date: 2022-08-16T00:00:00.000Z
     - [Multiple li](#multiple-li-1)
   - [English to Toki Pona](#english-to-toki-pona)
 - [Takeaway](#takeaway)
-    - [Grammar](#grammar)
+    - [Summary of li](#summary-of-li)
+    - [Back to mi/sina](#back-to-misina)
     - [Content Words and Particles](#content-words-and-particles)
 
 <!-- tocstop -->
@@ -109,7 +110,7 @@ Here, the subject is [mama]{.tokipona}, a parent or ancestor. Since the subject 
 
 #### Multiple li
 
-To say a subject does more than one thing, you say [li]{.tokipona} again, making another predicate. Saying [li]{.tokipona} multiple times is like saying "and" in English, but just for the predicate! Here's an example:
+To say a subject does more than one thing, you say [li]{.tokipona} a second time at the end of the predicate, marking another predicate. Saying [li]{.tokipona} multiple times is like saying "and" in English, but just for the predicate! Here's an example:
 
 <details> <summary> [kulupu li suli li pona]{.tokipona} </summary>
 
@@ -145,7 +146,7 @@ You can have as many predicates as you want, but try to keep your sentences shor
 
 ::: warning
 
-[mi]{.tokipona} and [sina]{.tokipona} do not take [li]{.tokipona}, so you can't _normally_ do this with them. Instead, use separate sentences: [mi tawa. mi lape.]{.tokipona}
+[mi]{.tokipona} and [sina]{.tokipona} do not use [li]{.tokipona}, so you can't _normally_ do this with them. Instead, use separate sentences: [mi tawa. mi lape.]{.tokipona}
 
 :::
 
@@ -273,11 +274,75 @@ The food's gone bad!
 
 #### Multiple li
 
-::: error
+<!-- You and your camping crew have been out searching for clean water for hours. You're not out of water, lucky for you, but if you can't find some you'll have to go home early! Through your traveling in the forest, you come across a pleasant stream, and kneel down to drink from it. You don't quite remember you're supposed to clean the water first, but one of your friends stops you and says: -->
 
-This part of the lesson is a recent addition! Examples coming soon!
+You and your camping crew have been out searching for clean water for hours. If you can't find some you'll have to go home! Through your traveling, you come across a stream, and kneel to drink. You forget you're supposed to clean the water first, but a friend stops you and says:
 
-:::
+<details> <summary> [telo li ike li jaki]{.tokipona} </summary>
+
+The stream is bad and gross!
+
+---
+
+- The water is awful, and icky!
+- The fluid is unpleasant, and nasty!
+
+</details>
+
+A young child comes home from school one day, upset that they're not making any friends because others at school think they're weird. Their mom explains that these troubles go away, but the weirdness stays and helps you stand out! She gives the following wisdom:
+
+<details> <summary> [nasa li suli li wawa]{.tokipona} </summary>
+
+Being different is important, and powerful.
+
+---
+
+- Uniqueness is valuable, and inspiring.
+- Weirdness is critical, and amazing.
+
+</details>
+
+You're staying over at a friend's place, playing video games and chatting throughout the entire day. As it's starting to get late out, you and your friend realize you're hungry. Luckily, your friend's dad is here to save the day! He calls down the stairs at you both to let you know to come eat dinner, and make you both come up to eat:
+
+<details> <summary> [moku li seli li pona]{.tokipona} </summary>
+
+The soup is hot, and tasty!
+
+---
+
+- Dinner is warm and ready!
+- The food is heated up and delicious!
+
+</details>
+
+Your sister rushes down the stairs, excited to tell dad a new trick she just figured out! But you have to give her the disappointing news that he's not gonna listen right now. You say to her:
+
+<details> <summary> [mama li moku li lape ]{.tokipona} </summary>
+
+Dad ate and went to bed!
+
+---
+
+- Mom had food, then slept
+- Mom will eat, then sleep
+- The babysitter eats and sleeps
+- Grandma ate, and slept.
+
+</details>
+
+You've been watching the snow fall from the comfort of your home all day. It's so cold outside, you swear you'd freeze if you went out! But you brave it, because you have to know: is the tree in your hard okay? You reach out to touch its leaves with a gloved hand and remark:
+
+<details> <summary> [kasi li lete li kiwen]{.tokipona} </summary>
+
+The tree is so cold, and rock hard!
+
+---
+
+- The grass is cold and hard to the touch!
+- The flower is frozen solid!
+-
+
+</details>
 
 ### English to Toki Pona
 
@@ -361,17 +426,67 @@ Some of these will have multiple translations under the spoiler!
 
 </details>
 
+::: info
+
+The following use "and." Remember how multiple [li]{.tokipona} works!
+
+:::
+
+<details><summary> The person is tall and friendly! </summary>
+
+[jan li suli li pona]{.tokipona}
+
+[jan li suli. jan li pona.]{.tokipona}
+
+</details>
+
+<details><summary> The food is tasty and sweet. </summary>
+
+[moku li pona li suwi]{.tokipona}
+
+[moku li pona. moku li suwi.]{.tokipona}
+
+</details>
+
+<details><summary> The fire is smelly and ashy! </summary>
+
+[seli li jaki li ko]{.tokipona}
+
+[seli li jaki. seli li ko.]{.tokipona}
+
+</details>
+
+<details><summary> Water is food, and important </summary>
+
+[telo li moku li suli]{.tokipona}
+
+[telo li moku. telo li suli.]{.tokipona}
+
+</details>
+
+<details><summary> The group is small and having fun! </summary>
+
+[kulupu li lili li musi!]{.tokipona}
+
+[kulupu li lili. kulupu li musi!]{.tokipona}
+
+</details>
+
 ## Takeaway
 
-#### Grammar
+#### Summary of li
 
-In the previous lesson, we covered a sentence which exclusively began with either [mi]{.tokipona} or [sina]{.tokipona}. In this lesson, we covered a sentence where anything can start the sentence- so long as it is followed by [li]{.tokipona}. In fact, these are the same kind of sentence!
+[li]{.tokipona} lets you talk about a variety of subjects in Toki Pona. Remember that the word before is the subject, and the word after describes what the subject _is_ or _does_- respectively called the subject and predicate! You can think of [li]{.tokipona} being similar to English "doing" or "being," but comparisons to other languages are no substitute for practice!
+
+#### Back to mi/sina
+
+In the previous lesson, we covered a sentence which exclusively began with either [mi]{.tokipona} or [sina]{.tokipona}. In this lesson, we covered a sentence where anything can start the sentence- so long as it is followed by [li]{.tokipona}. These are actually the same kind of sentence!
 
 > [[mi]{.tokipona}/[sina]{.tokipona}] [predicate]
 
 > [subject] [li]{.tokipona} [predicate]
 
-Another way to think about this sentence is this: if the subject is _exactly_ [mi]{.tokipona} or _exactly_ [sina]{.tokipona}, don't include [li]{.tokipona}.
+[mi]{.tokipona} and [sina]{.tokipona} are just special subjects. Another way to think about this sentence is this: if the subject is _exactly_ [mi]{.tokipona} or _exactly_ [sina]{.tokipona}, don't include [li]{.tokipona}. You can also think of it as though [mi]{.tokipona} and [sina]{.tokipona} _are_ [li]{.tokipona} for their kind of sentence. These different ways of looking at it are helpful tools, but don't let it get in the way of the language!
 
 #### Content Words and Particles
 
@@ -379,11 +494,13 @@ Any _meaningful_ word may appear in either the subject, the predicate, or both a
 
 The word [li]{.tokipona} is a **particle**, and is not the only one! We will learn about the rest in future lessons. What they have in common is having no semantic function- no meaning.
 
-There are also a handful of words which are so-called **pseudo-particles**. This category is more blurry, but it contains words which have functions as particles _and_ as content words.
+There are also a handful of words which are so-called **pseudo-particles**. This category is more blurry, but it contains words which have functions as particles _and_ as content words. Again, we'll learn about those in a future lesson!
 
 ---
 
 ::: info
+
+There's no better time to start practicing than right now! Check out **[ma pona pi toki pona on Discord](https://discord.gg/mapona)**, and **[try listening to some Toki Pona](https://www.youtube.com/playlist?list=PLwYL9_SRAk8E-dYX8ioR3tt91hcd5bxV0)**!
 
 :::
 
