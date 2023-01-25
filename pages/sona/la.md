@@ -24,12 +24,14 @@ Video lesson still to come!
     - [Phrases and la summary](#phrases-and-la-summary)
     - [Sentences and la](#sentences-and-la)
     - [Sentences and la summary](#sentences-and-la-summary)
-    - [Comparisons with la](#comparisons-with-la)
     - [Cool Tricks](#cool-tricks)
+      - [Comparisons with la](#comparisons-with-la)
+      - [Avoiding an extra "pi"](#avoiding-an-extra-pi)
 - [Exercises](#exercises)
   - [Toki Pona to English](#toki-pona-to-english)
   - [English to Toki Pona](#english-to-toki-pona)
 - [Takeaway](#takeaway)
+    - [la and expression](#la-and-expression)
 
 <!-- tocstop -->
 
@@ -56,7 +58,7 @@ Video lesson still to come!
 | [open]{.glyph}<br/>[open]{.glyphsubtitle}   | start, begin, enable, open                     | A box with open top and horizonal line in center                    |
 | [pini]{.glyph}<br/>[pini]{.glyphsubtitle}   | finish, stop, disable, close                   | A vertical line, flat caps on top/bottom, like capital letter "`I`" |
 | [mani]{.glyph}<br/>[mani]{.glyphsubtitle}   | money, cash, barterable thing, thing of value  | Circle with two horns like cows                                     |
-| [esun]{.glyph}<br/>[esun]{.glyphsubtitle}   | trade, barter, shopping, economy               | A fancy letter "L" with loops at top right and bottom left          |
+| [esun]{.glyph}<br/>[esun]{.glyphsubtitle}   | trade, barter, shopping, economy, exchange     | A fancy letter "L" with loops at top right and bottom left          |
 | [len]{.glyph}<br/>[len]{.glyphsubtitle}     | cloth, cover, clothing, secret, hidden         | Box with 3 small lines from the bottom left, right, and center      |
 | [mun]{.glyph}<br/>[mun]{.glyphsubtitle}     | moon, star, planet, celestial body             | A crescent moon with points facing the left                         |
 | [sin]{.glyph}<br/>[sin]{.glyphsubtitle}     | new, fresh, update                             | 3 lines a bit away from the center, pointing left, right, and up    |
@@ -254,10 +256,15 @@ The other interpretations, such as cause and effect, are still possible with phr
 
 - If you're good, I'm good!
 - When you're well, I'm well!
+- You're happy, so I'm happy!
 
 </details>
 
-<details><summary> []{.tokipona} </summary>
+<details><summary> [jan li pona la, mi wile lon poka ona]{.tokipona} </summary>
+
+- If people are good, I want to be at their side.
+- When people are good, I want to be close to them.
+- People are good, so I want to be near them.
 
 </details>
 
@@ -307,13 +314,25 @@ Think to the start of the lesson again:
 
 When [la]{.tokipona} has a sentence, it most often works like this!
 
-#### Comparisons with la
-
-Back in the [prepositions lesson](./preps.html), we learned a bunch of ways to make comparisons using [tawa]{.tokipona}!
-
-[sama]{.tokipona} and
-
 #### Cool Tricks
+
+##### Comparisons with la
+
+Back in the [prepositions lesson](./preps.html), we learned several ways to make comparisons using [tawa]{.tokipona} and [sama]{.tokipona}! [la]{.tokipona}, especially with a phrase, gives us a few more useful comparisons!
+
+<details><summary> [tomo la tomo ni li lili]{.tokipona} </summary>
+
+This house is small compared to other houses.
+
+In the context of buildings, this building is tiny.
+
+To other rooms, this room is too little!
+
+</details>
+
+This works very similarly to [tawa]{.tokipona}, for the same reason we described before
+
+##### Avoiding an extra "pi"
 
 Remember way back in the [modifiers lesson](./mod-pi.html) when we learned about [pi]{.tokipona} and using only one at a time? If you've been practicing since then, you might have noticed that two [pi]{.tokipona} phrases can be hard to avoid sometimes. But [la]{.tokipona} can help!
 
@@ -352,9 +371,7 @@ Here's the trick: a phrase in [la]{.tokipona} can be referenced with [ni]{.tokip
 
 - The work of the teacher's book is so much!
 - The teacher has a book. The book has work. The work of the book is a lot.
--
-
-The teacher's book has a lot of complex work!
+- The teacher's book has a lot of complex work!
 
 </details>
 
@@ -368,41 +385,99 @@ When you use the blade of flight, you can defeat the mega toad!
 
 If you use the gods' sword, you can stop the evil of the great lizard!
 
-</details>
+---
 
-<details><summary> []{.tokipona} </summary>
-
-</details>
-
-<details><summary> []{.tokipona} </summary>
+-
+-
 
 </details>
 
-<details><summary> []{.tokipona} </summary>
+<details><summary> [sewi li pimeja mute la mi ken lukin e mun ale!]{.tokipona} </summary>
+
+When the sky is very dark, I can see all of the stars!
+
+---
+
+-
+-
 
 </details>
 
-<details><summary> []{.tokipona} </summary>
+<details><summary> [jan li olin e mi la mi olin wawa e ona]{.tokipona} </summary>
+
+When somebody loves me, I love them deeply.
+
+---
+
+-
+-
 
 </details>
 
-<details><summary> []{.tokipona} </summary>
+<details><summary> [tenpo suli li open la mi ale li ken musi lon supa musi!]{.tokipona} </summary>
+
+When the big event begins, we can all dance on the dance floor!
+
+---
+
+-
+-
 
 </details>
 
-<details><summary> []{.tokipona} </summary>
+<details><summary> [mi lukin e sina la mi lukin e linja sina. ona li pona mute tawa lukin]{.tokipona} </summary>
+
+When I see you, I look at your hair. It's so pretty to see.
+
+---
+
+-
+-
 
 </details>
 
-<details><summary> []{.tokipona} </summary>
+<details><summary> [mi pilin ike a. taso sina weka e kon jaki tan tomo la mi kama pona]{.tokipona} </summary>
+
+---
+
+-
+-
 
 </details>
 
-<details><summary> []{.tokipona} </summary>
+<details><summary> [mi tawa tomo esun la mi kama jo e poki pi telo wawa!]{.tokipona} </summary>
+
+---
+
+-
+-
 
 </details>
 
-<details><summary> []{.tokipona} </summary>
+You and a friend are on a carnival ride! You didn't particularly want to go, but it's too late, you're on the ride! It starts spinning wildly, and you sit way down in the cup and try to wait it out. Then you start to feel bad and tell your friend:
+
+<details><summary> [poki ni li awen tawa sike la mi kama nasa jaki...]{.tokipona} </summary>
+
+If this ride keeps spinning, I'm gonna be sick!
+
+</details>
+
+You are sitting under a flowing waterfall, feeling the icy water hit your back and wash down into the pond around you. You sit still and take in the sensation, and as you do so, you think to yourself in your meditation:
+
+<details><summary> [mi esun e kon la mi awen lon]{.tokipona} </summary>
+
+If I exchange air, I remain alive.
+
+</details>
+
+<details><summary> [mi pilin e linja sina la mi pakala. mi weka e linja lili sina!!]{.tokipona} </summary>
+
+When I was touching your hair, I made a mistake. I pulled a little of your hair off!
+
+---
+
+-
+-
 
 </details>
 
@@ -450,17 +525,17 @@ If you use the gods' sword, you can stop the evil of the great lizard!
 
 ## Takeaway
 
-[la]{.tokipona} gives context to a sentence, and it comes in two forms
+#### la and expression
 
-1. incomplete sentences (phrases, individual words):
-   pona la mi pini e pali mi
-   these can be conditional but more frequently are more like the literal interpretation: in the context of (before la), (after la)
-   so here, this is like "in the context of good, I finish my work"
+[la]{.tokipona} makes Toki Pona's expressivity come alive! So many new expressions are possible with it, it's hard to imagine Toki Pona without this piece of grammar. You can describe context, cause and effect, and everything a preposition can do.
 
-2. complete sentences:
-   jan li pona la, mi wile lon poka ona
-   these are much more frequently some kind of conditional, but they can just be context too. this one is a conditional:
-   "if people are good, I want to be at their side"
+As a short review, [la]{.tokipona} comes in two forms:
+
+- Incomplete sentences, as in phrases and individual words. Most often these are interpreted as "in the context of [before la], [after la]". They can also convey condition, or circumstance!
+- Complete sentences, which can get complex and long! These are often conditional, interpreted as "if [before la], then [after la]".
+
+  these are much more frequently some kind of conditional, but they can just be context too. this one is a conditional:
+  "if people are good, I want to be at their side"
 
 but! don't worry much about not getting la yet! it is the most complex part of toki pona's grammar, and while that isn't saying much, it is still nuanced. it probably took me two months of regular practice to really feel like i understood la.
 
