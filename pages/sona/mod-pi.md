@@ -481,7 +481,31 @@ The strange-feeling part is tricky! [nasa]{.tokipona} is a more appropriate head
 
 </details>
 
-<!-- TODO: more examples -->
+<details><summary> The yellow light is shining brightly, and hurting my eyes! </summary>
+
+[suno jelo li wawa, li ike e lukin mi!]{.tokipona}
+
+[suno jelo li wawa, li pakala e lukin mi!]{.tokipona}
+
+</details>
+
+<details><summary> I gave many sweets and many foods! </summary>
+
+[mi pana e suwi mute e moku mute]{.tokipona}
+
+</details>
+
+<details><summary> The black and white flames are strange, and beautiful </summary>
+
+[seli walo pimeja li nasa li pona mute]{.tokipona}
+
+</details>
+
+<details><summary> Sleeping well helped me work and play!  </summary>
+
+[lape pona li pona e pali mi e musi mi]{.tokipona}
+
+</details>
 
 ## Takeaway
 

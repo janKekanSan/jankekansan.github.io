@@ -3,26 +3,25 @@ title: Prepositions and Context
 author: gregdan3
 date: date unknown
 ---
-
 [Check out the video lesson too!](https://youtu.be/hbUaLDRmULI)
 
 <details><summary>**Table of Contents**</summary>
 
 <!-- toc -->
 
-- [Words to Know](#words-to-know)
-  - [Content Words](#content-words)
-  - [Prepositions](#prepositions)
+  - [Words to Know](#words-to-know)
+    - [Content Words](#content-words)
+    - [Prepositions](#prepositions)
 - [Overview](#overview)
-  - [Every Preposition](#every-preposition)
-    - [tawa](#tawa)
-    - [lon](#lon)
-    - [tan](#tan)
-    - [sama](#sama)
-    - [kepeken](#kepeken)
-  - [Right After li](#right-after-li)
-  - [Multiple prepositions](#multiple-prepositions)
-  - [ala and prepositions](#ala-and-prepositions)
+    - [Every Preposition](#every-preposition)
+      - [tawa](#tawa)
+      - [lon](#lon)
+      - [tan](#tan)
+      - [sama](#sama)
+      - [kepeken](#kepeken)
+    - [Right After li](#right-after-li)
+    - [Multiple prepositions](#multiple-prepositions)
+    - [ala and prepositions](#ala-and-prepositions)
 - [Exercises](#exercises)
   - [Toki Pona to English](#toki-pona-to-english)
     - [One Preposition](#one-preposition)
@@ -30,8 +29,8 @@ date: date unknown
     - [ala and Prepositions](#ala-and-prepositions)
   - [English to Toki Pona](#english-to-toki-pona)
 - [Takeaway](#takeaway)
-  - [Grammar](#grammar)
-  - [New Ambiguity](#new-ambiguity)
+    - [Grammar](#grammar)
+    - [New Ambiguity](#new-ambiguity)
 
 <!-- tocstop -->
 
@@ -527,6 +526,12 @@ In this case, using the [tawa]{.tokipona} preposition twice is confusing, since 
 
 </details>
 
+<details><summary> The white and blue are strange-looking together </summary>
+
+[walo en laso li nasa tawa lukin lon poka]{.tokipona}
+
+</details>
+
 <!-- TODO: more examples -->
 
 ## Takeaway
@@ -556,3 +561,4 @@ This applies to every preposition, but understandably, it affects [tawa]{.tokipo
 [Previous lesson](./pre-predicates.html)
 
 [Next lesson](./o.html)
+

@@ -22,6 +22,7 @@ date: 2022-09-09T00:00:00.000Z
   - [Toki Pona to English](#toki-pona-to-english)
     - [Single e](#single-e)
     - [Multiple e](#multiple-e-1)
+    - [Multiple li and Multiple e](#multiple-li-and-multiple-e)
   - [English to Toki Pona](#english-to-toki-pona)
 - [Takeaway](#takeaway)
     - [Grammar](#grammar)
@@ -162,19 +163,27 @@ This uses a modifier (next lesson!) to demonstrate the point, now referencing a 
 
 #### Multiple e
 
-Like [li]{.tokipona}, [e]{.tokipona} can be used more than once to apply a predicate to more than one object at a time! This applies to every object that follows a predicate. Like [li]{.tokipona}, this is like "and" in English, but now for the object!
-
-<details> <summary> [mi moku e suwi e lete]{.tokipona} </summary>
-
-I eat sugar and ice.
-
-</details>
+Like [li]{.tokipona}, [e]{.tokipona} can be used more than once to apply a predicate to more than one object at a time! The predicate before applies to every object that follows. Like [li]{.tokipona}, this is like "and" in English, but now for the object!
 
 <details> <summary> [kasi li pilin e suno e telo]{.tokipona} </summary>
 
 The plant is feeling the sun and the water!
 
 </details>
+
+Here, the subject [kasi]{.tokipona} (plant) is [pilin]{.tokipona} (feeling) both [suno]{.tokipona} and [telo]{.tokipona}, (light and water).
+
+Here's another example:
+
+<details> <summary> [mi moku e suwi e lete]{.tokipona} </summary>
+
+I eat sweets and ice cubes!
+
+I eat sugar and ice.
+
+</details>
+
+Here, the subject [mi]{.tokipona} (I) is eating [suwi]{.tokipona} (something sweet) and [lete]{.tokipona}, something cold.
 
 #### Multiple li and multiple e
 
@@ -184,13 +193,19 @@ When using multiple [li]{.tokipona} _and_ multiple [e]{.tokipona}, objects conne
 
 The plant is sweet, and gives off dust!
 
+The plant is cute, and is spitting sap!
+
 </details>
+
+Here, the [kasi]{.tokipona} is [suwi]{.tokipona}, and at the same time, it [pana]{.tokipona} (gives) some [ko]{.tokipona} (dust, slime)
 
 <details> <summary> [kasi li pana e ko li suwi]{.tokipona} </summary>
 
 The plant gives off dust, and is sweet!
 
 </details>
+
+This sentence means the same thing, but has the connected predicate and object, [pana]{.tokipona} and [ko]{.tokipona} swapped with the single predicate [pana]{.tokipona}. The meaning is still the same!
 
 Objects _always_ connect to the predicate before.
 For multiple [e]{.tokipona} with multiple [li]{.tokipona}, the rules are the same as with just multiple [e]{.tokipona}!
@@ -201,18 +216,39 @@ The person made a mess on the book and cleaned the book.
 
 </details>
 
-<details><summary> A note about multiple [li]{.tokipona} and multiple [e]{.tokipona} </summary>
+Here, [jan]{.tokipona} (a person) does two actions, acting on to two objects with each: First, they [jaki]{.tokipona} (make gross) a [lipu]{.tokipona} (document, book), then they [telo]{.tokipona} (water, clean) a [lipu]{.tokipona}. Often, the same word referenced twice is referring to the same object- so [lipu]{.tokipona} could be the same both times! But it can be a different object too. Watch for context!
 
-There is some room for experimentation! The above statement can be understood similarly with a relaxed grammar:
+::: warning
 
-> [jan li jaki li telo e lipu]{.tokipona}
+The last part of this section is a bit more advanced- it requires you to be thoughtful and intentional about how you speak. If you wanna get right to practice, [check out the exercises](#exercises)!
 
-The first predicate does not connect to the object because another predicate interrupts it.
-Despite that, this sentence can be understood the same as the above one.
+:::
 
-That is, can be. It could be understood as "This person is gross, and washes the book."
+There is some room for experimentation! The sentence from before can be made shorter but understood the same with relaxed grammar:
 
-If somebody doesn't understand you, try restating yourself. Using more words to be more specific is always helpful!
+<details><summary>[jan li jaki li telo e lipu]{.tokipona}</summary>
+
+**If [jaki]{.tokipona} and [telo]{.tokipona} both apply to the [lipu]{.tokipona}**:
+
+Somebody made a mess on this book, and cleaned it.
+
+**If they are separate statements in the same sentence**:
+
+Somebody is gross, and cleaned this book.
+
+</details>
+
+Normally, the first predicate [jaki]{.tokipona} would not connect to the object [lipu]{.tokipona}. But some speakers will apply two or more predicates to the same object, like this sentence- it's relaxed!
+
+Here, [jan]{.tokipona} (a person) does two actions, acting on to one object with each: First, they [jaki]{.tokipona} (make gross) a [lipu]{.tokipona} (document, book), then they [telo]{.tokipona} (water, clean) a [lipu]{.tokipona}. Often, the same word in the same position a second time means the same object- so the [lipu]{.tokipona} could be the same both times! But it can be a different object too. Watch for context!
+
+If you haven't checked under the spoiler already, check now. There are multiple meanings possible if you use this relaxed grammar!
+
+::: info
+
+When somebody doesn't understand you, try restating yourself. Using more words to be more specific is always helpful!
+
+:::
 
 </details>
 
@@ -391,9 +427,185 @@ The garden needs help! I will help the plants.
 
 ::: error
 
-This part of the lesson is a recent addition! Examples coming soon!
+Working on this!
 
 :::
+
+Discussion...
+
+<details> <summary> [kasi li nasa li jaki!]{.tokipona} </summary>
+
+Translation...
+
+---
+
+- .
+- .
+- .
+
+</details>
+
+Discussion...
+
+<details> <summary> [mama li pona e mi e sina]{.tokipona} </summary>
+
+Dad helps you and me.
+
+---
+
+- .
+- .
+- .
+
+</details>
+
+Discussion...
+
+<details> <summary> [mi wile e moku e lape]{.tokipona} </summary>
+
+I want food and sleep!
+
+---
+
+- .
+- .
+- .
+
+</details>
+
+Discussion...
+
+<details> <summary> []{.tokipona} </summary>
+
+Translation...
+
+---
+
+- .
+- .
+- .
+
+</details>
+
+Discussion...
+
+<details> <summary> [kama]{.tokipona} </summary>
+
+Translation...
+
+---
+
+- .
+- .
+- .
+
+</details>
+
+Discussion...
+
+<details> <summary> [kama]{.tokipona} </summary>
+
+Translation...
+
+---
+
+- .
+- .
+- .
+
+</details>
+
+#### Multiple li and Multiple e
+
+::: error
+
+Working on this!
+
+:::
+
+Discussion...
+
+<details> <summary> [tawa li pona e jan li suli]{.tokipona} </summary>
+
+Walking helps you, and is important!
+
+---
+
+- .
+- .
+- .
+
+</details>
+
+Discussion...
+
+<details> <summary> []{.tokipona} </summary>
+
+Translation...
+
+---
+
+- .
+- .
+- .
+
+</details>
+
+Discussion...
+
+<details> <summary> [kama]{.tokipona} </summary>
+
+Translation...
+
+---
+
+- .
+- .
+- .
+
+</details>
+
+Discussion...
+
+<details> <summary> [kama]{.tokipona} </summary>
+
+Translation...
+
+---
+
+- .
+- .
+- .
+
+</details>
+
+Discussion...
+
+<details> <summary> [kama]{.tokipona} </summary>
+
+Translation...
+
+---
+
+- .
+- .
+- .
+
+</details>
+
+Discussion...
+
+<details> <summary> [kama]{.tokipona} </summary>
+
+Translation...
+
+---
+
+- .
+- .
+- .
+
+</details>
 
 ### English to Toki Pona
 
@@ -475,6 +687,70 @@ This part of the lesson is a recent addition! Examples coming soon!
 
 </details>
 
+::: info
+
+The following use "and." Remember how multiple [e]{.tokipona} works, and multiple [li]{.tokipona} too!
+
+:::
+
+<details> <summary> I added sugar to the batter, and the drinks! </summary>
+
+[mi suwi e moku e telo]{.tokipona}
+
+[mi ko e moku e telo]{.tokipona}
+
+::: info
+
+Don't worry that the detail of "batter" and "drinks" are lost. If you got close to this translation, you're fine!
+
+:::
+
+</details>
+
+<details><summary> I need a book and a drink! </summary>
+
+[mi wile e lipu e telo]{.tokipona}
+
+</details>
+
+<details><summary> People understand feelings and changes. </summary>
+
+[jan li sona e pilin e ante.]{.tokipona}
+
+</details>
+
+<details><summary> Listening changed the people and the plants </summary>
+
+[kute li ante e jan e kasi]{.tokipona}
+
+</details>
+
+<details><summary> Somebody ruined the flower and the statue! </summary>
+
+[jan li pakala e kasi e kiwen!]{.tokipona}
+
+</details>
+
+<details><summary> The grime is ruining the boardgames and books! </summary>
+
+[jaki li pakala e musi e lipu]{.tokipona}
+
+</details>
+
+<details><summary> The person sees a collection, and gifted a book! </summary>
+
+[jan lukin e kulupu, li pana e lipu]{.tokipona}
+
+</details>
+
+<details><summary> Wanting will help you and hurt you. </summary>
+
+[wile mute li pona e sina li ike e sina]{.tokipona}
+
+[wile mute li pona li ike e sina]{.tokipona}
+
+</details>
+
 ## Takeaway
 
 #### Grammar
@@ -506,6 +782,12 @@ And the same goes for what third person things do to other third person things, 
 The list of particles we know has grown to include [e]{.tokipona}! Every other new word is a content word.
 
 ---
+
+::: info
+
+Try remembering the words with **[this game by James Moulang](https://jamesmoulang.itch.io/nasin-sona-musi)**! Getting ahead of the lessons on words will help!
+
+:::
 
 [Previous lesson](./li.html)
 

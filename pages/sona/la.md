@@ -3,12 +3,6 @@ title: 'Context, Comparisons, la'
 author: gregdan3
 date: date unknown
 ---
-::: error
-
-This lesson is a work in progress!
-
-:::
-
 Video lesson still to come!
 
 <details><summary>**Table of Contents**</summary>
@@ -316,6 +310,12 @@ When [la]{.tokipona} has a sentence, it most often works like this!
 
 #### Cool Tricks
 
+::: info
+
+This is a bunch of extra knowledge, helpful ways to use [la]{.tokipona} that can help you think about how it works in Toki Pona! It isn't required, and if you're not interested, skip ahead to [the exercises](#exercises)
+
+:::
+
 ##### Comparisons with la
 
 Back in the [prepositions lesson](./preps.html), we learned several ways to make comparisons using [tawa]{.tokipona} and [sama]{.tokipona}! [la]{.tokipona}, especially with a phrase, gives us a few more useful comparisons!
@@ -481,11 +481,57 @@ When I was touching your hair, I made a mistake. I pulled a little of your hair 
 
 </details>
 
+You recently finished an intense course on welding. A friend texts to ask how it went, so you go to your garage to make them a gift. When you see them again, you hand them two fused soda cans with a perfect weld between them, and say this of your skill:
+
+<details><summary> [open la mi sona ala. pini la mi sona ale.]{.tokipona} </summary>
+
+At the beginning, I didn't understand. At the end, I fully understood.
+
+</details>
+
+<details><summary> []{.tokipona} </summary>
+
+</details>
+
+<details><summary> []{.tokipona} </summary>
+
+</details>
+
 <details><summary> []{.tokipona} </summary>
 
 </details>
 
 ### English to Toki Pona
+
+<details><summary> If I stare into the sun, I won't be able to see! </summary>
+
+[mi lukin e suno lon tenpo suli la mi kama ken ala lukin!]{.tokipona}
+
+[mi lukin e suno lon tenpo suli la mi ken ala lukin!]{.tokipona}
+
+</details>
+
+<details><summary> Your donations have helped us afford a new nursery! </summary>
+
+[sina pana e mani la mi kama ken pali e tomo pi jan lili kepeken mani!]{.tokipona}
+
+[mani sina li ken e ni: mi pali e tomo pi jan lili]
+
+</details>
+
+<details><summary> **When I push on the side of the building, I hear cracking noises!** </summary>
+
+[mi alasa tawa e poka tomo la mi kute e kalama pakala!]{.tokipona}
+
+[mi wawa e poka tomo la mi kute e kalama pakala!]{.tokipona}
+
+</details>
+
+<details><summary>  </summary>
+
+[]{.tokipona}
+
+</details>
 
 <details><summary>  </summary>
 

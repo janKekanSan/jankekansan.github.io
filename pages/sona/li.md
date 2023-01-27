@@ -472,6 +472,12 @@ The following use "and." Remember how multiple [li]{.tokipona} works!
 
 </details>
 
+<details><summary> The rock is wet and strange </summary>
+
+[kiwen li telo li nasa]{.tokipona}
+
+</details>
+
 ## Takeaway
 
 #### Summary of li
