@@ -23,6 +23,7 @@ date: 2023-01-01T00:00:00.000Z
 - [vallee152](#vallee152)
 - [the rats](#the-rats)
 - [waso Wen](#waso-wen)
+- [dogi Koko](#dogi-koko)
 
 <!-- tocstop -->
 
@@ -149,3 +150,11 @@ Self-explanatory.
 <img src="/art/fan/the_more_you_know.png" style="max-width:500px;width:100%;">
 
 GOLD
+
+## dogi Koko
+
+[from dogi Koko, a brilliant and creative artist with a simple style!](https://socel.net/@neverRare)
+
+<img src="/art/fan/kirby.png" style="max-width:500px;width:100%;">
+
+Absolutely adorable!
