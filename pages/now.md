@@ -3,12 +3,12 @@ title: Now
 author: jan Kekan San
 date: 2022-12-25T00:00:00.000Z
 ---
-
 **Last updated: 2023-01-31**
 
 - I'm posting my names, numbers, kin lesson on February 3rd!
 - I recorded my multiple li/e, en, anu lesson and am editing now!
 - I'm dubbing another one of waso mu's comics!
+- I'm writing my [la lesson](/sona/la.html) and [seme lesson](/sona/seme.html)- and they'll get recorded shortly after!
 
 ## Waiting
 
@@ -34,3 +34,4 @@ This is in most to least recent order.
 - I wrote an article on simulation theory and threw it to a few others.
 - I'm cleaning up my new site, <https://mun.la>, that split from <https://gregdan3.dev>!
   - While I'm doing that, I'm making sure I don't cause any link rot. Keep the internet alive!
+
