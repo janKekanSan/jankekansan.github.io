@@ -151,6 +151,8 @@ Self-explanatory.
 
 GOLD
 
+---
+
 ## dogi Koko
 
 [from dogi Koko, a brilliant and creative artist with a simple style!](https://socel.net/@neverRare)
