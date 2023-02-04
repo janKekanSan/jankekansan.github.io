@@ -110,6 +110,12 @@ Here, the subject is [mama]{.tokipona}, a parent or ancestor. Since the subject 
 
 #### Multiple li
 
+<!-- ::: info -->
+<!---->
+<!-- [Check out this video lesson too!]() There are a few other topics here, but the very start has what you need! -->
+<!---->
+<!-- ::: -->
+
 To say a subject does more than one thing, you say [li]{.tokipona} a second time at the end of the predicate, marking another predicate. Saying [li]{.tokipona} multiple times is like saying "and" in English, but just for the predicate! Here's an example:
 
 <details> <summary> [kulupu li suli li pona]{.tokipona} </summary>

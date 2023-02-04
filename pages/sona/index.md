@@ -39,9 +39,10 @@ or [memorizing game](https://jamesmoulang.itch.io/nasin-sona-musi) to help memor
 - [Prepositions](./preps.html) --- [On YouTube](https://youtu.be/hbUaLDRmULI)
 - [Instructions with o](./o.html) --- [On YouTube](https://youtu.be/lf3lDjIWiYI)
 - [Interjections and a](./interjections.html) --- [On YouTube](https://youtu.be/0hz1VHldmq4)
-- [[WIP] Context, Comparisons, la](./la.html)
+- [Context, Comparisons, la](./la.html)
 - [[WIP] Questions, answers, seme](./seme.html)
-- [[WIP] And Another Thing...](./bits.html)
+- [And Another Thing...](./bits.html) --- [On YouTube](https://youtu.be/P0N1S5jBujI)
+<!-- --- [Also On YouTube](https://youtu.be/P0N1S5jBujI) -->
 - [[WIP] Finale](./pini.html)
 
 **pana sona pi jan ante (Others' Teaching)**

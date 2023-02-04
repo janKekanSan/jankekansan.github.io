@@ -163,6 +163,12 @@ This uses a modifier (next lesson!) to demonstrate the point, now referencing a 
 
 #### Multiple e
 
+<!-- ::: info -->
+<!---->
+<!-- [Check out this video lesson too!]() There are a few other topics here, but the very start has what you need! -->
+<!---->
+<!-- ::: -->
+
 Like [li]{.tokipona}, [e]{.tokipona} can be used more than once to apply a predicate to more than one object at a time! The predicate before applies to every object that follows. Like [li]{.tokipona}, this is like "and" in English, but now for the object!
 
 <details> <summary> [kasi li pilin e suno e telo]{.tokipona} </summary>

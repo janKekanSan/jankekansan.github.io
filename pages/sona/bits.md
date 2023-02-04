@@ -9,6 +9,8 @@ This lesson is a work in progress!
 
 :::
 
+[Check out the video lesson too!](https://youtu.be/P0N1S5jBujI) This video has a few more topics at the start.
+
 <details><summary>**Table of Contents**</summary>
 
 <!-- toc -->

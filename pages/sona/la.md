@@ -47,19 +47,19 @@ Video lesson still to come!
 
 ::: tpdefinitions
 
-| Word                                        | Definition                                     | Writing                                                             |
-| ------------------------------------------- | ---------------------------------------------- | ------------------------------------------------------------------- |
-| [open]{.glyph}<br/>[open]{.glyphsubtitle}   | start, begin, enable, open                     | A box with open top and horizonal line in center                    |
-| [pini]{.glyph}<br/>[pini]{.glyphsubtitle}   | finish, stop, disable, close                   | A vertical line, flat caps on top/bottom, like capital letter "`I`" |
-| [mani]{.glyph}<br/>[mani]{.glyphsubtitle}   | money, cash, barterable thing, thing of value  | Circle with two horns like cows                                     |
-| [esun]{.glyph}<br/>[esun]{.glyphsubtitle}   | trade, barter, shopping, economy, exchange     | A fancy letter "L" with loops at top right and bottom left          |
-| [len]{.glyph}<br/>[len]{.glyphsubtitle}     | cloth, cover, clothing, secret, hidden         | Box with 3 small lines from the bottom left, right, and center      |
-| [mun]{.glyph}<br/>[mun]{.glyphsubtitle}     | moon, star, planet, celestial body             | A crescent moon with points facing the left                         |
-| [sin]{.glyph}<br/>[sin]{.glyphsubtitle}     | new, fresh, update                             | 3 lines a bit away from the center, pointing left, right, and up    |
-| [olin]{.glyph}<br/>[olin]{.glyphsubtitle}   | love, respect, affection, emotional connection | 2 hearts; the top heart is covered a bit by the bottom heart        |
-| [kon]{.glyph}<br/>[kon]{.glyphsubtitle}     | air, ghost, spirit, unseen agent               | 2 wavy vertical lines, like smell lines in a comic                  |
-| [linja]{.glyph}<br/>[linja]{.glyphsubtitle} | line, rope, string, hair, connection           | A wavy horizontal line like a rope or string                        |
-| [sike]{.glyph}<br/>[sike]{.glyphsubtitle}   | circle, spiral, sphere, cycle                  | A big circle with a small circle inside it                          |
+| Word                                        | Definition                                     | Writing                                                            |
+| ------------------------------------------- | ---------------------------------------------- | ------------------------------------------------------------------ |
+| [open]{.glyph}<br/>[open]{.glyphsubtitle}   | start, begin, enable, open                     | A box with open top and horizonal line in center                   |
+| [pini]{.glyph}<br/>[pini]{.glyphsubtitle}   | finish, stop, disable, close                   | A vertical line, flat caps on top/bottom, like capital letter `I`" |
+| [mani]{.glyph}<br/>[mani]{.glyphsubtitle}   | money, cash, barterable thing, thing of value  | Circle with two horns like cows                                    |
+| [esun]{.glyph}<br/>[esun]{.glyphsubtitle}   | trade, barter, shopping, economy, exchange     | A fancy letter "L" with loops at top right and bottom left         |
+| [len]{.glyph}<br/>[len]{.glyphsubtitle}     | cloth, cover, clothing, secret, hidden         | Box with 3 small lines from the bottom left, right, and center     |
+| [mun]{.glyph}<br/>[mun]{.glyphsubtitle}     | moon, star, planet, celestial body             | A crescent moon with points facing the left                        |
+| [sin]{.glyph}<br/>[sin]{.glyphsubtitle}     | new, fresh, update                             | 3 lines a bit away from the center, pointing left, right, and up   |
+| [olin]{.glyph}<br/>[olin]{.glyphsubtitle}   | love, respect, affection, emotional connection | 2 hearts; the top heart is covered a bit by the bottom heart       |
+| [kon]{.glyph}<br/>[kon]{.glyphsubtitle}     | air, ghost, spirit, unseen agent               | 2 wavy vertical lines, like smell lines in a comic                 |
+| [linja]{.glyph}<br/>[linja]{.glyphsubtitle} | line, rope, string, hair, connection           | A wavy horizontal line like a rope or string                       |
+| [sike]{.glyph}<br/>[sike]{.glyphsubtitle}   | circle, spiral, sphere, cycle                  | A big circle with a small circle inside it                         |
 
 :::
 
@@ -77,7 +77,7 @@ Every example has more information than just a translation beneath! All of them 
 
 First, [la]{.tokipona} is about context. When does something happen? What is it related to? [la]{.tokipona} tells you that when one thing is going on, another thing is too!
 
-The thing before [la]{.tokipona} is a condition for the thing after it, like **if** and **then** working together in English. This may be a requirement, such as if the thing after [la]{.tokipona} _only_ happens when the thing before [la]{.tokipona} does! It can also be where or when something happens, which isn't required, just helpful.
+The thing before [la]{.tokipona} is a condition for the thing after it, like **if** and **then** working together in English. This may be a requirement, such as if the thing after [la]{.tokipona} _only_ happens when the thing before [la]{.tokipona} does! It can also be where or when something happens, like prepositions.
 
 When reading [la]{.tokipona} phrases, it's helpful to think of them like this:
 
@@ -91,7 +91,15 @@ When reading [la]{.tokipona} phrases, it's helpful to think of them like this:
 
 > Because of **[1]**, **[2]** happens.
 
+Keep these shorthands in mind as we explore the different ways [la]{.tokipona} can be used!
+
 #### Phrases and la
+
+::: info
+
+There are lots of detailed examples here, but feel free to skip around! Each works independently, with different perspectives on how [la]{.tokipona} works. They progress to a deeper understanding by the end though!
+
+:::
 
 The context could be a subject or object, such as a person, place, or thing:
 
@@ -111,6 +119,8 @@ This is similar to using **[tawa]{.tokipona}**!
 
 </details>
 
+Here, the [la]{.tokipona} phrase has [mi]{.tokipona} in it- this could mean "in my opinion" or "in my perspective". [mi]{.tokipona} being context for the rest of the sentence is a way of saying that something is relevant to the speaker- relevant to you! This works like one of the prepositions too- check under the spoiler!
+
 <details><summary> [sewi la sina ken lukin e suno mute]{.tokipona} </summary>
 
 Up, you're able to observe the lanterns
@@ -126,6 +136,8 @@ This is similar to using **[lon]{.tokipona}**!
 :::
 
 </details>
+
+Here, [sewi]{.tokipona} is the context. Since [sewi]{.tokipona} is often a location, this could refer to where something occurs- which is also like one of the prepositions! Check under the spoiler for more info.
 
 The context could be an action or idea too:
 
@@ -145,6 +157,8 @@ This is similar to using **[tan]{.tokipona}**!
 
 </details>
 
+Here, the context [pali]{.tokipona} is an action- working or creating. The [la]{.tokipona} phrase here refers to cause: [pali]{.tokipona} must happen for everything else to happen! Even this works like one of the prepositions- in fact, **most [la]{.tokipona} phrases work like one of the prepositions**! This guideline can help you interpret sentences with [la]- but be careful, because this doesn't describe every case!
+
 <details><summary> [utala la mi pana e kiwen!]{.tokipona} </summary>
 
 - In a fight, I threw a rock!
@@ -158,9 +172,11 @@ The context completely changes the interpretation here! Without [utala]{.tokipon
 
 </details>
 
-It could be a description:
+Here, [utala]{.tokipona} works like a location, idea, or action depending on perspective. This is a matter of interpretation, but the result is the same: A fight is context for the sentence!
 
-<details><summary> [laso la, kasi li pilin pona. loje la, kasi li kama moli.]{.tokipona} </summary>
+The context in [la]{.tokipona} could be a description:
+
+<details><summary> [laso la kasi li pilin pona. loje la kasi li kama moli.]{.tokipona} </summary>
 
 When green, plants feel good. When red or brown, plants die.
 
@@ -174,6 +190,9 @@ Contrast is one of the most important ways to express complex ideas in Toki Pona
 
 </details>
 
+Here, two contexts are used in separate sentences to explain a deeper idea! They each explain what to look for for their respective sentences. The first sentence uses [laso]{.tokipona}: "If green, then...", and that is contrasted with [loje]{.tokipona}: "If red, then..."
+Check under the spoiler for the translation!
+
 <details><summary> [ike la soweli mi li moku e lipu sona mi!]{.tokipona} </summary>
 
 Unfortunately, my dog ate my homework!
@@ -182,7 +201,7 @@ Upsetting! My cats chewed up my textbook!
 
 ::: info
 
-Here, the description works a lot like an interjection!
+Here's another version with [ike]{.tokipona} as an interjection:
 
 [ike! soweli mi li moku e lipu sona mi!]{.tokipona}
 
@@ -190,7 +209,9 @@ Here, the description works a lot like an interjection!
 
 </details>
 
-Or it could be any prepositional phrase, which is the same as having that phrase at the end of the sentence:
+And here, the context [ike]{.tokipona} tells us how the speaker feels about the statement. It's like an interjection!
+
+Lastly, you can have any prepositional phrase as the context of the sentence! This is the same as having that phrase at the end of the sentence:
 
 <details><summary> [lon tomo la mi lape]{.tokipona} </summary>
 
@@ -206,6 +227,14 @@ Here's the same statement without [la]{.tokipona}!
 
 </details>
 
+Because so many [la]{.tokipona} phrases are similar to prepositional phrases, you can often drop the preposition itself from a la phrase and have the same meaning. This especially applies to [lon]{.tokipona} and [tawa]{.tokipona}, and sometimes [tan]{.tokipona} and [kepeken]{.tokipona}.
+
+> [tomo la mi lape]{.tokipona}
+
+This restatement without [lon]{.tokipona} can mean the same as the above example!
+
+Here's an example with [sama]{.tokipona}:
+
 <details><summary> [sama kasi la mi awen lon ma]{.tokipona} </summary>
 
 Like plants, I stay still on the ground.
@@ -220,11 +249,19 @@ Here's the same statement without [la]{.tokipona}!
 
 </details>
 
-You can sometimes drop the preposition itself and be understood the same, too. This works best with [lon]{.tokipona} and [tawa]{.tokipona}, and sometimes with [tan]{.tokipona} and [kepeken]{.tokipona}. But be careful- some of these restatements introduce other interpretations too!
+[sama]{.tokipona} doesn't usually work without its preposition, but it can still be used in the [la]{.tokipona} phrase!
+
+::: warning
+
+Be careful- not using the preposition can introduce other interpretations! Be ready to restate yourself is somebody isn't sure what you mean!
+
+:::
 
 #### Phrases and la summary
 
-Think back to the start of the lesson, and this example:
+That was a lot of information! Let's take a moment to review everything so far.
+
+Think back to the start of the lesson, and this example of how [la]{.tokipona} could be interpreted:
 
 > In the context of **[1]**, **[2]**
 
@@ -254,7 +291,9 @@ The other interpretations, such as cause and effect, are still possible with phr
 
 </details>
 
-<details><summary> [jan li pona la, mi wile lon poka ona]{.tokipona} </summary>
+Here, the context is ["sina pona"]{.tokipona}, which is an easy sentence to interpret by this point! But with [la]{.tokipona}, this idea is _required_
+
+<details><summary> [jan li pona la mi wile lon poka ona]{.tokipona} </summary>
 
 - If people are good, I want to be at their side.
 - When people are good, I want to be close to them.
@@ -269,6 +308,12 @@ Most sentences can go before [la]{.tokipona}, even if they're complex!
 - When somebody pans for gold all day, they want to sleep!
 - If everyone is looking for iron while the sun is out, they'll want to go to bed!
 - The people were hunting for tungsten every day, so they want to sleep!
+
+::: warning
+
+All these different interpretations are just an artifact of interpreting Toki Pona in English- the Toki Pona would only mean one thing in one context!
+
+:::
 
 </details>
 
@@ -300,6 +345,14 @@ If possible, I will get several game consoles, and gift them to my neighbors!
 
 </details>
 
+You'll notice that one of the phrases is just a statement, and the other is a sentence. That's totally okay!
+
+::: warning
+
+There's a million different ways to express a sentence before [la]{.tokipona}- I can't cover them all! But you can trust that if you understand the sentence before [la]{.tokipona} and the one after too, you can figure out what they mean together with [la]{.tokipona} between!
+
+:::
+
 #### Sentences and la summary
 
 Think to the start of the lesson again:
@@ -328,9 +381,19 @@ In the context of buildings, this building is tiny.
 
 To other rooms, this room is too little!
 
+::: info
+
+This is still like a preposition: [tawa]{.tokipona}!
+
+[tomo ni li lili tawa tomo **ante**]{.tokipona}
+
+With this restatement, it helps to include the modifier [ante]{.tokipona} for clarity.
+
+:::
+
 </details>
 
-This works very similarly to [tawa]{.tokipona}, for the same reason we described before
+This works very similarly to [tawa]{.tokipona}, too. Check under the spoiler!
 
 ##### Avoiding an extra "pi"
 
@@ -365,7 +428,7 @@ Here, we skip introducing the idea of the [lipu]{.tokipona} having [pali]{.tokip
 <details><summary>[jan pi pana sona la pali pi lipu ona li wawa]{.tokipona}</summary>
 </details>
 
-Here's the trick: a phrase in [la]{.tokipona} can be referenced with [ni]{.tokipona} or [ona]{.tokipona} as appropriate, which makes the grammatical flow of a sentence cleaner!
+In short: You can put a phrase in [la]{.tokipona}, then refer to it later with [ona]{.tokipona} or [ni]{.tokipona}.
 
 <details><summary> See the various interpretations! </summary>
 
@@ -489,7 +552,9 @@ At the beginning, I didn't understand. At the end, I fully understood.
 
 </details>
 
-<details><summary> []{.tokipona} </summary>
+<details><summary> [sina tawa e sike lon ma la ale li pona. sina ni lon mun suli la sike li weka a!]{.tokipona} </summary>
+
+If you throw a disk on the ground, everything is fine. If you do this on the Moon, the disk will be gone!
 
 </details>
 
@@ -586,6 +651,12 @@ As a short review, [la]{.tokipona} comes in two forms:
 but! don't worry much about not getting la yet! it is the most complex part of toki pona's grammar, and while that isn't saying much, it is still nuanced. it probably took me two months of regular practice to really feel like i understood la.
 
 ---
+
+::: warning
+
+Remember, these lessons aren't comprehensive. The suggestions for interpretation only tell part of the story- nothing can replace practice, so try [la]{.tokipona} out and learn everything you can!
+
+:::
 
 [Previous lesson](./interjections.html)
 
