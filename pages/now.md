@@ -7,9 +7,8 @@ date: 2022-12-25T00:00:00.000Z
 **Last updated: 2023-02-08**
 
 - I'm prepping for a live VR lesson on [la]{.tokipona} this Saturday!
-- I'm also prepping for another live lesson on translation this Sunday! [Check it out!](https://discord.gg/wJcGmudsyP?event=1072924670812242061)
+- I'm prepping for a walkthrough translation lesson this Sunday! [Check it out!](https://discord.gg/wJcGmudsyP?event=1072924670812242061)
 - I recorded my multiple li/e, en, anu lesson and am editing now!
-- I'm editing waso mu's comic- I came up with a great way to do the voices!
 - I'm writing my [la lesson](/sona/la.html) and [seme lesson](/sona/seme.html)- and they'll get recorded shortly after!
 
 ## Waiting
@@ -19,7 +18,6 @@ date: 2022-12-25T00:00:00.000Z
 - I'm thinking about writing another article for [lipu tenpo](https://liputenpo.org/)! Running is great!
   - I delayed this because there are more exciting things I'm working on right this moment!
 - I'm trying to find the time to record me playing the Toki Pona translation of Celeste!
-<!-- - I wanna do a walkthrough translation exercise for mun pi ante toki, but of what text? Slay the Spire... -->
 
 ---
 
@@ -27,6 +25,7 @@ date: 2022-12-25T00:00:00.000Z
 
 This is in most to least recent order.
 
+- I dubbed waso mu's comic ["mi lon e ma"](https://waso-mu.neocities.org/musi/), [see it here!](https://youtu.be/GU9PEZ9TARs)
 - I'm posting my names, numbers, kin lesson on February 3rd!
 - I'm writing my [lesson on la](/sona/la.html) and adding more to my [extras lesson](/sona/bits.html)!
   - Fun fact: I didn't introduce multiple li/e early in my video lessons, so I have to do an extras lesson on them. Oops! I'll be doing en/anu at the same time though!
