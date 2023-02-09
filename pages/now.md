@@ -3,11 +3,13 @@ title: Now
 author: jan Kekan San
 date: 2022-12-25T00:00:00.000Z
 ---
-**Last updated: 2023-01-31**
 
-- I'm posting my names, numbers, kin lesson on February 3rd!
+**Last updated: 2023-02-08**
+
+- I'm prepping for a live VR lesson on [la]{.tokipona} this Saturday!
+- I'm also prepping for another live lesson on translation this Sunday! [Check it out!](https://discord.gg/wJcGmudsyP?event=1072924670812242061)
 - I recorded my multiple li/e, en, anu lesson and am editing now!
-- I'm dubbing another one of waso mu's comics!
+- I'm editing waso mu's comic- I came up with a great way to do the voices!
 - I'm writing my [la lesson](/sona/la.html) and [seme lesson](/sona/seme.html)- and they'll get recorded shortly after!
 
 ## Waiting
@@ -17,7 +19,7 @@ date: 2022-12-25T00:00:00.000Z
 - I'm thinking about writing another article for [lipu tenpo](https://liputenpo.org/)! Running is great!
   - I delayed this because there are more exciting things I'm working on right this moment!
 - I'm trying to find the time to record me playing the Toki Pona translation of Celeste!
-- I wanna do a walkthrough translation exercise for mun pi ante toki, but of what text? Slay the Spire...
+<!-- - I wanna do a walkthrough translation exercise for mun pi ante toki, but of what text? Slay the Spire... -->
 
 ---
 
@@ -25,6 +27,7 @@ date: 2022-12-25T00:00:00.000Z
 
 This is in most to least recent order.
 
+- I'm posting my names, numbers, kin lesson on February 3rd!
 - I'm writing my [lesson on la](/sona/la.html) and adding more to my [extras lesson](/sona/bits.html)!
   - Fun fact: I didn't introduce multiple li/e early in my video lessons, so I have to do an extras lesson on them. Oops! I'll be doing en/anu at the same time though!
 - I played through the first part of waso Keli's translation of Link's Awakening! [See it here](https://youtu.be/xi8gUvqyMm4)!
@@ -34,4 +37,3 @@ This is in most to least recent order.
 - I wrote an article on simulation theory and threw it to a few others.
 - I'm cleaning up my new site, <https://mun.la>, that split from <https://gregdan3.dev>!
   - While I'm doing that, I'm making sure I don't cause any link rot. Keep the internet alive!
-
