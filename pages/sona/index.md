@@ -76,7 +76,9 @@ that most others will understand.
   <!-- - [Numbers and _nanpa_](./nanpa.html) -->
 
 - **Specific Words**
+  - [Tricks with la](./la-extras.html)
   - [pali doesn't (usually) mean "do"](./palint.html)
+  - [taso and kin](./taso-vs-taso-la.html): Why do [taso]{.tokipona} and [kin]{.tokipona} act differently around [la]{.tokipona}?
   <!-- - [mi monsuta e sina](./monsutatesu.html) -->
 - **Prepositions**
   <!-- - [Telling Time](./time.html) -->

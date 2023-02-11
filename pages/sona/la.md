@@ -1,7 +1,7 @@
 ---
-title: 'Context, Comparisons, la'
+title: Context and la
 author: gregdan3
-date: date unknown
+date: 2023-02-11T00:00:00.000Z
 ---
 Video lesson still to come!
 
@@ -15,12 +15,19 @@ Video lesson still to come!
 - [Overview](#overview)
     - [Intro to la](#intro-to-la)
     - [Phrases and la](#phrases-and-la)
+      - [la and perspective](#la-and-perspective)
+      - [la and location](#la-and-location)
+      - [la and cause](#la-and-cause)
+      - [la and description](#la-and-description)
+      - [la and feelings](#la-and-feelings)
+      - [la and meaning](#la-and-meaning)
+      - [la and whole prepositions](#la-and-whole-prepositions)
     - [Phrases and la summary](#phrases-and-la-summary)
     - [Sentences and la](#sentences-and-la)
     - [Sentences and la summary](#sentences-and-la-summary)
-    - [Cool Tricks](#cool-tricks)
-      - [Comparisons with la](#comparisons-with-la)
-      - [Avoiding an extra "pi"](#avoiding-an-extra-pi)
+    - [Other Important Topics](#other-important-topics)
+      - [Multiple la](#multiple-la)
+      - [if la, then o](#if-la-then-o)
 - [Exercises](#exercises)
   - [Toki Pona to English](#toki-pona-to-english)
   - [English to Toki Pona](#english-to-toki-pona)
@@ -75,9 +82,9 @@ Every example has more information than just a translation beneath! All of them 
 
 [la]{.tokipona} is Toki Pona's most complex piece of grammar. But it's still simple like the rest of the language, so let's dig in!
 
-First, [la]{.tokipona} is about context. When does something happen? What is it related to? [la]{.tokipona} tells you that when one thing is going on, another thing is too!
+First, [la]{.tokipona} is about context. When does something happen? What is it related to? [la]{.tokipona} tells you that when one thing is going on, another thing happens.
 
-The thing before [la]{.tokipona} is a condition for the thing after it, like **if** and **then** working together in English. This may be a requirement, such as if the thing after [la]{.tokipona} _only_ happens when the thing before [la]{.tokipona} does! It can also be where or when something happens, like prepositions.
+The thing before [la]{.tokipona} is a condition for the thing after it, like **if** and **then** working together in English. This may be a requirement, such as if the thing after [la]{.tokipona} _only_ happens when the thing before [la]{.tokipona} does! It can also be where, when, or why something happens, like prepositions.
 
 When reading [la]{.tokipona} phrases, it's helpful to think of them like this:
 
@@ -97,11 +104,15 @@ Keep these shorthands in mind as we explore the different ways [la]{.tokipona} c
 
 ::: info
 
-There are lots of detailed examples here, but feel free to skip around! Each works independently, with different perspectives on how [la]{.tokipona} works. They progress to a deeper understanding by the end though!
+Feel free to skip around! There are many detailed examples here, and each works independently, with different perspectives on how [la]{.tokipona} works. Just be sure to read them all by the end!
 
 :::
 
-The context could be a subject or object, such as a person, place, or thing:
+---
+
+##### la and perspective
+
+The context could be a subject or object, such as a person or thing. This is useful for discussing perspective, like the preposition [tawa]{.tokipona}:
 
 <details><summary> [mi la sina sewi lon utala!]{.tokipona} </summary>
 
@@ -111,7 +122,7 @@ In my opinion, you're going to win the competition!
 
 ::: info
 
-This is similar to using **[tawa]{.tokipona}**!
+Here is a restatement using **[tawa]{.tokipona}**:
 
 [sina sewi lon utala tawa mi]{.tokipona}
 
@@ -119,7 +130,13 @@ This is similar to using **[tawa]{.tokipona}**!
 
 </details>
 
-Here, the [la]{.tokipona} phrase has [mi]{.tokipona} in it- this could mean "in my opinion" or "in my perspective". [mi]{.tokipona} being context for the rest of the sentence is a way of saying that something is relevant to the speaker- relevant to you! This works like one of the prepositions too- check under the spoiler!
+Here, the [la]{.tokipona} phrase has [mi]{.tokipona} in it- this could mean "in my opinion" or "in my perspective". [mi]{.tokipona} being context for the rest of the sentence is a way of saying that something is relevant to the speaker- relevant to you! Check under the spoiler for your understanding.
+
+---
+
+##### la and location
+
+But the context isn't limited to people or things- it can also be places, like the preposition [lon]{.tokipona}:
 
 <details><summary> [sewi la sina ken lukin e suno mute]{.tokipona} </summary>
 
@@ -129,7 +146,7 @@ In the sky, you can see many lights!
 
 ::: info
 
-This is similar to using **[lon]{.tokipona}**!
+Here's a restatement that uses **[lon]{.tokipona}**:
 
 [sina ken lukin e suno mute lon sewi]{.tokipona}
 
@@ -137,9 +154,13 @@ This is similar to using **[lon]{.tokipona}**!
 
 </details>
 
-Here, [sewi]{.tokipona} is the context. Since [sewi]{.tokipona} is often a location, this could refer to where something occurs- which is also like one of the prepositions! Check under the spoiler for more info.
+Here, [sewi]{.tokipona} is the context. Since [sewi]{.tokipona} is often a location, this could refer to where something occurs! This isn't the only interpretation possible though. Check under the spoiler!
 
-The context could be an action or idea too:
+---
+
+##### la and cause
+
+The context could be an action or idea too, and refer to cause and effect like the preposition [tan]{.tokipona}:
 
 <details><summary> [pali sina la jan mute li kama pona]{.tokipona} </summary>
 
@@ -157,24 +178,15 @@ This is similar to using **[tan]{.tokipona}**!
 
 </details>
 
-Here, the context [pali]{.tokipona} is an action- working or creating. The [la]{.tokipona} phrase here refers to cause: [pali]{.tokipona} must happen for everything else to happen! Even this works like one of the prepositions- in fact, **most [la]{.tokipona} phrases work like one of the prepositions**! This guideline can help you interpret sentences with [la]- but be careful, because this doesn't describe every case!
+Here, the context [pali]{.tokipona} is an action- working or creating. The [la]{.tokipona} phrase refers to cause: [pali]{.tokipona} must happen for everything else to happen! Even this works like one of the prepositions- **most phrases in [la]{.tokipona} work like one of the prepositions**! This doesn't work every time, but it can help your understanding go far!
 
-<details><summary> [utala la mi pana e kiwen!]{.tokipona} </summary>
+<!-- This guideline can help you interpret sentences with [la]- but be careful, because this doesn't describe every case! -->
 
-- In a fight, I threw a rock!
-- In the context of fighting, I give a rock.
+---
 
-::: info
+##### la and description
 
-The context completely changes the interpretation here! Without [utala]{.tokipona}, this is just gifting a rock. With it, this is a real fight!
-
-:::
-
-</details>
-
-Here, [utala]{.tokipona} works like a location, idea, or action depending on perspective. This is a matter of interpretation, but the result is the same: A fight is context for the sentence!
-
-The context in [la]{.tokipona} could be a description:
+The context in [la]{.tokipona} could be a description, which is especially useful for contrast:
 
 <details><summary> [laso la kasi li pilin pona. loje la kasi li kama moli.]{.tokipona} </summary>
 
@@ -192,6 +204,14 @@ Contrast is one of the most important ways to express complex ideas in Toki Pona
 
 Here, two contexts are used in separate sentences to explain a deeper idea! They each explain what to look for for their respective sentences. The first sentence uses [laso]{.tokipona}: "If green, then...", and that is contrasted with [loje]{.tokipona}: "If red, then..."
 Check under the spoiler for the translation!
+
+Fun fact: these sentences are the least like the prepositions. Instead, these sentences have context that works a lot like **modifiers**!
+
+---
+
+##### la and feelings
+
+Sometimes, the context will be the speaker's opinion or feelings about the main sentence, like an interjection:
 
 <details><summary> [ike la soweli mi li moku e lipu sona mi!]{.tokipona} </summary>
 
@@ -211,7 +231,32 @@ Here's another version with [ike]{.tokipona} as an interjection:
 
 And here, the context [ike]{.tokipona} tells us how the speaker feels about the statement. It's like an interjection!
 
-Lastly, you can have any prepositional phrase as the context of the sentence! This is the same as having that phrase at the end of the sentence:
+---
+
+##### la and meaning
+
+Sometimes, it won't be clear what the context is when you hear it. It could be a place, object, action, description, or many more things- and that's okay!
+
+<details><summary> [utala la mi pana e kiwen!]{.tokipona} </summary>
+
+- In a fight, I threw a rock!
+- In the context of fighting, I give a rock.
+
+::: info
+
+The context completely changes the interpretation here! Without [utala]{.tokipona}, most listeners wouldn't assume the rock is being thrown. With it, this is a real fight!
+
+:::
+
+</details>
+
+Here, [utala]{.tokipona} works like a location, idea, or action depending on perspective. This is all about interpretation, but the result is the same: the main sentence happens in the context of a fight!
+
+---
+
+##### la and whole prepositions
+
+Lastly, you can have any complete prepositional phrase as the context of the sentence! This is the same as having that phrase at the end of the sentence:
 
 <details><summary> [lon tomo la mi lape]{.tokipona} </summary>
 
@@ -227,13 +272,16 @@ Here's the same statement without [la]{.tokipona}!
 
 </details>
 
-Because so many [la]{.tokipona} phrases are similar to prepositional phrases, you can often drop the preposition itself from a la phrase and have the same meaning. This especially applies to [lon]{.tokipona} and [tawa]{.tokipona}, and sometimes [tan]{.tokipona} and [kepeken]{.tokipona}.
+<!-- We noted before that [la]{.tokipona} phrases often work like prepositions, even without the preposition itself. But for clarity, you can include the preposition itself in the [la]{.tokipona} phrase to the same effect!  -->
+<!---->
+
+Because so many [la]{.tokipona} phrases are similar to prepositional phrases, you can often drop the preposition itself and have the same meaning as with it. This especially applies to [lon]{.tokipona} and [tawa]{.tokipona}, and sometimes [tan]{.tokipona} and [kepeken]{.tokipona}.
 
 > [tomo la mi lape]{.tokipona}
 
 This restatement without [lon]{.tokipona} can mean the same as the above example!
 
-Here's an example with [sama]{.tokipona}:
+Notably, [sama]{.tokipona} phrases won't usually mean the same thing if you drop the preposition.
 
 <details><summary> [sama kasi la mi awen lon ma]{.tokipona} </summary>
 
@@ -249,7 +297,7 @@ Here's the same statement without [la]{.tokipona}!
 
 </details>
 
-[sama]{.tokipona} doesn't usually work without its preposition, but it can still be used in the [la]{.tokipona} phrase!
+[sama]{.tokipona} usually needs its preposition to be understood, but it can still be used in the [la]{.tokipona} phrase!
 
 ::: warning
 
@@ -291,7 +339,9 @@ The other interpretations, such as cause and effect, are still possible with phr
 
 </details>
 
-Here, the context is ["sina pona"]{.tokipona}, which is an easy sentence to interpret by this point! But with [la]{.tokipona}, this idea is _required_
+Here, the context is ["sina pona"]{.tokipona}, which you know! The main sentence is ["mi pona"]{.tokipona}, and you know that too! But with [la]{.tokipona} between them, the meaning of the second sentence now depends on the first. You might say, "if [sina pona]{.tokipona}, then [mi pona]{.tokipona}". Check your understanding in the spoiler!
+
+You can have any kind of sentence before [la]{.tokipona}, so here's a few other examples out of the different sentences we've seen so far!
 
 <details><summary> [jan li pona la mi wile lon poka ona]{.tokipona} </summary>
 
@@ -301,41 +351,72 @@ Here, the context is ["sina pona"]{.tokipona}, which is an easy sentence to inte
 
 </details>
 
-Most sentences can go before [la]{.tokipona}, even if they're complex!
+<details><summary> [kasi li moku e telo la ona li kama suli]{.tokipona} </summary>
 
-<details><summary> [jan li alasa e kiwen wawa lon tenpo suno ale la ona li wile lape]{.tokipona} </summary>
+- The flowers drank water, so they became tall!
+- If the trees consumed water, they will be huge!
+- If the plant drinks water, it will grow big!
 
-- When somebody pans for gold all day, they want to sleep!
-- If everyone is looking for iron while the sun is out, they'll want to go to bed!
-- The people were hunting for tungsten every day, so they want to sleep!
+</details>
+
+<details><summary> [ona li tawa tomo la ona li kama wile lape]{.tokipona} </summary>
+
+- When they're traveling home, they get tired!
+- While they're going home, they want to sleep!
+- When they left for home, they needed to sleep.
+
+</details>
+
+<details><summary> [sina kama kala la sina tawa telo]{.tokipona} </summary>
+
+- If you became a mermaid, you would swim!
+- When you're a whale, you travel in the water.
+- If you were a fish, you'd go to the water.
+
+</details>
+
+If you're unsure how to tackle any of these, try interpreting just the sentence before [la]{.tokipona}, then the sentence after! Then, imagine "if" the first sentence, "then" the second sentence.
+
+::: info
+
+There's a million different ways to express a sentence before [la]{.tokipona}- I can't cover them all! But trust that, if you understand the sentences before and after [la]{.tokipona}, you can figure out what they mean with [la]{.tokipona} between!
+
+:::
+
+By the way- sentences can get complex, both before and after [la]{.tokipona}! It still helps to break up the ideas into separate sentences, but here's a really involved example:
+
+<details><summary> [jan li alasa e kiwen wawa lon tenpo suno ale la ona li pakala e ilo mute li kama wile pali ala]{.tokipona} </summary>
+
+- When somebody pans for gold all day, they'll break lots of pans, and want to give up
+- If everyone is looking for iron while the sun is out, they'll break their pickaxes and want to stop trying so hard!
+- The people were hunting for tungsten every day, so they broke their drills and wanted to quit!
+- People are searching for strong rocks the whole day, then they broke their tools and wanted to stop working
 
 ::: warning
 
-All these different interpretations are just an artifact of interpreting Toki Pona in English- the Toki Pona would only mean one thing in one context!
+All these different interpretations are just because of interpreting Toki Pona in English- the Toki Pona would only mean one thing in one context!
 
 :::
 
 </details>
 
-<details><summary> []{.tokipona} </summary>
+The sentence before [la]{.tokipona} describes a circumstance- what happened before, what will happen, or a hypothetical situation that could happen. The sentence after describes what that circumstance causes. Interpret each individually, then connect them as though "if" and "then" were used. Check under the spoiler for your understanding!
 
-</details>
+#### Sentences and la summary
 
-You can combine [la]{.tokipona} with [o]{.tokipona} to make your instructions conditional:
+Think to the start of the lesson again:
 
-<details><summary> [sina lukin e kasi suli la o tawa nasin kiwen. nasin li tawa kulupu tomo]{.tokipona} </summary>
+> If **[1]**, then **[2]**
 
-When you see the tall trees, travel down the rocky road. The road goes to the city!
+When [la]{.tokipona} has a sentence, it most often works like this! The sentence before [la]{.tokipona} is the circumstance where the sentence after [la]{.tokipona} happens.
 
-If you see tall trees, take the gravel path. The path takes you to the village!
+You can often interpret each sentence individually, then figure out what they mean together from that!
 
-</details>
+#### Other Important Topics
 
-<details><summary> []{.tokipona} </summary>
+##### Multiple la
 
-</details>
-
-And you can have multiple consecutive [la]{.tokipona} phrases, but keep them short for clarity:
+You can have multiple consecutive [la]{.tokipona} phrases, but keep them short for clarity:
 
 <details><summary> [ken la mi kama jo e ilo musi mute la mi ken pana e ona tawa jan poka mi!]{.tokipona} </summary>
 
@@ -345,98 +426,55 @@ If possible, I will get several game consoles, and gift them to my neighbors!
 
 </details>
 
-You'll notice that one of the phrases is just a statement, and the other is a sentence. That's totally okay!
+You'll notice that one of the phrases is just a word, and the other is a sentence. Mixing the two is totally fine!
+
+<details><summary> [sina pali la, sona mi la, sina ken ni!]{.tokipona} </summary>
+
+If you work, then to my understanding, you can do this!
+
+</details>
+
+Here, the phrase and sentence are in the opposite order. Just as well!
 
 ::: warning
 
-There's a million different ways to express a sentence before [la]{.tokipona}- I can't cover them all! But you can trust that if you understand the sentence before [la]{.tokipona} and the one after too, you can figure out what they mean together with [la]{.tokipona} between!
+It might be that both contexts apply to the last "main" sentence, or that the first applies to the second and the second applies to the last sentence. [Like when we learned about [pi]{.tokipona}](./mod-pi.html), context matters- but shorter sentences, and fewer phrases, are clearer!
 
 :::
 
-#### Sentences and la summary
+<!-- ::: warning -->
+<!---->
+<!-- You can have any number of [la]{.tokipona} phrases, but most speakers will stick to one. This is a cultural thing- you can have more, but we've found one to be the most clear! -->
+<!---->
+<!-- ::: -->
 
-Think to the start of the lesson again:
+##### if la, then o
 
-> If **[1]**, then **[2]**
+You can combine [la]{.tokipona} with [o]{.tokipona} to make your instructions conditional. Here it works with a sentence:
 
-When [la]{.tokipona} has a sentence, it most often works like this!
+<details><summary> [sina lukin e kasi suli la o tawa nasin kiwen. nasin li tawa kulupu tomo]{.tokipona} </summary>
 
-#### Cool Tricks
+When you see the tall trees, travel down the rocky road. The road goes to the city!
+
+If you see tall trees, take the gravel path. The path takes you to the village!
+
+</details>
+
+It works with a phrase too, but it can be a bit less clear what you mean. Try this one out:
+
+<details><summary> [open la poki kasi o lon supa]{.tokipona} </summary>
+
+At the start, the garbage can must be on the floor.
+
+</details>
+
+Sentences are often more clear than phrases because they provide more information about when you should do something- still, experiment! Clever, brief statements can convey a ton of info, more than you'd expect!
 
 ::: info
 
-This is a bunch of extra knowledge, helpful ways to use [la]{.tokipona} that can help you think about how it works in Toki Pona! It isn't required, and if you're not interested, skip ahead to [the exercises](#exercises)
+There are so many things you can do with [la]{.tokipona}! [Check out my side lesson for more tricks with la!](./la-extras.html)
 
 :::
-
-##### Comparisons with la
-
-Back in the [prepositions lesson](./preps.html), we learned several ways to make comparisons using [tawa]{.tokipona} and [sama]{.tokipona}! [la]{.tokipona}, especially with a phrase, gives us a few more useful comparisons!
-
-<details><summary> [tomo la tomo ni li lili]{.tokipona} </summary>
-
-This house is small compared to other houses.
-
-In the context of buildings, this building is tiny.
-
-To other rooms, this room is too little!
-
-::: info
-
-This is still like a preposition: [tawa]{.tokipona}!
-
-[tomo ni li lili tawa tomo **ante**]{.tokipona}
-
-With this restatement, it helps to include the modifier [ante]{.tokipona} for clarity.
-
-:::
-
-</details>
-
-This works very similarly to [tawa]{.tokipona}, too. Check under the spoiler!
-
-##### Avoiding an extra "pi"
-
-Remember way back in the [modifiers lesson](./mod-pi.html) when we learned about [pi]{.tokipona} and using only one at a time? If you've been practicing since then, you might have noticed that two [pi]{.tokipona} phrases can be hard to avoid sometimes. But [la]{.tokipona} can help!
-
-Take the following sentence for example:
-
-<details><summary>[pali lipu pi jan pi pana sona li wawa]{.tokipona}</summary>
-
-The work of the teacher's book is so much!
-
-</details>
-
-This is grammatical, but it's a bit messy with two [pi]{.tokipona} phrases used! We can restate it with more sentences:
-
-<details><summary>[jan pi pana sona li jo e lipu. lipu li jo e pali. pali lipu li wawa.]{.tokipona}</summary>
-
-The teacher has a book. The book has work. The work of the book is a lot.
-
-</details>
-
-And this cleans up our grammar problems! But it's still really wordy, right? Let's get clever:
-
-<details><summary>[jan pi pana sona li jo e lipu. pali lipu li wawa.]{.tokipona}</summary>
-
-The teacher has a book. The book's work is difficult.
-
-</details>
-
-Here, we skip introducing the idea of the [lipu]{.tokipona} having [pali]{.tokipona}, and instead just imply it. Nice! But can we do better?
-
-<details><summary>[jan pi pana sona la pali pi lipu ona li wawa]{.tokipona}</summary>
-</details>
-
-In short: You can put a phrase in [la]{.tokipona}, then refer to it later with [ona]{.tokipona} or [ni]{.tokipona}.
-
-<details><summary> See the various interpretations! </summary>
-
-- The work of the teacher's book is so much!
-- The teacher has a book. The book has work. The work of the book is a lot.
-- The teacher's book has a lot of complex work!
-
-</details>
 
 ## Exercises
 

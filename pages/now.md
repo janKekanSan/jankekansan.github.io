@@ -3,10 +3,9 @@ title: Now
 author: jan Kekan San
 date: 2022-12-25T00:00:00.000Z
 ---
+**Last updated: 2023-02-11**
 
-**Last updated: 2023-02-08**
-
-- I'm prepping for a live VR lesson on [la]{.tokipona} this Saturday!
+- I'm prepping for a live VR lesson on [la]{.tokipona} this Saturday! [Lesson here!](/sona/la.html)
 - I'm prepping for a walkthrough translation lesson this Sunday! [Check it out!](https://discord.gg/wJcGmudsyP?event=1072924670812242061)
 - I recorded my multiple li/e, en, anu lesson and am editing now!
 - I'm writing my [la lesson](/sona/la.html) and [seme lesson](/sona/seme.html)- and they'll get recorded shortly after!
@@ -36,3 +35,4 @@ This is in most to least recent order.
 - I wrote an article on simulation theory and threw it to a few others.
 - I'm cleaning up my new site, <https://mun.la>, that split from <https://gregdan3.dev>!
   - While I'm doing that, I'm making sure I don't cause any link rot. Keep the internet alive!
+

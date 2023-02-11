@@ -50,6 +50,18 @@ As a reference on usage: in a (flimsy) comparison to English, consider the word
 preposition in English, but it serves a similar function of providing secondary
 information about an action.
 
+## A structured argument
+
+- pu defines kepeken as a preposition meaning "using"
+- kepeken also has a content word meaning "usage" which is funky and usually similar to nasin, but works
+- historically, the transitive verb use of kepeken (kepeken e) _also_ meant using but has been considered a grammatical error since pu was published
+
+- If kepeken is used as a transitive verb _but_ with its prepositional meaning, it conflicts with the way all the other prepositions work transitively, since all of the others change when transitive vs prepositional, and for some reason kepeken does not
+- If kepeken is used as a transitive verb _but_ in the way most other content words work, it has this weird meaning of like "applying usage to ..." that mostly doesn't have a use and mostly confuses people, unless you include transitive prepositional phrases (not to be explored here) in your nasin
+- There are two justifications for kepeken transitive to mean the same as kepeken preposition: the first is historical use, and the second is the fact that some of the other transitive verbs are also outliers (lukin, wile) in not\* applying a property to the object, but describing the state of the subject in relation to an object
+
+- this is a shorthand; obviously you can say "mi lukin e ijo la o kama jo e ijo lukin" to mean "when I'm looking at a thing, go get the thing I'm looking at;" but lukin/wile/etc still stand out from the other content words in not commonly being used this way; "mi pakala e ijo" is "i apply pakala to the ijo" and "mi wile e ijo" is "i apply _my_ wanting to the ijo". shorthand. language hard.
+
 ## Other Notes
 
 There is some fringe use of `kepeken e` in the form of transitive prepositions!
