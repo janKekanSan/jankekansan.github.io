@@ -158,7 +158,7 @@ I am near the city and the ocean!
 
 The closest restatements are a bit more clumsy, grammatically:
 
-> [mi lon poka pi ma pomo pi telo suli]{.tokipona}
+> [mi lon poka pi ma tomo pi telo suli]{.tokipona}
 
 > [mi lon poka pi ijo tu: ma tomo en telo suli]{.tokipona}
 
