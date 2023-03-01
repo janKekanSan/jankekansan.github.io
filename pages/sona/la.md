@@ -3,36 +3,37 @@ title: Context and la
 author: gregdan3
 date: 2023-02-11T00:00:00.000Z
 ---
-
 Video lesson still to come!
 
 <details><summary>**Table of Contents**</summary>
 
 <!-- toc -->
 
-- [Words to Know](#words-to-know)
-  - [Particles](#particles)
-  - [Content Words](#content-words)
+  - [Words to Know](#words-to-know)
+    - [Particles](#particles)
+    - [Content Words](#content-words)
 - [Overview](#overview)
-  - [Intro to la](#intro-to-la)
-  - [Phrases and la](#phrases-and-la)
-    - [la and perspective](#la-and-perspective)
-    - [la and location](#la-and-location)
-    - [la and cause](#la-and-cause)
-    - [la and description](#la-and-description)
-    - [la and feelings](#la-and-feelings)
-    - [la and whole prepositions](#la-and-whole-prepositions)
-  - [Phrases and la summary](#phrases-and-la-summary)
-  - [Sentences and la](#sentences-and-la)
-  - [Sentences and la summary](#sentences-and-la-summary)
-  - [Other uses of la](#other-uses-of-la)
-    - [Multiple la](#multiple-la)
-    - [if la, then o](#if-la-then-o)
+    - [Intro to la](#intro-to-la)
+    - [Phrases and la](#phrases-and-la)
+      - [la and perspective](#la-and-perspective)
+      - [la and location](#la-and-location)
+      - [la and cause](#la-and-cause)
+      - [la and description](#la-and-description)
+      - [la and feelings](#la-and-feelings)
+      - [la and whole prepositions](#la-and-whole-prepositions)
+    - [Phrases and la summary](#phrases-and-la-summary)
+    - [Sentences and la](#sentences-and-la)
+    - [Sentences and la summary](#sentences-and-la-summary)
+    - [Other uses of la](#other-uses-of-la)
+      - [Multiple la](#multiple-la)
+      - [if la, then o](#if-la-then-o)
 - [Exercises](#exercises)
   - [Toki Pona to English](#toki-pona-to-english)
   - [English to Toki Pona](#english-to-toki-pona)
 - [Takeaway](#takeaway)
-  - [la and expression](#la-and-expression)
+    - [Summary](#summary)
+    - [la and expression](#la-and-expression)
+    - [What if I don't get it?](#what-if-i-dont-get-it)
 
 <!-- tocstop -->
 
@@ -491,6 +492,8 @@ If you see tall trees, take the gravel path. The path takes you to the village!
 
 </details>
 
+These are the same as the **if [1], then [2]** way to interpret. But now, the "then" part is **then do [2]**!
+
 It works with a phrase too, but it can be a bit less clear what you mean. Try this one out:
 
 <details><summary> [tenpo poka la poki kasi o lon supa]{.tokipona} </summary>
@@ -499,11 +502,11 @@ Soon, the flower pot must be on the table.
 
 </details>
 
-Sentences are often more clear than phrases because they provide more information about when you should do something- still, experiment! Clever, brief statements can convey a ton of info, more than you'd expect!
+Sentences are often more clear than phrases because they provide more information about when or why you should do something- still, experiment! Clever, brief statements can convey a ton of info.
 
 ::: info
 
-There are so many things you can do with [la]{.tokipona}! [Check out my side lesson for more tricks with la!](./la-extras.html)
+Check out [my side lesson](./la-extras.html) for more tricks with [la]{.tokipona}!
 
 :::
 
@@ -518,11 +521,6 @@ You meet an old man in a dark cave, close to your journey's beginning. He tells 
 If you use the gods' sword, you can stop the evil of the great lizard!
 
 When you use the blade of flight, you can defeat the mega toad!
-
----
-
--
--
 
 </details>
 
@@ -618,17 +616,17 @@ If you throw a disk on the ground, everything is fine. If you do this on the Moo
 
 </details>
 
-<details><summary> []{.tokipona} </summary>
+You walk into work one day and find your boss looking super rough and disappointed, staring sadly at a big tuba sitting in the corner. You ask your boss how they're doing, and they explain the story:
 
-</details>
+<details><summary> [mi esun e ilo kalama musi sin. ona li kalama suli suli la jan pi ma ale li ken kute. taso jan mute li wile ala kute la ona li utala e mi!]{.tokipona} </summary>
 
-<details><summary> []{.tokipona} </summary>
+I bought a new musical instrument. It makes such a loud sound that everyone everywhere can hear it. But tons of people don't want to hear (it), so they fought me!
 
 </details>
 
 ### English to Toki Pona
 
-<details><summary> If I stare into the sun for too long, I won't be able to see! </summary>
+<details><summary> If I stare into the sun for too long, I won't be able to see. </summary>
 
 [mi lukin e suno lon tenpo pi mute ike la mi ken ala lukin!]{.tokipona}
 
@@ -654,72 +652,110 @@ If you throw a disk on the ground, everything is fine. If you do this on the Moo
 
 </details>
 
-<details><summary>  </summary>
+<details><summary> I didn't know how to open the store, so I hid instead! </summary>
 
-[]{.tokipona}
+[mi sona ala e nasin open pi tomo esun la mi weka! mi len e mi!]{.tokipona}
 
-</details>
-
-<details><summary>  </summary>
-
-[]{.tokipona}
+[mi sona ala e nasin open pi tomo esun la mi len e mi!]{.tokipona}
 
 </details>
 
-<details><summary>  </summary>
+<details><summary> If you fall asleep on the train, you'll end up in a far away place. </summary>
 
-[]{.tokipona}
+[sina lape lon tomo tawa la, sina kama lon ma weka]{.tokipona}
 
-</details>
-
-<details><summary>  </summary>
-
-[]{.tokipona}
+[sina lape lon linja tomo la, sina kama lon ma sin]{.tokipona}
 
 </details>
 
-<details><summary>  </summary>
+<details><summary> My cat loves me because I give her food and play with her! </summary>
 
-[]{.tokipona}
+[mi pana e moku tawa soweli mi. mi en ona li musi. ni tu la ona li olin e mi]{.tokipona}
 
-</details>
-
-<details><summary>  </summary>
-
-[]{.tokipona}
+[soweli mi li olin e mi tan ni: mi pana e moku tawa ona. mi musi lon poka ona.]{.tokipona}
 
 </details>
 
-<details><summary>  </summary>
+<details><summary> The new couch is great for sleeping on. I slept on it last night and I feel great! </summary>
 
-[]{.tokipona}
+[supa suli sin li pona mute tawa lape! mi lape lon ona lon tenpo pimeja poka la mi pilin pona a]{.tokipona}
+
+</details>
+
+<details><summary> These planets are so far from stars, you can't see them because they're not lit! </summary>
+
+[mun kiwen ni li weka mute tan mun suno la, sina ken ala lukin e ona tan suno ala]{.tokipona}
+
+::: info
+
+There are two different [mun]{.tokipona} here: the planets and the stars. Use modifiers to distinguish them!
+
+:::
+
+</details>
+
+<details><summary> When you're finished, come help me push the wagon! </summary>
+
+[sina pini la o kama! mi tu o tawa e poki]{.tokipona}
+
+[sina pini la o pona e mi! mi tu o tawa e poki]{.tokipona}
+
+</details>
+
+<details><summary> I thought I was done working, but another stack of paperwork came in... </summary>
+
+[pilin mi la mi pini e pali. taso, pali sin li kama...]{.tokipona}
+
+[pilin mi la mi pini e pali. taso, lipu pali sin li kama...]{.tokipona}
+
+</details>
+
+<details><summary> Hold on tight to the rope, so I can help you up!  </summary>
+
+[o jo wawa e linja! ni la mi kama sewi e sina!]{.tokipona}
+
+[o jo e linja! ni la mi sewi e sina!]{.tokipona}
+
+</details>
+
+<details><summary> Last year, I made a secret room! But one person saw it, so it's not secret anymore. </summary>
+
+[tenpo sike pini la mi pali e tomo len. taso, jan wan li kama lukin e ona la ona li kama len ala!]{.tokipona}
 
 </details>
 
 ## Takeaway
 
-#### la and expression
-
-[la]{.tokipona} makes Toki Pona's expressivity come alive! So many new expressions are possible with it, it's hard to imagine Toki Pona without this piece of grammar. You can describe context, cause and effect, and everything a preposition can do.
+#### Summary
 
 As a short review, [la]{.tokipona} comes in two forms:
 
-- Incomplete sentences, as in phrases and individual words. Most often these are interpreted as "in the context of [before la], [after la]". They can also convey condition, or circumstance!
-- Complete sentences, which can get complex and long! These are often conditional, interpreted as "if [before la], then [after la]".
+- Incomplete sentences, as in phrases and individual words. Most often these are interpreted as "in the context of **[1]**, **[2]**". They can also convey condition like modiifers, or circumstance like prepositions!
+- Complete sentences, which can be as long and complex as any sentence without [la]{.tokipona}! These are often conditional, interpreted as "if **[1]**, then **[2]**".
 
-  these are much more frequently some kind of conditional, but they can just be context too. this one is a conditional:
-  "if people are good, I want to be at their side"
+This is a complete list of everything [la]{.tokipona} does grammatically, but not everything it can do in meaning. Also, all the given English interpretations are only approximations of how [la]{.tokipona} really works, and aren't perfect.
 
-but! don't worry much about not getting la yet! it is the most complex part of toki pona's grammar, and while that isn't saying much, it is still nuanced. it probably took me two months of regular practice to really feel like i understood la.
+#### la and expression
+
+[la]{.tokipona} makes Toki Pona come alive with meaning and expression! So many new and unique things can be said with [la]{.tokipona}, it's hard to imagine Toki Pona without this piece of grammar. You can describe circumstance, context, cause and effect, everything a preposition can do, and more.
+
+#### What if I don't get it?
+
+If you're ever confused by another speaker's statement, try asking them what's up with **Questions** in the next lesson:
+
+> [sina toki e ni lon poka pi nimi 'la': ... ni li toki e seme?]{.tokipona}
+
+And while you're at it, don't worry about not getting [la]{.tokipona} yet. Most speakers say it took them the most time to understand [la]{.tokipona} compared to all the other words and grammar. If you keep trying, you'll get it!
 
 ---
 
 ::: warning
 
-Remember, these lessons aren't comprehensive. The suggestions for interpretation only tell part of the story- nothing can replace practice, so try [la]{.tokipona} out and learn everything you can!
+Remember, these lessons aren't comprehensive. The guidance and interpretations only tell part of the story- nothing can replace practice and immersion, so try [la]{.tokipona} in a conversation in **[[ma pona pi toki pona]{.tokipona}](https://discord.gg/mapona) [a!]{.tokipona}**
 
 :::
 
 [Previous lesson](./interjections.html)
 
 [Next lesson](./seme.html)
+

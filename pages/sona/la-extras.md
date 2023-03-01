@@ -91,7 +91,7 @@ In the context of the teacher, the work of their book is amazing.
 
 </details>
 
-In general, you can put statements in to the context and then refer back to them with [ona]{.tokipona} and [ni]{.tokipona}. This can help your sentences flow differently, fix your grammar, or just be a fun way to speak!
+In general, you can put statements in the context and refer back to them with [ona]{.tokipona} and [ni]{.tokipona}. This can help your sentences flow differently, fix your grammar, or just be a fun way to speak!
 
 <!-- <details><summary>[jan pi pana sona li jo e lipu. lipu li jo e pali. pali lipu li wawa.]{.tokipona}</summary> -->
 <!---->
