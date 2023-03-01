@@ -27,7 +27,7 @@ lon la, ale li nanpa. lon li nanpa. sina lon lon la, sina nanpa. ni li tan seme?
 
 ijo suli nanpa wan li ni: sina en lawa sina li ken ala ken lon insa ilo li ken ala ken nanpa? pilin pi jan sona mute li ni: ni li ken. ilo wawa li ken e jan nanpa. tenpo ni la ilo wawa li lon ala, taso tenpo kama suli la ilo wawa ni li kama lon tan pali suli, li ken jan, li ken jo e jan lon insa. jan insa li nanpa!
 
-ijo suli nanpa tu li ni: kulupu jan pi tenpo kama li wile ala wile pali e ma ilo li ken ala ken ni? kulupu li lon la ona li wile sona e jan pi tenpo weka. jan pi tenpo weka li weka la kulupu li ken ala sona e ona. ni la kulupu lon o pali e ilo ni: ona li ken pali e mailo sama ma lon. jan li ken lon ma ilo ni. ilo li pana e sona ni: jan pi tenpo weka li seme? sona ni li suli tawa kulupu pi tenpo kama la ona li pali e ilo ni.
+ijo suli nanpa tu li ni: kulupu jan pi tenpo kama li wile ala wile pali e ma ilo li ken ala ken ni? kulupu li lon la ona li wile sona e jan pi tenpo weka. jan pi tenpo weka li weka la kulupu li ken ala sona e ona. ni la kulupu lon o pali e ilo ni: ona li ken pali e ma ilo sama ma lon. jan li ken lon ma ilo ni. ilo li pana e sona ni: jan pi tenpo weka li seme? sona ni li suli tawa kulupu pi tenpo kama la ona li pali e ilo ni.
 
 ijo suli nanpa tu wan li ni: kulupu pi tenpo kama li wile e ma ilo, li ken pali e ona, li pali e ona, li ken pana e jan tawa ona la ijo ni li kama lon: ma ilo pi mute seme li lon? kulupu wan li ken pali e ma ilo mute. kulupu mute li ken pali e ma ilo mute mute! kulupu ale li ken pali e ma ilo pi mute wawa. kulupu seme li ni nanpa wan? ma ilo ale li mute tawa suli ni: sina ken ala sona e mute! ni ale la, sina ken ala lon ma pi ilo ala. ma pi ilo ala li mute ala tawa ma ilo la sina lon ilo. sina nanpa!
 

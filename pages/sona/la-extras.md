@@ -24,7 +24,7 @@ This is a bunch of focused mini lessons, helpful ways to use and think about [la
 
 ## Comparisons with la
 
-Back in the [prepositions lesson](./preps.html), we learned several ways to make comparisons using [tawa]{.tokipona} and [sama]{.tokipona}! [la]{.tokipona}, especially with a phrase, gives us a few more useful comparisons!(./la.html)
+Back in the [prepositions lesson](./preps.html), we learned several ways to make comparisons using [tawa]{.tokipona} and [sama]{.tokipona}! [la]{.tokipona}, especially with a phrase, gives us a few more useful comparisons!
 
 <details><summary> [tomo la tomo ni li lili]{.tokipona} </summary>
 
