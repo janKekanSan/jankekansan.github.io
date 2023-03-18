@@ -44,7 +44,8 @@ Others not in the webring:
 
 ## o toki tawa mi (talk to me)
 
-- [My Ko-Fi. If you like what you see, support!](https://ko-fi.com/gregdan3)
+<!-- - [My Ko-Fi. If you like what you see, support!](https://ko-fi.com/gregdan3) -->
+
 - [My YouTube. Tons of Toki Pona content!](https://www.youtube.com/@gregdan3d)
 - [Discord](https://discord.com/users/497549183847497739), [Telegram](https://gregdan3.t.me/)
 - [Reddit](https://reddit.com/u/gregdan3d), [Twitter](https://twitter.com/gregdan3d), [Mastodon](https://toki.social/@gregdan3)
