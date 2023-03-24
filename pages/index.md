@@ -9,7 +9,7 @@ Hi, I'm jan Kekan San. I'm super active in **[ma pona pi toki pona](https://disc
 
 I want to grow Toki Pona. It has given me so many opportunities and led me to some of the most driven and dedicated people I know. I want to help others find excitement in Toki Pona and help create more art in Toki Pona.
 
-This site is all about Toki Pona, but most of it will not be _in_ Toki Pona unless it is titled in only Toki Pona- which only applies to my blog!
+This site is all about Toki Pona, but not necessarily in Toki Pona. If it is in Toki Pona, it'll be titled in Toki Pona!
 
 ## ante (other things)
 
@@ -17,7 +17,7 @@ This site is all about Toki Pona, but most of it will not be _in_ Toki Pona unle
 
 Others not in the webring:
 
-- [tan ijo Ana](https://ap5.dev/tokipona)
+- [tan ijo Mina](https://ap5.dev/tokipona)
 - [tan jan Lakuse](https://raacz.neocities.org/tokipona)
 - [tan lipamanka](https://lipamanka.github.io/)
 - [tan sike musi](https://datakinds.github.io/toki-pona/)
@@ -41,6 +41,7 @@ Others not in the webring:
 - [Hand written [sitelen pona]{.tokipona} recognizer!](https://ilo-like.bucketfish.me/)
 - [Wiki for Toki Pona](https://sona.pona.la/wiki/Main_Page)
 - [Wiki _in_ Toki Pona](https://wikipesija.org/wiki/lipu_open)
+- [telo misikeke - a grammar checker](https://telo-misikeke.gitlab.io/)
 
 ## o toki tawa mi (talk to me)
 

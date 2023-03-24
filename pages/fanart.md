@@ -10,15 +10,10 @@ date: 2023-01-01T00:00:00.000Z
 - [Cuymacu](#cuymacu)
 - [waso mu](#waso-mu)
   - [Comics](#comics)
-- [Squimpus](#squimpus)
-  - [Comics](#comics-1)
-  - [Doodles](#doodles)
-  - [uhhhh](#uhhhh)
-  - [Taken Pics](#taken-pics)
 - [Nyxoom](#nyxoom)
   - [Avatars](#avatars)
   - [Thumbnails](#thumbnails)
-  - [Doodles](#doodles-1)
+  - [Doodles](#doodles)
 - [vallee152](#vallee152)
 - [the rats](#the-rats)
 - [waso Wen](#waso-wen)
@@ -92,47 +87,47 @@ Poking fun at another outcome of correcting people speaking Toki Pona: sometimes
 
 </details>
 
-<details><summary>
-
-### Squimpus
-
-</summary>
-
-Everything here is from [squimpus](https://www.tumblr.com/squimpus), who has my actual sense of humor
-
-#### Comics
-
-<img src="/art/fan/savior.png" style="max-width:600px;width:100%;">
-
-10/10, the font change kills me
-
----
-
-#### Doodles
-
-<img src="/art/fan/supa_pimeja.png" style="max-width:250px;width:100%;">
-
-Adorable! My chalkboard is not a [supa]{.tokipona} though, it's a [sinpin]{.tokipona}!
-
----
-
-#### uhhhh
-
-<img src="/art/fan/gleam.png" style="max-width:250px;width:100%;">
-
-Somehow, this is not the only biblically accurate version of me out there
-
----
-
-#### Taken Pics
-
-<img src="/art/fan/FiveStarBoy.png" style="max-width:600px;width:100%;">
-
-This was a live pic taken by [jan Toluneko](https://mastodon.gamedev.place/@fuopy), and squimp captioned it. The aesthetic here is off the charts.
-
----
-
-</details>
+<!-- <details><summary> -->
+<!---->
+<!-- ### Squimpus -->
+<!---->
+<!-- </summary> -->
+<!---->
+<!-- Everything here is from [squimpus](https://www.tumblr.com/squimpus), who has my actual sense of humor -->
+<!---->
+<!-- #### Comics -->
+<!---->
+<!-- <img src="/art/fan/savior.png" style="max-width:600px;width:100%;"> -->
+<!---->
+<!-- 10/10, the font change kills me -->
+<!---->
+<!-- --- -->
+<!---->
+<!-- #### Doodles -->
+<!---->
+<!-- <img src="/art/fan/supa_pimeja.png" style="max-width:250px;width:100%;"> -->
+<!---->
+<!-- Adorable! My chalkboard is not a [supa]{.tokipona} though, it's a [sinpin]{.tokipona}! -->
+<!---->
+<!-- --- -->
+<!---->
+<!-- #### uhhhh -->
+<!---->
+<!-- <img src="/art/fan/gleam.png" style="max-width:250px;width:100%;"> -->
+<!---->
+<!-- Somehow, this is not the only biblically accurate version of me out there -->
+<!---->
+<!-- --- -->
+<!---->
+<!-- #### Taken Pics -->
+<!---->
+<!-- <img src="/art/fan/FiveStarBoy.png" style="max-width:600px;width:100%;"> -->
+<!---->
+<!-- This was a live pic taken by [jan Toluneko](https://mastodon.gamedev.place/@fuopy), and squimp captioned it. The aesthetic here is off the charts. -->
+<!---->
+<!-- --- -->
+<!---->
+<!-- </details> -->
 
 <details><summary>
 

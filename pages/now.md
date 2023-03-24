@@ -3,12 +3,13 @@ title: Now
 author: jan Kekan San
 date: 2022-12-25T00:00:00.000Z
 ---
-**Last updated: 2023-02-11**
+**Last updated: 2023-03-18**
 
-- I'm prepping for a live VR lesson on [la]{.tokipona} this Saturday! [Lesson here!](/sona/la.html)
-- I'm prepping for a walkthrough translation lesson this Sunday! [Check it out!](https://discord.gg/wJcGmudsyP?event=1072924670812242061)
-- I recorded my multiple li/e, en, anu lesson and am editing now!
-- I'm writing my [la lesson](/sona/la.html) and [seme lesson](/sona/seme.html)- and they'll get recorded shortly after!
+- I am creating an event running bot for ma pona pi toki pona
+- I'm setting up a few april fools jokes with help from some friends! You'll see...
+- I'm exploring a new format for videos on YouTube- presentations with a slide deck, as in my teacher-y format, but without my crunchy handwriting, aha.
+  - In this, I'm looking to make a video about simulation theory, ChatGPT, and running!
+- I'm writing my [seme lesson](/sona/seme.html)- and I'll record it soon!
 
 ## Waiting
 
@@ -24,6 +25,9 @@ date: 2022-12-25T00:00:00.000Z
 
 This is in most to least recent order.
 
+- I recorded and edited my multiple li/e, en, anu lesson, [check it out!](https://www.youtube.com/watch?v=BGsodPu9UAw)
+- I did a walkthrough translation lesson! [Check it out!](https://www.youtube.com/watch?v=qeQAKIIIjBA)
+- I did a live VR lesson on [la]{.tokipona}! [Lesson here!](/sona/la.html)
 - I dubbed waso mu's comic ["mi lon e ma"](https://waso-mu.neocities.org/musi/), [see it here!](https://youtu.be/GU9PEZ9TARs)
 - I'm posting my names, numbers, kin lesson on February 3rd!
 - I'm writing my [lesson on la](/sona/la.html) and adding more to my [extras lesson](/sona/bits.html)!
