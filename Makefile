@@ -11,6 +11,7 @@ PAGES_BUILT=$(patsubst $(PAGEDIR)/%.md,$(BUILDDIR)/%.html,$(PAGES))
 STATICS_BUILT=$(patsubst static/%,$(BUILDDIR)/%,$(STATICS))
 LUA_FILTER=rm-colgroup.lua
 
+MARP=marp
 MD_TO_HTML=pandoc --lua-filter=$(LUA_FILTER) --from=markdown+yaml_metadata_block
 MINIFIER=htmlmin --remove-comments --remove-all-empty-space
 TOC_MAKER=npx markdown-toc --maxdepth 5 --no-stripHeadingTags --indent="  " --bullets="-" -i
@@ -25,9 +26,14 @@ all: $(BUILDDIR)/lipu/index.html $(PAGES_BUILT) $(STATICS_BUILT)
 clean:
 	rm -rf $(BUILDDIR)/*
 
-$(BUILDDIR)/lipu/index.html:
+$(BUILDDIR)/lipu/index.html: blogindex.sh
 	@mkdir -p $(@D)
-	./blogindex.sh | $(MD_TO_HTML) --template=$(TEMPLATE) -o $@
+	blogindex.sh | $(MD_TO_HTML) --template=$(TEMPLATE) -o $@
+	$(MINIFIER) $@ $@
+
+$(BUILDDIR)/toki/%.html: $(PAGEDIR)/toki/%.md
+	@mkdir -p $(@D)
+	$(MARP) $< -o $@
 	$(MINIFIER) $@ $@
 
 $(BUILDDIR)/ilo/map.html:

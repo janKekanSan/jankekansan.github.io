@@ -3,6 +3,7 @@ title: kama pona!
 author: gregdan3
 date: 2022-12-22T00:00:00.000Z
 ---
+
 ## mi (me)
 
 Hi, I'm jan Kekan San. I'm super active in **[ma pona pi toki pona](https://discord.gg/mapona)**, **[kama sona](https://discord.gg/ChC6qtVsSE)**, and I'm a **[Toki Pona youtuber apparently](https://www.youtube.com/@gregdan3d)**! I love Toki Pona dearly and I want to meet more people interested in the language. [I've done](https://www.youtube.com/@gregdan3d) [a lot](./lipu/) [to accomplish that](./sona/)!
@@ -19,11 +20,14 @@ Others not in the webring:
 
 - [tan ijo Mina](https://ap5.dev/tokipona)
 - [tan jan Lakuse](https://raacz.neocities.org/tokipona)
-- [tan lipamanka](https://lipamanka.github.io/)
 - [tan sike musi](https://datakinds.github.io/toki-pona/)
+- [tan jan Telakoman](https://joelthomastr.github.io/tokipona/README_si)
 - [jan ante mute mute](https://sona.pona.la/wiki/Personal_Sites)
+<!-- - [tan lipamanka](https://lipamanka.github.io/) (ona li kam lon sike) -->
 
 [fanart others have made for me!](./fanart.html)
+
+<!-- [secret presentations!](./toki/) -->
 
 ## ilo (tools)
 
@@ -54,4 +58,3 @@ Others not in the webring:
 - [GitHub](https://github.com/gregdan3), [second GitHub](https://github.com/janKekanSan)
 
 <!-- - Gitlab: [gregdan3](https://gitlab.com/gregdan3) -->
-
