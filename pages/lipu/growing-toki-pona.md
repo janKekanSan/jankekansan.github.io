@@ -1,6 +1,7 @@
 % Growing Toki Pona
 % gregdan3
 % 2022-10-29
+% published: true
 
 This is a record of my process for interesting others in learning and speaking Toki Pona!
 

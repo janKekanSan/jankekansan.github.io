@@ -1,6 +1,7 @@
 % [sina ken wile ala ijo]{.tokipona}
 % jan Kekan San
 % 2022-06-01
+% published: true
 
 A cute skit from the early internet, now in Toki Pona. [Listen here](https://youtu.be/iKry3P51SVI)!
 

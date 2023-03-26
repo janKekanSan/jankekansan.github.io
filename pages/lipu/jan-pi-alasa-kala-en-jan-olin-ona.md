@@ -1,6 +1,7 @@
 % [jan pi alasa kala en jan olin ona]{.tokipona}
 % jan Kekan San
 % 2022-02-28
+% published: true
 
 ::: tokipona
 

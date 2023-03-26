@@ -1,6 +1,7 @@
 % Monsutatesu isn't special (scrap)
 % gregdan3
 % 2022-11-03T00:00:00.000Z
+% published: true
 
 mi monsuta could be I am afraid or I am scary
 

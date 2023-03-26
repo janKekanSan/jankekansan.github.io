@@ -1,6 +1,7 @@
 % How I feel about Toki Pona
 % gregdan3
 % 2021-07-14
+% published: true
 
 Toki Pona is an experience. Toki Pona is art. Toki Pona is many things to many
 people. It is one of the most important things in my life. The passion put

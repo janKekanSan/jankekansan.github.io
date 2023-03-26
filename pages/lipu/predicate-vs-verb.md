@@ -1,6 +1,7 @@
 % Predicate is better than Verb (scrap)
 % gregdan3
 % 2022-10-13T00:00:00.000Z
+% published: true
 
 [in response to an analysis of Toki Pona's grammar, calling the li-phrase a "verb"]
 

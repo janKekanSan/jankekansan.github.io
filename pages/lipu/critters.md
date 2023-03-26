@@ -1,6 +1,7 @@
 % Critter Categories (scrap)
 % gregdan3
 % 2022-09-24T00:00:00.000Z
+% published: true
 
 soweli is not like animal in English- it doesn't refer to any kind of animal, just to a collection of creatures with sufficiently similar traits (mammals + marsupials being a large majority of that)
 

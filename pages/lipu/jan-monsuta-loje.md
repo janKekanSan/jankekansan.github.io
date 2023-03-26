@@ -1,6 +1,7 @@
 % [jan monsuta loje]{.tokipona}
 % jan Pensa
 % 2022-07-10
+% published: true
 
 "The Red Oni who Cried" in Toki Pona, translated by [jan Pensa](https://www.youtube.com/channel/UCo27SyuT3kdd12RCH_4HAgA). [Listen to my dub](https://youtu.be/9VjPV9BpU2I)!
 

@@ -1,6 +1,7 @@
 % Toki Pona Always Has Context (scrap)
 % gregdan3
 % 2022-09-23T00:00:00.000Z
+% published: true
 
 my experience of toki pona is that there is an assumption of reasonability to a given statement which context can alter
 Toki Pona doesn't fix number, but when somebody says "mi pana e kili", without more information you'd assume some reasonable volume/quantity of kili that they could hand you. To my experience, it's more likely that somebody will offer me a whole apple than either slices or multiple apples when they say "Want some fruit?"

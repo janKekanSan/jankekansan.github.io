@@ -1,6 +1,7 @@
 % [mama o mi lon]{.tokipona}
 % jan Kekan San
 % 2022-12-28
+% published: true
 
 <!-- --- -->
 <!-- title: '\[mama mi lon\]{.tokipona}' -->

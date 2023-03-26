@@ -1,6 +1,7 @@
 % [sona pi tawa suno]{.tokipona}
 % gregdan3
 % 2022-10-29
+% published: true
 
 I submitted this to lipu tenpo too! Scientific article.
 

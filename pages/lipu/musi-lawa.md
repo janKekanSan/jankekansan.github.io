@@ -1,6 +1,7 @@
 % [o toki ala e lawa]{.tokipona}
 % jan Kekan San
 % 2022-09-18
+% published: true
 
 My favorite card game's rules in Toki Pona.
 

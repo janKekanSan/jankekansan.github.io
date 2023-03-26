@@ -1,6 +1,7 @@
 % Toki Pona is a weird name!
 % gregdan3
 % 2021-08-10
+% published: true
 
 ### I spend paragraphs of your time to tell bad jokes
 

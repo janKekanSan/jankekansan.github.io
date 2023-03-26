@@ -1,6 +1,7 @@
 % [jan lawa meli lon kili lili]{.tokipona}
 % jan Kekan San
 % 2022-01-15
+% published: true
 
 ::: tokipona
 

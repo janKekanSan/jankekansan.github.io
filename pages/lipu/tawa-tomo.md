@@ -1,6 +1,7 @@
 % [tawa tomo]{.tokipona}
 % jan Kekan San
 % 2022-08-27
+% published: true
 
 ::: tokipona
 

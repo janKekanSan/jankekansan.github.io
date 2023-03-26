@@ -23,6 +23,11 @@ POSTS=$(sort -nr <blogdates.txt | cut -f 2-)
 cat templates/blog_header.md
 
 for f in $POSTS; do
+  PUBLISHED=$(head -n 4 "$f"| tail -n 1)
+  if [ "$PUBLISHED" != "% published: true" ]; then # lol
+    continue
+  fi
+
 	getdate "$f"
 	MTIME=$RETURNDATE
 

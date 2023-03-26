@@ -1,6 +1,7 @@
 % [sona pi ijo lili a]{.tokipona}
 % jan Kekan San
 % 2022-09-29
+% published: true
 
 I submitted this to lipu tenpo! Scientific article.
 

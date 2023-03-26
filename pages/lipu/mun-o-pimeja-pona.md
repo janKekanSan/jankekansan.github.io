@@ -1,6 +1,7 @@
 % [mun o pimeja pona]{.tokipona}
 % jan Kekan San
 % 2021-10-20
+% published: true
 
 "Goodnight Moon" in Toki Pona. [Listen here](https://youtu.be/Q2UIw8PZsZ8)!
 

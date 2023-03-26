@@ -1,6 +1,7 @@
 % [ale li nanpa]{.tokipona}
 % jan Kekan San
 % 2022-12-20
+% published: true
 
 <!-- --- -->
 <!-- title: '\[ale li nanpa\]{.tokipona}' -->

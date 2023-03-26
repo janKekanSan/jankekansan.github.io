@@ -3,6 +3,7 @@ title: Fanart!
 author: jan mute
 date: 2023-01-01T00:00:00.000Z
 ---
+
 <details><summary>**Table of Contents**</summary>
 
 <!-- toc -->
@@ -151,6 +152,7 @@ The second is actually a crop of one of my video thumbnails, but it's a lovely a
 <img src="/art/fan/mi_sina.png" style="max-width:300px;width:100%;">
 <img src="/art/fan/interjections_thumbnail.png" style="max-width:300px;width:100%;">
 <img src="/art/fan/nimi_nanpa_kin_thumbnail.png" style="max-width:300px;width:100%;">
+<img src="/art/fan/grammar_thumbnail.png" style="max-width:300px;width:100%;">
 
 The fantastic work for my lesson series, [see it here!](https://www.youtube.com/watch?v=J93GWOMbgdg&list=PLoLQoll2U6WEeCO7C2oc1LTWgkoBC8rvT)
 
@@ -242,8 +244,6 @@ Absolutely adorable!
 
 </summary>
 
-TODO: where
-
 [jan Kita's toki pona works are here!](https://hecko.my.to/toki-pona/)
 
 <img src="/art/fan/mr_beast_background.png" style="max-width:500px;width:100%;">
@@ -324,4 +324,3 @@ Art I still need to find a good way to include:
 - [Thundergear](https://www.youtube.com/watch?v=Rm3kbkpICVo) made me two versions of the starman avatar I use in all of my videos!
 - I lost the original creator- but somebody made an intently crappy version of my avatar, and it's hilarious! I'll track them down!
 - There are a few other smaller works I can't include as easily, but I'm going to find a way to!
-
