@@ -3,6 +3,7 @@ title: Tricks with la
 author: gregdan3
 date: date unknown
 ---
+
 ::: info
 
 This is a bunch of focused mini lessons, helpful ways to use and think about [la]{.tokipona}! [Check out the main [la]{.tokipona} lesson too!](./la.html)
@@ -158,7 +159,7 @@ I am near the city and the ocean!
 
 The closest restatements are a bit more clumsy, grammatically:
 
-> [mi lon poka pi ma pomo pi telo suli]{.tokipona}
+> [mi lon poka pi ma tomo pi telo suli]{.tokipona}
 
 > [mi lon poka pi ijo tu: ma tomo en telo suli]{.tokipona}
 
@@ -169,4 +170,3 @@ These are still valid though!
 [Back to [la]{.tokipona}](./la.html)
 
 [Back to home]
-
