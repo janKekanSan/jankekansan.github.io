@@ -75,13 +75,13 @@ The sounds of Toki Pona can be subtly different in a variety of ways. For exampl
 These are _close_ but not exact. They may change because of accent too. [Listen
 to Toki Pona](https://youtu.be/E_DfpQTRvyc) to get a feel for the sound!
 
-| vowel | sound     |
-| ----- | --------- |
-| [a]   | t**a**ll  |
-| [e]   | b**e**st  |
-| [i]   | wh**ee**l |
-| [o]   | r**o**w   |
-| [u]   | m**oo**n  |
+| vowel | sound      |
+| ----- | ---------- |
+| [a]   | f**a**ther |
+| [e]   | b**e**st   |
+| [i]   | wh**ee**l  |
+| [o]   | r**o**w    |
+| [u]   | m**oo**n   |
 
 ### Consonants
 

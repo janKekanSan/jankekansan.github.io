@@ -11,6 +11,8 @@ This lesson is a work in progress!
 
 [Check out the video lesson too!](https://youtu.be/P0N1S5jBujI) This video has a few more topics at the start.
 
+[There's another one here, too!](https://youtu.be/BGsodPu9UAw)
+
 <details><summary>**Table of Contents**</summary>
 
 <!-- toc -->

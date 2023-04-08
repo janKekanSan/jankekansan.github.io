@@ -3,6 +3,7 @@ title: Learn Toki Pona!
 author: gregdan3
 date: 2022-12-24T00:00:00.000Z
 ---
+
 <details><summary>**Table of Contents**</summary>
 
 <!-- toc -->
@@ -19,7 +20,7 @@ date: 2022-12-24T00:00:00.000Z
 
 ## kama sona (learning)
 
-**kama sona** is my Toki Pona lesson series. Each lesson is the chapter of a book! They are long and detailed. Each one has important info to absorb. Be patient, and learn well!
+**kama sona** is my Toki Pona lesson series. Each lesson is the chapter of a book! They are long and detailed. Each one has important info to absorb. Be patient, and learn well! If you're looking for a specific topic, the secondary lists link to them in the lesson!
 
 **lipu sona (Lesson pages)**
 
@@ -41,9 +42,64 @@ or [memorizing game](https://jamesmoulang.itch.io/nasin-sona-musi) to help memor
 - [Interjections and a](./interjections.html) --- [On YouTube](https://youtu.be/0hz1VHldmq4)
 - [Context and la](./la.html)
 - [[WIP] Questions, answers, seme](./seme.html)
-- [And Another Thing...](./bits.html) --- [On YouTube](https://youtu.be/P0N1S5jBujI)
-<!-- --- [Also On YouTube](https://youtu.be/P0N1S5jBujI) -->
+- [And Another Thing...](./bits.html) --- [On YouTube](https://youtu.be/P0N1S5jBujI) --- [Also On YouTube](https://youtu.be/BGsodPu9UAw)
 - [[WIP] Finale](./pini.html)
+
+Looking for a specific topic? Here's some specific topics from the lessons, in the order they appear.
+
+<details><summary>Click here for a topic breakdown!</summary>
+
+- [Getting Started](./open.html) --- **[Whole Playlist](https://www.youtube.com/playlist?list=PLoLQoll2U6WEeCO7C2oc1LTWgkoBC8rvT)**
+  - [Learning Philosophy](./open.html#how-to-learn)
+  - [How to Read](./open.html#how-to-read)
+  - [How to Write](./open.html#how-to-write) ([sitelen Lasina](open.html#sitelen-lasina---latin-writing), [sitelen pona](open.html#sitelen-pona---good-writing))
+- [You and I](./mi-sina.html) --- [On YouTube](https://youtu.be/J93GWOMbgdg)
+  - [Saying Hello and Goodbye](mi-sina.html#hello-and-goodbye)
+  - ["Doing" and "Being" are the same thing](mi-sina.html#actiondescription-duality)
+  - [Toki Pona words are broad](mi-sina.html#broadness)
+- [Actions with li](./li.html) --- [On YouTube](https://youtu.be/xaYd936H--o)
+  - [Single li](li.html#predicates-and-li)
+  - [Multiple li](li.html#multiple-li)
+- [Objects with e](./e.html) --- [On YouTube](https://youtu.be/ZLcSwYEZmIY)
+  - [Single e](e.html#objects-and-e)
+  - [Multiple e](e.html#multiple-e)
+  - [Multiple li and multiple e](e.html#multiple-li-and-multiple-e)
+- [Modifiers and pi](./mod-pi.html) --- [On YouTube](https://youtu.be/J6ThX6dQyCI)
+  - [More subjects with en](mod-pi.html#en-quickly)
+  - [One modifier](mod-pi.html#one-modifier)
+  - [Many modifiers](mod-pi.html#many-modifiers)
+  - [pi phrases](mod-pi.html#pi-phrases)
+- [Pre-predicates, ala](./pre-predicates.html) --- [On YouTube](https://youtu.be/YjxSaqAZwqk)
+  - [wile](pre-predicates.html#wile), [ken](pre-predicates.html#ken), [kama](pre-predicates.html#kama), [awen](pre-predicates.html#awen), [sona](pre-predicates.html#sona), [alasa/lukin](pre-predicates.html#alasa--lukin)
+  - [Multiple pre-predicates](pre-predicates.html#multiple-pre-predicates)
+  - [Negating with ala](pre-predicates.html#ala)
+- [Prepositions](./preps.html) --- [On YouTube](https://youtu.be/hbUaLDRmULI)
+  - [tawa](preps.html#tawa), [lon](preps.html#lon), [tan](preps.html#tan), [sama](preps.html#sama), [kepeken](preps.html#kepeken)
+  - [Preps right after li](preps.html#right-after-li)
+  - [Multiple preps](preps.html#multiple-prepositions)
+  - [Preps and ala](preps.html#ala-and-prepositions)
+- [Instructions with o](./o.html) --- [On YouTube](https://youtu.be/lf3lDjIWiYI)
+  - [Instructions](o.html#instructions)
+  - [Getting someone's attention](o.html#attention)
+  - [taso sentences](o.html#taso-sentences), [taso modifier](o.html#taso-modifier), [taso content word](o.html#taso-head)
+- [Interjections and a](./interjections.html) --- [On YouTube](https://youtu.be/0hz1VHldmq4)
+  - [Using a for anything](interjections.html#a-the-interjection-that-ever)
+  - ["pona tawa sina" / well wishes](interjections.html#o-alikes--well-wishes)
+  - [Feelings, opinions, remarks with content word interjections](interjections.html#feelings-opinions-and-remarks)
+- [Context and la](./la.html)
+  - [Phrases in la](la.html#phrases-and-la)
+  - [Sentences in la ](a.html#sentences-and-la)
+  - [Multiple la](la.html#multiple-la)
+  - [la and o together](la.html#if-la-then-o)
+- [[WIP] Questions, answers, seme](./seme.html)
+- [[WIP] And Another Thing...](./bits.html) --- [On YouTube](https://youtu.be/P0N1S5jBujI)
+  - [Proper Names / Cartouches](bits.html#proper-names) ([By the book](bits.html#nasin-pona), [Moraic method](bits.html#sitelen-kalama))
+  - [Numbers](bits.html#numbers) ([Simple way](bits.html#nasin-pona-1), [Fancy way](bits.html#nasin-suli))
+  - [kin and sentences](bits.html#kin)
+  - [anu and "or"](bits.html#anu)
+- [[WIP] Finale](./pini.html)
+
+</details>
 
 **pana sona pi jan ante (Others' Teaching)**
 
@@ -82,7 +138,7 @@ that most others will understand.
   <!-- - [mi monsuta e sina](./monsutatesu.html) -->
 - **Prepositions**
   <!-- - [Telling Time](./time.html) -->
-  <!-- - [Knowing Place](./location.html) -->
+  <!-- - [Knowing Place](./location.html) -->(bits.html#anu)
   - [kepeken vs kepeken e](./kepeken.html)
 - **Themed Lessons**
   - [Instead of Phatic Phrases](./phatic-phrases.html)
@@ -158,4 +214,3 @@ I couldn't find a single other lesson series that covered interjections beyond "
 And I wanted to help with some of the terminology problems floating around the community!
 
 This, and many more things, drove me to create my own series. But most of the credit belongs to the Toki Pona VR community, where I found the most fascinating and excited people to practice with and to teach! They drove me to begin writing down what I knew, to help more discover the language, and to grow the community.
-
