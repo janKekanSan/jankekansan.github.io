@@ -42,12 +42,13 @@ $(BUILDDIR)/ilo/map.html:
 	$(MINIFIER) $@ $@
 
 $(BUILDDIR)/%.html: $(PAGEDIR)/%.md $(TEMPLATE)
+	# altered because of publish line
 	@mkdir -p $(@D)
 	$(TOC_MAKER) $<
-	$(MD_TO_HTML) \
+	cat $< | sed 's/% published: .*//g' | $(MD_TO_HTML) \
 		--template=$(TEMPLATE) \
 		--metadata="directory:$(subst pages/,,$<)" \
-		-o $@ $<
+		-o $@
 	$(MINIFIER) $@ $@
 
 $(BUILDDIR)/%: $(STATICDIR)/%
