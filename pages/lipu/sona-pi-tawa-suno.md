@@ -3,15 +3,11 @@
 % 2022-10-29
 % published: true
 
-I submitted this to lipu tenpo too! Scientific article.
+[mi pana e ni kin tawa [lipu tenpo](https://liputenpo.org/lipu-tenpo-nanpa-musi/). ni li lipu pi nasin sona a]{.tokipona}
 
 <!-- cut -->
 
 :::tokipona
-
-o lukin e ni lon [lipu tenpo](https://liputenpo.org/lipu-tenpo-nanpa-musi/) a!
-
----
 
 suno li tawa kepeken tenpo sama lon ma ale.
 wawa suno li ken ante.

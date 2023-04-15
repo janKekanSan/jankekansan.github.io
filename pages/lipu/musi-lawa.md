@@ -3,7 +3,7 @@
 % 2022-09-18
 % published: true
 
-My favorite card game's rules in Toki Pona.
+[musi lipu ni li nanpa wan tawa mi la mi toki pona e lawa ona]{.tokipona}
 
 <!-- cut -->
 
