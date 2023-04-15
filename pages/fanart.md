@@ -3,7 +3,6 @@ title: Fanart!
 author: jan mute
 date: 2023-01-01T00:00:00.000Z
 ---
-
 <details><summary>**Table of Contents**</summary>
 
 <!-- toc -->
@@ -23,6 +22,7 @@ date: 2023-01-01T00:00:00.000Z
 - [Thelxinoe](#thelxinoe)
 - [Drogobo](#drogobo)
 - [lipamanka](#lipamanka)
+- [jan Akesinu](#jan-akesinu)
 
 <!-- tocstop -->
 
@@ -318,9 +318,25 @@ The star is cool enough, but watch this too.
 
 </details>
 
+<details><summary>
+
+### jan Akesinu
+
+</summary>
+
+<img src="/art/fan/courtroom.png" style="max-width:500px;width:100%;">
+
+We had a hilarious courtroom RP in the VR community, featuring a pipi store owner and its lost copies of pu, a flustered waso Keli as witness, a devious and cunning jan Tekinowi as prosecution, and jan Akesinu defending jan Tepo. Brilliant!
+
+<img src="/art/fan/sewi.jpg" style="max-width:500px;width:100%;">
+
+**mi sewi Kekan San. o monsuta ala.**
+
+</details>
+
 Art I still need to find a good way to include:
 
-- Thelxinoe has made me a biblically accurate version of my Starman avatar for VRChat!
 - [Thundergear](https://www.youtube.com/watch?v=Rm3kbkpICVo) made me two versions of the starman avatar I use in all of my videos!
 - I lost the original creator- but somebody made an intently crappy version of my avatar, and it's hilarious! I'll track them down!
 - There are a few other smaller works I can't include as easily, but I'm going to find a way to!
+
