@@ -18,12 +18,12 @@ This site is all about Toki Pona, but not necessarily in Toki Pona. If it is in 
 
 Others not in the webring:
 
-- [tan ijo Mina](https://ap5.dev/tokipona)
 - [tan jan Lakuse](https://raacz.neocities.org/tokipona)
 - [tan sike musi](https://datakinds.github.io/toki-pona/)
 - [tan jan Telakoman](https://joelthomastr.github.io/tokipona/README_si)
 - [jan ante mute mute](https://sona.pona.la/wiki/Personal_Sites)
-<!-- - [tan lipamanka](https://lipamanka.github.io/) (ona li kam lon sike) -->
+  <!-- - [tan ijo Mina](https://ap5.dev/tokipona) -->
+  <!-- - [tan lipamanka](https://lipamanka.github.io/) (ona li kam lon sike) -->
 
 [fanart others have made for me!](./fanart.html)
 
