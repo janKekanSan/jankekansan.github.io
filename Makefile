@@ -36,9 +36,9 @@ $(BUILDDIR)/toki/%.html: $(PAGEDIR)/toki/%.md
 	$(MARP) $< -o $@
 	$(MINIFIER) $@ $@
 
-$(BUILDDIR)/ilo/map.html:
+$(BUILDDIR)/ilo/map.html: $(PAGEDIR)/ilo/map.md
 	@mkdir -p $(@D)
-	$(MAPPER) pages/ilo/map.md -o $@
+	$(MAPPER) $< -o $@
 	$(MINIFIER) $@ $@
 
 $(BUILDDIR)/%.html: $(PAGEDIR)/%.md $(TEMPLATE)
