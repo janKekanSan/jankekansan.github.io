@@ -1,7 +1,7 @@
 % [jan mun]{.tokipona}
 % gregdan3
 % 2023-07-15
-% published: true
+% published: false
 
 ::: tokipona
 
