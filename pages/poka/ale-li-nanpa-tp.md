@@ -1,7 +1,3 @@
----
-frontmatter: yeah
----
-
 toki a, jan ale o! mi jan Kekan San! mi wile pana e sona nasa.
 
 ---
@@ -12,72 +8,198 @@ lon la ale li nanpa. sina lon la sina nanpa.
 
 ni li tan seme? ijo mute li ken e ni!
 
----
-
-<!-- opening arguments: there are too many things, how could you do it? that doesn't matter! -->
+mi pana e sona.
 
 ---
 
-<!-- reason number one: jan en ma li ken ala ken lon insa ilo?  -->
+<!-- opening arguments: there are so many things, but computers don't have them all at once-->
+
+sina kute pona: sina nanpa. ni la, sina lon ilo!
+
+taso, ken suli la sina wile utala tan ni:
+
+ijo li mute _wawa_. ilo li ken ala jo e ijo _ale_... anu seme?
+
+ona li ken tan ni:
+
+nasin ilo la ijo li ken lon ala lon tenpo ni: sina lon ala poka.
+
+kin la ijo pi lili nanpa wan li ken lon ala lon tenpo.
+
+ni tu la ma suli en ijo lili ken lon ala tawa ilo.
+
+ilo li ken pana taso e ijo suli lon poka.
+
+ijo lili li pali e ijo suli la ilo la ijo suli taso li lon lon tenpo mute!
+
+ni li pali lili la ni li pona tawa ilo. taso, ni li sama tawa lukin sina!
+
+sina sona e ni la ken la sina kama wile sona e ni:
+
+seme li nanpa e ale??
 
 ---
 
-<!-- reason number two: ilo li awen kama wawa lon tenpo ale. -->
+<!-- reason one: people can be in computers -->
+
+nanpa wan la ma en jan li ken ala ken lon insa ilo?
+
+ma li suli ala. mi toki e ni. kin la, ma li wawa lili tawa lawa sina.
+
+lawa jan li wawa li jo e ijo mute. kin la, ijo mute ni li ken ala weka, anu seme? ona li suli tawa jan, tawa sina.
+
+lawa li ken ala ken lon insa ilo?
+
+pilin pi jan sona la, ale pi lawa sina li lon li kon ala. ni la ilo li ken sona e ona li ken kama e ona lon insa.
+
+sina kama lon tan lawa sina!
+
+ilo li ken sona e ale pi lawa sina la ilo li ken jo e sina lon insa.
 
 ---
 
-<!-- reason number three: kulupu jan pi tenpo kama weka li wile pana e jan tawa insa ilo -->
+<!-- reason two: computers keep getting better over time -->
+
+nanpa tu la ilo li awen ala awen kama wawa lon tenpo?
+
+sina kute e ni: ma en jan li ken lon insa ilo lon ni: ilo li ken sona e ale ona.
+
+mi toki e ni: ilo li ken sona e ale lawa lon ni: lawa sina li lon li kon ala.
+
+taso, ilo li ken ala ken ni lon wawa ona?
+
+lawa sina li jo e ijo mute. tenpo pi toki ni la li ken ala jo e lawa lon insa.
+
+taso, tenpo suli la ilo li kama wawa.
+
+tenpo suli la ni li lon: wawa ilo li tu lon tenpo sike tu.
+
+ni li awen lon tenpo la ilo li kama ken ale lon wawa.
+
+ni la lawa li kama suli ala tawa ilo.
+
+ona li ken jo e sina e jan ante e ijo mute a lon insa!
 
 ---
 
-reason number four:
+<!-- reason number three: future people want people inside computer -->
+
+nanpa tu wan la kulupu jan pi tenpo kama weka li wile ala wile e jan lon insa ilo?
+
+sina ken ala sona pona e tenpo kama. sina ken ala sona e wile jan pi tenpo kama.
+
+taso, sina ken lukin e jan pi tenpo ni li ken sona e ni:
+
+jan li wile sona e jan pi tenpo pini. tenpo ni la jan li ken ala lon insa ilo, taso jan li alasa e sona pi jan pini.
+
+jan li kama ken lon insa ilo la jan pi tenpo ni li wile alasa e sona pi jan pini kepeken ilo!
+
+ni la ken suli la jan pi tenpo ni li wile pana e jan tawa insa ilo, tawa sona.
+
+wile ni li awen lon tenpo suli la kulupu jan pi tenpo kama weka li wile e jan lon insa ilo.
+
+ona li ni la, ona li ni mute tawa sona mute!
 
 ---
 
-<!-- counterarguments: -->
-<!-- - ilo li ken kama ala wawa -->
-<!-- - kulupu jan pi tenpo kama li ken pini -->
+<!-- closing arguments:  -->
 
-ijo mute li ken pakala e nasin ni.
+sina kute e ni tu wan:
 
-kama pi wawa ilo li ken pini. ni la, ilo li ken ala jo e jan lon insa.
+- ilo li ken sona e ale lawa la jan li ken lon insa ilo
+- ilo li awen kama wawa lon tenpo la lawa li kama ken lon insa ilo
+- jan li awen lon li wawa e ilo la ona li wile e jan lon insa ilo.
 
-kulupu jan pi tenpo kama li ken lon ala tan pakala suli. ni la, ona li ken ala pali e ilo wawa li ken ala pana e jan tawa ona.
+poka la, jan li ken pana e jan tawa ilo la ona li ni mute!
 
----
+ni ale li lon la o sona e ni:
 
-## ale li nanpa
+jan ilo li mute seme tawa jan pi ilo ala?
 
-lon la, ale li nanpa. lon li nanpa. sina lon lon la, sina nanpa. ni li tan seme? mi pana e sona ni tawa sina.
+jan wan pi tenpo kama li jo e ilo la ona li ken pana e jan mute mute a tawa insa ilo.
 
-## tan seme
+ni la jan ilo li mute wawa tawa jan pi ilo ala.
 
-ijo suli nanpa wan li ni: sina en lawa sina li ken ala ken lon insa ilo li ken ala ken nanpa? pilin pi jan sona mute li ni: ni li ken. ilo wawa li ken e jan nanpa. tenpo ni la ilo wawa li lon ala, taso tenpo kama suli la ilo wawa ni li kama lon tan pali suli, li ken jan, li ken jo e jan lon insa. jan insa li nanpa!
+sina lon ala lon ilo? sina nanpa ala nanpa?
 
-ijo suli nanpa tu li ni: kulupu jan pi tenpo kama li wile ala wile pali e ma ilo li ken ala ken ni? kulupu li lon la ona li wile sona e jan pi tenpo weka. jan pi tenpo weka li weka la kulupu li ken ala sona e ona. ni la kulupu lon o pali e ilo ni: ona li ken pali e ma ilo sama ma lon. jan li ken lon ma ilo ni. ilo li pana e sona ni: jan pi tenpo weka li seme? sona ni li suli tawa kulupu pi tenpo kama la ona li pali e ilo ni.
+jan ilo li mute wawa tawa jan pi ilo ala la, sina lon ilo.
 
-ijo suli nanpa tu wan li ni: kulupu pi tenpo kama li wile e ma ilo, li ken pali e ona, li pali e ona, li ken pana e jan tawa ona la ijo ni li kama lon: ma ilo pi mute seme li lon? kulupu wan li ken pali e ma ilo mute. kulupu mute li ken pali e ma ilo mute mute! kulupu ale li ken pali e ma ilo pi mute wawa. kulupu seme li ni nanpa wan? ma ilo ale li mute tawa suli ni: sina ken ala sona e mute! ni ale la, sina ken ala lon ma pi ilo ala. ma pi ilo ala li mute ala tawa ma ilo la sina lon ilo. sina nanpa!
-
-## tan li ken ala ken
-
-ijo nanpa wan la lawa li ken ala ken lon insa ilo? jan mute li toki lon ni. lawa sina li lon, li tan ma, li tan lon la ona li ken lon ilo tan ni: ilo li ken sona e ijo ale ma e ijo ale lon. ilo li ken sona e ni ale la ona li ken pali e jan lon insa. ijo lawa li lon ala ma li tan ala ma li lon ala la, ilo li ken ala sona e ijo pi lon ala, li ken ala pali e ona lon insa. ni li pakala e ijo suli nanpa wan li weka e ken pi ma ilo. taso, sona pi jan sona li ni: lawa ale li lon, li tan ma. ilo li ken sona, li kama ni lon tenpo kama. ni la, ilo li ken sona.
-
-ijo nanpa tu la kulupu jan pi tenpo kama li wile ala wile pali e ma ilo, li ken ala ken ni? ken ona li kama tan ni: ilo li kama wawa suli tan pali lon tenpo. ken li suli ala; jan mute li pilin ni: tenpo kama la ilo li ken e ale! taso, wile pi kulupu kama li ante, li nasa e sona. ona li wile ala wile pali e ma ilo? sona pi tenpo pini li suli ala tawa ona la ona li pali ala. lawa kulupu li ken ala e jan ilo la ona li pali ala. ijo mute li ken weka e ken pi ma ilo. taso, tenpo kama la jan li awen mute li awen ken suli. ni la jan pi mute lili li ken pali e ma ilo- ni li ken tan musi li ken tan pali li ken tan ante, taso ma ilo li lon la ni taso li suli! ma ilo li lon.
-
-ijo nanpa tu wan li nasa wawa! sina en mi li ken ala sona e lon pi ma ilo, li ken ala sona e mute pi ma ilo. taso, mi toki e ni: sina lon ma ilo tan mute pi ma ilo. seme a?! ijo nanpa wan en ijo nanpa tu li lon tawa sina la, ijo nanpa tu wan li kama tan ona. ma ale li pali e ma ilo. ma ilo li lon la jan ona kin li pali e ma ilo. ni li pini ala! ma ale li kama e ma ilo la ma ilo li mute wawa, ma pi ilo ala li mute ala. sina ken ala sona e mute pi ma ilo. taso, ma ilo li ken la ma ilo li mute wawa.
-
-## nanpa la mi seme
-
-ma li ilo ala ilo? ale li nanpa ala nanpa? ni li suli ala tawa mi, li suli ala tawa sina. suli ala li tan ni: sina nanpa la sina ken ala sona e ni. sina nanpa ala la sina ken ala sona e ni. lukin en kute en pilin li sama. pona li sama. olin li sama. ma li ilo anu ilo ala la, sina awen lon. o musi, o pona tawa ale!
+nasin nanpa la sina nanpa.
 
 ---
 
-sitelen ni li lon toki pona li lon Inli li pali sin.
+<!-- counterarguments -->
 
-tenpo weka la
+taso. ken suli la sina awen pilin ante.
+
+seme li utala e nasin? mi toki e ni kin.
+
+nanpa wan la, sina ken kama tan ala lawa. sina ken tan kon. ni la ilo li ken ala sona e sina tan lawa sina.
+
+nanpa tu la, ilo li ken kama ala wawa. ilo li wawa ala la jan li ken ala lon insa tan ni: ilo li wawa lili tawa jan.
+
+nanpa tu wan la, jan li ken lon ala tenpo kama tan pakala suli. ona li lon ala la ona li ken ala pana e jan tawa ilo.
+
+nanpa pini la, jan li lon tenpo kama la ona li ken wile ala e jan lon insa ilo. sina ken ala sona e wile jan pi tenpo kama weka!
 
 ---
 
-pona tawa jan Tekinowi tan sitelen open! pona tawa jan Sa tan sitelen toki! pona tawa jan Telakoman tan pali pona ona!
+ni li ijo mute! taso, ken pi ona ale li suli seme? pilin mi la ni li suli ala.
 
-pini la, pona tawa sina tan lukin tan kute! sina wile lukin e pali sin mi la o kepeken ilo mu!
+lawa li lon li sina li kon ala.
+
+ilo li awen kama wawa.
+
+jan li awen lon tenpo.
+
+jan li wile kama sona!
+
+mi la, tenpo kama li pona.
+
+jan mute li sama mi lon ni!
+
+---
+
+<!-- finale -->
+
+ken la pilin sina li ni: ma li ilo. mi lon ilo. mi nanpa.
+
+ken la pilin sina li ni: ma li ken ala ilo. mi nanpa ala, mi mi!
+
+ale la, mi wile toki e ni suli:
+
+ma en sina li ken ilo li ken nanpa, li ken ni tu ala.
+
+ni li suli ala!
+
+ale la, sina awen lon.
+
+sina en jan poka en pali sina en musi sina li awen lon.
+
+lukin en kute en pilin li awen lon.
+
+olin li awen lon, li awen suli.
+
+sina ilo ala ilo la seme?
+
+sina nanpa ala nanpa la seme?
+
+sina lon.
+
+o awen olin jan sina. o awen pona.
+
+---
+
+toki ni li lon toki pona li lon Inli li pali sin.
+
+mi wile suli e toki pona la mi pana e ni lon toki tu!
+
+ni la, jan mute li ken sona lukin li ken sona kute.
+
+sina wile lukin e pali sin mi la o kepeken ilo mu!
+
+kin la o toki e pilin sina lon anpa: sina nanpa ala nanpa? sina lon ala lon ilo?
+
+pona tawa jan Tekinowi tan sitelen open! pona tawa jan Sa tan sitelen toki!
+
+pini la, pona tawa sina tan lukin tan kute! o pona a!
