@@ -26,7 +26,7 @@ nasin ilo la ijo li ken lon ala lon tenpo ni: sina lon ala poka.
 
 kin la ijo pi lili nanpa wan li ken lon ala lon tenpo.
 
-ni tu la ma suli en ijo lili ken lon ala tawa ilo.
+ni tu la ma suli en ijo lili li ken lon ala tawa ilo.
 
 ilo li ken pana taso e ijo suli lon poka.
 
