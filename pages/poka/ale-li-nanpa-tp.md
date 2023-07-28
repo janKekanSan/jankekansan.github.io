@@ -200,7 +200,7 @@ sina wile lukin e pali sin mi la o kepeken ilo mu!
 
 o lukin e pali poka kin, ona li lon lipu lon tenpo ni!
 
-kin la o toki e pilin sina lon anpa: sina nanpa ala nanpa? sina lon ala lon ilo?
+kin la o toki e pilin sina lon anpa: sina lon ala lon ilo? sina nanpa ala nanpa?
 
 pona tawa jan Tekinowi tan sitelen open! pona tawa jan Sa tan sitelen toki!
 
