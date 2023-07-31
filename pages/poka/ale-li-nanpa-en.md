@@ -2,6 +2,8 @@ Hey everyone! I'm gregdan3. I want to show you something strange!
 
 ---
 
+<!-- --- -->
+
 <!-- intro: everything is numbers -->
 
 Everything is numbers. If you're a thing, you're numbers.
@@ -12,15 +14,21 @@ I'll tell you!
 
 ---
 
+<!-- --- -->
+
 <!-- opening arguments: there are so many things, but computers don't have them all at once-->
 
 You heard me right: You're numbers. So, you're in a computer!
 
 But maybe you don't agree, because...
 
+---
+
 There are so many things. A computer can't have every thing... Right?
 
 It can. Because...
+
+---
 
 In a computer, a thing can go away if you're not near it.
 
@@ -32,13 +40,19 @@ The computer can show you only the big things near you.
 
 The little things make the big things, so in the computer, only the big things are there most of the time!
 
+---
+
 This is easy work, so it's good for the computer. But it looks the same to your eyes!
 
 So if you understand this, maybe you want to ask:
 
+---
+
 What makes everything numbers?
 
 ---
+
+<!-- --- -->
 
 <!-- reason one: people can be in computers -->
 
@@ -57,6 +71,8 @@ In other words, the thing that makes you is in your head- your brain.
 If the computer can understand all of your brain, it can have you inside it.
 
 ---
+
+<!-- --- -->
 
 <!-- reason two: computers keep getting better over time -->
 
@@ -82,6 +98,8 @@ It could have you, and other people, and lots of things inside!
 
 ---
 
+<!-- --- -->
+
 <!-- reason number three: future people want people inside computer -->
 
 Third, will people a long time from now want to put people inside computers?
@@ -102,6 +120,8 @@ And if they do this, they will do it a lot, so they can learn a lot!
 
 ---
 
+<!-- --- -->
+
 <!-- closing arguments:  -->
 
 I've said a lot so far. Let's go back over the important stuff:
@@ -114,7 +134,11 @@ Oh yeah, and if they put people inside computers, they put a lot of people in co
 
 If this all is true, then you need to know:
 
+---
+
 How many people are in computers? How many people are not in computers?
+
+---
 
 If one person a long time from now has a computer, they can put lots and lots of people in it.
 
@@ -128,15 +152,21 @@ The numbers say that you're numbers.
 
 ---
 
+<!-- --- -->
+
 <!-- counterarguments -->
 
 But. Maybe you still don't agree.
 
 What would have to be true for you to not be numbers? Let's look at that too.
 
+---
+
 First, the thing that makes you could be somewhere else- not just inside your head. Then computers could never understand you.
 
 Second, computers may not become good enough. If they don't, people can't be inside computers, because brains will still be too much for them!
+
+---
 
 Third, people may not be around long enough because of something really bad happening. If there aren't people, they can't put people inside computers.
 
@@ -144,7 +174,11 @@ And last, if people are around long enough, they may not want to put people in c
 
 ---
 
+<!-- --- -->
+
 This is a lot! But how important are they? To me, these aren't important.
+
+---
 
 The brain is a part of you, and you.
 
@@ -160,6 +194,8 @@ And many others feel the same!
 
 ---
 
+<!-- --- -->
+
 <!-- finale -->
 
 Now, maybe you think you're in a computer, and that you're numbers.
@@ -171,6 +207,8 @@ In any case, I want to tell you something important:
 Everything, and you, could be in a computer, could be numbers. You, and everything, could not be.
 
 That doesn't matter!
+
+---
 
 No matter what, you're still here.
 
@@ -190,6 +228,8 @@ Keep caring about everyone close to you. And keep having fun!
 
 ---
 
+<!-- --- -->
+
 This talk is in Toki Pona, and in English, and is something new.
 
 I want to grow Toki Pona, so I made this in both languages!
@@ -198,9 +238,13 @@ This way, many people will be able to follow along.
 
 Look at the other work too- it should be on a card right now!
 
+---
+
 If you want to see more from me, subscribe, hit the bell, and learn Toki Pona!
 
 And let me know in the comments: Are you in a computer? Are you numbers?
+
+---
 
 Thanks to jan Tekinowi for the front picture, and thanks to jan Sa for the words you can read!
 

@@ -50,6 +50,8 @@ sina sona e ni la ken la sina kama wile sona e ni:
 
 seme li nanpa e ale??
 
+---
+
 <!-- --- -->
 
 <!-- reason one: people can be in computers -->
