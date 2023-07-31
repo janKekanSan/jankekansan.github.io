@@ -196,9 +196,9 @@ I want to grow Toki Pona, so I made this in both languages!
 
 This way, many people will be able to follow along.
 
-If you want to see more from me, subscribe, hit the bell, and learn Toki Pona!
-
 Look at the other work too- it should be on a card right now!
+
+If you want to see more from me, subscribe, hit the bell, and learn Toki Pona!
 
 And let me know in the comments: Are you in a computer? Are you numbers?
 

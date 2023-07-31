@@ -212,8 +212,6 @@ style: |
 
 ## jan li awen lon
 
-## ale li pona a
-
 ---
 
 <!-- pilin sina li seme lon ken ilo? -->
@@ -236,9 +234,7 @@ style: |
 
 ## sina lon
 
-## jan li lon
-
-## pona li lon
+## jan poka li lon
 
 ## olin li lon
 
