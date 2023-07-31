@@ -2,6 +2,8 @@ toki a, jan ale o! mi jan Kekan San! mi wile pana e sona nasa.
 
 ---
 
+<!-- --- -->
+
 <!-- intro: everything is numbers -->
 
 lon la ale li nanpa. sina lon la sina nanpa.
@@ -12,15 +14,21 @@ mi pana e sona.
 
 ---
 
+<!-- --- -->
+
 <!-- opening arguments: there are so many things, but computers don't have them all at once-->
 
 sina kute pona: sina nanpa. ni la, sina lon ilo!
 
 taso, ken suli la sina wile utala tan ni:
 
+---
+
 ijo li mute _wawa_. ilo li ken ala jo e ijo _ale_... anu seme?
 
 ona li ken tan ni:
+
+---
 
 nasin ilo la ijo li ken lon ala lon tenpo ni: sina lon ala poka.
 
@@ -32,13 +40,17 @@ ilo li ken pana taso e ijo suli lon poka.
 
 ijo lili li pali e ijo suli la ilo la ijo suli taso li lon lon tenpo mute!
 
+---
+
 ni li pali lili la ni li pona tawa ilo. taso, ni li sama tawa lukin sina!
 
 sina sona e ni la ken la sina kama wile sona e ni:
 
+---
+
 seme li nanpa e ale??
 
----
+<!-- --- -->
 
 <!-- reason one: people can be in computers -->
 
@@ -58,6 +70,8 @@ ilo li ken sona e ale pi lawa sina la ilo li ken jo e sina lon insa.
 
 ---
 
+<!-- --- -->
+
 <!-- reason two: computers keep getting better over time -->
 
 nanpa tu la ilo li awen ala awen kama wawa lon tenpo?
@@ -68,7 +82,7 @@ mi toki e ni: ilo li ken sona e ale lawa lon ni: lawa sina li lon li kon ala.
 
 taso, ilo li ken ala ken ni lon wawa ona?
 
-lawa sina li jo e ijo mute. tenpo pi toki ni la li ken ala jo e lawa lon insa.
+lawa sina li jo e ijo mute. tenpo pi toki ni la ilo li ken ala jo e lawa lon insa.
 
 taso, tenpo suli la ilo li kama wawa.
 
@@ -81,6 +95,8 @@ ni la lawa li kama suli ala tawa ilo.
 ona li ken jo e sina e jan ante e ijo mute a lon insa!
 
 ---
+
+<!-- --- -->
 
 <!-- reason number three: future people want people inside computer -->
 
@@ -102,6 +118,8 @@ ona li ni la, ona li ni mute tawa sona mute!
 
 ---
 
+<!-- --- -->
+
 <!-- closing arguments:  -->
 
 sina kute e ni tu wan:
@@ -114,7 +132,11 @@ poka la, jan li ken pana e jan tawa ilo la ona li ni mute!
 
 ni ale li lon la o sona e ni:
 
+---
+
 jan ilo li mute seme tawa jan pi ilo ala?
+
+---
 
 jan wan pi tenpo kama li jo e ilo la ona li ken pana e jan mute mute a tawa insa ilo.
 
@@ -128,15 +150,21 @@ nasin nanpa la sina nanpa.
 
 ---
 
+<!-- --- -->
+
 <!-- counterarguments -->
 
 taso. ken suli la sina awen pilin ante.
 
 seme li utala e nasin? mi toki e ni kin.
 
+---
+
 nanpa wan la, sina ken kama tan ala lawa. sina ken tan kon. ni la ilo li ken ala sona e sina tan lawa sina.
 
 nanpa tu la, ilo li ken kama ala wawa. ilo li wawa ala la jan li ken ala lon insa tan ni: ilo li wawa lili tawa jan.
+
+---
 
 nanpa tu wan la, jan li ken lon ala tenpo kama tan pakala suli. ona li lon ala la ona li ken ala pana e jan tawa ilo.
 
@@ -144,7 +172,11 @@ nanpa pini la, jan li lon tenpo kama la ona li ken wile ala e jan lon insa ilo. 
 
 ---
 
+<!-- --- -->
+
 ni li ijo mute! taso, ken pi ona ale li suli seme? pilin mi la ni li suli ala.
+
+---
 
 lawa li lon li sina li kon ala.
 
@@ -160,6 +192,8 @@ jan mute li sama mi lon ni!
 
 ---
 
+<!-- --- -->
+
 <!-- finale -->
 
 ken la pilin sina li ni: ma li ilo. mi lon ilo. mi nanpa.
@@ -171,6 +205,8 @@ ale la, mi wile toki e ni suli:
 ma en sina li ken ilo li ken nanpa, li ken ni tu ala.
 
 ni li suli ala!
+
+---
 
 ale la, sina awen lon.
 
@@ -186,9 +222,11 @@ sina nanpa ala nanpa la seme?
 
 sina lon.
 
-o awen olin jan sina. o awen pona.
+o awen olin e jan sina. o awen pona.
 
 ---
+
+<!-- --- -->
 
 toki ni li lon toki pona li lon Inli li pali sin.
 
@@ -196,11 +234,15 @@ mi wile suli e toki pona la mi pana e ni lon toki tu!
 
 ni la, jan mute li ken sona lukin li ken sona kute.
 
+o lukin e pali poka, ona li lon lipu lon tenpo ni!
+
+---
+
 sina wile lukin e pali sin mi la o kepeken ilo mu!
 
-o lukin e pali poka kin, ona li lon lipu lon tenpo ni!
-
 kin la o toki e pilin sina lon anpa: sina lon ala lon ilo? sina nanpa ala nanpa?
+
+---
 
 pona tawa jan Tekinowi tan sitelen open! pona tawa jan Sa tan sitelen toki!
 
