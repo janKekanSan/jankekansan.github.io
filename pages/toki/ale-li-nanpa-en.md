@@ -96,9 +96,9 @@ style: |
 
 #### Can people be in computers?
 
-#### The brain has to be in a computer for this. The brain must be real.
+#### The brain has to be in a computer for this.
 
-#### If the brain is real and you, you can be in a computer.
+#### If you are your brain, and your brain is real, you can be in a computer.
 
 ---
 
@@ -122,7 +122,7 @@ style: |
 
 #### People want to know about people from a long time ago
 
-#### People will probably want to do this a long time from now!
+#### People will still want to do this in long time too!
 
 ---
 
@@ -150,7 +150,7 @@ style: |
 
 ### One person with a computer can put many people in it
 
-### This means there are _way_ more people in computers than not
+### So there are _way_ more people in computers than not
 
 ---
 
@@ -168,9 +168,9 @@ style: |
 
 ![bg left:66%](./nanpa/weak.jpg)
 
-#### You may not be from your brain
+#### Your brain may not be "you"
 
-#### The brain may not be all real
+#### The brain may not be real
 
 #### Computers may not get good enough
 
@@ -180,9 +180,9 @@ style: |
 
 ![bg left:66% 100%](./nanpa/street.jpg)
 
-#### People may not be around a long time from now
+#### People may not be around in a long time
 
-#### Or they might not want people inside computers
+#### Or they might not want people in computers
 
 ---
 
@@ -224,11 +224,11 @@ style: |
 
 ![bg left](./nanpa/heart.jpg)
 
-### You're here
-
-### Your friends are here
+### You're here, your friends are here
 
 ### Love is here
+
+### Have fun!
 
 ---
 

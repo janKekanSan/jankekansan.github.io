@@ -78,9 +78,9 @@ If the computer can understand all of your brain, it can have you inside it.
 
 Second, are computers going to keep getting better over time?
 
-You heard me say that places and people could be inside computers if the computer could know them completely.
+We know that places and people could be inside computers if the computer could know them completely.
 
-I also said that the computer can understand your whole brain if your brain is only in your head.
+I also said that the computer can understand your whole brain if your brain is real and you.
 
 But are computers good enough to do this?
 

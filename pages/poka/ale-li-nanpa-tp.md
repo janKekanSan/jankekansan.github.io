@@ -48,7 +48,7 @@ sina sona e ni la ken la sina kama wile sona e ni:
 
 ---
 
-seme li nanpa e ale??
+seme li nanpa e ale?
 
 ---
 
@@ -78,9 +78,9 @@ ilo li ken sona e ale pi lawa sina la ilo li ken jo e sina lon insa.
 
 nanpa tu la ilo li awen ala awen kama wawa lon tenpo?
 
-sina kute e ni: ma en jan li ken lon insa ilo lon ni: ilo li ken sona e ale ona.
+sina sona e ni: ma en jan li ken lon insa ilo lon ni: ilo li ken sona e ale ona.
 
-mi toki e ni: ilo li ken sona e ale lawa lon ni: lawa sina li lon li kon ala.
+mi toki e ni kin: ilo li ken sona e ale lawa lon ni: lawa li sina li lon li kon ala.
 
 taso, ilo li ken ala ken ni lon wawa ona?
 
@@ -158,7 +158,7 @@ nasin nanpa la sina nanpa.
 
 taso. ken suli la sina awen pilin ante.
 
-seme li utala e nasin? mi toki e ni kin.
+seme li utala e nasin? mi kama toki e ni kin.
 
 ---
 
