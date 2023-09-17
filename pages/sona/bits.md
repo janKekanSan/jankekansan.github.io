@@ -439,7 +439,16 @@ Still, there are many ways to express numbers in Toki Pona when you need it. The
 
 ---
 
+::: info
+
+We're in the home stretch! Have you been practicing? Even if you have, you can never have enough listening practice; check out [o pilin e toki pona](https://www.youtube.com/playlist?list=PLwYL9_SRAk8EXSZPSTm9lm2kD_Z1RzUgm) by jan Telakoman!
+
+:::
+
 [Previous lesson](./seme.html)
 
 [Next lesson](./pini.html)
+
+
+
 

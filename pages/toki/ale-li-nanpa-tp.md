@@ -6,7 +6,7 @@ paginate: false
 style: |
   @font-face {
     font-family: sp;
-    src: url("http://localhost/ssk.ttf");
+    src: url("https://mun.la/ssk.ttf");
   }
   :root {
     font-family: sp;

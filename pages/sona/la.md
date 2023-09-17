@@ -20,6 +20,7 @@ Video lesson still to come!
       - [la and cause](#la-and-cause)
       - [la and description](#la-and-description)
       - [la and feelings](#la-and-feelings)
+      - [la and meaning](#la-and-meaning)
       - [la and whole prepositions](#la-and-whole-prepositions)
     - [Phrases and la summary](#phrases-and-la-summary)
     - [Sentences and la](#sentences-and-la)
@@ -85,7 +86,7 @@ Every example has more information than just a translation beneath! All of them 
 
 First, [la]{.tokipona} is about context. When does something happen? What is it related to? [la]{.tokipona} tells you that when one thing is going on, another thing happens.
 
-The thing before [la]{.tokipona} is a condition for the thing after it, like **if** and **then** working together in English. This may be a requirement, such as if the thing after [la]{.tokipona} _only_ happens when the thing before [la]{.tokipona} does! It can also be where, when, or why something happens, like prepositions.
+The thing before [la]{.tokipona} is a condition for the thing after it, like **if** and **then** working together in English. This may be a requirement, such as if the thing after [la]{.tokipona} _only_ happens when the thing before [la]{.tokipona} does! It can also be where, when, or why something happens, like prepositions. Sometimes, it can be two statements only related by happening at the same time! [la]{.tokipona} is very broad, but there are many useful patterns you can pick up on to better understand them.
 
 When reading [la]{.tokipona} phrases, it's helpful to think of them like this:
 
@@ -105,7 +106,7 @@ Keep these shorthands in mind as we explore the different ways [la]{.tokipona} c
 
 ::: info
 
-Feel free to skip around! There are many detailed examples here, and each works independently, with different perspectives on how [la]{.tokipona} works. Just be sure to read them all by the end!
+Feel free to skip around! There are many examples here, each with different perspectives on how [la]{.tokipona} works. But be sure to read them all by the end!
 
 :::
 
@@ -137,7 +138,7 @@ Here, the [la]{.tokipona} phrase has [mi]{.tokipona} in it- this could mean "in 
 
 ##### la and location
 
-But the context isn't limited to people or things- it can also be places, like the preposition [lon]{.tokipona}:
+But the context isn't limited to people or things- it can also be places, like with the preposition [lon]{.tokipona}:
 
 <details><summary> [sewi la sina ken lukin e suno mute]{.tokipona} </summary>
 
@@ -181,8 +182,6 @@ This is similar to using **[tan]{.tokipona}**!
 
 Here, the context [pali]{.tokipona} is an action- working or creating. The [la]{.tokipona} phrase refers to cause: [pali]{.tokipona} must happen for everything else to happen! Even this works like one of the prepositions- **most phrases in [la]{.tokipona} work like one of the prepositions**! This doesn't work every time, but it can help your understanding go far!
 
-<!-- This guideline can help you interpret sentences with [la]- but be careful, because this doesn't describe every case! -->
-
 ---
 
 ##### la and description
@@ -191,7 +190,7 @@ The context in [la]{.tokipona} could be a description, which is especially usefu
 
 <details><summary> [laso la kasi li pilin pona. loje la kasi li kama moli.]{.tokipona} </summary>
 
-When green, plants feel good. When red or brown, plants die.
+When green, plants feel good. When red/brown, plants die.
 
 Green plants are healthy. Red plants are dying.
 
@@ -203,7 +202,7 @@ Contrast is one of the most important ways to express complex ideas in Toki Pona
 
 </details>
 
-Here, two contexts are used in separate sentences to explain a deeper idea! They each explain the circumstance of their respective sentences, and together give more information than either one alone. The first sentence uses [laso]{.tokipona}: "If green, then...", and that is contrasted with [loje]{.tokipona}: "If red, then..."
+Here, two contexts are used in separate sentences to explain a deeper idea! They each give context for their respective sentences, and together give more information than either one alone. The first sentence uses [laso]{.tokipona}: "If green, then...", and that is contrasted with [loje]{.tokipona}: "If red, then..."
 Check under the spoiler for the translation!
 
 ::: info
@@ -238,31 +237,30 @@ And here, the context [ike]{.tokipona} tells us how the speaker feels about the 
 
 ---
 
-<!-- ##### la and meaning -->
-<!---->
-<!-- Sometimes, it won't be clear what the context is when you hear it. It could be a place, object, action, description, or many more things- and that's okay! -->
-<!---->
-<!-- <details><summary> [utala la mi pana e kiwen!]{.tokipona} </summary> -->
-<!---->
-<!-- - In a fight, I threw a rock! -->
-<!-- - In the context of fighting, I give a rock. -->
-<!---->
-<!-- ::: info -->
-<!---->
-<!-- The context completely changes the interpretation here! Without [utala]{.tokipona}, most listeners wouldn't assume the rock is being thrown. With it, this is a real fight! -->
-<!---->
-<!-- ::: -->
-<!---->
-<!-- </details> -->
-<!---->
-<!-- Here, [utala]{.tokipona} works like a location, idea, or action depending on perspective. This is all about interpretation, but the result is the same: the main sentence happens in the context of a fight! -->
-<!---->
-<!-- --- -->
-<!---->
+##### la and meaning
+
+Sometimes, it won't be clear what the context is when you hear it. It could be a place, object, action, description, or many more things- and that's okay!
+
+<details><summary> [utala la mi pana e kiwen!]{.tokipona} </summary>
+
+- In a fight, I threw a rock!
+- In the context of fighting, I give a rock.
+
+::: info
+
+The context completely changes the interpretation here! Without [utala]{.tokipona}, most listeners wouldn't assume the rock is being thrown. With it, this is a fight!
+
+:::
+
+</details>
+
+Here, [utala]{.tokipona} works like a location, idea, or action depending on perspective. This is all about interpretation, but the result is the same: the main sentence happens in the context of a fight!
+
+---
 
 ##### la and whole prepositions
 
-Lastly, you can have any complete prepositional phrase as the context of the sentence! This is the same as having that phrase at the end of the sentence, how we learned it before:
+Lastly, you can have any full prepositional phrase in [la]{.tokipona}! This is the same as having that phrase at the end of the sentence, how we learned it before:
 
 <details><summary> [lon tomo la mi lape]{.tokipona} </summary>
 
@@ -278,6 +276,8 @@ Here's the same statement without [la]{.tokipona}!
 
 </details>
 
+This is exactly the same as having the preposition at the end of the sentence- so why would you use it? For style, for fun, maybe because it feels more clear! This is a choice you have more than anything else.
+
 <!-- We noted before that [la]{.tokipona} phrases often work like prepositions, even without the preposition itself. But for clarity, you can include the preposition itself in the [la]{.tokipona} phrase to the same effect!  -->
 <!---->
 
@@ -285,7 +285,7 @@ Because so many [la]{.tokipona} phrases are similar to prepositional phrases, yo
 
 > [tomo la mi lape]{.tokipona}
 
-This restatement without [lon]{.tokipona} can mean the same as the above example!
+This restatement without [lon]{.tokipona} _can_ mean the same as the above example!
 
 Notably, [sama]{.tokipona} phrases won't usually mean the same thing if you drop the preposition.
 
@@ -303,7 +303,7 @@ Here's the same statement without [la]{.tokipona}!
 
 </details>
 
-[sama]{.tokipona} needs its preposition to be understood, but it can still be used in the [la]{.tokipona} phrase!
+[sama]{.tokipona} needs its preposition to be understood, but [sama]{.tokipona} prep phrases can still be used in [la]{.tokipona}!
 
 ::: warning
 
@@ -339,9 +339,9 @@ These prepositional meanings are most common when [la]{.tokipona} has a phrase. 
 
 ::: warning
 
-**Terminology note!** When I use "sentence" in this section, I mean **statements before and after [la]{.tokipona}**. Here's an example of each sentence underlined: [<u>sina pona</u> la <u>mi pona</u>]{.tokipona}
+**Terminology note!** When I use "sentence" in this section, I mean **statements before and after [la]{.tokipona}**. Here's an example of each sentence underlined: [<u>sina pona</u> la <u>mi pona</u>]{.tokipona}.
 
-<!-- Some speakers will say this is one big sentence, or use these different meanings at different times! Just know that I'm referring to "sentences" that **do not** include [la]{.tokipona}. -->
+You might see "sentence" used to refer to a complete statement including [la]{.tokipona}- that's valid too, so be aware!
 
 :::
 
@@ -726,11 +726,15 @@ There are two different [mun]{.tokipona} here: the planets and the stars. Use mo
 
 ## Takeaway
 
+Here's something important about this entire lesson, exercises and all: the way I described [la]{.tokipona} here is by no means perfect. It's not the only way you can think about how [la]{.tokipona} works, and it's not necessarily the best way- this is a breakdown of how I see and teach this part of Toki Pona's grammar. You'll get different explanations from other speakers- so the best you can hope for is to have a good idea in mind that gets you close to right! And you'll know you're there when you read and understand the sentence.
+
+Either way, the raw grammar still applies, and so do all these provided translations!
+
 #### Summary
 
 As a short review, [la]{.tokipona} comes in two forms:
 
-- Incomplete sentences, as in phrases and individual words. Most often these are interpreted as "in the context of **[1]**, **[2]**". They can also convey condition like modiifers, or circumstance like prepositions!
+- Incomplete sentences, as in phrases and individual words. Most often these are interpreted as "in the context of **[1]**, **[2]**". They can also convey condition like modifiers, or circumstance like prepositions!
 - Complete sentences, which can be as long and complex as any sentence without [la]{.tokipona}! These are often conditional, interpreted as "if **[1]**, then **[2]**".
 
 This is a complete list of everything [la]{.tokipona} does grammatically, but not everything it can do in meaning. Also, all the given English interpretations are only approximations of how [la]{.tokipona} really works, and aren't perfect.
