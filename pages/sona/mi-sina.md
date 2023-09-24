@@ -3,6 +3,7 @@ title: You and I
 author: gregdan3
 date: 2022-07-30T00:00:00.000Z
 ---
+
 [Check out the video lesson too!](https://youtu.be/J93GWOMbgdg)
 
 <details><summary>**Table of Contents**</summary>
@@ -505,4 +506,3 @@ Don't forget, you can toggle the glyphs back to familiar letters with the **Togg
 [Previous lesson](./open.html)
 
 [Next lesson](./li.html)
-

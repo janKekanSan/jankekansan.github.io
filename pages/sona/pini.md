@@ -3,6 +3,7 @@ title: Finale
 author: gregdan3
 date: date unknown
 ---
+
 ::: error
 
 This lesson is a work in progress!
@@ -104,4 +105,3 @@ The previous use gives only the definition which is no longer used.
 [Previous lesson](./bits.html)
 
 [Other lessons](/sona/#namako-extra)
-

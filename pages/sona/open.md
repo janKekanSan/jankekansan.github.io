@@ -3,6 +3,7 @@ title: Getting Started
 author: gregdan3
 date: 2022-07-30T00:00:00.000Z
 ---
+
 <details><summary>**Table of Contents**</summary>
 
 <!-- toc -->
@@ -261,4 +262,3 @@ Remember to take breaks!
 :::
 
 [Next lesson](./mi-sina.html)
-

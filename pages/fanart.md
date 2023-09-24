@@ -3,6 +3,7 @@ title: Fanart!
 author: jan mute
 date: 2023-09-06T00:00:00.000Z
 ---
+
 This page is due for an update, but I'd like to make a scrollable gallery rather than keep tacking images onto the page. In the meantime, you can find the complete list of my fanart [here](https://discord.com/channels/301377942062366741/1145483914765422682/1145483914765422682) if you're in [ma pona pi toki pona](https://discord.gg/mapona), and if you aren't there, I'll get the list here as soon as I can!
 
 <details><summary>**Table of Contents**</summary>
@@ -337,4 +338,3 @@ We had a hilarious courtroom RP in the VR community, featuring a pipi store owne
 **mi sewi Kekan San. o monsuta ala.**
 
 </details>
-

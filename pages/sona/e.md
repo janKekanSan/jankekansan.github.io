@@ -751,9 +751,9 @@ Don't worry that the detail of "batter" and "drinks" are lost. If you got close 
 
 <details><summary> Wanting will help you and hurt you. </summary>
 
-[wile mute li pona e sina li ike e sina]{.tokipona}
+[wile li pona e sina li ike e sina]{.tokipona}
 
-[wile mute li pona li ike e sina]{.tokipona}
+[wile li pona li ike e sina]{.tokipona}
 
 </details>
 
@@ -798,4 +798,3 @@ Try remembering the words with **[this game by James Moulang](https://jamesmoula
 [Previous lesson](./li.html)
 
 [Next lesson](./mod-pi.html)
-

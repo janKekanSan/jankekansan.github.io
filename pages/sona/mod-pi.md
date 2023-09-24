@@ -3,6 +3,7 @@ title: Modifiers and pi
 author: gregdan3
 date: date unknown
 ---
+
 [Check out the video lesson too!](https://youtu.be/J6ThX6dQyCI)
 
 <details><summary>**Table of Contents**</summary>
@@ -541,4 +542,3 @@ You can see this in English too: a blue book is a kind of book, and a deep under
 [Previous lesson](./e.html)
 
 [Next lesson](./pre-predicates.html)
-

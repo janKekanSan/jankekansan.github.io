@@ -3,6 +3,7 @@ title: What's up with taso/kin?
 author: jan Kekan San
 date: 2022-01-06T00:00:00.000Z
 ---
+
 In summary, the two **are** different!
 
 - "[taso]{.tokipona}, ..." is particle-y and "[taso la]{.tokipona}, ..." is using [taso]{.tokipona} as a content word like how it works as a modifier.
@@ -25,7 +26,3 @@ This sentence-start [taso]{.tokipona} is _sometimes_ analyzed as an interjection
 [kin]{.tokipona} is usually a modifier, like [taso]{.tokipona}. It has no common-use reason for being at the start of a sentence in the way [taso]{.tokipona} can be (i.e. without [la]{.tokipona}), but you often can do "[kin la]{.tokipona}, ..." which is to say "the idea expressed by this sentence is additional to something else," kinda like leading a sentence with "Also, ..." in English. Some speakers use "[kin]{.tokipona}, ..." without [la]{.tokipona} to mean the same thing, but it's pretty rare.
 
 The inconsistency in function is a matter of usage, in my experience; people understand "[taso la]{.tokipona}, ..." differently from "[taso]{.tokipona}, ..." because of [taso] content word in the former, and [taso]{.tokipona}'s unique sentence-start behavior in the latter.. Whereas in [kin]{.tokipona}, "[kin la]{.tokipona}, ..." is likely the same as using "[kin]{.tokipona}" somewhere in the sentence as a modifier.
-
-
-
-

@@ -762,4 +762,3 @@ Remember, these lessons aren't comprehensive. The guidance and interpretations o
 [Previous lesson](./interjections.html)
 
 [Next lesson](./seme.html)
-

@@ -189,7 +189,8 @@ Sometimes I write scripts- in which case, you'll find it here! These are written
   - [(2023-06-24) Literally Jellyfish - Learn Toki Pona!](./jellyfish.html) --- [On YouTube](https://youtu.be/4ituR4S-NS0)
   - [(2023-06-17) li, modifiers, seme questions](./jun-17-li-modifiers.html)
   - [(2023-07-08) e, pi, ijo ala ijo questions](./jul-08-e-pi.html)
-  <!-- - [(2023-08-12) prepositions, la phrases](./aug-12-preps-la.html) -->
+  - [(2023-09-16) prepositions, la phrases](./sep-16-preps-la.html)
+  - [(2023-10-21) preverbs, anu seme, *mu!*](./oct-21-preverbs-interjections.html)
 - **Presentations**: These are written to be accessible to everyone!
   - **ale li nanpa** [on YouTube](https://youtu.be/AgkDx8dIAio) and [its script](../toki/ale-li-nanpa-tp.md) and [its slides](../poka/ale-li-nanpa-tp.md)
   - **Everything is Numbers** [on YouTube](https://youtu.be/_awfcwuJhpk) and [its script](../toki/ale-li-nanpa-en.md) and [its slides](../poka/ale-li-nanpa-en.md)

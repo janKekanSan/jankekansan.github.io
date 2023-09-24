@@ -3,6 +3,7 @@ title: Actions with li
 author: gregdan3
 date: 2022-08-16T00:00:00.000Z
 ---
+
 [Check out the video lesson too!](https://youtu.be/xaYd936H--o)
 
 <details><summary>**Table of Contents**</summary>
@@ -519,4 +520,3 @@ There's no better time to start practicing than right now! Check out **[ma pona 
 [Previous lesson](./mi-sina.html)
 
 [Next lesson](./e.html)
-

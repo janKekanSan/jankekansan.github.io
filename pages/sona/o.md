@@ -3,6 +3,7 @@ title: Instructions with o
 author: gregdan3
 date: date unknown
 ---
+
 [Check out the video lesson too!](https://youtu.be/lf3lDjIWiYI)
 
 <details><summary>**Table of Contents**</summary>
@@ -611,4 +612,3 @@ Now that we've learned the word [sitelen]{.tokipona}, here's a fun side note: To
 [Previous lesson](./preps.html)
 
 [Next lesson](./interjections.html)
-

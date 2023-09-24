@@ -3,6 +3,7 @@ title: And Another Thing...
 author: gregdan3
 date: date unknown
 ---
+
 ::: error
 
 This lesson is a work in progress!
@@ -448,7 +449,3 @@ We're in the home stretch! Have you been practicing? Even if you have, you can n
 [Previous lesson](./seme.html)
 
 [Next lesson](./pini.html)
-
-
-
-

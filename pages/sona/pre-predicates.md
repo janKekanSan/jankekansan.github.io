@@ -3,6 +3,7 @@ title: Pre-predicates
 author: gregdan3
 date: date unknown
 ---
+
 [Check out the video lesson too!](https://youtu.be/YjxSaqAZwqk)
 
 <details><summary>**Table of Contents**</summary>
@@ -672,4 +673,3 @@ That said, if any ambiguity or even simple misunderstanding comes up when speaki
 [Previous lesson](./mod-pi.html)
 
 [Next lesson](./preps.html)
-

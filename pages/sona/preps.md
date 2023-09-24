@@ -3,6 +3,7 @@ title: Prepositions and Context
 author: gregdan3
 date: date unknown
 ---
+
 [Check out the video lesson too!](https://youtu.be/hbUaLDRmULI)
 
 <details><summary>**Table of Contents**</summary>
@@ -561,4 +562,3 @@ This applies to every preposition, but understandably, it affects [tawa]{.tokipo
 [Previous lesson](./pre-predicates.html)
 
 [Next lesson](./o.html)
-

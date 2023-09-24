@@ -3,6 +3,7 @@ title: Frequently Asked Questions
 author: gregdan3
 date: unknown
 ---
+
 ## Table of Contents
 
 <!-- toc -->
@@ -109,6 +110,3 @@ Where are you going?
 New speakers ask this question often
 
 isipin
-
-
-

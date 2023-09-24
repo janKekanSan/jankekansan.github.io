@@ -3,6 +3,7 @@ title: Now
 author: jan Kekan San
 date: 2022-12-25T00:00:00.000Z
 ---
+
 **Last updated: 2023-09-07**
 
 - I'm editing my la lesson... still... I SWEAR it'll be out soon.
@@ -55,4 +56,3 @@ This is in most to least recent order.
   - While I'm doing that, I'm making sure I don't cause any link rot. Keep the internet alive!
 
 </details>
-
