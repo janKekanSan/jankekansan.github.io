@@ -3,6 +3,7 @@ title: Objects with e
 author: gregdan3
 date: 2022-09-09T00:00:00.000Z
 ---
+
 [Check out the video lesson too!](https://youtu.be/ZLcSwYEZmIY)
 
 <details><summary>**Table of Contents**</summary>
@@ -163,11 +164,11 @@ This uses a modifier (next lesson!) to demonstrate the point, now referencing a 
 
 #### Multiple e
 
-<!-- ::: info -->
-<!---->
-<!-- [Check out this video lesson too!]() There are a few other topics here, but the very start has what you need! -->
-<!---->
-<!-- ::: -->
+::: info
+
+[Check out this video lesson too!](https://youtu.be/BGsodPu9UAw) There are a few other topics here, but the very start has what you need!
+
+:::
 
 Like [li]{.tokipona}, [e]{.tokipona} can be used more than once to apply a predicate to more than one object at a time! The predicate before applies to every object that follows. Like [li]{.tokipona}, this is like "and" in English, but now for the object!
 
@@ -431,17 +432,11 @@ The garden needs help! I will help the plants.
 
 #### Multiple e
 
-::: error
-
-Working on this!
-
-:::
+TODO
 
 Discussion...
 
 <details> <summary> [kasi li nasa li jaki!]{.tokipona} </summary>
-
-Translation...
 
 ---
 
@@ -493,34 +488,6 @@ Translation...
 
 </details>
 
-Discussion...
-
-<details> <summary> [kama]{.tokipona} </summary>
-
-Translation...
-
----
-
-- .
-- .
-- .
-
-</details>
-
-Discussion...
-
-<details> <summary> [kama]{.tokipona} </summary>
-
-Translation...
-
----
-
-- .
-- .
-- .
-
-</details>
-
 #### Multiple li and Multiple e
 
 ::: error
@@ -546,34 +513,6 @@ Walking helps you, and is important!
 Discussion...
 
 <details> <summary> []{.tokipona} </summary>
-
-Translation...
-
----
-
-- .
-- .
-- .
-
-</details>
-
-Discussion...
-
-<details> <summary> [kama]{.tokipona} </summary>
-
-Translation...
-
----
-
-- .
-- .
-- .
-
-</details>
-
-Discussion...
-
-<details> <summary> [kama]{.tokipona} </summary>
 
 Translation...
 
@@ -743,9 +682,9 @@ Don't worry that the detail of "batter" and "drinks" are lost. If you got close 
 
 </details>
 
-<details><summary> The person sees a collection, and gifted a book! </summary>
+<details><summary> The person sees a collection and gifted a book! </summary>
 
-[jan lukin e kulupu, li pana e lipu]{.tokipona}
+[jan li lukin e kulupu, li pana e lipu]{.tokipona}
 
 </details>
 
