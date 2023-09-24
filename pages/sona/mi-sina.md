@@ -43,7 +43,7 @@ date: 2022-07-30T00:00:00.000Z
 | [jan]{.glyph}<br/>[jan]{.glyphsubtitle}   | person, people, someone, anyone          | Person's head and shoulders                                      |
 | [moku]{.glyph}<br/>[moku]{.glyphsubtitle} | food, eat                                | Hand outline with thumb and extended fingers, mouth on top       |
 | [musi]{.glyph}<br/>[musi]{.glyphsubtitle} | fun, entertaining, artistic, playful     | A very wide smile with cheeks circled                            |
-| [suli]{.glyph}<br/>[suli]{.glyphsubtitle} | big, important, tall, wide               | Big "V" shape. Sometimes the sides curve out!                    |
+| [suli]{.glyph}<br/>[suli]{.glyphsubtitle} | big, important, tall, wide               | Big "V" shape. The sides can curve in, so the top curves out!    |
 | [lili]{.glyph}<br/>[lili]{.glyphsubtitle} | small, miniature, tiny, few, young       | Tiny "v" shape                                                   |
 | [lape]{.glyph}<br/>[lape]{.glyphsubtitle} | rest, sleep                              | Person laying on their side, their head to the right             |
 | [mama]{.glyph}<br/>[mama]{.glyphsubtitle} | parent, guardian, ancestor, caretaker    | Oval with small oval below, like a baby critter under its parent |

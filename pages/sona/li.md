@@ -52,19 +52,19 @@ Content words have meaning, and can be used most places in a sentence- so far, t
 
 ::: tpdefinitions
 
-| Word                                          | Definition                                    | Writing                                                    |
-| --------------------------------------------- | --------------------------------------------- | ---------------------------------------------------------- |
-| [kasi]{.glyph}<br/>[kasi]{.glyphsubtitle}     | plant, flower, tree, vegetation               | A plant with two pointed leaves at its top.                |
-| [kiwen]{.glyph}<br/>[kiwen]{.glyphsubtitle}   | rock, hard, tough, sturdy, durable            | A five-sided diamond shape                                 |
-| [ko]{.glyph}<br/>[ko]{.glyphsubtitle}         | dust, goop, clay, paste, squishy thing        | A pile of goop, or a fluffy ball. Give it several curves!  |
-| [telo]{.glyph}<br/>[telo]{.glyphsubtitle}     | liquid, water, fluid                          | Two wavy lines drawn horizontally, like waves on the beach |
-| [kulupu]{.glyph}<br/>[kulupu]{.glyphsubtitle} | group, collection, nation, community          | Three circles in a triangle shape, with some space.        |
-| [jaki]{.glyph}<br/>[jaki]{.glyphsubtitle}     | gross, garbage, trash, sick                   | Scribble!                                                  |
-| [wawa]{.glyph}<br/>[wawa]{.glyphsubtitle}     | power, strength, courage, energy, electricity | A person holding their arms over their head                |
-| [suwi]{.glyph}<br/>[suwi]{.glyphsubtitle}     | sweet, soft, fluffy, cute, fragrant           | A cute and pleasant cat face like this emoticon: `^.^`     |
-| [nasa]{.glyph}<br/>[nasa]{.glyphsubtitle}     | strange, weird, silly, rare                   | A spiral. Any spiral will do!                              |
-| [seli]{.glyph}<br/>[seli]{.glyphsubtitle}     | hot, fire, warm, hot object                   | A dot with three big emitters, like a raging fire!         |
-| [lete]{.glyph}<br/>[lete]{.glyphsubtitle}     | cold, ice, raw, undercooked, cold object      | Three crossing lines making a simple snowflake             |
+| Word                                          | Definition                                    | Writing                                                                        |
+| --------------------------------------------- | --------------------------------------------- | ------------------------------------------------------------------------------ |
+| [kasi]{.glyph}<br/>[kasi]{.glyphsubtitle}     | plant, flower, tree, vegetation               | A plant with two pointed leaves at its top.                                    |
+| [kiwen]{.glyph}<br/>[kiwen]{.glyphsubtitle}   | rock, hard, tough, sturdy, durable            | A five-sided diamond shape                                                     |
+| [ko]{.glyph}<br/>[ko]{.glyphsubtitle}         | dust, goop, clay, paste, squishy thing        | A pile of goop, or a fluffy ball. Give it several curves!                      |
+| [telo]{.glyph}<br/>[telo]{.glyphsubtitle}     | liquid, water, fluid                          | Two wavy lines drawn horizontally, like waves on the beach                     |
+| [kulupu]{.glyph}<br/>[kulupu]{.glyphsubtitle} | group, collection, nation, community          | Three circles in a triangle shape, with some space.                            |
+| [jaki]{.glyph}<br/>[jaki]{.glyphsubtitle}     | gross, garbage, trash, sick                   | Scribble!                                                                      |
+| [wawa]{.glyph}<br/>[wawa]{.glyphsubtitle}     | power, strength, courage, energy, electricity | A person holding their arms over their head                                    |
+| [suwi]{.glyph}<br/>[suwi]{.glyphsubtitle}     | sweet, soft, fluffy, cute, fragrant           | A cute and pleasant cat face like this emoticon: `^.^`                         |
+| [nasa]{.glyph}<br/>[nasa]{.glyphsubtitle}     | strange, weird, silly, rare                   | A spiral. Any spiral will do!                                                  |
+| [seli]{.glyph}<br/>[seli]{.glyphsubtitle}     | hot, fire, warm, hot object                   | A dot with three almost-vertical lines ("emitters") over top, like a big fire! |
+| [lete]{.glyph}<br/>[lete]{.glyphsubtitle}     | cold, ice, raw, undercooked, cold object      | Three crossing lines making a simple snowflake                                 |
 
 :::
 
