@@ -432,123 +432,84 @@ The garden needs help! I will help the plants.
 
 #### Multiple e
 
-TODO
-
-Discussion...
+You're touring a greenhouse full of strange plants. The tour guide stops at a [small, orange flower with its bulb hanging down toward the floor](https://en.wikipedia.org/wiki/Fritillaria_imperialis). Your guide directs you to lean in and smell the flower, and you just barely notice them smirking before the smell hits you! Then you say:
 
 <details> <summary> [kasi li nasa li jaki!]{.tokipona} </summary>
 
+The flower is super weird and smelly!
+
 ---
 
-- .
-- .
-- .
+- The tree is strange and covered in mud.
+- The plants are disturbing and unpleasant!
 
 </details>
 
-Discussion...
+You and your sister wake up early for school, but you both feel awful- you must have gotten sick and it set in over night, oh no! But not to worry: your mom and dad tell you to stay in bed. Later, your sister asks if you're both gonna be okay, and you tell her:
 
-<details> <summary> [mama li pona e mi e sina]{.tokipona} </summary>
+<details> <summary> [mama li pona e sina e mi]{.tokipona} </summary>
 
-Dad helps you and me.
+Mom and dad are gonna make you and I better!
 
 ---
 
-- .
-- .
-- .
+- The parents will heal you and I.
+- The babysitter will help you and me!
+- The technician will repair you and I.
 
 </details>
 
-Discussion...
+You and your dad are looking through an old family photo album. As you look through the album, you see yourself and your brother as babies, and lots of old pictures of your mom and dad! Later, your brother asks what you got up to this afternoon, and you say excitedly:
 
-<details> <summary> [mi wile e moku e lape]{.tokipona} </summary>
+<details> <summary> [mi lukin e mi e sina e mama!]{.tokipona} </summary>
 
-I want food and sleep!
-
----
-
-- .
-- .
-- .
-
-</details>
-
-Discussion...
-
-<details> <summary> []{.tokipona} </summary>
-
-Translation...
+I looked at me, and you, and mom, and dad!
 
 ---
 
-- .
-- .
-- .
+- I saw me, and you, and the parents!
 
 </details>
 
 #### Multiple li and Multiple e
 
-::: error
+You've been holed up in your home for a few days, stressfully cleaning and doing other chores as a work deadline looms. Your roommate notices your stress, and invites you along on a walk to relax, saying:
 
-Working on this!
-
-:::
-
-Discussion...
-
-<details> <summary> [tawa li pona e jan li suli]{.tokipona} </summary>
+<details> <summary> [tawa li pona e sina li suli]{.tokipona} </summary>
 
 Walking helps you, and is important!
 
 ---
 
-- .
-- .
-- .
+- Movement heals you, and is critical.
+- Dancing makes you happy, and is essential!
 
 </details>
 
-Discussion...
+You're wandering around a festival, enjoying the sights and crafts work. You can smell smoke, but you expect it's outdoor cooking- until somebody runs past you, yelling:
 
-<details> <summary> []{.tokipona} </summary>
+<details> <summary> [jan li pana e seli li pakala e kasi!!]{.tokipona} </summary>
 
-Translation...
+Somebody has fire, and burnt the garden!!
 
 ---
 
-- .
-- .
-- .
+- A person lit a fire, and ruined the trees!
+
+<!-- - People are giving off heat, and hurting the plants! -->
 
 </details>
 
-Discussion...
+In an old building decorated with whimsical artifacts and stacks of strange old books, you sit among a vast audience, overlooking a magician's display. An old man stands center stage, demonstrating his act: a person enters one door, and the very same instant, exits another door on the opposite side of the stage! With booming theatrical tone, he explains:
 
-<details> <summary> [kama]{.tokipona} </summary>
+<details> <summary> [wawa li tawa e sina li nasa e sina!]{.tokipona} </summary>
 
-Translation...
-
----
-
-- .
-- .
-- .
-
-</details>
-
-Discussion...
-
-<details> <summary> [kama]{.tokipona} </summary>
-
-Translation...
+The magic moves you, and confuses you!
 
 ---
 
-- .
-- .
-- .
+- The power pushes you, and dizzies you!
+- The power moved you, and made you weird!
 
 </details>
 
@@ -606,7 +567,7 @@ Translation...
 
 </details>
 
-<details> <summary> The person is listening to something different. </summary>
+<details> <summary> Somebody heard a difference! </summary>
 
 [jan li kute e ante]{.tokipona}
 
@@ -626,9 +587,11 @@ Translation...
 
 </details>
 
-<details> <summary> You muddied the water. </summary>
+<details> <summary> You muddied the water. The water is muddy. </summary>
 
 [sina ko e telo! telo li ko]{.tokipona}
+
+[sina jaki e telo. telo li jaki]{.tokipona}
 
 </details>
 
@@ -638,7 +601,7 @@ The following use "and." Remember how multiple [e]{.tokipona} works, and multipl
 
 :::
 
-<details> <summary> I added sugar to the batter, and the drinks! </summary>
+<details> <summary> I sweetened the batter and the drinks! </summary>
 
 [mi suwi e moku e telo]{.tokipona}
 
