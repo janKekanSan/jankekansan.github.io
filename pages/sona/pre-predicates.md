@@ -368,7 +368,7 @@ The teacher wants to group together all the students!
 
 ::: info
 
-The original statement could be shorter: "pi kama sona" could be dropped and the statement would be similar. Modifiers only make things more specific!
+The original statement could be shorter: "[pi kama sona]{.tokipona}" could be dropped and the statement would be similar. Modifiers only make things more specific!
 
 :::
 
