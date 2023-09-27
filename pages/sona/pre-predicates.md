@@ -418,13 +418,13 @@ You've been talking up Toki Pona with your friends for a while now, and finally 
 
 <details><summary> [jan pi toki pona li alasa nasa e kulupu ona  /  jan pi toki pona li lukin nasa e kulupu ona]{.tokipona} </summary>
 
-Toki Pona speakers try to make their communities weird! [positive connotation]
+Toki Pona speakers try to make their communities weird!
 
 Toki Pona speakers try to weird their communities.
 
 ::: info
 
-Remember, pre-predicate [lukin]{.tokipona} and [alasa]{.tokipona} have the same meaning!
+[nasa]{.tokipona} here has a positive connotation!
 
 :::
 
@@ -486,7 +486,7 @@ They're no longer burning plants!
 
 ::: info
 
-You could also say "ona li seli ala e kasi" to similar effect!
+You could also say "[ona li seli ala e kasi]{.tokipona}" to similar effect!
 
 :::
 
@@ -596,7 +596,7 @@ The second example here uses a second sentence to add more information about the
 
 ::: info
 
-Even though "consume" is not meant in the eating sense here, moku still works!
+Even though "consume" is not meant in the eating sense here, [moku]{.tokipona} still works!
 
 :::
 
@@ -608,7 +608,7 @@ Even though "consume" is not meant in the eating sense here, moku still works!
 
 ::: info
 
-You could say "mi awen awen" here, but "mi awen" already captures that!
+You could say "[mi awen awen]{.tokipona}" here, but "[mi awen]{.tokipona}" already captures that!
 
 :::
 
