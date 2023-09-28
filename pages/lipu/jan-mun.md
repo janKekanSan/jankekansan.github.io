@@ -1,9 +1,13 @@
 % [jan mun]{.tokipona}
 % gregdan3
 % 2023-07-15
-% published: false
+% published: true
 
 ::: tokipona
+
+[o lukin e ni lon utala](https://utala.pona.la/toki-en-lipu/lipu-suli/jan-mun.html)
+
+---
 
 tenpo la jan mun li lon li lili a.
 
