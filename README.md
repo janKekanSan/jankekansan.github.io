@@ -1,5 +1,13 @@
 # jankekansan.github.io
 
+## WIP
+
+[./pages/lipu/tomo-pi-walo-loje.md]
+[./pages/lipu/what-is-toki-pona.md]
+[./pages/sona/mi-jan-pona.md]
+[./pages/sona/mi-tu.md]
+[./pages/sona/oct-21-preverbs-interjections.md]
+
 ## lesson re-structure
 
 - reading/writing
