@@ -9,22 +9,30 @@ Hey everyone, I'm gregdan3, and I want to tell you something important.
 
 This starts with a question: What is Toki Pona?
 
-Toki Pona is a constructed language. As in, somebody sat down and made it.
-You might know Valyrian from Game of Thrones, or Klingon from Star Trek- these are constructed languages from famous fiction.
-But Toki Pona isn't _from_ anything- it's not for fiction, it's for fun!
+<!-- Most languages came from a long time ago, so long ago that we don't know how they started. -->
 
-Toki Pona was made by Sonja Lang in 2001- she's told us why before, saying, "It was my attempt to understand the meaning of life in 120 words" and <!-- "TODO: depression quote" -->.
-Today, there are many people in many groups learning and speaking her language.
-Toki Pona grows and changes all on its own today.
+<!-- Toki Pona is different- it's a language that somebody made. It was made about twenty years ago! -->
+
+Toki Pona is a language, but it's a language that somebody made.
+There are other languages that people have made too.
+You might know Valyrian from Game of Thrones, or Klingon from Star Trek.
+Those languages are from stories that many people know and love.
+But Toki Pona isn't _from_ a story, or anything- it's for fun!
+
+About twenty years ago, Sonja Lang created Toki Pona- she's told us why before, saying, "It was \[her\] \[trying\] to understand the meaning of life in one hundred and twenty words" and "<!-- TODO: depression quote -->"
+The language found a small but excited crowd back then, bringing in people interested in this new way of speaking.
+Today, there are many people in many different groups learning and speaking her language.
+In fact, Toki Pona grows and changes all on its own today thanks to these groups.
 
 But wait- you heard me say Toki Pona has 120 words, right?
-English has tens of thousands of words, and so do most languages.
+English has more words than you can remember, and so do most languages.
 Toki Pona has about 130 words today- Fewer words than bones in your body!
-And it gets away with this because all the words have a broad meaning.
-'toki' means 'language', but it also means talk, conversation, think, and to speak about.
-'pona means 'good', but it also means positive, pleasant, to help, and to repair.
-With all this, the words "toki pona" could mean "good language", "positive thought", "helpful conversation," and tons more!
-There's no word for "chair" like the English word "chair", but there are plenty of words you can use to describe a chair- and Toki Pona is all about description.
+And it gets away with this because each word can talk about many, many different ideas.
+'toki' means 'language', but it also talks about conversation, thinking, speaking and more.
+'pona' means 'good', but it also talks about things you enjoy, things that help you, things you care about, and more.
+So, the words "toki pona" could talk about a "good language", or a "conversation with a friend", or "ideas that help you feel better", and way, way more.
+Let me explain it another way: there's no word for "chair" like the English word "chair", but there are many words you can use to talk about a chair.
+In short, Toki Pona is all about explaining what something is, or what something means to you!
 
 When you explain something in Toki Pona, you break that something down into small pieces, explain those pieces, and help your listener rebuild the original idea.
 It's a lot like teaching- instead of using jargon, you explain an idea with comparisons, common experiences, or related ideas.
