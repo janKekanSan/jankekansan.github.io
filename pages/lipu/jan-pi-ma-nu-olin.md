@@ -45,7 +45,7 @@ o utala ala e mi.
 lon la, mi kon pona.
 alasa ona li ike ala e mi e pilin mi.
 lon la, ona li sona lili a, li pakala lon lawa.
-pali ona li musi tawa mi, tawa lawa pi ma mi.
+pali ona li musi tawa mi, tawa lawa pi ma seli mi.
 taso, o toki e ni tawa ona:
 ona o alasa ala e mi e sona mi.
 ike mute li lon ma sina.
