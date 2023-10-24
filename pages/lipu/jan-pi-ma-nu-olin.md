@@ -54,7 +54,7 @@ mi kama li jo e ilo moli mi.
 taso, pilin mi la, ona li sona e ike wawa mi.
 jan lawa sina li monsuta tan mi, li weka tan mi.
 ona li monsuta lon tenpo ale.
-ona li sona pona, li sona weka tan moli ken.
+ona li sona weka tan moli ken.
 
 jan pi ma [nasa utala] [olin:] o, ken suli la pilin sina li ni:
 mi ike moli.
@@ -93,6 +93,6 @@ mi tawa.
 
 sina kama sona. jan lawa li awen alasa e ona lon tenpo suli li kama ala lukin e ona. tenpo la ona li kama ala moli sin. ken la, ona li awen lon.
 sina tawa ma tomo [nasa utala] [olin:] la, o awen e sina. o kute e kalama pi ma tomo [nasa utala] [olin:].
-sina ni ala, monsuta li kama, li jo e ilo moli ona.
+sina ni ala la, monsuta li kama, li jo e ilo moli ona.
 
 :::
