@@ -6,7 +6,7 @@
 ::: tokipona
 
 <!-- monsuta a, jan ale o. -->
-<!-- mi moli [ken. kalama. nasa] [mute: ]. -->
+<!-- mi moli [ken. kalama. nasa] [mute:]. -->
 <!-- mi wile pana e sona monsuta. -->
 
 tenpo weka suli la, jan li lon ma [nasa utala] [olin:] li moli e jan mute kepeken ilo ni:
@@ -16,16 +16,16 @@ jan lawa li alasa e jan ni lon tenpo suli li kama ala lukin e ona, li sona ala e
 
 taso, jan ni li pana e toki tawa jan lipu.
 jan lipu li pana e toki ni tawa jan ale lon ma [nasa utala] [olin:].
-mi wile pana e toki ona.
+mi wile pana e toki ona lon tenpo monsuta ni.
 o kute pona.
 
 ---
 
 jan suli o,
 
-jan li alasa e mi li kama ala lukin e mi.
+jan lawa li alasa e mi li kama ala lukin e mi.
 tenpo ale la ona li ken ala lukin e mi.
-mi kon, sama kon selo lon ma sina.
+mi kon, sama kon pi ma sina.
 mi jan ala, li sewi, li monsuta tan ma anpa pi seli wawa.
 jan pi ma [nasa utala] [olin:] o, sina sona e nimi mi.
 sina en jan lawa sina li pana e nimi tawa mi tan ilo moli mi.
@@ -44,15 +44,15 @@ sina wile la, o toki e ni tawa jan lawa:
 o utala ala e mi.
 lon la, mi kon pona.
 alasa ona li ike ala e mi e pilin mi.
-lon la, ona li sona lili a, li pakala lon lawa.
+lon la, ona li sona lili, li pakala lon lawa.
 pali ona li musi tawa mi, tawa lawa pi ma seli mi.
 taso, o toki e ni tawa ona:
 ona o alasa ala e mi e sona mi.
 ike mute li lon ma sina.
 ike ni li suli nanpa wan:
 mi kama li jo e ilo moli mi.
-taso, pilin mi la, ona li sona e ike wawa mi.
-jan lawa sina li monsuta tan mi, li weka tan mi.
+pilin mi la, jan lawa li sona e ike wawa mi.
+jan lawa li monsuta tan mi, li weka tan mi.
 ona li monsuta lon tenpo ale.
 ona li sona weka tan moli ken.
 
