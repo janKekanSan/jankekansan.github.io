@@ -91,8 +91,13 @@ mi tawa.
 
 ---
 
-sina kama sona. jan lawa li awen alasa e ona lon tenpo suli li kama ala lukin e ona. tenpo la ona li kama ala moli sin. ken la, ona li awen lon.
-sina tawa ma tomo [nasa utala] [olin:] la, o awen e sina. o kute e kalama pi ma tomo [nasa utala] [olin:].
+sina kama sona.
+jan lawa li awen alasa e ona lon tenpo suli li kama ala lukin e ona.
+tenpo la ona li kama ala moli sin.
+ken la, ona li awen lon.
+jan lawa en mi en sina li sona ala.
+sina tawa ma tomo [nasa utala] [olin:] la, o awen e sina.
+o kute e kalama pi ma tomo [nasa utala] [olin:].
 sina ni ala la, monsuta li kama, li jo e ilo moli ona.
 
 :::
