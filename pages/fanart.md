@@ -11,1292 +11,1744 @@ window.onload = okay;
 
 const artworks = [
   {
-    title: 'akesi',
-    author: 'chantel',
-    description: '',
-    image: '/fanart/akesi_chantel.jpg'
-  },
-  // {
-  //   title: 'akesi_linja',
-  //   author: 'akesinu',
-  //   description: '',
-  //   image: '/fanart/akesi_linja_akesinu.mov'
-  // },
-  {
-    title: 'angery',
-    author: 'starling',
-    description: '',
-    image: '/fanart/angery_starling.png'
-  },
-  // {
-  //   title: 'announcer',
-  //   author: 'tekinowi',
-  //   description: '',
-  //   image: '/fanart/announcer_tekinowi.mp3'
-  // },
-  {
-    title: 'antikekan',
-    author: 'ketami',
-    description: '',
-    image: '/fanart/antikekan_ketami.jpg'
-  },
-  {
-    title: 'autism',
-    author: 'kalaasi',
-    description: '',
-    image: '/fanart/autism_kalaasi.png'
-  },
-  {
-    title: 'balloon',
-    author: 'chantel',
-    description: '',
-    image: '/fanart/balloon_chantel.jpg'
-  },
-  {
-    title: 'bill_cypher',
-    author: 'rats',
-    description: '',
-    image: '/fanart/bill_cypher_rats.png'
-  },
-  {
-    title: 'bitch',
-    author: 'rats',
-    description: '',
-    image: '/fanart/bitch_rats.png'
-  },
-  {
-    title: 'blender_2',
-    author: 'wasowapa',
-    description: '',
-    image: '/fanart/blender_2_wasowapa.jpg'
-  },
-  {
-    title: 'blender',
-    author: 'wasowapa',
-    description: '',
-    image: '/fanart/blender_wasowapa.jpg'
-  },
-  {
-    title: 'branding',
-    author: 'zavixel',
-    description: '',
-    image: '/fanart/branding_zavixel.png'
-  },
-  // {
-  //   title: 'carry_on',
-  //   author: 'nyxoom',
-  //   description: '',
-  //   image: '/fanart/carry_on_nyxoom.mp4'
-  // },
-  {
-    title: 'chalkboard',
-    author: 'nyxoom',
-    description: '',
-    image: '/fanart/chalkboard_nyxoom.png'
-  },
-  {
-    title: 'comic_1',
-    author: 'akesinu',
-    description: '',
-    image: '/fanart/comic_1_akesinu.jpg'
-  },
-  {
-    title: 'comic_2',
-    author: 'akesinu',
-    description: '',
-    image: '/fanart/comic_2_akesinu.jpg'
-  },
-  {
-    title: 'comic_3',
-    author: 'akesinu',
-    description: '',
-    image: '/fanart/comic_3_akesinu.jpg'
-  },
-  {
-    title: 'comic_4',
-    author: 'akesinu',
-    description: '',
-    image: '/fanart/comic_4_akesinu.jpg'
-  },
-  {
-    title: 'comic_5',
-    author: 'akesinu',
-    description: '',
-    image: '/fanart/comic_5_akesinu.jpg'
-  },
-  {
-    title: 'computer_1',
-    author: 'tekinowi',
-    description: '',
-    image: '/fanart/computer_1_tekinowi.png'
-  },
-  {
-    title: 'computer_2',
-    author: 'tekinowi',
-    description: '',
-    image: '/fanart/computer_2_tekinowi.png'
-  },
-  {
-    title: 'computer_3',
-    author: 'tekinowi',
-    description: '',
-    image: '/fanart/computer_3_tekinowi.png'
-  },
-  {
-    title: 'computer_4',
-    author: 'tekinowi',
-    description: '',
-    image: '/fanart/computer_4_tekinowi.png'
-  },
-  {
-    title: 'computer_sketch',
-    author: 'tekinowi',
-    description: '',
-    image: '/fanart/computer_sketch_tekinowi.png'
-  },
-  {
-    title: 'despair',
-    author: 'janlilienta',
-    description: '',
-    image: '/fanart/despair_janlilienta.png'
-  },
-  {
-    title: 'drip',
-    author: 'chantel',
-    description: '',
-    image: '/fanart/drip_chantel.jpg'
-  },
-  {
-    title: 'evil_kekan',
-    author: 'tekinowi',
-    description: ' Evil Kekan San: "Saluton al ĉiuj! Mia nomo estas Gregdano tri! Mi volas instrui Esperanton al vi." ',
-    image: '/fanart/evil_kekan_tekinowi.png'
-  },
-  {
-    title: 'fanart_contest',
-    author: 'janani',
-    description: '',
-    image: '/fanart/fanart_contest_janani.png'
-  },
-  // {
-  //   title: 'fancam_1',
-  //   author: 'wasomu',
-  //   description: '',
-  //   image: '/fanart/fancam_1_wasomu.mp4'
-  // },
-  // {
-  //   title: 'fancam_2',
-  //   author: 'wasomu',
-  //   description: '',
-  //   image: '/fanart/fancam_2_wasomu.mp4'
-  // },
-  // {
-  //   title: 'fancam_3',
-  //   author: 'akesinu',
-  //   description: '',
-  //   image: '/fanart/fancam_3_akesinu.mov'
-  // },
-  {
-    title: 'frog_music',
-    author: 'chantel',
-    description: '',
-    image: '/fanart/frog_music_chantel.jpg'
-  },
-  {
-    title: 'god',
-    author: 'squimp',
-    description: '',
-    image: '/fanart/god_squimp.png'
-  },
-  {
-    title: 'gregham3',
-    author: 'jayden',
-    description: '',
-    image: '/fanart/gregham3_jayden.png'
-  },
-  {
-    title: 'gumball_2',
-    author: 'chantel',
-    description: '',
-    image: '/fanart/gumball_2_chantel.jpg'
-  },
-  {
-    title: 'gumball',
-    author: 'chantel',
-    description: '',
-    image: '/fanart/gumball_chantel.jpg'
-  },
-  {
-    title: 'hamradio',
-    author: 'nasaki',
-    description: '',
-    image: '/fanart/hamradio_nasaki.png'
-  },
-  {
-    title: 'herbevitisto',
-    author: 'abf',
-    description: '',
-    image: '/fanart/herbevitisto_abf.jpg'
-  },
-  {
-    title: 'herbevitisto',
-    author: 'umeja',
-    description: '',
-    image: '/fanart/herbevitisto_umeja.jpg'
-  },
-  {
-    title: 'hold_gently',
-    author: 'starling',
-    description: '',
-    image: '/fanart/hold_gently_starling.png'
-  },
-  {
-    title: 'ithkuil',
-    author: 'cuymacu',
-    description: '',
-    image: '/fanart/ithkuil_cuymacu.jpg'
-  },
-  {
-    title: 'jan_kekan_sans',
-    author: 'janpoman',
-    description: '',
-    image: '/fanart/jan_kekan_sans_janpoman.png'
-  },
-  {
-    title: 'jan_kekan_serif',
-    author: 'kasape',
-    description: '',
-    image: '/fanart/jan_kekan_serif_kasape.png'
-  },
-  {
-    title: 'jellyfish_1',
-    author: 'tekinowi',
-    description: '',
-    image: '/fanart/jellyfish_1_tekinowi.png'
-  },
-  {
-    title: 'jellyfish_2',
-    author: 'tekinowi',
-    description: '',
-    image: '/fanart/jellyfish_2_tekinowi.png'
-  },
-  {
-    title: 'jellyfish',
-    author: 'ilonija',
-    description: '',
-    image: '/fanart/jellyfish_ilonija.png'
-  },
-  // {
-  //   title: 'jerma',
-  //   author: 'akesinu',
-  //   description: '',
-  //   image: '/fanart/jerma_akesinu.mp4'
-  // },
-  {
-    title: 'kekan64',
-    author: 'janpoman',
-    description: '',
-    image: '/fanart/kekan64_janpoman.gif'
-  },
-  {
-    title: 'kekan64',
-    author: 'menasewi',
-    description: '',
-    image: '/fanart/kekan64_menasewi.png'
-  },
-  {
-    title: 'kekan_halloween_1',
-    author: 'tekinowi',
-    description: '',
-    image: '/fanart/kekan_halloween_1_tekinowi.png'
-  },
-  {
-    title: 'kekan_halloween_2',
-    author: 'tekinowi',
-    description: '',
-    image: '/fanart/kekan_halloween_2_tekinowi.png'
-  },
-  {
-    title: 'kekan_halloween_3',
-    author: 'tekinowi',
-    description: '',
-    image: '/fanart/kekan_halloween_3_tekinowi.png'
-  },
-  {
-    title: 'kekan_sans',
-    author: 'pq',
-    description: '',
-    image: '/fanart/kekan_sans_pq.png'
-  },
-  {
-    title: 'kekante1',
-    author: 'katan',
-    description: '',
-    image: '/fanart/kekante1_katan.jpg'
-  },
-  {
-    title: 'kekante2',
-    author: 'wali',
-    description: '',
-    image: '/fanart/kekante2_wali.png'
-  },
-  {
-    title: 'kekante3',
-    author: 'ilonija',
-    description: '',
-    image: '/fanart/kekante3_ilonija.png'
-  },
-  {
-    title: 'kepeken_e',
-    author: 'wasomu',
-    description: '',
-    image: '/fanart/kepeken_e_wasomu.png'
-  },
-  {
-    title: 'ketami_monsuta',
-    author: 'mi',
-    description: '',
-    image: '/fanart/ketami_monsuta_mi.png'
-  },
-  {
-    title: 'kon',
-    author: 'merrybot',
-    description: '',
-    image: '/fanart/kon_merrybot.jpg'
-  },
-  {
-    title: 'kulupu',
-    author: 'janiseja',
-    description: '',
-    image: '/fanart/kulupu_janiseja.png'
-  },
-  {
-    title: 'la_thumbnail',
-    author: 'nyxoom',
-    description: '',
-    image: '/fanart/la_thumbnail_nyxoom.png'
-  },
-  {
-    title: 'la_thumbnail_old',
-    author: 'nyxoom',
-    description: '',
-    image: '/fanart/la_thumbnail_old_nyxoom.png'
-  },
-  {
-    title: 'lernan',
-    author: 'pq',
-    description: '',
-    image: '/fanart/lernan_pq.png'
-  },
-  {
-    title: 'lesson7',
-    author: 'weluke',
-    description: '',
-    image: '/fanart/lesson7_weluke.png'
-  },
-  {
-    title: 'li_e_en',
-    author: 'nyxoom',
-    description: '',
-    image: '/fanart/li_e_en_nyxoom.png'
-  },
-  {
-    title: 'link_1',
-    author: 'tekinowi',
-    description: '',
-    image: '/fanart/link_1_tekinowi.png'
-  },
-  {
-    title: 'link_2',
-    author: 'tekinowi',
-    description: '',
-    image: '/fanart/link_2_tekinowi.png'
-  },
-  {
-    title: 'link_3',
-    author: 'tekinowi',
-    description: '',
-    image: '/fanart/link_3_tekinowi.png'
-  },
-  {
-    title: 'link_sketch',
-    author: 'tekinowi',
-    description: '',
-    image: '/fanart/link_sketch_tekinowi.png'
-  },
-  {
-    title: 'lojban',
-    author: 'cuymacu',
-    description: '',
-    image: '/fanart/lojban_cuymacu.jpg'
-  },
-  {
-    title: 'lojban_o_anpa_2',
-    author: 'natan',
-    description: '',
-    image: '/fanart/lojban_o_anpa_2_natan.png'
-  },
-  {
-    title: 'lojban_o_anpa',
-    author: 'natan',
-    description: '',
-    image: '/fanart/lojban_o_anpa_natan.png'
-  },
-  {
-    title: 'lupa',
-    author: 'lenlen',
-    description: '',
-    image: '/fanart/lupa_lenlen.png'
-  },
-  {
-    title: 'masquerade_2',
-    author: 'pipikewapi',
-    description: '',
-    image: '/fanart/masquerade_2_pipikewapi.png'
-  },
-  {
-    title: 'masquerade',
-    author: 'pipikewapi',
-    description: '',
-    image: '/fanart/masquerade_pipikewapi.png'
-  },
-  {
-    title: 'mi_alasa_toki',
-    author: 'janika',
-    description: '',
-    image: '/fanart/mi_alasa_toki_janika.png'
-  },
-  {
-    title: 'mi_jo_2',
-    author: 'sipiki',
-    description: '',
-    image: '/fanart/mi_jo_2_sipiki.gif'
-  },
-  {
-    title: 'mi_jo',
-    author: 'sipiki',
-    description: '',
-    image: '/fanart/mi_jo_sipiki.gif'
-  },
-  {
-    title: 'mi_kala',
-    author: 'nyxoom',
-    description: '',
-    image: '/fanart/mi_kala_nyxoom.png'
-  },
-  {
-    title: 'mi_laso',
-    author: 'lukin',
-    description: '',
-    image: '/fanart/mi_laso_lukin.png'
-  },
-  {
-    title: 'mi_lawa',
-    author: 'akesinu',
-    description: 'We had a hilarious courtroom RP in the VR community, featuring a pipi store owner and its lost copies of pu, a flustered waso Keli as witness, a devious and cunning jan Tekinowi as prosecution, and jan Akesinu defending jan Tepo. Brilliant!',
-    image: '/fanart/mi_lawa_akesinu.png'
-  },
-  {
-    title: 'mi_lawa',
-    author: 'nyxoom',
-    description: '',
-    image: '/fanart/mi_lawa_nyxoom.png'
-  },
-  {
-    title: 'mi_lawa_seme',
-    author: 'nyxoom',
-    description: '',
-    image: '/fanart/mi_lawa_seme_nyxoom.png'
-  },
-  {
-    title: 'mi_leko_a',
-    author: 'sipiki',
-    description: '',
-    image: '/fanart/mi_leko_a_sipiki.jpg'
-  },
-  {
-    title: 'mi_leko',
-    author: 'cuymacu',
-    description: '',
-    image: '/fanart/mi_leko_cuymacu.gif'
-  },
-  {
-    title: 'mi_leko',
-    author: 'nyxoom',
-    description: '',
-    image: '/fanart/mi_leko_nyxoom.png'
-  },
-  {
-    title: 'mi_len',
-    author: 'motan',
-    description: '',
-    image: '/fanart/mi_len_motan.png'
-  },
-  {
-    title: 'mi_li_ala',
-    author: 'cuymacu',
-    description: '',
-    image: '/fanart/mi_li_ala_cuymacu.gif'
-  },
-  {
-    title: 'mi_li_nanpa',
-    author: 'menasewi',
-    description: '',
-    image: '/fanart/mi_li_nanpa_menasewi.png'
-  },
-  {
-    title: 'mi_lili',
-    author: 'sqec',
-    description: '',
-    image: '/fanart/mi_lili_sqec.png'
-  },
-  {
-    title: 'mi_lili',
-    author: 'wasokeli',
-    description: '',
-    image: '/fanart/mi_lili_wasokeli.jpg'
-  },
-  {
-    title: 'mi_linja',
-    author: 'mi',
-    description: '',
-    image: '/fanart/mi_linja_mi.png'
-  },
-  {
-    title: 'mi_lon_e_ma',
-    author: 'wasomu',
-    description: '',
-    image: '/fanart/mi_lon_e_ma_wasomu.png'
-  },
-  {
-    title: 'mi_lon_kasi',
-    author: 'mi',
-    description: '',
-    image: '/fanart/mi_lon_kasi_mi.png'
-  },
-  {
-    title: 'mi santa',
-    author: 'mi',
-    description: '',
-    image: '/fanart/jan_kekan_santa_mi.png'
-  },
-  {
-    title: 'mi sunglasses',
-    author: 'mi',
-    description: '',
-    image: '/fanart/mi_sunglasses_mi.png'
-  },
-  {
-    title: 'mi_lon',
-    author: 'nyxoom',
-    description: '',
-    image: '/fanart/mi_lon_nyxoom.png'
-  },
-  {
-    title: 'mi_lukin',
-    author: 'nyxoom',
-    description: '',
-    image: '/fanart/mi_lukin_nyxoom.png'
-  },
-  {
-    title: 'mi_mani',
-    author: 'janjami',
-    description: '',
-    image: '/fanart/mi_mani_janjami.png'
-  },
-  {
-    title: 'mi_mani',
-    author: 'jansa',
-    description: '',
-    image: '/fanart/mi_mani_jansa.png'
-  },
-  {
-    title: 'mi_meli',
-    author: 'akesinu',
-    description: '',
-    image: '/fanart/mi_meli_akesinu.jpg'
-  },
-  {
-    title: 'mi_mije',
-    author: 'akesinu',
-    description: '',
-    image: '/fanart/mi_mije_akesinu.jpg'
-  },
-  {
-    title: 'mi_mije_ilo_awen',
-    author: 'abf',
-    description: '',
-    image: '/fanart/mi_mije_ilo_awen_abf.png'
-  },
-  {
-    title: 'mi_moli',
-    author: 'sipiki',
-    description: '',
-    image: '/fanart/mi_moli_sipiki.png'
-  },
-  {
-    title: 'mi_monsuta',
-    author: 'akesinu',
-    description: '',
-    image: '/fanart/mi_monsuta_akesinu.png'
-  },
-  {
-    title: 'mi_mrbeast',
-    author: 'tekinowi',
-    description: '',
-    image: '/fanart/mi_mrbeast_tekinowi.png'
-  },
-  {
-    title: 'mi_mute',
-    author: 'janjami',
-    description: '',
-    image: '/fanart/mi_mute_janjami.png'
-  },
-  {
-    title: 'mi_nanpa',
-    author: 'wasowapa',
-    description: '',
-    image: '/fanart/mi_nanpa_wasowapa.png'
-  },
-  {
-    title: 'mi_nasa',
-    author: 'nyxoom',
-    description: '',
-    image: '/fanart/mi_nasa_nyxoom.png'
-  },
-  {
-    title: 'mi_old',
-    author: 'mi',
-    description: '',
-    image: '/fanart/mi_old_mi.png'
-  },
-  {
-    title: 'mi_pana_e_sona',
-    author: 'sipiki',
-    description: '',
-    image: '/fanart/mi_pana_e_sona_sipiki.png'
-  },
-  {
-    title: 'mi_poni',
-    author: 'jankita',
-    description: '',
-    image: '/fanart/mi_poni_jankita.png'
-  },
-  {
-    title: 'mi_sewi_2',
-    author: 'lipamanka',
-    description: '',
-    image: '/fanart/mi_sewi_2_lipamanka.png'
-  },
-  {
-    title: 'mi_sewi',
-    author: 'lipamanka',
-    description: '',
-    image: '/fanart/mi_sewi_lipamanka.png'
-  },
-  {
-    title: 'mi_sewi',
-    author: 'nyxoom',
-    description: '',
-    image: '/fanart/mi_sewi_nyxoom.png'
-  },
-  {
-    title: 'mi_sina_beta',
-    author: 'nyxoom',
-    description: '',
-    image: '/fanart/mi_sina_beta_nyxoom.jpg'
-  },
-  {
-    title: 'mi_sina',
-    author: 'nyxoom',
-    description: '',
-    image: '/fanart/mi_sina_nyxoom.png'
-  },
-  {
-    title: 'mi_sticker',
-    author: 'sipiki',
-    description: '',
-    image: '/fanart/mi_sticker_sipiki.png'
-  },
-  {
-    title: 'mi_suno',
-    author: 'sipiki',
-    description: '',
-    image: '/fanart/mi_suno_sipiki.png'
-  },
-  {
-    title: 'mi_unpa',
-    author: 'horse',
-    description: '',
-    image: '/fanart/mi_unpa_horse.jpg'
-  },
-  {
-    title: 'mi_waso',
-    author: 'nyxoom',
-    description: '',
-    image: '/fanart/mi_waso_nyxoom.png'
-  },
-  {
-    title: 'mi_wawa',
-    author: 'nyxoom',
-    description: '',
-    image: '/fanart/mi_wawa_nyxoom.png'
-  },
-  {
-    title: 'mi_wawa',
-    author: 'pipikewapi',
-    description: '',
-    image: '/fanart/mi_wawa_pipikewapi.png'
-  },
-  {
-    title: 'mi_wile_musi',
-    author: 'nyxoom',
-    description: '',
-    image: '/fanart/mi_wile_musi_nyxoom.png'
-  },
-  {
-    title: 'mi_wink',
-    author: 'janani',
-    description: '',
-    image: '/fanart/mi_wink_janani.png'
-  },
-  {
-    title: 'mi_yugi',
-    author: 'tekinowi',
-    description: '',
-    image: '/fanart/mi_yugi_tekinowi.png'
-  },
-  {
-    title: 'misikekan',
-    author: 'kalaasi',
-    description: '',
-    image: '/fanart/misikekan_kalaasi.png'
-  },
-  {
-    title: 'moli_2',
-    author: 'horse',
-    description: '',
-    image: '/fanart/moli_2_horse.png'
-  },
-  {
-    title: 'moli_3',
-    author: 'ketami',
-    description: '',
-    image: '/fanart/moli_3_ketami.png'
-  },
-  {
-    title: 'moli',
-    author: 'horse',
-    description: '',
-    image: '/fanart/moli_horse.png'
-  },
-  {
-    title: 'moli',
-    author: 'wren',
-    description: '',
-    image: '/fanart/moli_wren.gif'
-  },
-  {
-    title: 'monologue',
-    author: 'kalaasi',
-    description: '',
-    image: '/fanart/monologue_kalaasi.png'
-  },
-  {
-    title: 'movieposter',
-    author: 'dogikoko',
-    description: '',
-    image: '/fanart/movieposter_dogikoko.png'
-  },
-  {
-    title: 'mr_kekan_san',
-    author: 'jankita',
-    description: '',
-    image: '/fanart/mr_kekan_san_jankita.png'
-  },
-  {
-    title: 'mu_a_wawa',
-    author: 'nyxoom',
-    description: '',
-    image: '/fanart/mu_a_wawa_nyxoom.png'
-  },
-  {
-    title: 'mun_kekan_san',
-    author: 'janeli',
-    description: '',
-    image: '/fanart/mun_kekan_san_janeli.png'
-  },
-  {
-    title: 'mun_kekan_san_smw_2',
-    author: 'abf',
-    description: '',
-    image: '/fanart/mun_kekan_san_smw_2_abf.png'
-  },
-  {
-    title: 'mun_kekan_san_smw_3',
-    author: 'abf',
-    description: '',
-    image: '/fanart/mun_kekan_san_smw_3_abf.png'
-  },
-  {
-    title: 'mun_kekan_san_smw_4',
-    author: 'abf',
-    description: '',
-    image: '/fanart/mun_kekan_san_smw_4_abf.png'
-  },
-  {
-    title: 'mun_kekan_san_smw',
-    author: 'abf',
-    description: '',
-    image: '/fanart/mun_kekan_san_smw_abf.png'
-  },
-  // {
-  //   title: 'mun_li_tawa_sike',
-  //   author: 'lipamanka',
-  //   description: '',
-  //   image: '/fanart/mun_li_tawa_sike_lipamanka.mp4'
-  // },
-  {
-    title: 'mun_nasa',
-    author: 'weluke',
-    description: '',
-    image: '/fanart/mun_nasa_weluke.png'
-  },
-  {
-    title: 'musi_laso',
-    author: 'akesinu',
-    description: '',
-    image: '/fanart/musi_laso_akesinu.png'
-  },
-  {
-    title: 'musi_laso',
-    author: 'ilonija',
-    description: '',
-    image: '/fanart/musi_laso_ilonija.png'
-  },
-  {
-    title: 'musi_o_awen_1',
-    author: 'pipikewapi',
-    description: '',
-    image: '/fanart/musi_o_awen_1_pipikewapi.jpeg'
-  },
-  {
-    title: 'musi_o_awen_2',
-    author: 'pipikewapi',
-    description: '',
-    image: '/fanart/musi_o_awen_2_pipikewapi.jpeg'
-  },
-  {
-    title: 'nametags',
-    author: 'mi',
-    description: '',
-    image: '/fanart/nametags_mi.jpg'
-  },
-  {
-    title: 'nanpa_mi',
-    author: 'menasewi',
-    description: '',
-    image: '/fanart/nanpa_mi_menasewi.png'
-  },
-  {
-    title: 'nasawawa',
-    author: 'happychappy',
-    description: '',
-    image: '/fanart/nasawawa_happychappy.jpg'
-  },
-  {
-    title: 'nimi_nanpa_kin',
-    author: 'nyxoom',
-    description: '',
-    image: '/fanart/nimi_nanpa_kin_nyxoom.png'
-  },
-  {
-    title: 'njankekan',
-    author: 'horse',
-    description: '',
-    image: '/fanart/njankekan_horse.png'
-  },
-  {
-    title: 'no_thought',
-    author: 'wasowapa',
-    description: '',
-    image: '/fanart/no_thought_wasowapa.png'
-  },
-  {
-    title: 'noka',
-    author: 'horse',
-    description: '',
-    image: '/fanart/noka_horse.png'
-  },
-  {
-    title: 'o_kama_sona',
-    author: 'wasowapa',
-    description: '',
-    image: '/fanart/o_kama_sona_wasowapa.png'
-  },
-  {
-    title: 'o_monsuta_ala',
-    author: 'akesinu',
-    description: '**mi sewi Kekan San. o monsuta ala.**',
-    image: '/fanart/o_monsuta_ala_akesinu.jpg'
-  },
-  {
-    title: 'o_pona',
-    author: 'wasomu',
-    description: '',
-    image: '/fanart/o_pona_wasomu.png'
-  },
-  {
-    title: 'olin',
-    author: 'wasomu',
-    description: '',
-    image: '/fanart/olin_wasomu.png'
-  },
-{
-    title: 'olin_english',
-    author: 'wasomu',
-    description: '',
-    image: '/fanart/olin_english_wasomu.png'
-  },
-  {
-    title: 'pal_greg',
-    author: 'pipikewapi',
-    description: '',
-    image: '/fanart/pal_greg_pipikewapi.png'
-  },
-  {
-    title: 'pilin_ike',
-    author: 'tekinowi',
-    description: '',
-    image: '/fanart/pilin_ike_tekinowi.png'
-  },
-  {
+    active: true,
     title: 'pokemon',
     author: 'tekinowi',
     description: '',
-    image: '/fanart/pokemon_tekinowi.png'
+    image: '/fanart/pokemon_tekinowi.png',
+    type: 'img'
   },
   {
-    title: 'qualia',
-    author: 'pipikewapi',
+    active: true,
+    title: 'despair',
+    author: 'janlilienta',
     description: '',
-    image: '/fanart/qualia_pipikewapi.jpg'
+    image: '/fanart/despair_janlilienta.png',
+    type: 'img'
   },
   {
-    title: 'realistic_face',
-    author: 'tekinowi',
+    active: true,
+    title: 'kekan64',
+    author: 'janpoman',
     description: '',
-    image: '/fanart/realistic_face_tekinowi.png'
+    image: '/fanart/kekan64_janpoman.gif',
+    type: 'img'
   },
   {
-    title: 'realistic_smile',
-    author: 'wali',
+    active: false,
+    title: 'akesi',
+    author: 'chantel',
     description: '',
-    image: '/fanart/realistic_smile_wali.png'
+    image: '/fanart/akesi_chantel.jpg',
+    type: 'img'
   },
   {
-    title: 'satan',
-    author: 'pq',
+    active: true,
+    title: 'akesi_linja',
+    author: 'akesinu',
     description: '',
-    image: '/fanart/satan_pq.png'
+    image: '/fanart/akesi_linja_akesinu.mov',
+    type: 'video'
   },
   {
-    title: 'scribble_2',
-    author: 'sipiki',
-    description: '',
-    image: '/fanart/scribble_2_sipiki.png'
-  },
-  {
-    title: 'scribble_3',
-    author: 'sipiki',
-    description: '',
-    image: '/fanart/scribble_3_sipiki.png'
-  },
-  {
-    title: 'scribble_4',
-    author: 'sipiki',
-    description: '',
-    image: '/fanart/scribble_4_sipiki.png'
-  },
-  {
-    title: 'scribble',
-    author: 'sipiki',
-    description: '',
-    image: '/fanart/scribble_sipiki.png'
-  },
-  {
-    title: 'seme_thumbnail',
-    author: 'nyxoom',
-    description: '',
-    image: '/fanart/seme_thumbnail_nyxoom.png'
-  },
-  {
-    title: 'silhouette',
-    author: 'konako',
-    description: '',
-    image: '/fanart/silhouette_konako.png'
-  },
-  {
+    active: true,
     title: 'sina_moli',
     author: 'pipikewapi',
     description: '',
-    image: '/fanart/sina_moli_pipikewapi.jpg'
+    image: '/fanart/sina_moli_pipikewapi.jpg',
+    type: 'img'
   },
   {
+    active: true,
+    title: 'angery',
+    author: 'starling',
+    description: '',
+    image: '/fanart/angery_starling.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'antikekan',
+    author: 'ketami',
+    description: '',
+    image: '/fanart/antikekan_ketami.jpg',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'autism',
+    author: 'kalaasi',
+    description: '',
+    image: '/fanart/autism_kalaasi.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'balloon',
+    author: 'chantel',
+    description: '',
+    image: '/fanart/balloon_chantel.jpg',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'bill_cypher',
+    author: 'rats',
+    description: '',
+    image: '/fanart/bill_cypher_rats.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'bitch',
+    author: 'rats',
+    description: '',
+    image: '/fanart/bitch_rats.png',
+    type: 'img'
+  },
+  {
+    active: false,
+    title: 'blender',
+    author: 'wasowapa',
+    description: '',
+    image: '/fanart/blender_wasowapa.jpg',
+    type: 'img'
+  },
+  {
+    active: false,
+    title: 'blender_2',
+    author: 'wasowapa',
+    description: '',
+    image: '/fanart/blender_2_wasowapa.jpg',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'branding',
+    author: 'zavixel',
+    description: '',
+    image: '/fanart/branding_zavixel.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'carry_on',
+    author: 'nyxoom',
+    description: '',
+    image: '/fanart/carry_on_nyxoom.mp4',
+    type: 'video'
+  },
+  {
+    active: false,
+    title: 'chalkboard',
+    author: 'nyxoom',
+    description: '',
+    image: '/fanart/chalkboard_nyxoom.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'comic_1',
+    author: 'akesinu',
+    description: '',
+    image: '/fanart/comic_1_akesinu.jpg',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'comic_2',
+    author: 'akesinu',
+    description: '',
+    image: '/fanart/comic_2_akesinu.jpg',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'comic_3',
+    author: 'akesinu',
+    description: '',
+    image: '/fanart/comic_3_akesinu.jpg',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'comic_4',
+    author: 'akesinu',
+    description: '',
+    image: '/fanart/comic_4_akesinu.jpg',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'comic_5',
+    author: 'akesinu',
+    description: '',
+    image: '/fanart/comic_5_akesinu.jpg',
+    type: 'img'
+  },
+  {
+    active: false,
+    title: 'computer_1',
+    author: 'tekinowi',
+    description: '',
+    image: '/fanart/computer_1_tekinowi.png',
+    type: 'img'
+  },
+  {
+    active: false,
+    title: 'computer_2',
+    author: 'tekinowi',
+    description: '',
+    image: '/fanart/computer_2_tekinowi.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'computer_3',
+    author: 'tekinowi',
+    description: '',
+    image: '/fanart/computer_3_tekinowi.png',
+    type: 'img'
+  },
+  {
+    active: false,
+    title: 'computer_4',
+    author: 'tekinowi',
+    description: '',
+    image: '/fanart/computer_4_tekinowi.png',
+    type: 'img'
+  },
+  {
+    active: false,
+    title: 'computer_sketch',
+    author: 'tekinowi',
+    description: '',
+    image: '/fanart/computer_sketch_tekinowi.png',
+    type: 'img'
+  },
+  {
+    active: false,
+    title: 'drip',
+    author: 'chantel',
+    description: '',
+    image: '/fanart/drip_chantel.jpg',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'evil_kekan',
+    author: 'tekinowi',
+    description: ' Evil Kekan San: "Saluton al ĉiuj! Mia nomo estas Gregdano tri! Mi volas instrui Esperanton al vi." ',
+    image: '/fanart/evil_kekan_tekinowi.png',
+    type: 'img'
+  },
+  {
+    active: false,
+    title: 'fanart_contest',
+    author: 'janani',
+    description: '',
+    image: '/fanart/fanart_contest_janani.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'fancam_1',
+    author: 'wasomu',
+    description: '',
+    image: '/fanart/fancam_1_wasomu.mp4',
+    type: 'video'
+  },
+  {
+    active: true,
+    title: 'fancam_2',
+    author: 'wasomu',
+    description: '',
+    image: '/fanart/fancam_2_wasomu.mp4',
+    type: 'video'
+  },
+  {
+    active: true,
+    title: 'fancam_3',
+    author: 'akesinu',
+    description: '',
+    image: '/fanart/fancam_3_akesinu.mov',
+    type: 'video'
+  },
+  {
+    active: false,
+    title: 'frog_music',
+    author: 'chantel',
+    description: '',
+    image: '/fanart/frog_music_chantel.jpg',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'god',
+    author: 'squimp',
+    description: '',
+    image: '/fanart/god_squimp.png',
+    type: 'img'
+  },
+  {
+    active: false,
+    title: 'gregham3',
+    author: 'jayden',
+    description: '',
+    image: '/fanart/gregham3_jayden.png',
+    type: 'img'
+  },
+  {
+    active: false,
+    title: 'gumball_2',
+    author: 'chantel',
+    description: '',
+    image: '/fanart/gumball_2_chantel.jpg',
+    type: 'img'
+  },
+  {
+    active: false,
+    title: 'gumball',
+    author: 'chantel',
+    description: '',
+    image: '/fanart/gumball_chantel.jpg',
+    type: 'img'
+  },
+  {
+    active: false,
+    title: 'hamradio',
+    author: 'nasaki',
+    description: '',
+    image: '/fanart/hamradio_nasaki.png',
+    type: 'img'
+  },
+  {
+    active: false,
+    title: 'herbevitisto',
+    author: 'abf',
+    description: '',
+    image: '/fanart/herbevitisto_abf.jpg',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'herbevitisto',
+    author: 'umeja',
+    description: '',
+    image: '/fanart/herbevitisto_umeja.jpg',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'hold_gently',
+    author: 'starling',
+    description: '',
+    image: '/fanart/hold_gently_starling.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'ithkuil',
+    author: 'cuymacu',
+    description: '',
+    image: '/fanart/ithkuil_cuymacu.jpg',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'jan_kekan_sans',
+    author: 'janpoman',
+    description: '',
+    image: '/fanart/jan_kekan_sans_janpoman.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'kekan_sans',
+    author: 'pq',
+    description: '',
+    image: '/fanart/kekan_sans_pq.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'jan_kekan_serif',
+    author: 'kasape',
+    description: '',
+    image: '/fanart/jan_kekan_serif_kasape.png',
+    type: 'img'
+  },
+  {
+    active: false,
+    title: 'jellyfish_1',
+    author: 'tekinowi',
+    description: '',
+    image: '/fanart/jellyfish_1_tekinowi.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'jellyfish_2',
+    author: 'tekinowi',
+    description: '',
+    image: '/fanart/jellyfish_2_tekinowi.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'jellyfish',
+    author: 'ilonija',
+    description: '',
+    image: '/fanart/jellyfish_ilonija.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'tloki_a',
+    author: 'mi',
+    description: '',
+    image: '/fanart/tloki_a_mi.wav',
+    type: 'audio'
+  },
+  {
+    active: true,
+    title: 'jerma',
+    author: 'akesinu',
+    description: '',
+    image: '/fanart/jerma_akesinu.mp4',
+    type: 'video'
+  },
+  {
+    active: true,
+    title: 'kekan64',
+    author: 'menasewi',
+    description: '',
+    image: '/fanart/kekan64_menasewi.png',
+    type: 'img'
+  },
+  {
+    active: false,
+    title: 'kekan_halloween_1',
+    author: 'tekinowi',
+    description: '',
+    image: '/fanart/kekan_halloween_1_tekinowi.png',
+    type: 'img'
+  },
+  {
+    active: false,
+    title: 'kekan_halloween_2',
+    author: 'tekinowi',
+    description: '',
+    image: '/fanart/kekan_halloween_2_tekinowi.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'kekan_halloween_3',
+    author: 'tekinowi',
+    description: '',
+    image: '/fanart/kekan_halloween_3_tekinowi.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'kekante1',
+    author: 'katan',
+    description: '',
+    image: '/fanart/kekante1_katan.jpg',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'kekante2',
+    author: 'wali',
+    description: '',
+    image: '/fanart/kekante2_wali.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'kekante3',
+    author: 'ilonija',
+    description: '',
+    image: '/fanart/kekante3_ilonija.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'kepeken_e',
+    author: 'wasomu',
+    description: '',
+    image: '/fanart/kepeken_e_wasomu.png',
+    type: 'img'
+  },
+  {
+    active: false,
+    title: 'ketami_monsuta',
+    author: 'mi',
+    description: '',
+    image: '/fanart/ketami_monsuta_mi.png',
+    type: 'img'
+  },
+  {
+    active: false,
+    title: 'kon',
+    author: 'merrybot',
+    description: '',
+    image: '/fanart/kon_merrybot.jpg',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'kulupu',
+    author: 'janiseja',
+    description: '',
+    image: '/fanart/kulupu_janiseja.png',
+    type: 'img'
+  },
+  {
+    active: false, // TODO: when la is released
+    title: 'la_thumbnail',
+    author: 'nyxoom',
+    description: '',
+    image: '/fanart/la_thumbnail_nyxoom.png',
+    type: 'img'
+  },
+  {
+    active: false,
+    title: 'la_thumbnail_old',
+    author: 'nyxoom',
+    description: '',
+    image: '/fanart/la_thumbnail_old_nyxoom.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'lernan',
+    author: 'pq',
+    description: '',
+    image: '/fanart/lernan_pq.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'lesson7',
+    author: 'weluke',
+    description: '',
+    image: '/fanart/lesson7_weluke.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'li_e_en',
+    author: 'nyxoom',
+    description: '',
+    image: '/fanart/li_e_en_nyxoom.png',
+    type: 'img'
+  },
+  {
+    active: false,
+    title: 'link_1',
+    author: 'tekinowi',
+    description: '',
+    image: '/fanart/link_1_tekinowi.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'link_2',
+    author: 'tekinowi',
+    description: '',
+    image: '/fanart/link_2_tekinowi.png',
+    type: 'img'
+  },
+  {
+    active: false,
+    title: 'link_3',
+    author: 'tekinowi',
+    description: '',
+    image: '/fanart/link_3_tekinowi.png',
+    type: 'img'
+  },
+  {
+    active: false,
+    title: 'link_sketch',
+    author: 'tekinowi',
+    description: '',
+    image: '/fanart/link_sketch_tekinowi.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'lojban',
+    author: 'cuymacu',
+    description: '',
+    image: '/fanart/lojban_cuymacu.jpg',
+    type: 'img'
+  },
+  {
+    active: false,
+    title: 'lojban_o_anpa',
+    author: 'natan',
+    description: '',
+    image: '/fanart/lojban_o_anpa_natan.png',
+    type: 'img'
+  },
+  {
+    active: false,
+    title: 'lojban_o_anpa_2',
+    author: 'natan',
+    description: '',
+    image: '/fanart/lojban_o_anpa_2_natan.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'lupa',
+    author: 'lenlen',
+    description: '',
+    image: '/fanart/lupa_lenlen.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'masquerade',
+    author: 'pipikewapi',
+    description: '',
+    image: '/fanart/masquerade_pipikewapi.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'masquerade_2',
+    author: 'pipikewapi',
+    description: '',
+    image: '/fanart/masquerade_2_pipikewapi.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'mi_alasa_toki',
+    author: 'janika',
+    description: '',
+    image: '/fanart/mi_alasa_toki_janika.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'mi_jo_2',
+    author: 'sipiki',
+    description: '',
+    image: '/fanart/mi_jo_2_sipiki.gif',
+    type: 'img'
+  },
+  {
+    active: false,
+    title: 'mi_jo',
+    author: 'sipiki',
+    description: '',
+    image: '/fanart/mi_jo_sipiki.gif',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'mi_kala',
+    author: 'nyxoom',
+    description: '',
+    image: '/fanart/mi_kala_nyxoom.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'mi_laso',
+    author: 'lukin',
+    description: '',
+    image: '/fanart/mi_laso_lukin.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'mi_lawa',
+    author: 'akesinu',
+    description: 'We had a hilarious courtroom RP in the VR community, featuring a pipi store owner and its lost copies of pu, a flustered waso Keli as witness, a devious and cunning jan Tekinowi as prosecution, and jan Akesinu defending jan Tepo. Brilliant!',
+    image: '/fanart/mi_lawa_akesinu.png',
+    type: 'img'
+  },
+  {
+    active: false,
+    title: 'mi_lawa',
+    author: 'nyxoom',
+    description: '',
+    image: '/fanart/mi_lawa_nyxoom.png',
+    type: 'img'
+  },
+  {
+    active: false,
+    title: 'mi_lawa_seme',
+    author: 'nyxoom',
+    description: '',
+    image: '/fanart/mi_lawa_seme_nyxoom.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'mi_leko_a',
+    author: 'sipiki',
+    description: '',
+    image: '/fanart/mi_leko_a_sipiki.jpg',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'mi_leko',
+    author: 'cuymacu',
+    description: '',
+    image: '/fanart/mi_leko_cuymacu.gif',
+    type: 'img'
+  },
+  {
+    active: false,
+    title: 'mi_leko',
+    author: 'nyxoom',
+    description: '',
+    image: '/fanart/mi_leko_nyxoom.png',
+    type: 'img'
+  },
+  {
+    active: false,
+    title: 'mi_len',
+    author: 'motan',
+    description: '',
+    image: '/fanart/mi_len_motan.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'mi_li_ala',
+    author: 'cuymacu',
+    description: '',
+    image: '/fanart/mi_li_ala_cuymacu.gif',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'mi_li_nanpa',
+    author: 'menasewi',
+    description: '',
+    image: '/fanart/mi_li_nanpa_menasewi.png',
+    type: 'img'
+  },
+  {
+    active: false,
+    title: 'nanpa_mi',
+    author: 'menasewi',
+    description: '',
+    image: '/fanart/nanpa_mi_menasewi.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'mi_lili',
+    author: 'sqec',
+    description: '',
+    image: '/fanart/mi_lili_sqec.png',
+    type: 'img'
+  },
+  {
+    active: false,
+    title: 'mi_lili',
+    author: 'wasokeli',
+    description: '',
+    image: '/fanart/mi_lili_wasokeli.jpg',
+    type: 'img'
+  },
+  {
+    active: false,
+    title: 'mi_linja',
+    author: 'mi',
+    description: '',
+    image: '/fanart/mi_linja_mi.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'mi_lon_e_ma',
+    author: 'wasomu',
+    description: '',
+    image: '/fanart/mi_lon_e_ma_wasomu.png',
+    type: 'img'
+  },
+  {
+    active: false,
+    title: 'mi_lon_kasi',
+    author: 'mi',
+    description: '',
+    image: '/fanart/mi_lon_kasi_mi.png',
+    type: 'img'
+  },
+  {
+    active: false,
+    title: 'mi santa',
+    author: 'mi',
+    description: '',
+    image: '/fanart/jan_kekan_santa_mi.jpg',
+    type: 'img'
+  },
+  {
+    active: false,
+    title: 'mi sunglasses',
+    author: 'mi',
+    description: '',
+    image: '/fanart/mi_sunglasses_mi.png',
+    type: 'img'
+  },
+  {
+    active: false,
+    title: 'mi_lon',
+    author: 'nyxoom',
+    description: '',
+    image: '/fanart/mi_lon_nyxoom.png',
+    type: 'img'
+  },
+  {
+    active: false,
+    title: 'mi_lukin',
+    author: 'nyxoom',
+    description: '',
+    image: '/fanart/mi_lukin_nyxoom.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'mi_mani',
+    author: 'janjami',
+    description: '',
+    image: '/fanart/mi_mani_janjami.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'mi_mani',
+    author: 'jansa',
+    description: '',
+    image: '/fanart/mi_mani_jansa.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'mi_meli',
+    author: 'akesinu',
+    description: '',
+    image: '/fanart/mi_meli_akesinu.jpg',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'mi_mije',
+    author: 'akesinu',
+    description: '',
+    image: '/fanart/mi_mije_akesinu.jpg',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'deep lore',
+    author: 'akesinu',
+    description: '',
+    image: '/fanart/lore1_akesinu.jpg',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'deep lore 2',
+    author: 'akesinu',
+    description: '',
+    image: '/fanart/lore2_akesinu.jpg',
+    type: 'img'
+  },
+  {
+    active: false,
+    title: 'mi_mije_ilo_awen',
+    author: 'abf',
+    description: '',
+    image: '/fanart/mi_mije_ilo_awen_abf.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'mi_monsuta',
+    author: 'akesinu',
+    description: '',
+    image: '/fanart/mi_monsuta_akesinu.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'mr_kekan_san',
+    author: 'jankita',
+    description: '',
+    image: '/fanart/mr_kekan_san_jankita.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'mi_mrbeast',
+    author: 'tekinowi',
+    description: '',
+    image: '/fanart/mi_mrbeast_tekinowi.png',
+    type: 'img'
+  },
+  {
+    active: false,
+    title: 'mi_mute',
+    author: 'janjami',
+    description: '',
+    image: '/fanart/mi_mute_janjami.png',
+    type: 'img'
+  },
+  {
+    active: false,
+    title: 'mi_nanpa',
+    author: 'wasowapa',
+    description: '',
+    image: '/fanart/mi_nanpa_wasowapa.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'mi_nasa',
+    author: 'nyxoom',
+    description: '',
+    image: '/fanart/mi_nasa_nyxoom.png',
+    type: 'img'
+  },
+  {
+    active: false,
+    title: 'mi_old',
+    author: 'mi',
+    description: '',
+    image: '/fanart/mi_old_mi.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'mi_pana_e_sona',
+    author: 'sipiki',
+    description: '',
+    image: '/fanart/mi_pana_e_sona_sipiki.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'mi_poni',
+    author: 'jankita',
+    description: '',
+    image: '/fanart/mi_poni_jankita.png',
+    type: 'img'
+  },
+  {
+    active: false,
+    title: 'mi_sewi_2',
+    author: 'lipamanka',
+    description: '',
+    image: '/fanart/mi_sewi_2_lipamanka.png',
+    type: 'img'
+  },
+  {
+    active: false,
+    title: 'mi_sewi',
+    author: 'lipamanka',
+    description: '',
+    image: '/fanart/mi_sewi_lipamanka.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'mi_sewi',
+    author: 'nyxoom',
+    description: '',
+    image: '/fanart/mi_sewi_nyxoom.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'mi_sina_beta',
+    author: 'nyxoom',
+    description: '',
+    image: '/fanart/mi_sina_beta_nyxoom.jpg',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'mi_sina',
+    author: 'nyxoom',
+    description: '',
+    image: '/fanart/mi_sina_nyxoom.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'mi_sticker',
+    author: 'sipiki',
+    description: '',
+    image: '/fanart/mi_sticker_sipiki.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'mi_suno',
+    author: 'sipiki',
+    description: '',
+    image: '/fanart/mi_suno_sipiki.png',
+    type: 'img'
+  },
+  {
+    active: false,
+    title: 'mi_moli',
+    author: 'sipiki',
+    description: '',
+    image: '/fanart/mi_moli_sipiki.png',
+    type: 'img'
+  },
+  {
+    active: false,
+    title: 'mi_unpa',
+    author: 'horse',
+    description: '',
+    image: '/fanart/mi_unpa_horse.jpg',
+    type: 'img'
+  },
+  {
+    active: false,
+    title: 'mi_waso',
+    author: 'nyxoom',
+    description: '',
+    image: '/fanart/mi_waso_nyxoom.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'mi_wawa',
+    author: 'nyxoom',
+    description: '',
+    image: '/fanart/mi_wawa_nyxoom.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'mi_wawa',
+    author: 'pipikewapi',
+    description: '',
+    image: '/fanart/mi_wawa_pipikewapi.png',
+    type: 'img'
+  },
+  {
+    active: false,
+    title: 'mi_wile_musi',
+    author: 'nyxoom',
+    description: '',
+    image: '/fanart/mi_wile_musi_nyxoom.png',
+    type: 'img'
+  },
+  {
+    active: false,
+    title: 'mi_wink',
+    author: 'janani',
+    description: '',
+    image: '/fanart/mi_wink_janani.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'mi_yugi',
+    author: 'tekinowi',
+    description: '',
+    image: '/fanart/mi_yugi_tekinowi.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'misikekan',
+    author: 'kalaasi',
+    description: '',
+    image: '/fanart/misikekan_kalaasi.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'moli',
+    author: 'horse',
+    description: '',
+    image: '/fanart/moli_2_horse.png',
+    type: 'img'
+  },
+  {
+    active: false,
+    title: 'moli_3',
+    author: 'ketami',
+    description: '',
+    image: '/fanart/moli_3_ketami.png',
+    type: 'img'
+  },
+  {
+    active: false,
+    title: 'moli',
+    author: 'horse',
+    description: '',
+    image: '/fanart/moli_horse.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'moli',
+    author: 'wren',
+    description: '',
+    image: '/fanart/moli_wren.gif',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'monologue',
+    author: 'kalaasi',
+    description: '',
+    image: '/fanart/monologue_kalaasi.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'movieposter',
+    author: 'dogikoko',
+    description: '',
+    image: '/fanart/movieposter_dogikoko.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'mu_a_wawa',
+    author: 'nyxoom',
+    description: '',
+    image: '/fanart/mu_a_wawa_nyxoom.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'mun_kekan_san',
+    author: 'janeli',
+    description: '',
+    image: '/fanart/mun_kekan_san_janeli.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'mun_kekan_san_smw_2',
+    author: 'abf',
+    description: '',
+    image: '/fanart/mun_kekan_san_smw_2_abf.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'mun_kekan_san_smw_3',
+    author: 'abf',
+    description: '',
+    image: '/fanart/mun_kekan_san_smw_3_abf.png',
+    type: 'img'
+  },
+  {
+    active: false,
+    title: 'mun_kekan_san_smw_4',
+    author: 'abf',
+    description: '',
+    image: '/fanart/mun_kekan_san_smw_4_abf.png',
+    type: 'img'
+  },
+  {
+    active: false,
+    title: 'mun_kekan_san_smw',
+    author: 'abf',
+    description: '',
+    image: '/fanart/mun_kekan_san_smw_abf.png',
+    type: 'img'
+  },
+  {
+    active: false,
+    title: 'mun_li_tawa_sike',
+    author: 'lipamanka',
+    description: '',
+    image: '/fanart/mun_li_tawa_sike_lipamanka.mp4',
+    type: 'video'
+  },
+  {
+    active: true,
+    title: 'mun_nasa',
+    author: 'weluke',
+    description: '',
+    image: '/fanart/mun_nasa_weluke.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'musi_laso',
+    author: 'akesinu',
+    description: '',
+    image: '/fanart/musi_laso_akesinu.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'musi_laso',
+    author: 'ilonija',
+    description: '',
+    image: '/fanart/musi_laso_ilonija.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'musi_o_awen_1',
+    author: 'pipikewapi',
+    description: '',
+    image: '/fanart/musi_o_awen_1_pipikewapi.jpeg',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'musi_o_awen_2',
+    author: 'pipikewapi',
+    description: '',
+    image: '/fanart/musi_o_awen_2_pipikewapi.jpeg',
+    type: 'img'
+  },
+  {
+    active: false,
+    title: 'nametags',
+    author: 'mi',
+    description: '',
+    image: '/fanart/nametags_mi.jpg',
+    type: 'img'
+  },
+  {
+    active: false,
+    title: 'nasawawa',
+    author: 'happychappy',
+    description: '',
+    image: '/fanart/nasawawa_happychappy.jpg',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'nimi_nanpa_kin',
+    author: 'nyxoom',
+    description: '',
+    image: '/fanart/nimi_nanpa_kin_nyxoom.png',
+    type: 'img'
+  },
+  {
+    active: false,
+    title: 'njankekan',
+    author: 'horse',
+    description: '',
+    image: '/fanart/njankekan_horse.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'no_thought',
+    author: 'wasowapa',
+    description: '',
+    image: '/fanart/no_thought_wasowapa.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'noka',
+    author: 'horse',
+    description: '',
+    image: '/fanart/noka_horse.png',
+    type: 'img'
+  },
+  {
+    active: false,
+    title: 'o_kama_sona',
+    author: 'wasowapa',
+    description: '',
+    image: '/fanart/o_kama_sona_wasowapa.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'o_monsuta_ala',
+    author: 'akesinu',
+    description: '**mi sewi Kekan San. o monsuta ala.**',
+    image: '/fanart/o_monsuta_ala_akesinu.jpg',
+    type: 'img'
+  },
+  {
+    active: false,
+    title: 'o_pona',
+    author: 'wasomu',
+    description: '',
+    image: '/fanart/o_pona_wasomu.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'olin',
+    author: 'wasomu',
+    description: '',
+    image: '/fanart/olin_wasomu.png',
+    type: 'img'
+  },
+  {
+    active: false,
+    title: 'olin_english',
+    author: 'wasomu',
+    description: '',
+    image: '/fanart/olin_english_wasomu.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'pal_greg',
+    author: 'pipikewapi',
+    description: '',
+    image: '/fanart/pal_greg_pipikewapi.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'pilin_ike',
+    author: 'tekinowi',
+    description: '',
+    image: '/fanart/pilin_ike_tekinowi.png',
+    type: 'img'
+  },
+  {
+    active: false,
+    title: 'qualia',
+    author: 'pipikewapi',
+    description: '',
+    image: '/fanart/qualia_pipikewapi.jpg',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'realistic_face',
+    author: 'tekinowi',
+    description: '',
+    image: '/fanart/realistic_face_tekinowi.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'realistic_smile',
+    author: 'wali',
+    description: '',
+    image: '/fanart/realistic_smile_wali.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'satan',
+    author: 'pq',
+    description: '',
+    image: '/fanart/satan_pq.png',
+    type: 'img'
+  },
+  {
+    active: false,
+    title: 'scribble_2',
+    author: 'sipiki',
+    description: '',
+    image: '/fanart/scribble_2_sipiki.png',
+    type: 'img'
+  },
+  {
+    active: false,
+    title: 'scribble_3',
+    author: 'sipiki',
+    description: '',
+    image: '/fanart/scribble_3_sipiki.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'scribble_4',
+    author: 'sipiki',
+    description: '',
+    image: '/fanart/scribble_4_sipiki.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'scribble_ko',
+    author: 'sipiki',
+    description: '',
+    image: '/fanart/mi_ko_sipiki.png',
+    type: 'img'
+  },
+  {
+    active: false,
+    title: 'scribble',
+    author: 'sipiki',
+    description: '',
+    image: '/fanart/scribble_sipiki.png',
+    type: 'img'
+  },
+  {
+    active: false,  // TODO: when seme is released
+    title: 'seme_thumbnail',
+    author: 'nyxoom',
+    description: '',
+    image: '/fanart/seme_thumbnail_nyxoom.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'silhouette',
+    author: 'kon Ako',
+    description: '"Good character design is identified solely by silhouette"',
+    image: '/fanart/silhouette_konako.png',
+    type: 'img'
+  },
+  {
+    active: true,
     title: 'sina_sona',
     author: 'wren',
     description: '',
-    image: '/fanart/sina_sona_wren.png'
+    image: '/fanart/sina_sona_wren.png',
+    type: 'img'
   },
   {
+    active: false,
     title: 'sinaseme',
     author: 'unknown',
     description: '',
-    image: '/fanart/sinaseme_unknown.png'
+    image: '/fanart/sinaseme_unknown.png',
+    type: 'img'
   },
   {
+    active: true,
     title: 'sitelen',
     author: 'sipiki',
     description: '',
-    image: '/fanart/sitelen_sipiki.png'
+    image: '/fanart/sitelen_sipiki.png',
+    type: 'img'
   },
   {
+    active: true,
     title: 'sitelen_suwi',
     author: 'jantenpi',
     description: '',
-    image: '/fanart/sitelen_suwi_jantenpi.jpg'
+    image: '/fanart/sitelen_suwi_jantenpi.jpg',
+    type: 'img'
   },
   {
+    active: false,
     title: 'sitelen',
     author: 'wasowapa',
     description: '',
-    image: '/fanart/sitelen_wasowapa.jpg'
+    image: '/fanart/sitelen_wasowapa.jpg',
+    type: 'img'
   },
   {
+    active: true,
     title: 'smash',
     author: 'tekinowi',
     description: '',
-    image: '/fanart/smash_tekinowi.png'
+    image: '/fanart/smash_tekinowi.png',
+    type: 'img'
   },
   {
+    active: true,
+    title: 'announcer',
+    author: 'tekinowi',
+    description: '',
+    image: '/fanart/announcer_tekinowi.mp3',
+    type: 'audio'
+  },
+  {
+    active: false,
     title: 'soweli_mute',
     author: 'wasowapa',
     description: '',
-    image: '/fanart/soweli_mute_wasowapa.png'
+    image: '/fanart/soweli_mute_wasowapa.png',
+    type: 'img'
   },
-  // {
-  //   title: 'speedrun_hard',
-  //   author: 'mi',
-  //   description: '',
-  //   image: '/fanart/speedrun_hard_mi.mp4'
-  // },
-  // {
-  //   title: 'speedrun',
-  //   author: 'jankita',
-  //   description: '',
-  //   image: '/fanart/speedrun_jankita.mp4'
-  // },
   {
+    active: false,
+    title: 'speedrun_hard',
+    author: 'mi',
+    description: '',
+    image: '/fanart/speedrun_hard_mi.mp4',
+    type: 'video'
+  },
+  {
+    active: false,
+    title: 'speedrun',
+    author: 'jankita',
+    description: '',
+    image: '/fanart/speedrun_jankita.mp4',
+    type: 'video'
+  },
+  {
+    active: true,
     title: 'speen',
     author: 'sqec',
     description: '',
-    image: '/fanart/speen_sqec.gif'
+    image: '/fanart/speen_sqec.gif',
+    type: 'img'
   },
-  // {
-  //   title: 'spin',
-  //   author: 'sqec',
-  //   description: '',
-  //   image: '/fanart/spin_sqec.mov'
-  // },
   {
+    active: false,
+    title: 'spin',
+    author: 'sqec',
+    description: '',
+    image: '/fanart/spin_sqec.mov',
+    type: 'video'
+  },
+  {
+    active: true,
     title: 'squidward',
     author: 'pipikewapi',
     description: '',
-    image: '/fanart/squidward_pipikewapi.jpg'
+    image: '/fanart/squidward_pipikewapi.jpg',
+    type: 'img'
   },
   {
+    active: false,
     title: 'squiward',
     author: 'chantel',
     description: '',
-    image: '/fanart/squiward_chantel.jpg'
+    image: '/fanart/squiward_chantel.jpg',
+    type: 'img'
   },
   {
+    active: false,
     title: 'stage',
     author: 'menasewi',
     description: '',
-    image: '/fanart/stage_menasewi.png'
+    image: '/fanart/stage_menasewi.png',
+    type: 'img'
   },
   {
-    title: 'star',
+    active: true,
+    title: ':starbowtie:',
     author: 'kala Asi',
     description: '',
-    image: '/fanart/star_bowtie_kalaasi.webp'
+    image: '/fanart/star_bowtie_kalaasi.webp',
+    type: 'img'
   },
   {
+    active: false,
     title: 'star',
     author: 'janiseja',
     description: '',
-    image: '/fanart/star_janiseja.png'
+    image: '/fanart/star_janiseja.png',
+    type: 'img'
   },
   {
+    active: false,
     title: 'star_smile_teacher_jan',
     author: 'aja',
     description: '',
-    image: '/fanart/star_smile_teacher_jan_aja.png'
+    image: '/fanart/star_smile_teacher_jan_aja.png',
+    type: 'img'
   },
   {
+    active: true,
     title: 'starman_body',
     author: 'cuymacu',
     description: '',
-    image: '/fanart/starman_body_cuymacu.png'
+    image: '/fanart/starman_body_cuymacu.png',
+    type: 'img'
   },
   {
+    active: true,
     title: 'stellated',
     author: 'dogikoko',
     description: '',
-    image: '/fanart/stellated_dogikoko.png'
+    image: '/fanart/stellated_dogikoko.png',
+    type: 'img'
   },
   {
+    active: false,
     title: 'supa_pimeja',
     author: 'squimp',
     description: '',
-    image: '/fanart/supa_pimeja_squimp.png'
+    image: '/fanart/supa_pimeja_squimp.png',
+    type: 'img'
   },
   {
+    active: false,
     title: 'sword',
     author: 'mi',
     description: '',
-    image: '/fanart/sword_mi.png'
+    image: '/fanart/sword_mi.png',
+    type: 'img'
   },
   {
+    active: true,
     title: 'tenpo_ike',
     author: 'pantemili',
     description: '',
-    image: '/fanart/tenpo_ike_pantemili.png'
+    image: '/fanart/tenpo_ike_pantemili.png',
+    type: 'img'
   },
   {
+    active: true,
     title: 'tenpo_lete',
     author: 'nyxoom',
     description: '',
-    image: '/fanart/tenpo_lete_nyxoom.png'
+    image: '/fanart/tenpo_lete_nyxoom.png',
+    type: 'img'
   },
-  // {
-  //   title: 'tenpopimeja',
-  //   author: 'wasomu',
-  //   description: '',
-  //   image: '/fanart/tenpopimeja_wasomu.mov'
-  // },
   {
+    active: true,
+    title: 'tenpopimeja',
+    author: 'wasomu',
+    description: '',
+    image: '/fanart/tenpopimeja_wasomu.mov',
+    type: 'video'
+  },
+  {
+    active: true,
     title: 'thinkan',
     author: 'janwali',
     description: '',
-    image: '/fanart/thinkan_janwali.png'
+    image: '/fanart/thinkan_janwali.png',
+    type: 'img'
   },
-  // {
-  //   title: 'tloki_a',
-  //   author: 'mi',
-  //   description: '',
-  //   image: '/fanart/tloki_a_mi.wav'
-  // },
   {
+    active: true,
     title: 'tokia',
     author: 'mijetelo',
     description: '',
-    image: '/fanart/tokia_mijetelo.jpg'
+    image: '/fanart/tokia_mijetelo.jpg',
+    type: 'img'
   },
   {
+    active: true,
     title: 'truth',
     author: 'squimp',
     description: '',
-    image: '/fanart/truth_squimp.png'
+    image: '/fanart/truth_squimp.png',
+    type: 'img'
   },
   {
+    active: false,
     title: 'upsidedown',
     author: 'sqec',
     description: '',
-    image: '/fanart/upsidedown_sqec.png'
+    image: '/fanart/upsidedown_sqec.png',
+    type: 'img'
   },
   {
+    active: true,
     title: 'utala',
     author: 'dogikoko',
     description: '',
-    image: '/fanart/utala_dogikoko.png'
+    image: '/fanart/utala_dogikoko.png',
+    type: 'img'
   },
   {
+    active: true,
     title: 'utala_lape',
     author: 'akesinu',
     description: '',
-    image: '/fanart/utala_lape_akesinu.jpg'
+    image: '/fanart/utala_lape_akesinu.jpg',
+    type: 'img'
   },
   {
+    active: false,
     title: 'utala_mun',
     author: 'chantel',
     description: '',
-    image: '/fanart/utala_mun_chantel.jpg'
+    image: '/fanart/utala_mun_chantel.jpg',
+    type: 'img'
   },
-  // {
-  //   title: 'vogue',
-  //   author: 'akesinu',
-  //   description: '',
-  //   image: '/fanart/vogue_akesinu.mp4'
-  // },
   {
+    active: true,
+    title: 'vogue',
+    author: 'akesinu',
+    description: '',
+    image: '/fanart/vogue_akesinu.mp4',
+    type: 'video'
+  },
+  {
+    active: false,
     title: 'warioware_1',
     author: 'abf',
     description: '',
-    image: '/fanart/warioware_1_abf.png'
+    image: '/fanart/warioware_1_abf.png',
+    type: 'img'
   },
   {
+    active: true,
     title: 'warioware_2',
     author: 'abf',
     description: '',
-    image: '/fanart/warioware_2_abf.png'
+    image: '/fanart/warioware_2_abf.png',
+    type: 'img'
   },
   {
+    active: true,
     title: 'warioware_3',
     author: 'abf',
     description: '',
-    image: '/fanart/warioware_3_abf.png'
+    image: '/fanart/warioware_3_abf.png',
+    type: 'img'
   },
   {
+    active: true,
     title: 'warioware_4',
     author: 'abf',
     description: '',
-    image: '/fanart/warioware_4_abf.png'
+    image: '/fanart/warioware_4_abf.png',
+    type: 'img'
   },
   {
+    active: true,
     title: 'warioware_5',
     author: 'abf',
     description: '',
-    image: '/fanart/warioware_5_abf.png'
+    image: '/fanart/warioware_5_abf.png',
+    type: 'img'
   },
   {
+    active: false,
     title: 'what_is_love',
     author: 'nasaki',
     description: '',
-    image: '/fanart/what_is_love_nasaki.gif'
+    image: '/fanart/what_is_love_nasaki.gif',
+    type: 'img'
   },
   {
+    active: true,
     title: 'wile_unpa',
     author: 'ilonija',
     description: '',
-    image: '/fanart/wile_unpa_ilonija.png'
+    image: '/fanart/wile_unpa_ilonija.png',
+    type: 'img'
   },
   {
+    active: true,
     title: 'wink',
     author: 'sipiki',
     description: '',
-    image: '/fanart/wink_sipiki.png'
+    image: '/fanart/wink_sipiki.png',
+    type: 'img'
   },
   {
+    active: false,
     title: 'zvedza',
     author: 'sqec',
     description: '',
-    image: '/fanart/zvedza_sqec.png'
+    image: '/fanart/zvedza_sqec.png',
+    type: 'img'
   }
 ];
 
-function createArtworkElement(title, image, author, description) {
+function createArtworkElement(title, image, author, description, type) {
   const placeholderDiv = document.createElement('div');
   placeholderDiv.className = 'placeholder';
 
@@ -1311,9 +1763,14 @@ function createArtworkElement(title, image, author, description) {
 
   const artDiv = document.createElement('div');
   artDiv.className = 'art';
-  const artImage = document.createElement('img');
-  artImage.src = image;
-  artDiv.appendChild(artImage);
+
+  let mediaElement = document.createElement(type);
+  if (type === "audio" || type === "video") {
+    mediaElement.controls = true;
+  }
+
+  mediaElement.src = image; // For video and audio, this sets the source file
+  artDiv.appendChild(mediaElement);
   placeholderDiv.appendChild(artDiv);
 
   if (author) {
@@ -1333,6 +1790,7 @@ function createArtworkElement(title, image, author, description) {
     descriptionDiv.appendChild(descriptionParagraph);
     placeholderDiv.appendChild(descriptionDiv);
   }
+
   return placeholderDiv;
 }
 
@@ -1373,18 +1831,20 @@ document.addEventListener('DOMContentLoaded', function () {
   }
 
   artworks.forEach((artwork) => {
+    if (artwork.active) {
     const artworkElement = createArtworkElement(
       artwork.title,
       artwork.image,
       artwork.author,
-      artwork.description
+      artwork.description,
+      artwork.type
     );
     galleryDiv.appendChild(artworkElement);
-  });
+  }});
 });
 </script>
 
-This gallery was set up by [mun Antuwan (@munantuwan)](https://discord.com/users/1054273094358945826)! I have to clean up the metadata still, but this was already a fairly large effort and a long time coming, aha.
+This gallery was set up by [@munantuwan](https://discord.com/users/1054273094358945826), [abled47@pm.me](mailto:abled47@pm.me)! I have to clean up the metadata still, but this was already a fairly large effort and a long time coming, aha.
 
 If you're in [ma pona pi toki pona](https://discord.gg/mapona), [check out the fanart thread too](https://discord.com/channels/301377942062366741/1145483914765422682/1145483914765422682)!
 

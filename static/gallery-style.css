@@ -46,13 +46,17 @@ div.placeholder div.artmobile {
   width: 60vw;
 }
 
-div.placeholder div.art img {
+div.placeholder div.art img,
+div.placeholder div.art audio,
+div.placeholder div.art video {
   max-width: 20vw;
   max-height: 40vh;
   margin: auto;
   display: block;
 }
-div.placeholder div.artmobile img {
+div.placeholder div.artmobile img,
+div.placeholder div.artmobile audio,
+div.placeholder div.artmobile video {
   max-width: 60vw;
 }
 div.placeholder div.credit {
