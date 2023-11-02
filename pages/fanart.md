@@ -1384,6 +1384,16 @@ document.addEventListener('DOMContentLoaded', function () {
 });
 </script>
 
+This gallery was set up by [mun Antuwan (@munantuwan)](https://discord.com/users/1054273094358945826)! I have to clean up the metadata still, but this was already a fairly large effort and a long time coming, aha.
+
+If you're in [ma pona pi toki pona](https://discord.gg/mapona), [check out the fanart thread too](https://discord.com/channels/301377942062366741/1145483914765422682/1145483914765422682)!
+
+<br/>
+
+---
+
+<br/>
+
 <div class="gallery">
 
 </div>
