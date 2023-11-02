@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en-US">
   <head>
     <meta charset="UTF-8" />
@@ -25,6 +25,9 @@
     <title>mun! - $pagetitle$</title>
     <link href="https://mun.la/" rel="canonical" />
     <link href="/style.css" rel="stylesheet" type="text/css" />
+    $if(extracss)$
+    <link href="/$extracss$.css" rel="stylesheet" type="text/css" />
+    $endif$
     <link href="/favicon.ico" rel="icon" type="image/png" />
   </head>
   <body>
