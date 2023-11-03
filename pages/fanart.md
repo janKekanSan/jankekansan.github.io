@@ -13,7 +13,7 @@ const artworks = [
   {
     active: true,
     title: 'pokemon',
-    author: 'tekinowi',
+    author: 'jan Tekinowi',
     description: '',
     image: '/fanart/pokemon_tekinowi.png',
     type: 'img'
@@ -21,7 +21,7 @@ const artworks = [
   {
     active: true,
     title: 'despair',
-    author: 'janlilienta',
+    author: 'jan lili Enta',
     description: '',
     image: '/fanart/despair_janlilienta.png',
     type: 'img'
@@ -29,31 +29,55 @@ const artworks = [
   {
     active: true,
     title: 'kekan64',
-    author: 'janpoman',
+    author: 'jan Poman',
     description: '',
     image: '/fanart/kekan64_janpoman.gif',
     type: 'img'
   },
   {
+    active: true,
+    title: 'noka Kekan San',
+    author: 'jan Poman',
+    description: '',
+    image: '/fanart/noka_kekan_poman.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'mun noka nanpa wan',
+    author: 'jan Tekinowi',
+    description: '',
+    image: '/fanart/kekan_starwalker_tekinowi.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'lawa sike Kekan San',
+    author: 'jan Poman',
+    description: '"oops my finger slipped"',
+    image: '/fanart/king_round_kekan_poman.gif',
+    type: 'img'
+  },
+  {
     active: false,
     title: 'akesi',
-    author: 'chantel',
+    author: 'jan Sante',
     description: '',
     image: '/fanart/akesi_chantel.jpg',
     type: 'img'
   },
   {
     active: true,
-    title: 'akesi_linja',
-    author: 'akesinu',
-    description: '',
+    title: 'mi musi Seta li anpa',
+    author: 'akesi Nu',
+    description: '"who would win: jan kekan san or one akesi linja"',
     image: '/fanart/akesi_linja_akesinu.mov',
     type: 'video'
   },
   {
     active: true,
     title: 'sina_moli',
-    author: 'pipikewapi',
+    author: 'pipi Kewapi',
     description: '',
     image: '/fanart/sina_moli_pipikewapi.jpg',
     type: 'img'
@@ -61,7 +85,7 @@ const artworks = [
   {
     active: true,
     title: 'angery',
-    author: 'starling',
+    author: 'waso suno',
     description: '',
     image: '/fanart/angery_starling.png',
     type: 'img'
@@ -69,7 +93,7 @@ const artworks = [
   {
     active: true,
     title: 'antikekan',
-    author: 'ketami',
+    author: 'jan Ke Tami',
     description: '',
     image: '/fanart/antikekan_ketami.jpg',
     type: 'img'
@@ -77,7 +101,7 @@ const artworks = [
   {
     active: true,
     title: 'autism',
-    author: 'kalaasi',
+    author: 'kala Asi',
     description: '',
     image: '/fanart/autism_kalaasi.png',
     type: 'img'
@@ -85,7 +109,7 @@ const artworks = [
   {
     active: true,
     title: 'balloon',
-    author: 'chantel',
+    author: 'jan Sante',
     description: '',
     image: '/fanart/balloon_chantel.jpg',
     type: 'img'
@@ -93,7 +117,7 @@ const artworks = [
   {
     active: true,
     title: 'bill_cypher',
-    author: 'rats',
+    author: 'the rats',
     description: '',
     image: '/fanart/bill_cypher_rats.png',
     type: 'img'
@@ -101,7 +125,7 @@ const artworks = [
   {
     active: true,
     title: 'bitch',
-    author: 'rats',
+    author: 'the rats',
     description: '',
     image: '/fanart/bitch_rats.png',
     type: 'img'
@@ -109,7 +133,7 @@ const artworks = [
   {
     active: false,
     title: 'blender',
-    author: 'wasowapa',
+    author: 'waso Wapa',
     description: '',
     image: '/fanart/blender_wasowapa.jpg',
     type: 'img'
@@ -117,7 +141,7 @@ const artworks = [
   {
     active: false,
     title: 'blender_2',
-    author: 'wasowapa',
+    author: 'waso Wapa',
     description: '',
     image: '/fanart/blender_2_wasowapa.jpg',
     type: 'img'
@@ -133,7 +157,7 @@ const artworks = [
   {
     active: true,
     title: 'carry_on',
-    author: 'nyxoom',
+    author: 'Nyxoom',
     description: '',
     image: '/fanart/carry_on_nyxoom.mp4',
     type: 'video'
@@ -141,7 +165,7 @@ const artworks = [
   {
     active: false,
     title: 'chalkboard',
-    author: 'nyxoom',
+    author: 'Nyxoom',
     description: '',
     image: '/fanart/chalkboard_nyxoom.png',
     type: 'img'
@@ -149,7 +173,7 @@ const artworks = [
   {
     active: true,
     title: 'comic_1',
-    author: 'akesinu',
+    author: 'akesi Nu',
     description: '',
     image: '/fanart/comic_1_akesinu.jpg',
     type: 'img'
@@ -157,7 +181,7 @@ const artworks = [
   {
     active: true,
     title: 'comic_2',
-    author: 'akesinu',
+    author: 'akesi Nu',
     description: '',
     image: '/fanart/comic_2_akesinu.jpg',
     type: 'img'
@@ -165,7 +189,7 @@ const artworks = [
   {
     active: true,
     title: 'comic_3',
-    author: 'akesinu',
+    author: 'akesi Nu',
     description: '',
     image: '/fanart/comic_3_akesinu.jpg',
     type: 'img'
@@ -173,7 +197,7 @@ const artworks = [
   {
     active: true,
     title: 'comic_4',
-    author: 'akesinu',
+    author: 'akesi Nu',
     description: '',
     image: '/fanart/comic_4_akesinu.jpg',
     type: 'img'
@@ -181,7 +205,7 @@ const artworks = [
   {
     active: true,
     title: 'comic_5',
-    author: 'akesinu',
+    author: 'akesi Nu',
     description: '',
     image: '/fanart/comic_5_akesinu.jpg',
     type: 'img'
@@ -189,7 +213,7 @@ const artworks = [
   {
     active: false,
     title: 'computer_1',
-    author: 'tekinowi',
+    author: 'jan Tekinowi',
     description: '',
     image: '/fanart/computer_1_tekinowi.png',
     type: 'img'
@@ -197,7 +221,7 @@ const artworks = [
   {
     active: false,
     title: 'computer_2',
-    author: 'tekinowi',
+    author: 'jan Tekinowi',
     description: '',
     image: '/fanart/computer_2_tekinowi.png',
     type: 'img'
@@ -205,7 +229,7 @@ const artworks = [
   {
     active: true,
     title: 'computer_3',
-    author: 'tekinowi',
+    author: 'jan Tekinowi',
     description: '',
     image: '/fanart/computer_3_tekinowi.png',
     type: 'img'
@@ -213,7 +237,7 @@ const artworks = [
   {
     active: false,
     title: 'computer_4',
-    author: 'tekinowi',
+    author: 'jan Tekinowi',
     description: '',
     image: '/fanart/computer_4_tekinowi.png',
     type: 'img'
@@ -221,7 +245,7 @@ const artworks = [
   {
     active: false,
     title: 'computer_sketch',
-    author: 'tekinowi',
+    author: 'jan Tekinowi',
     description: '',
     image: '/fanart/computer_sketch_tekinowi.png',
     type: 'img'
@@ -229,7 +253,7 @@ const artworks = [
   {
     active: false,
     title: 'drip',
-    author: 'chantel',
+    author: 'jan Sante',
     description: '',
     image: '/fanart/drip_chantel.jpg',
     type: 'img'
@@ -237,8 +261,8 @@ const artworks = [
   {
     active: true,
     title: 'evil_kekan',
-    author: 'tekinowi',
-    description: ' Evil Kekan San: "Saluton al ĉiuj! Mia nomo estas Gregdano tri! Mi volas instrui Esperanton al vi." ',
+    author: 'jan Tekinowi',
+    description: '"Saluton al ĉiuj! Mia nomo estas Gregdano tri! Mi volas instrui Esperanton."',
     image: '/fanart/evil_kekan_tekinowi.png',
     type: 'img'
   },
@@ -253,7 +277,7 @@ const artworks = [
   {
     active: true,
     title: 'fancam_1',
-    author: 'wasomu',
+    author: 'waso mu',
     description: '',
     image: '/fanart/fancam_1_wasomu.mp4',
     type: 'video'
@@ -261,7 +285,7 @@ const artworks = [
   {
     active: true,
     title: 'fancam_2',
-    author: 'wasomu',
+    author: 'waso mu',
     description: '',
     image: '/fanart/fancam_2_wasomu.mp4',
     type: 'video'
@@ -269,7 +293,7 @@ const artworks = [
   {
     active: true,
     title: 'fancam_3',
-    author: 'akesinu',
+    author: 'akesi Nu',
     description: '',
     image: '/fanart/fancam_3_akesinu.mov',
     type: 'video'
@@ -277,7 +301,7 @@ const artworks = [
   {
     active: false,
     title: 'frog_music',
-    author: 'chantel',
+    author: 'jan Sante',
     description: '',
     image: '/fanart/frog_music_chantel.jpg',
     type: 'img'
@@ -285,7 +309,7 @@ const artworks = [
   {
     active: true,
     title: 'god',
-    author: 'squimp',
+    author: 'jan Sukuwinpu',
     description: '',
     image: '/fanart/god_squimp.png',
     type: 'img'
@@ -301,7 +325,7 @@ const artworks = [
   {
     active: false,
     title: 'gumball_2',
-    author: 'chantel',
+    author: 'jan Sante',
     description: '',
     image: '/fanart/gumball_2_chantel.jpg',
     type: 'img'
@@ -309,7 +333,7 @@ const artworks = [
   {
     active: false,
     title: 'gumball',
-    author: 'chantel',
+    author: 'jan Sante',
     description: '',
     image: '/fanart/gumball_chantel.jpg',
     type: 'img'
@@ -317,7 +341,7 @@ const artworks = [
   {
     active: false,
     title: 'hamradio',
-    author: 'nasaki',
+    author: 'nasa utala',
     description: '',
     image: '/fanart/hamradio_nasaki.png',
     type: 'img'
@@ -325,7 +349,7 @@ const artworks = [
   {
     active: false,
     title: 'herbevitisto',
-    author: 'abf',
+    author: 'jan abf',
     description: '',
     image: '/fanart/herbevitisto_abf.jpg',
     type: 'img'
@@ -333,7 +357,7 @@ const artworks = [
   {
     active: true,
     title: 'herbevitisto',
-    author: 'umeja',
+    author: 'ko Umeja',
     description: '',
     image: '/fanart/herbevitisto_umeja.jpg',
     type: 'img'
@@ -341,23 +365,15 @@ const artworks = [
   {
     active: true,
     title: 'hold_gently',
-    author: 'starling',
+    author: 'waso suno',
     description: '',
     image: '/fanart/hold_gently_starling.png',
     type: 'img'
   },
   {
     active: true,
-    title: 'ithkuil',
-    author: 'cuymacu',
-    description: '',
-    image: '/fanart/ithkuil_cuymacu.jpg',
-    type: 'img'
-  },
-  {
-    active: true,
-    title: 'jan_kekan_sans',
-    author: 'janpoman',
+    title: 'jan Kekan Sans',
+    author: 'jan Poman',
     description: '',
     image: '/fanart/jan_kekan_sans_janpoman.png',
     type: 'img'
@@ -365,7 +381,7 @@ const artworks = [
   {
     active: true,
     title: 'kekan_sans',
-    author: 'pq',
+    author: 'lan Pq',
     description: '',
     image: '/fanart/kekan_sans_pq.png',
     type: 'img'
@@ -373,7 +389,7 @@ const artworks = [
   {
     active: true,
     title: 'jan_kekan_serif',
-    author: 'kasape',
+    author: 'jan Kasape',
     description: '',
     image: '/fanart/jan_kekan_serif_kasape.png',
     type: 'img'
@@ -381,7 +397,7 @@ const artworks = [
   {
     active: false,
     title: 'jellyfish_1',
-    author: 'tekinowi',
+    author: 'jan Tekinowi',
     description: '',
     image: '/fanart/jellyfish_1_tekinowi.png',
     type: 'img'
@@ -389,7 +405,7 @@ const artworks = [
   {
     active: true,
     title: 'jellyfish_2',
-    author: 'tekinowi',
+    author: 'jan Tekinowi',
     description: '',
     image: '/fanart/jellyfish_2_tekinowi.png',
     type: 'img'
@@ -397,7 +413,7 @@ const artworks = [
   {
     active: true,
     title: 'jellyfish',
-    author: 'ilonija',
+    author: 'ilo Nija',
     description: '',
     image: '/fanart/jellyfish_ilonija.png',
     type: 'img'
@@ -405,23 +421,23 @@ const artworks = [
   {
     active: true,
     title: 'tloki_a',
-    author: 'mi',
+    author: 'jan Kekan San (mi!)',
     description: '',
     image: '/fanart/tloki_a_mi.wav',
     type: 'audio'
   },
   {
-    active: true,
+    active: false,
     title: 'jerma',
-    author: 'akesinu',
+    author: 'akesi Nu',
     description: '',
     image: '/fanart/jerma_akesinu.mp4',
     type: 'video'
   },
   {
-    active: true,
+    active: false,
     title: 'kekan64',
-    author: 'menasewi',
+    author: 'kulupu Menasewi',
     description: '',
     image: '/fanart/kekan64_menasewi.png',
     type: 'img'
@@ -429,7 +445,7 @@ const artworks = [
   {
     active: false,
     title: 'kekan_halloween_1',
-    author: 'tekinowi',
+    author: 'jan Tekinowi',
     description: '',
     image: '/fanart/kekan_halloween_1_tekinowi.png',
     type: 'img'
@@ -437,7 +453,7 @@ const artworks = [
   {
     active: false,
     title: 'kekan_halloween_2',
-    author: 'tekinowi',
+    author: 'jan Tekinowi',
     description: '',
     image: '/fanart/kekan_halloween_2_tekinowi.png',
     type: 'img'
@@ -445,7 +461,7 @@ const artworks = [
   {
     active: true,
     title: 'kekan_halloween_3',
-    author: 'tekinowi',
+    author: 'jan Tekinowi',
     description: '',
     image: '/fanart/kekan_halloween_3_tekinowi.png',
     type: 'img'
@@ -453,7 +469,7 @@ const artworks = [
   {
     active: true,
     title: 'kekante1',
-    author: 'katan',
+    author: 'jan Katan',
     description: '',
     image: '/fanart/kekante1_katan.jpg',
     type: 'img'
@@ -461,7 +477,7 @@ const artworks = [
   {
     active: true,
     title: 'kekante2',
-    author: 'wali',
+    author: 'jan Wali',
     description: '',
     image: '/fanart/kekante2_wali.png',
     type: 'img'
@@ -469,7 +485,7 @@ const artworks = [
   {
     active: true,
     title: 'kekante3',
-    author: 'ilonija',
+    author: 'ilo Nija',
     description: '',
     image: '/fanart/kekante3_ilonija.png',
     type: 'img'
@@ -477,7 +493,7 @@ const artworks = [
   {
     active: true,
     title: 'kepeken_e',
-    author: 'wasomu',
+    author: 'waso mu',
     description: '',
     image: '/fanart/kepeken_e_wasomu.png',
     type: 'img'
@@ -485,7 +501,7 @@ const artworks = [
   {
     active: false,
     title: 'ketami_monsuta',
-    author: 'mi',
+    author: 'jan Kekan San (mi!)',
     description: '',
     image: '/fanart/ketami_monsuta_mi.png',
     type: 'img'
@@ -501,7 +517,7 @@ const artworks = [
   {
     active: true,
     title: 'kulupu',
-    author: 'janiseja',
+    author: 'jan Iseja',
     description: '',
     image: '/fanart/kulupu_janiseja.png',
     type: 'img'
@@ -509,7 +525,7 @@ const artworks = [
   {
     active: false, // TODO: when la is released
     title: 'la_thumbnail',
-    author: 'nyxoom',
+    author: 'Nyxoom',
     description: '',
     image: '/fanart/la_thumbnail_nyxoom.png',
     type: 'img'
@@ -517,7 +533,7 @@ const artworks = [
   {
     active: false,
     title: 'la_thumbnail_old',
-    author: 'nyxoom',
+    author: 'Nyxoom',
     description: '',
     image: '/fanart/la_thumbnail_old_nyxoom.png',
     type: 'img'
@@ -525,7 +541,7 @@ const artworks = [
   {
     active: true,
     title: 'lernan',
-    author: 'pq',
+    author: 'lan Pq',
     description: '',
     image: '/fanart/lernan_pq.png',
     type: 'img'
@@ -533,7 +549,7 @@ const artworks = [
   {
     active: true,
     title: 'lesson7',
-    author: 'weluke',
+    author: 'we Luke',
     description: '',
     image: '/fanart/lesson7_weluke.png',
     type: 'img'
@@ -541,7 +557,7 @@ const artworks = [
   {
     active: true,
     title: 'li_e_en',
-    author: 'nyxoom',
+    author: 'Nyxoom',
     description: '',
     image: '/fanart/li_e_en_nyxoom.png',
     type: 'img'
@@ -549,7 +565,7 @@ const artworks = [
   {
     active: false,
     title: 'link_1',
-    author: 'tekinowi',
+    author: 'jan Tekinowi',
     description: '',
     image: '/fanart/link_1_tekinowi.png',
     type: 'img'
@@ -557,7 +573,7 @@ const artworks = [
   {
     active: true,
     title: 'link_2',
-    author: 'tekinowi',
+    author: 'jan Tekinowi',
     description: '',
     image: '/fanart/link_2_tekinowi.png',
     type: 'img'
@@ -565,7 +581,7 @@ const artworks = [
   {
     active: false,
     title: 'link_3',
-    author: 'tekinowi',
+    author: 'jan Tekinowi',
     description: '',
     image: '/fanart/link_3_tekinowi.png',
     type: 'img'
@@ -573,15 +589,23 @@ const artworks = [
   {
     active: false,
     title: 'link_sketch',
-    author: 'tekinowi',
+    author: 'jan Tekinowi',
     description: '',
     image: '/fanart/link_sketch_tekinowi.png',
     type: 'img'
   },
   {
     active: true,
+    title: 'ithkuil',
+    author: 'jan Kuwimaku',
+    description: '',
+    image: '/fanart/ithkuil_cuymacu.jpg',
+    type: 'img'
+  },
+  {
+    active: true,
     title: 'lojban',
-    author: 'cuymacu',
+    author: 'jan Kuwimaku',
     description: '',
     image: '/fanart/lojban_cuymacu.jpg',
     type: 'img'
@@ -605,7 +629,7 @@ const artworks = [
   {
     active: true,
     title: 'lupa',
-    author: 'lenlen',
+    author: 'len len',
     description: '',
     image: '/fanart/lupa_lenlen.png',
     type: 'img'
@@ -613,7 +637,7 @@ const artworks = [
   {
     active: true,
     title: 'masquerade',
-    author: 'pipikewapi',
+    author: 'pipi Kewapi',
     description: '',
     image: '/fanart/masquerade_pipikewapi.png',
     type: 'img'
@@ -621,7 +645,7 @@ const artworks = [
   {
     active: true,
     title: 'masquerade_2',
-    author: 'pipikewapi',
+    author: 'pipi Kewapi',
     description: '',
     image: '/fanart/masquerade_2_pipikewapi.png',
     type: 'img'
@@ -629,7 +653,7 @@ const artworks = [
   {
     active: true,
     title: 'mi_alasa_toki',
-    author: 'janika',
+    author: 'jan Ika',
     description: '',
     image: '/fanart/mi_alasa_toki_janika.png',
     type: 'img'
@@ -637,7 +661,7 @@ const artworks = [
   {
     active: true,
     title: 'mi_jo_2',
-    author: 'sipiki',
+    author: 'jan Sipiki',
     description: '',
     image: '/fanart/mi_jo_2_sipiki.gif',
     type: 'img'
@@ -645,7 +669,7 @@ const artworks = [
   {
     active: false,
     title: 'mi_jo',
-    author: 'sipiki',
+    author: 'jan Sipiki',
     description: '',
     image: '/fanart/mi_jo_sipiki.gif',
     type: 'img'
@@ -653,7 +677,7 @@ const artworks = [
   {
     active: true,
     title: 'mi_kala',
-    author: 'nyxoom',
+    author: 'Nyxoom',
     description: '',
     image: '/fanart/mi_kala_nyxoom.png',
     type: 'img'
@@ -661,7 +685,7 @@ const artworks = [
   {
     active: true,
     title: 'mi_laso',
-    author: 'lukin',
+    author: 'normal person',
     description: '',
     image: '/fanart/mi_laso_lukin.png',
     type: 'img'
@@ -669,7 +693,7 @@ const artworks = [
   {
     active: true,
     title: 'mi_lawa',
-    author: 'akesinu',
+    author: 'akesi Nu',
     description: 'We had a hilarious courtroom RP in the VR community, featuring a pipi store owner and its lost copies of pu, a flustered waso Keli as witness, a devious and cunning jan Tekinowi as prosecution, and jan Akesinu defending jan Tepo. Brilliant!',
     image: '/fanart/mi_lawa_akesinu.png',
     type: 'img'
@@ -677,7 +701,7 @@ const artworks = [
   {
     active: false,
     title: 'mi_lawa',
-    author: 'nyxoom',
+    author: 'Nyxoom',
     description: '',
     image: '/fanart/mi_lawa_nyxoom.png',
     type: 'img'
@@ -685,7 +709,7 @@ const artworks = [
   {
     active: false,
     title: 'mi_lawa_seme',
-    author: 'nyxoom',
+    author: 'Nyxoom',
     description: '',
     image: '/fanart/mi_lawa_seme_nyxoom.png',
     type: 'img'
@@ -693,7 +717,7 @@ const artworks = [
   {
     active: true,
     title: 'mi_leko_a',
-    author: 'sipiki',
+    author: 'jan Sipiki',
     description: '',
     image: '/fanart/mi_leko_a_sipiki.jpg',
     type: 'img'
@@ -701,7 +725,7 @@ const artworks = [
   {
     active: true,
     title: 'mi_leko',
-    author: 'cuymacu',
+    author: 'jan Kuwimaku',
     description: '',
     image: '/fanart/mi_leko_cuymacu.gif',
     type: 'img'
@@ -709,7 +733,7 @@ const artworks = [
   {
     active: false,
     title: 'mi_leko',
-    author: 'nyxoom',
+    author: 'Nyxoom',
     description: '',
     image: '/fanart/mi_leko_nyxoom.png',
     type: 'img'
@@ -725,7 +749,7 @@ const artworks = [
   {
     active: true,
     title: 'mi_li_ala',
-    author: 'cuymacu',
+    author: 'jan Kuwimaku',
     description: '',
     image: '/fanart/mi_li_ala_cuymacu.gif',
     type: 'img'
@@ -733,7 +757,7 @@ const artworks = [
   {
     active: true,
     title: 'mi_li_nanpa',
-    author: 'menasewi',
+    author: 'kulupu Menasewi',
     description: '',
     image: '/fanart/mi_li_nanpa_menasewi.png',
     type: 'img'
@@ -741,7 +765,7 @@ const artworks = [
   {
     active: false,
     title: 'nanpa_mi',
-    author: 'menasewi',
+    author: 'kulupu Menasewi',
     description: '',
     image: '/fanart/nanpa_mi_menasewi.png',
     type: 'img'
@@ -749,9 +773,33 @@ const artworks = [
   {
     active: true,
     title: 'mi_lili',
-    author: 'sqec',
+    author: 'sqéč / jan Suweteko',
     description: '',
     image: '/fanart/mi_lili_sqec.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'mi_lili_a',
+    author: 'kulupu Menasewi',
+    description: '',
+    image: '/fanart/mi_lili_wawa_menasewi.png',
+    type: 'img'
+  },
+  {
+    active: false,
+    title: 'mi_lili_aaaa',
+    author: 'horse',
+    description: '',
+    image: '/fanart/mi_lili_aaaa_horse.png',
+    type: 'img'
+  },
+  {
+    active: false,
+    title: 'mi_lili_nanpa_wan',
+    author: 'kulupu Menasewi',
+    description: '',
+    image: '/fanart/mi_lili_nanpa_wan_menasewi.png',
     type: 'img'
   },
   {
@@ -765,7 +813,7 @@ const artworks = [
   {
     active: false,
     title: 'mi_linja',
-    author: 'mi',
+    author: 'jan Kekan San (mi!)',
     description: '',
     image: '/fanart/mi_linja_mi.png',
     type: 'img'
@@ -773,7 +821,7 @@ const artworks = [
   {
     active: true,
     title: 'mi_lon_e_ma',
-    author: 'wasomu',
+    author: 'waso mu',
     description: '',
     image: '/fanart/mi_lon_e_ma_wasomu.png',
     type: 'img'
@@ -781,7 +829,7 @@ const artworks = [
   {
     active: false,
     title: 'mi_lon_kasi',
-    author: 'mi',
+    author: 'jan Kekan San (mi!)',
     description: '',
     image: '/fanart/mi_lon_kasi_mi.png',
     type: 'img'
@@ -789,7 +837,7 @@ const artworks = [
   {
     active: false,
     title: 'mi santa',
-    author: 'mi',
+    author: 'jan Kekan San (mi!)',
     description: '',
     image: '/fanart/jan_kekan_santa_mi.jpg',
     type: 'img'
@@ -797,7 +845,7 @@ const artworks = [
   {
     active: false,
     title: 'mi sunglasses',
-    author: 'mi',
+    author: 'jan Kekan San (mi!)',
     description: '',
     image: '/fanart/mi_sunglasses_mi.png',
     type: 'img'
@@ -805,7 +853,7 @@ const artworks = [
   {
     active: false,
     title: 'mi_lon',
-    author: 'nyxoom',
+    author: 'Nyxoom',
     description: '',
     image: '/fanart/mi_lon_nyxoom.png',
     type: 'img'
@@ -813,7 +861,7 @@ const artworks = [
   {
     active: false,
     title: 'mi_lukin',
-    author: 'nyxoom',
+    author: 'Nyxoom',
     description: '',
     image: '/fanart/mi_lukin_nyxoom.png',
     type: 'img'
@@ -821,7 +869,7 @@ const artworks = [
   {
     active: true,
     title: 'mi_mani',
-    author: 'janjami',
+    author: 'jan Jami',
     description: '',
     image: '/fanart/mi_mani_janjami.png',
     type: 'img'
@@ -829,7 +877,7 @@ const artworks = [
   {
     active: true,
     title: 'mi_mani',
-    author: 'jansa',
+    author: 'jan Sa',
     description: '',
     image: '/fanart/mi_mani_jansa.png',
     type: 'img'
@@ -837,7 +885,7 @@ const artworks = [
   {
     active: true,
     title: 'mi_meli',
-    author: 'akesinu',
+    author: 'akesi Nu',
     description: '',
     image: '/fanart/mi_meli_akesinu.jpg',
     type: 'img'
@@ -845,23 +893,23 @@ const artworks = [
   {
     active: true,
     title: 'mi_mije',
-    author: 'akesinu',
-    description: '',
+    author: 'akesi Nu',
+    description: 'it turns out this and the previous were meant as"bowtie get!" + [wears bowtie] but i misunderstood it',
     image: '/fanart/mi_mije_akesinu.jpg',
     type: 'img'
   },
   {
-    active: true,
+    active: false,
     title: 'deep lore',
-    author: 'akesinu',
+    author: 'akesi Nu',
     description: '',
     image: '/fanart/lore1_akesinu.jpg',
     type: 'img'
   },
   {
-    active: true,
+    active: false,
     title: 'deep lore 2',
-    author: 'akesinu',
+    author: 'akesi Nu',
     description: '',
     image: '/fanart/lore2_akesinu.jpg',
     type: 'img'
@@ -869,7 +917,7 @@ const artworks = [
   {
     active: false,
     title: 'mi_mije_ilo_awen',
-    author: 'abf',
+    author: 'jan abf',
     description: '',
     image: '/fanart/mi_mije_ilo_awen_abf.png',
     type: 'img'
@@ -877,7 +925,7 @@ const artworks = [
   {
     active: true,
     title: 'mi_monsuta',
-    author: 'akesinu',
+    author: 'akesi Nu',
     description: '',
     image: '/fanart/mi_monsuta_akesinu.png',
     type: 'img'
@@ -885,7 +933,7 @@ const artworks = [
   {
     active: true,
     title: 'mr_kekan_san',
-    author: 'jankita',
+    author: 'poni Kita',
     description: '',
     image: '/fanart/mr_kekan_san_jankita.png',
     type: 'img'
@@ -893,7 +941,7 @@ const artworks = [
   {
     active: true,
     title: 'mi_mrbeast',
-    author: 'tekinowi',
+    author: 'jan Tekinowi',
     description: '',
     image: '/fanart/mi_mrbeast_tekinowi.png',
     type: 'img'
@@ -901,7 +949,7 @@ const artworks = [
   {
     active: false,
     title: 'mi_mute',
-    author: 'janjami',
+    author: 'jan Jami',
     description: '',
     image: '/fanart/mi_mute_janjami.png',
     type: 'img'
@@ -909,15 +957,15 @@ const artworks = [
   {
     active: false,
     title: 'mi_nanpa',
-    author: 'wasowapa',
+    author: 'waso Wapa',
     description: '',
     image: '/fanart/mi_nanpa_wasowapa.png',
     type: 'img'
   },
   {
-    active: true,
+    active: false,
     title: 'mi_nasa',
-    author: 'nyxoom',
+    author: 'Nyxoom',
     description: '',
     image: '/fanart/mi_nasa_nyxoom.png',
     type: 'img'
@@ -925,23 +973,15 @@ const artworks = [
   {
     active: false,
     title: 'mi_old',
-    author: 'mi',
+    author: 'jan Kekan San (mi!)',
     description: '',
     image: '/fanart/mi_old_mi.png',
     type: 'img'
   },
   {
     active: true,
-    title: 'mi_pana_e_sona',
-    author: 'sipiki',
-    description: '',
-    image: '/fanart/mi_pana_e_sona_sipiki.png',
-    type: 'img'
-  },
-  {
-    active: true,
     title: 'mi_poni',
-    author: 'jankita',
+    author: 'poni Kita',
     description: '',
     image: '/fanart/mi_poni_jankita.png',
     type: 'img'
@@ -965,15 +1005,15 @@ const artworks = [
   {
     active: true,
     title: 'mi_sewi',
-    author: 'nyxoom',
+    author: 'Nyxoom',
     description: '',
     image: '/fanart/mi_sewi_nyxoom.png',
     type: 'img'
   },
   {
-    active: true,
+    active: false,
     title: 'mi_sina_beta',
-    author: 'nyxoom',
+    author: 'Nyxoom',
     description: '',
     image: '/fanart/mi_sina_beta_nyxoom.jpg',
     type: 'img'
@@ -981,23 +1021,47 @@ const artworks = [
   {
     active: true,
     title: 'mi_sina',
-    author: 'nyxoom',
+    author: 'Nyxoom',
     description: '',
     image: '/fanart/mi_sina_nyxoom.png',
     type: 'img'
   },
   {
     active: true,
+    title: 'mi_pana_e_sona',
+    author: 'jan Sipiki',
+    description: '',
+    image: '/fanart/mi_pana_e_sona_sipiki.png',
+    type: 'img'
+  },
+  {
+    active: true,
+    title: 'sitelen',
+    author: 'jan Sipiki',
+    description: '',
+    image: '/fanart/sitelen_sipiki.png',
+    type: 'img'
+  },
+  {
+    active: true,
     title: 'mi_sticker',
-    author: 'sipiki',
+    author: 'jan Sipiki',
     description: '',
     image: '/fanart/mi_sticker_sipiki.png',
     type: 'img'
   },
   {
     active: true,
+    title: 'wink',
+    author: 'jan Sipiki',
+    description: '',
+    image: '/fanart/wink_sipiki.png',
+    type: 'img'
+  },
+  {
+    active: true,
     title: 'mi_suno',
-    author: 'sipiki',
+    author: 'jan Sipiki',
     description: '',
     image: '/fanart/mi_suno_sipiki.png',
     type: 'img'
@@ -1005,7 +1069,7 @@ const artworks = [
   {
     active: false,
     title: 'mi_moli',
-    author: 'sipiki',
+    author: 'jan Sipiki',
     description: '',
     image: '/fanart/mi_moli_sipiki.png',
     type: 'img'
@@ -1021,7 +1085,7 @@ const artworks = [
   {
     active: false,
     title: 'mi_waso',
-    author: 'nyxoom',
+    author: 'Nyxoom',
     description: '',
     image: '/fanart/mi_waso_nyxoom.png',
     type: 'img'
@@ -1029,7 +1093,7 @@ const artworks = [
   {
     active: true,
     title: 'mi_wawa',
-    author: 'nyxoom',
+    author: 'Nyxoom',
     description: '',
     image: '/fanart/mi_wawa_nyxoom.png',
     type: 'img'
@@ -1037,7 +1101,7 @@ const artworks = [
   {
     active: true,
     title: 'mi_wawa',
-    author: 'pipikewapi',
+    author: 'pipi Kewapi',
     description: '',
     image: '/fanart/mi_wawa_pipikewapi.png',
     type: 'img'
@@ -1045,7 +1109,7 @@ const artworks = [
   {
     active: false,
     title: 'mi_wile_musi',
-    author: 'nyxoom',
+    author: 'Nyxoom',
     description: '',
     image: '/fanart/mi_wile_musi_nyxoom.png',
     type: 'img'
@@ -1061,7 +1125,7 @@ const artworks = [
   {
     active: true,
     title: 'mi_yugi',
-    author: 'tekinowi',
+    author: 'jan Tekinowi',
     description: '',
     image: '/fanart/mi_yugi_tekinowi.png',
     type: 'img'
@@ -1069,7 +1133,7 @@ const artworks = [
   {
     active: true,
     title: 'misikekan',
-    author: 'kalaasi',
+    author: 'kala Asi',
     description: '',
     image: '/fanart/misikekan_kalaasi.png',
     type: 'img'
@@ -1085,7 +1149,7 @@ const artworks = [
   {
     active: false,
     title: 'moli_3',
-    author: 'ketami',
+    author: 'jan Ke Tami',
     description: '',
     image: '/fanart/moli_3_ketami.png',
     type: 'img'
@@ -1100,8 +1164,8 @@ const artworks = [
   },
   {
     active: true,
-    title: 'moli',
-    author: 'wren',
+    title: '[dies like undertale soul]',
+    author: 'slimewitch / waso Wen',
     description: '',
     image: '/fanart/moli_wren.gif',
     type: 'img'
@@ -1109,23 +1173,15 @@ const artworks = [
   {
     active: true,
     title: 'monologue',
-    author: 'kalaasi',
+    author: 'kala Asi',
     description: '',
     image: '/fanart/monologue_kalaasi.png',
     type: 'img'
   },
   {
     active: true,
-    title: 'movieposter',
-    author: 'dogikoko',
-    description: '',
-    image: '/fanart/movieposter_dogikoko.png',
-    type: 'img'
-  },
-  {
-    active: true,
     title: 'mu_a_wawa',
-    author: 'nyxoom',
+    author: 'Nyxoom',
     description: '',
     image: '/fanart/mu_a_wawa_nyxoom.png',
     type: 'img'
@@ -1133,7 +1189,7 @@ const artworks = [
   {
     active: true,
     title: 'mun_kekan_san',
-    author: 'janeli',
+    author: 'jan Eli',
     description: '',
     image: '/fanart/mun_kekan_san_janeli.png',
     type: 'img'
@@ -1141,15 +1197,15 @@ const artworks = [
   {
     active: true,
     title: 'mun_kekan_san_smw_2',
-    author: 'abf',
+    author: 'jan abf',
     description: '',
     image: '/fanart/mun_kekan_san_smw_2_abf.png',
     type: 'img'
   },
   {
-    active: true,
+    active: false,
     title: 'mun_kekan_san_smw_3',
-    author: 'abf',
+    author: 'jan abf',
     description: '',
     image: '/fanart/mun_kekan_san_smw_3_abf.png',
     type: 'img'
@@ -1157,7 +1213,7 @@ const artworks = [
   {
     active: false,
     title: 'mun_kekan_san_smw_4',
-    author: 'abf',
+    author: 'jan abf',
     description: '',
     image: '/fanart/mun_kekan_san_smw_4_abf.png',
     type: 'img'
@@ -1165,7 +1221,7 @@ const artworks = [
   {
     active: false,
     title: 'mun_kekan_san_smw',
-    author: 'abf',
+    author: 'jan abf',
     description: '',
     image: '/fanart/mun_kekan_san_smw_abf.png',
     type: 'img'
@@ -1179,9 +1235,9 @@ const artworks = [
     type: 'video'
   },
   {
-    active: true,
+    active: false,
     title: 'mun_nasa',
-    author: 'weluke',
+    author: 'we Luke',
     description: '',
     image: '/fanart/mun_nasa_weluke.png',
     type: 'img'
@@ -1189,15 +1245,15 @@ const artworks = [
   {
     active: true,
     title: 'musi_laso',
-    author: 'akesinu',
+    author: 'akesi Nu',
     description: '',
     image: '/fanart/musi_laso_akesinu.png',
     type: 'img'
   },
   {
-    active: true,
+    active: false,
     title: 'musi_laso',
-    author: 'ilonija',
+    author: 'ilo Nija',
     description: '',
     image: '/fanart/musi_laso_ilonija.png',
     type: 'img'
@@ -1205,7 +1261,7 @@ const artworks = [
   {
     active: true,
     title: 'musi_o_awen_1',
-    author: 'pipikewapi',
+    author: 'pipi Kewapi',
     description: '',
     image: '/fanart/musi_o_awen_1_pipikewapi.jpeg',
     type: 'img'
@@ -1213,7 +1269,7 @@ const artworks = [
   {
     active: true,
     title: 'musi_o_awen_2',
-    author: 'pipikewapi',
+    author: 'pipi Kewapi',
     description: '',
     image: '/fanart/musi_o_awen_2_pipikewapi.jpeg',
     type: 'img'
@@ -1221,7 +1277,7 @@ const artworks = [
   {
     active: false,
     title: 'nametags',
-    author: 'mi',
+    author: 'jan Kekan San (mi!)',
     description: '',
     image: '/fanart/nametags_mi.jpg',
     type: 'img'
@@ -1237,7 +1293,7 @@ const artworks = [
   {
     active: true,
     title: 'nimi_nanpa_kin',
-    author: 'nyxoom',
+    author: 'Nyxoom',
     description: '',
     image: '/fanart/nimi_nanpa_kin_nyxoom.png',
     type: 'img'
@@ -1253,7 +1309,7 @@ const artworks = [
   {
     active: true,
     title: 'no_thought',
-    author: 'wasowapa',
+    author: 'waso Wapa',
     description: '',
     image: '/fanart/no_thought_wasowapa.png',
     type: 'img'
@@ -1269,15 +1325,15 @@ const artworks = [
   {
     active: false,
     title: 'o_kama_sona',
-    author: 'wasowapa',
+    author: 'waso Wapa',
     description: '',
     image: '/fanart/o_kama_sona_wasowapa.png',
     type: 'img'
   },
   {
-    active: true,
+    active: false,
     title: 'o_monsuta_ala',
-    author: 'akesinu',
+    author: 'akesi Nu',
     description: '**mi sewi Kekan San. o monsuta ala.**',
     image: '/fanart/o_monsuta_ala_akesinu.jpg',
     type: 'img'
@@ -1285,7 +1341,7 @@ const artworks = [
   {
     active: false,
     title: 'o_pona',
-    author: 'wasomu',
+    author: 'waso mu',
     description: '',
     image: '/fanart/o_pona_wasomu.png',
     type: 'img'
@@ -1293,7 +1349,7 @@ const artworks = [
   {
     active: true,
     title: 'olin',
-    author: 'wasomu',
+    author: 'waso mu',
     description: '',
     image: '/fanart/olin_wasomu.png',
     type: 'img'
@@ -1301,7 +1357,7 @@ const artworks = [
   {
     active: false,
     title: 'olin_english',
-    author: 'wasomu',
+    author: 'waso mu',
     description: '',
     image: '/fanart/olin_english_wasomu.png',
     type: 'img'
@@ -1309,7 +1365,7 @@ const artworks = [
   {
     active: true,
     title: 'pal_greg',
-    author: 'pipikewapi',
+    author: 'pipi Kewapi',
     description: '',
     image: '/fanart/pal_greg_pipikewapi.png',
     type: 'img'
@@ -1317,7 +1373,7 @@ const artworks = [
   {
     active: true,
     title: 'pilin_ike',
-    author: 'tekinowi',
+    author: 'jan Tekinowi',
     description: '',
     image: '/fanart/pilin_ike_tekinowi.png',
     type: 'img'
@@ -1325,7 +1381,7 @@ const artworks = [
   {
     active: false,
     title: 'qualia',
-    author: 'pipikewapi',
+    author: 'pipi Kewapi',
     description: '',
     image: '/fanart/qualia_pipikewapi.jpg',
     type: 'img'
@@ -1333,7 +1389,7 @@ const artworks = [
   {
     active: true,
     title: 'realistic_face',
-    author: 'tekinowi',
+    author: 'jan Tekinowi',
     description: '',
     image: '/fanart/realistic_face_tekinowi.png',
     type: 'img'
@@ -1341,7 +1397,7 @@ const artworks = [
   {
     active: true,
     title: 'realistic_smile',
-    author: 'wali',
+    author: 'jan Wali',
     description: '',
     image: '/fanart/realistic_smile_wali.png',
     type: 'img'
@@ -1349,7 +1405,7 @@ const artworks = [
   {
     active: true,
     title: 'satan',
-    author: 'pq',
+    author: 'lan Pq',
     description: '',
     image: '/fanart/satan_pq.png',
     type: 'img'
@@ -1357,7 +1413,7 @@ const artworks = [
   {
     active: false,
     title: 'scribble_2',
-    author: 'sipiki',
+    author: 'jan Sipiki',
     description: '',
     image: '/fanart/scribble_2_sipiki.png',
     type: 'img'
@@ -1365,23 +1421,23 @@ const artworks = [
   {
     active: false,
     title: 'scribble_3',
-    author: 'sipiki',
+    author: 'jan Sipiki',
     description: '',
     image: '/fanart/scribble_3_sipiki.png',
     type: 'img'
   },
   {
-    active: true,
+    active: false,
     title: 'scribble_4',
-    author: 'sipiki',
+    author: 'jan Sipiki',
     description: '',
     image: '/fanart/scribble_4_sipiki.png',
     type: 'img'
   },
   {
-    active: true,
+    active: false,
     title: 'scribble_ko',
-    author: 'sipiki',
+    author: 'jan Sipiki',
     description: '',
     image: '/fanart/mi_ko_sipiki.png',
     type: 'img'
@@ -1389,7 +1445,7 @@ const artworks = [
   {
     active: false,
     title: 'scribble',
-    author: 'sipiki',
+    author: 'jan Sipiki',
     description: '',
     image: '/fanart/scribble_sipiki.png',
     type: 'img'
@@ -1397,7 +1453,7 @@ const artworks = [
   {
     active: false,  // TODO: when seme is released
     title: 'seme_thumbnail',
-    author: 'nyxoom',
+    author: 'Nyxoom',
     description: '',
     image: '/fanart/seme_thumbnail_nyxoom.png',
     type: 'img'
@@ -1413,7 +1469,7 @@ const artworks = [
   {
     active: true,
     title: 'sina_sona',
-    author: 'wren',
+    author: 'slimewitch / waso Wen',
     description: '',
     image: '/fanart/sina_sona_wren.png',
     type: 'img'
@@ -1428,16 +1484,8 @@ const artworks = [
   },
   {
     active: true,
-    title: 'sitelen',
-    author: 'sipiki',
-    description: '',
-    image: '/fanart/sitelen_sipiki.png',
-    type: 'img'
-  },
-  {
-    active: true,
     title: 'sitelen_suwi',
-    author: 'jantenpi',
+    author: 'jan Tenpi',
     description: '',
     image: '/fanart/sitelen_suwi_jantenpi.jpg',
     type: 'img'
@@ -1445,23 +1493,23 @@ const artworks = [
   {
     active: false,
     title: 'sitelen',
-    author: 'wasowapa',
+    author: 'waso Wapa',
     description: '',
     image: '/fanart/sitelen_wasowapa.jpg',
     type: 'img'
   },
   {
-    active: true,
+    active: false,
     title: 'smash',
-    author: 'tekinowi',
+    author: 'jan Tekinowi',
     description: '',
     image: '/fanart/smash_tekinowi.png',
     type: 'img'
   },
   {
-    active: true,
+    active: false,
     title: 'announcer',
-    author: 'tekinowi',
+    author: 'jan Tekinowi',
     description: '',
     image: '/fanart/announcer_tekinowi.mp3',
     type: 'audio'
@@ -1469,7 +1517,7 @@ const artworks = [
   {
     active: false,
     title: 'soweli_mute',
-    author: 'wasowapa',
+    author: 'waso Wapa',
     description: '',
     image: '/fanart/soweli_mute_wasowapa.png',
     type: 'img'
@@ -1477,7 +1525,7 @@ const artworks = [
   {
     active: false,
     title: 'speedrun_hard',
-    author: 'mi',
+    author: 'jan Kekan San (mi!)',
     description: '',
     image: '/fanart/speedrun_hard_mi.mp4',
     type: 'video'
@@ -1485,7 +1533,7 @@ const artworks = [
   {
     active: false,
     title: 'speedrun',
-    author: 'jankita',
+    author: 'poni Kita',
     description: '',
     image: '/fanart/speedrun_jankita.mp4',
     type: 'video'
@@ -1493,7 +1541,7 @@ const artworks = [
   {
     active: true,
     title: 'speen',
-    author: 'sqec',
+    author: 'sqéč / jan Suweteko',
     description: '',
     image: '/fanart/speen_sqec.gif',
     type: 'img'
@@ -1501,7 +1549,7 @@ const artworks = [
   {
     active: false,
     title: 'spin',
-    author: 'sqec',
+    author: 'sqéč / jan Suweteko',
     description: '',
     image: '/fanart/spin_sqec.mov',
     type: 'video'
@@ -1509,7 +1557,7 @@ const artworks = [
   {
     active: true,
     title: 'squidward',
-    author: 'pipikewapi',
+    author: 'jan Sante / pipi Kewapi',
     description: '',
     image: '/fanart/squidward_pipikewapi.jpg',
     type: 'img'
@@ -1517,7 +1565,7 @@ const artworks = [
   {
     active: false,
     title: 'squiward',
-    author: 'chantel',
+    author: 'jan Sante',
     description: '',
     image: '/fanart/squiward_chantel.jpg',
     type: 'img'
@@ -1525,7 +1573,7 @@ const artworks = [
   {
     active: false,
     title: 'stage',
-    author: 'menasewi',
+    author: 'kulupu Menasewi',
     description: '',
     image: '/fanart/stage_menasewi.png',
     type: 'img'
@@ -1541,7 +1589,7 @@ const artworks = [
   {
     active: false,
     title: 'star',
-    author: 'janiseja',
+    author: 'jan Iseja',
     description: '',
     image: '/fanart/star_janiseja.png',
     type: 'img'
@@ -1557,15 +1605,23 @@ const artworks = [
   {
     active: true,
     title: 'starman_body',
-    author: 'cuymacu',
+    author: 'jan Kuwimaku',
     description: '',
     image: '/fanart/starman_body_cuymacu.png',
     type: 'img'
   },
   {
     active: true,
+    title: 'Movie Poster',
+    author: 'jan abf',
+    description: '',
+    image: '/fanart/movieposter_janabf.png',
+    type: 'img'
+  },
+  {
+    active: true,
     title: 'stellated',
-    author: 'dogikoko',
+    author: 'neverRare / monsuta Koko',
     description: '',
     image: '/fanart/stellated_dogikoko.png',
     type: 'img'
@@ -1573,7 +1629,7 @@ const artworks = [
   {
     active: false,
     title: 'supa_pimeja',
-    author: 'squimp',
+    author: 'jan Sukuwinpu',
     description: '',
     image: '/fanart/supa_pimeja_squimp.png',
     type: 'img'
@@ -1581,7 +1637,7 @@ const artworks = [
   {
     active: false,
     title: 'sword',
-    author: 'mi',
+    author: 'jan Kekan San (mi!)',
     description: '',
     image: '/fanart/sword_mi.png',
     type: 'img'
@@ -1589,7 +1645,7 @@ const artworks = [
   {
     active: true,
     title: 'tenpo_ike',
-    author: 'pantemili',
+    author: 'pan Temili',
     description: '',
     image: '/fanart/tenpo_ike_pantemili.png',
     type: 'img'
@@ -1597,7 +1653,7 @@ const artworks = [
   {
     active: true,
     title: 'tenpo_lete',
-    author: 'nyxoom',
+    author: 'Nyxoom',
     description: '',
     image: '/fanart/tenpo_lete_nyxoom.png',
     type: 'img'
@@ -1605,7 +1661,7 @@ const artworks = [
   {
     active: true,
     title: 'tenpopimeja',
-    author: 'wasomu',
+    author: 'waso mu',
     description: '',
     image: '/fanart/tenpopimeja_wasomu.mov',
     type: 'video'
@@ -1613,7 +1669,7 @@ const artworks = [
   {
     active: true,
     title: 'thinkan',
-    author: 'janwali',
+    author: 'jan Wali',
     description: '',
     image: '/fanart/thinkan_janwali.png',
     type: 'img'
@@ -1621,7 +1677,7 @@ const artworks = [
   {
     active: true,
     title: 'tokia',
-    author: 'mijetelo',
+    author: 'mije telo',
     description: '',
     image: '/fanart/tokia_mijetelo.jpg',
     type: 'img'
@@ -1629,7 +1685,7 @@ const artworks = [
   {
     active: true,
     title: 'truth',
-    author: 'squimp',
+    author: 'jan Sukuwinpu',
     description: '',
     image: '/fanart/truth_squimp.png',
     type: 'img'
@@ -1637,7 +1693,7 @@ const artworks = [
   {
     active: false,
     title: 'upsidedown',
-    author: 'sqec',
+    author: 'sqéč / jan Suweteko',
     description: '',
     image: '/fanart/upsidedown_sqec.png',
     type: 'img'
@@ -1645,15 +1701,15 @@ const artworks = [
   {
     active: true,
     title: 'utala',
-    author: 'dogikoko',
-    description: '',
+    author: 'neverRare / monsuta Koko',
+    description: '"if Kekan San is a Kirby nemesis"',
     image: '/fanart/utala_dogikoko.png',
     type: 'img'
   },
   {
     active: true,
     title: 'utala_lape',
-    author: 'akesinu',
+    author: 'akesi Nu',
     description: '',
     image: '/fanart/utala_lape_akesinu.jpg',
     type: 'img'
@@ -1661,7 +1717,7 @@ const artworks = [
   {
     active: false,
     title: 'utala_mun',
-    author: 'chantel',
+    author: 'jan Sante',
     description: '',
     image: '/fanart/utala_mun_chantel.jpg',
     type: 'img'
@@ -1669,7 +1725,7 @@ const artworks = [
   {
     active: true,
     title: 'vogue',
-    author: 'akesinu',
+    author: 'akesi Nu',
     description: '',
     image: '/fanart/vogue_akesinu.mp4',
     type: 'video'
@@ -1677,39 +1733,39 @@ const artworks = [
   {
     active: false,
     title: 'warioware_1',
-    author: 'abf',
+    author: 'jan abf',
     description: '',
     image: '/fanart/warioware_1_abf.png',
     type: 'img'
   },
   {
-    active: true,
+    active: false,
     title: 'warioware_2',
-    author: 'abf',
+    author: 'jan abf',
     description: '',
     image: '/fanart/warioware_2_abf.png',
     type: 'img'
   },
   {
-    active: true,
+    active: false,
     title: 'warioware_3',
-    author: 'abf',
+    author: 'jan abf',
     description: '',
     image: '/fanart/warioware_3_abf.png',
     type: 'img'
   },
   {
-    active: true,
+    active: false,
     title: 'warioware_4',
-    author: 'abf',
+    author: 'jan abf',
     description: '',
     image: '/fanart/warioware_4_abf.png',
     type: 'img'
   },
   {
-    active: true,
+    active: false,
     title: 'warioware_5',
-    author: 'abf',
+    author: 'jan abf',
     description: '',
     image: '/fanart/warioware_5_abf.png',
     type: 'img'
@@ -1717,7 +1773,7 @@ const artworks = [
   {
     active: false,
     title: 'what_is_love',
-    author: 'nasaki',
+    author: 'nasa utala',
     description: '',
     image: '/fanart/what_is_love_nasaki.gif',
     type: 'img'
@@ -1725,23 +1781,15 @@ const artworks = [
   {
     active: true,
     title: 'wile_unpa',
-    author: 'ilonija',
+    author: 'jan Kasape',
     description: '',
     image: '/fanart/wile_unpa_ilonija.png',
     type: 'img'
   },
   {
-    active: true,
-    title: 'wink',
-    author: 'sipiki',
-    description: '',
-    image: '/fanart/wink_sipiki.png',
-    type: 'img'
-  },
-  {
     active: false,
     title: 'zvedza',
-    author: 'sqec',
+    author: 'sqéč / jan Suweteko',
     description: '',
     image: '/fanart/zvedza_sqec.png',
     type: 'img'
