@@ -3,7 +3,7 @@
 % 2023-11-10
 % published: true
 
-[mi sitelen e ni tawa jan Sonja. lipu ni li pona tawa ona la [mi kama lon lipu pi toki pona!](https://tokipona.org/)]{.tokipona}
+[mi sitelen e ni tawa jan [sona olin namako jan ale]. lipu ni li pona tawa ona la [mi kama lon lipu pi toki pona!](https://tokipona.org/)]{.tokipona}
 
 <!-- cut -->
 
