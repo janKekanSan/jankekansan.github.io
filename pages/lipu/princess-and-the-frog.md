@@ -7,9 +7,9 @@
 
 <!-- cut -->
 
-lon la mi pana e lipu tu kepeken nasin tu.
-
 ::: tokipona
+
+lon la mi pana e lipu tu kepeken nasin tu.
 
 meli li open e tomo la, akesi li tawa insa tomo li lape lon len lape meli sama tenpo pimeja pini.
 ona li lape lon tenpo pimeja ale tawa kama suno.
