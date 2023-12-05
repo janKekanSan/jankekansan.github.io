@@ -1,12 +1,12 @@
 ---
 title: Now
 author: jan Kekan San
-date: 2022-12-25T00:00:00.000Z
+date: 2023-12-05
 ---
 
-**Last updated: 2023-09-07**
+**Last updated: 2023-12-05**
 
-- I'm editing my la lesson... still... I SWEAR it'll be out soon.
+- I'm STILL editing my la lesson. I do not have an excuse.
 - I'm working on a refresh of the definitions in [lipu Linku](https://linku.la) with help from lots of others. See [here](https://github.com/lipu-linku/pali-nimi/) for details!
 - I'm writing my [seme lesson](/sona/seme.html)- and I'll record it soon!
 
