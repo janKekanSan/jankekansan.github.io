@@ -4,20 +4,30 @@ author: gregdan3
 date: 2023-09-09T00:00:00.000Z
 ---
 
+::: error
+
+This lesson is a work in progress!
+
+:::
+
+Video lesson still to come!
+
 <details><summary>**Table of Contents**</summary>
 
 <!-- toc -->
 
-  - [Words to Know](#words-to-know)
-    - [Particles](#particles)
-    - [Content Words](#content-words)
+- [Words to Know](#words-to-know)
+  - [Particles](#particles)
+  - [Content Words](#content-words)
 - [Overview](#overview)
-    - [Asking your first question with [ala]{.tokipona}](#asking-your-first-question-with-alatokipona)
-    - [Asking questions with [anu seme]{.tokipona}](#asking-questions-with-anu-semetokipona)
-    - [Asking questions with [seme]{.tokipona}](#asking-questions-with-semetokipona)
-    - [Asking multiple questions at the same time](#asking-multiple-questions-at-the-same-time)
-    - [Lots of ways to answer questions](#lots-of-ways-to-answer-questions)
-    - [Frequently Asked Questions](#frequently-asked-questions)
+  - [Asking your first question with [ala]{.tokipona}](#asking-your-first-question-with-alatokipona)
+  - [Asking questions with [anu seme]{.tokipona}](#asking-questions-with-anu-semetokipona)
+  - [Asking about "no" with [anu seme]{.tokipona}](#asking-about-no-with-anu-semetokipona)
+  - [[anu seme]{.tokipona} can be anywhere in the sentence?!](#anu-semetokipona-can-be-anywhere-in-the-sentence)
+  - [Asking questions with [seme]{.tokipona}](#asking-questions-with-semetokipona)
+  - [Asking multiple questions at the same time](#asking-multiple-questions-at-the-same-time)
+  - [Lots of ways to answer questions](#lots-of-ways-to-answer-questions)
+  - [Frequently Asked Questions](#frequently-asked-questions)
 - [Exercises](#exercises)
   - [Toki Pona to English](#toki-pona-to-english)
   - [English to Toki Pona](#english-to-toki-pona)
@@ -33,10 +43,10 @@ date: 2023-09-09T00:00:00.000Z
 
 ::: tpdefinitions
 
-| Word                                      | Definition                  | Writing                                |
-| ----------------------------------------- | --------------------------- | -------------------------------------- |
-| [anu]{.glyph}<br/>[anu]{.glyphsubtitle}   | (connect phrases with 'or') | A capital letter "`Y`" with a wide top |
-| [seme]{.glyph}<br/>[seme]{.glyphsubtitle} | (request information)       | A question mark                        |
+| Word                                      | Definition                  | Writing                              |
+| ----------------------------------------- | --------------------------- | ------------------------------------ |
+| [anu]{.glyph}<br/>[anu]{.glyphsubtitle}   | (connect phrases with 'or') | A capital letter "Y" with a wide top |
+| [seme]{.glyph}<br/>[seme]{.glyphsubtitle} | (request information)       | A question mark                      |
 
 :::
 
@@ -87,15 +97,16 @@ We can turn any sentence into a question by doubling the first word of the predi
 
 Are all the plants gone?
 
-Did all the plants go away?
+Did all the grass go away?
 
 Will the forest disappear?
 
 </details>
 
-These questions are the closest to yes or no questions found in English. But you might have noticed, Toki Pona has no words for answering questions- no "yes" and no "no"!
+These questions are the closest to yes or no questions in English. But you might have noticed, Toki Pona has no words for answering questions- no "yes" and no "no"!
 
-Instead, you answer questions by repeating the doubled word for "yes," or [ala]{.tokipona} for "no." You may also say the word and [ala]{.tokipona} together for no.
+Instead, you answer questions by repeating the doubled word for "yes," or [ala]{.tokipona} for "no."
+You may also say the word and [ala]{.tokipona} together for no.
 
 > [ona li moku ala moku e ale?]{.tokipona}
 >
@@ -109,45 +120,134 @@ Instead, you answer questions by repeating the doubled word for "yes," or [ala]{
 
 </details>
 
-#### Asking questions with [anu seme]{.tokipona}
-
-Another way to make a question out of a sentence is to add [anu seme]{.tokipona} to the end of it. This forms the same kind of question, and is answered the same way, but there are a few interesting tricks to it!
-
-You still answer "yes" the same as before, repeating the word that would have been doubled:
-
-> [pipi li wile moku e pipi anu seme?]{.tokipona}
+> [sina ken ala ken tawa?]{.tokipona}
 >
-> > [wile]{.tokipona}
+> > [ala.]{.tokipona}
+> >
+> > [ken ala.]{.tokipona}
 
-You also answer "no" the same as before:
+<details><summary> Translation of the above! </summary>
 
-> [jan li kepeken ilo ni anu seme?]{.tokipona}
+> Are you able to move?
 >
-> > [ala]{.tokipona}
-
-Questions formed with [anu seme]{.tokipona} tend to be based on an assumption by the speaker. They expect that you'll answer, yes, the statement part of their question was true!
-
-**It's easier to ask about negatives:**
-
-> [kulupu li tawa ala tomo anu seme?]{.tokipona}
->
-> > TODO
-
-<details><summary>  </summary>
+> > No.
+> >
+> > Can't.
 
 </details>
 
 ::: info
 
-You can add [anu seme]{.tokipona} onto the end of any part of speech! It's much more common to use it at the end of the sentence, to the point that using it elsewhere can occasionally confuse your listener, but it's always valid.
+<!-- TODO: moveme -->
 
-You'll see more of how to do this in the next lesson when we look closer at [anu]{.tokipona}
+Some speakers will repeat sentences, partly or fully, when answering questions. If you repeat part of a question, start repeating it from a particle:
+
+> [ona li pini ala pini e musi?]{.tokipona}
+>
+> > [ona li pini a]{.tokipona}
+
+<details><summary>  Translation of the above! </summary>
+
+> Did they end the game?
+>
+> > Yes, they ended (the game).
+
+</details>
 
 :::
+
+#### Asking questions with [anu seme]{.tokipona}
+
+Another way to ask questions is to add the phrase [anu seme]{.tokipona} to the end of it. This forms the same kind of question as [ala]{.tokipona} did before, but there are some tricks to it!
+
+> [pipi li wile moku e pipi anu seme?]{.tokipona}
+>
+> > [wile]{.tokipona}
+
+As in this example, you answer "yes" like before, repeating the first word of the predicate as though it were doubled.
+
+You also answer "no" like before:
+
+> [jan li kepeken ilo ni anu seme?]{.tokipona}
+>
+> > [ala]{.tokipona}
+> >
+> > [kepeken ala]{.tokipona}
+
+<details><summary> Translation of the above! </summary>
+
+> Is the person using this tool, or what?
+>
+> > No.
+> >
+> > Not using.
+
+</details>
+
+Questions formed with [anu seme]{.tokipona} are often about something the speaker wants to confirm.
+
+In English, you might hear the question "You took out the trash, right?". The speaker expects you to have taken out the trash- the "right" part on the end shows that. So you'll respond "Yes, I did" or just "yes!". Hopefully!
+
+You can ask the same type of question in Toki Pona using the phrase [anu seme]{.tokipona}. Here's the example from above, with both possible answers:
+
+> [sina weka e jaki, anu seme?]{.tokipona}
+>
+> > [weka]{.tokipona}
+> >
+> > [weka ala...]{.tokipona}
+
+<details><summary> Translation of the above! </summary>
+
+> You took out the trash, right?
+>
+> > Yes!
+> >
+> > No...
+
+</details>
+
+[anu seme]{.tokipona} questions - but it doesn't have the possible answers built into the grammar, unlike the questions we looked at before. The speaker believes something, and they just want you to confirm it!
+
+So, now that we get that, let's look at a few more fun cases with [anu seme]{.tokipona}
+
+#### Asking about "no" with [anu seme]{.tokipona}
+
+Since [anu seme]{.tokipona} can be added to any sentence, you can use it to confirm negatives too! This leans heavily into this idea of assumption
+
+> [kulupu li tawa ala tomo anu seme?]{.tokipona}
+>
+> >
+
+::: warning
+
+Asking questions about negatives can be just as confusing in Toki Pona as in English! When in doubt, saying more words to answer a question clearly never hurts!
+
+:::
+
+<details><summary>  </summary>
+
+</details>
 
 <details><summary> Translation of the above! </summary>
 
 </details>
+
+<!-- TODO: -->
+
+- Asking about negatives
+- Asking rhetorical questions
+
+<!-- TODO: -->
+
+#### [anu seme]{.tokipona} can be anywhere in the sentence?!
+
+::: info
+
+I've only discussed [anu seme]{.tokipona} at the end of sentences here, but you can add it to any part of speech! It's more common at the end of the sentence, so using using it elsewhere can occasionally confuse your listener, but it's always valid.
+
+You'll see more of how to do this in the next lesson when we look closer at [anu]{.tokipona}
+
+:::
 
 #### Asking questions with [seme]{.tokipona}
 
@@ -316,6 +416,8 @@ Several of the question fragments stated here are often valid as full questions!
 ::: info
 
 Fluency is _not_ about understanding everything. It's about knowing what questions to ask if you don't understand!
+
+Skilled speakers aren’t just skilled at expression and comprehension; they also are quick to ask appropriate questions when they don’t understand something. Not understanding a statement has stopped being a hindrance or a reason to switch to another language; you can correct your understanding and continue in Toki Pona alone.
 
 :::
 
