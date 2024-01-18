@@ -32,7 +32,7 @@ Well, maybe. But what if we sincerely thought different things about what the wo
 
 Your personal experiences, opinions, and beliefs can change what you assume a word to mean.
 
-Multiple definitions give us obvious examples of this, like "score" referring to points in sports and games, but a page of music to a musician.
+Multiple definitions give us obvious examples of this, like "score" referring to points in sports and games, but a page of sheet music to a musician.
 
 But even single definitions of a given word can be subtly different, able to change based on context- not in unfamiliar ways, but in ways we may not even notice.
 
@@ -227,35 +227,151 @@ And this changes the semantic space of the word for you.
 
 Two more words to go! Let's move on.
 
+[kekan: walk off camera]
+
 ---
 
-Alright,
+Alright, a foreword for this section:
 
-Here's the definition from Toki Pona: The Language of Good:
+This way of speaking can be confusing to other speakers of Toki Pona! It isn't very common.
+
+We're here to look at what's possible, not to say what should be done.
+
+So to keep thing close to how Toki Pona is most widely spoken and understood,
+
+I'll be capping off this section with a much less experimental example of the same ideas.
+
+Now, it's kala time! Here's the definition from Toki Pona: The Language of Good:
 
 > NOUN fish, marine animal, sea creature
 
 Checking lipu Linku- yep, same definition. Great!
 
+But for some words, there's more to it than the definition you can find on lipu Linku.
+
+As you spend time in the community, you'll gain a better intuition for the meaning of words than what can be taught from a dictionary.
+
+And as you spend time in the community, you'll find many speakers experiment with words.
+
+They will use these words in ways that aren't part of these definitions, but are natural and understandable extensions of these definitions.
+
+In a sense, this is how speaking Toki Pona already works.
+
+For example, here is the definition for lipu from Toki Pona: The Language of Good, which is the same one in lipu Linku:
+
+[kekan: look to right for definition]
+
+> NOUN flat object; book, document, card, paper, record, website
+
+"Leaf" is nowhere to be seen in this definition, but I think any speaker would agree that leaves are a very good example of a "lipu."
+
+Most leaves are both flat and bendy, like most of the things in this list.
+
+"Website" is a notable exception, but it is still flat, and works by analogy to paper:
+
+Paper is flat and bendy. Websites often try to act like paper, but on a screen where it's still flat, just not bendy anymore. Sure!
+
+In general, it makes sense to look at things agree are lipu, find similar things, and call those things lipu. This is how _every_ word works.
+
+So back to kala, then. What kind of experimentation is going on?
+
+<!-- Think back to mun for a moment. We noted that some speakers may _not_ describe nebulae as mun in some contexts, because their properties are so different from other mun. -->
+
+What if we look at kala the way we just looked at lipu, taking the definition's examples of kala and then looking for similar things?
+
+Well, all the lipu were flat and bendy, or made of many flat and bendy things, or related to flat and bendy things.
+
+So what are the most defining trait of fish, marine animals, and sea creatures?
+
+You'll often see fins, gills, scales, and TODO: example, but those examples are too obvious, right?
+
+There isn't much to experiment with. Is there something else we could focus on?
+
+A lot of kala spend their lives in the water, swimming.
+
+Hey, swimming. I can do that! I'm not very good at it, but I can.
+
+If you're swimming, are you kala? You have that trait in common with most kala.
+
+Or when you shower, you're covered in water. Does that make you kala?
+
+Or if somebody got soaked by the rain and said "pakala. mi kala," would you understand them at first?
+
+For some of you, the answer to all of these might be "no." <!-- TODO: As a guess, I'd say most speakers fall here. -->
+
+For some of you, you might understand these examples, but not personally use kala this way.
+
+And for some of you, you might enthusiastically say, "Yes! That's me! That's how I speak!"
+
+If you take a strict perspective, swimming, being in the water, being wet, these don't make you a kala.
+
+Salmon, seahorses, whales, dolphins, maybe otters, those are all sea creatures or marine animals. They're kala!
+
+But a person _isn't_ a kala- they're just too far from what we'd say is a kala, right?
+
+The difference is only about where you personally draw the line.
+
+If you open yourself up to the dark side- I mean, more experimental ways of speaking Toki Pona, then people can be kala in the right context.
+
+ona li tawa sama kala li kama telo sama kala la, ona li ken kala!
+
+You can always decide for yourself how you'll use the words in Toki Pona.
+
+Even if you don't experiment like this, this experimentation still has value as a thought experiment, a way to explore how you personally use the language compared to others.
+
+And this brings me to the final, most important word we'll be exploring today: waso.
+
 ---
 
-So now, we get to the most important category of this lesson. [waso]{.tokipona}.
+This is where the fun begins.
+
+<!-- TODO: is this the star wars quote? -->
+
+Toki Pona and lipu Linku agree here:
 
 [waso]{.tokipona} means bird, flying creature, winged animal.
-
-That definition comes from lipu Linku, which pulled it from Toki Pona: The Language of Good.
 
 Bird is pretty easy, right? We know birds. Like all these birds:
 
 <!-- [editor: show seagull, robin, budgie, hawk] -->
 
-They fly, they have wings. They even have lots and lots of bird traits, like beaks, feathers, talons, and being fake.
+Seagulls, robins, parakeets, hawks.
 
-But another important part of the semantic space is flying creatures, which don't have to be birds:
+Similar to how many kala had obvious fish traits, all of these waso have obvious bird traits: wings, beaks, feathers, not being real, talons.
+
+But wait- there are tons of birds that have all these traits... but can't fly.
+
+<!-- [editor: dodo, ostrich, penguin, kiwi] -->
+
+Ostriches, penguins, kiwis, and the long gone dodo, are all unable to fly.
+
+They have wings, beaks, feathers, aren't real, and talons.
+
+That's a lot of bird traits- but much like nebulae and mun, a speaker might see the inability to fly as enough reason to say no, these aren't waso.
+
+If anything, penguins are a lot more like kala- they spend a ton of time in the water.
+
+<!-- TODO: divider that isn't a HR -->
+
+But another part of the definition is flying, and you don't have to be a bird to fly:
 
 <!-- [editor: show flying squirrel, bat, flying fish, pterodactyl] -->
 
-So those are waso too! Some of them overlap with other critter words- the flying squirrel is a soweli, the flying fish is a kala, and thhe pterodactyl is an akesi. But that doesn't make them any less waso!
+bats, flying squirrels, pterodactyls, flying fish, tons more- they're all able to fly, one way or another.
+
+You might think back to kala and protest- swimming doesn't _have_ to make you kala, right? Why does flying?
+
+But flying is a lot harder than swimming.
+
+All the critters I just listed can fly because their bodies are shaped a certain way, allowing them to fly, even if some of them can only do it for short distances.
+
+Put another way- if you can fly, it's probably because you're already similar to a bird somehow.
+
+But to step back for a moment, let's recognize that all the examples I just gave also overlap with other words!
+
+The flying squirrel is a soweli, the flying fish is a kala, and the pterodactyl is an akesi.
+
+If you accept that just flight
 
 We can go even further though. Is an airplane a waso?
 
@@ -276,5 +392,7 @@ There you have it. Birds are not real. In fact, words as you knew them are not r
 Words are a mess in a beautiful way.
 
 So the next time you get into a debate about the definition of a word, take a step back and ask yourself,
+
+I'd like to leave you off with one last thought: A pile of baseball cards is a good example of a kulupu, but kulupu doesn't _mean_ "a pile of baseball cards."
 
 Thanks to jan Tekinowi for the thumbnail of this video, and thank you all so much for learning! Have a good one!
