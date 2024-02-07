@@ -280,7 +280,7 @@ The food will make you feel better!
 
 </details>
 
-You've been struggling in class, trying your hardest to follow along with the lessons and lab. You hire a tutor to help, and they provide well-practiced teaching and piles of useful examples. Late one night, you are pouring over the textbook and you realize you actually understand every word. You exclaim:
+You've been struggling in class, trying your hardest to follow along with the lessons and lab. You hire a tutor to help, and they provide well-practiced teaching and piles of useful examples. Late one night, you are thoroughly reading over the textbook and you realize you actually understand every word. You exclaim:
 
 <details> <summary> [mi sona e lipu]{.tokipona} </summary>
 
@@ -401,7 +401,7 @@ People will teach you!
 
 On a walkthrough of a science museum, you find yourself in a hands-on exhibit full of boxes! You can't see what's inside, but the organizer directs you to reach in and feel. You reach into a box and feel something gooshy and rubbery. You squish it- but you have no idea what it is! The organizer tells you:
 
-<details> <summary> [sina pilin e ko e ]{.tokipona} </summary>
+<details> <summary> [sina pilin e ko]{.tokipona} </summary>
 
 You're feeling the gum!
 

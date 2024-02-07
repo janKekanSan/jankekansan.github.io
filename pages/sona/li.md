@@ -337,7 +337,7 @@ Dad ate and went to bed!
 
 </details>
 
-You've been watching the snow fall from the comfort of your home all day. It's so cold outside, you swear you'd freeze if you went out! But you brave it, because you have to know: is the tree in your hard okay? You reach out to touch its leaves with a gloved hand and remark:
+You've been watching the snow fall from the comfort of your home all day. It's so cold outside, you swear you'd freeze if you went out! But you brave it, because you have to know: is the tree in your hand okay? You reach out to touch its leaves with a gloved hand and remark:
 
 <details> <summary> [kasi li lete li kiwen]{.tokipona} </summary>
 
