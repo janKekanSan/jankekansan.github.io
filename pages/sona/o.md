@@ -474,8 +474,9 @@ Only they are able to excite the party!
 This is a little tricky!
 In English, saying "I only want the rock" means the _rock_ is the exclusive thing in the sentence.
 When translated in the first example, [taso]{.tokipona} only applies to the object.
+In the third example, [taso]{.tokipona} applies to the predicate. Like the original English, this is understandable, but the former is more apt!
 
-If you translated with [taso]{.tokipona} on the predicate, the "only" thing would be the "want." But it
+But with [taso]{.tokipona} on the predicate, the action of the sentence would be the "only/exclusive" thing, to some listeners!
 
 :::
 
