@@ -1783,7 +1783,7 @@ const artworks = [
     title: 'wile_unpa',
     author: 'jan Kasape',
     description: '',
-    image: '/fanart/wile_unpa_ilonija.png',
+    image: '/fanart/wile_unpa_kasape.png',
     type: 'img'
   },
   {
