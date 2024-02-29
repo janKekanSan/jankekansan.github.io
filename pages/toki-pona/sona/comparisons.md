@@ -1,7 +1,0 @@
----
-destination: /sona/comparisons.html
----
-
-
-
-

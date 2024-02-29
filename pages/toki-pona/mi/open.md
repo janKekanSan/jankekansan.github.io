@@ -1,5 +1,0 @@
----
-destination: /lipu/open.html
----
-
-

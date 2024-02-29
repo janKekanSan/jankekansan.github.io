@@ -1,7 +1,0 @@
----
-destination: /sona/pini.html
----
-
-
-
-

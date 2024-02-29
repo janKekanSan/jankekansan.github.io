@@ -1,7 +1,0 @@
----
-destination: /lipu/index.html
----
-
-
-
-
