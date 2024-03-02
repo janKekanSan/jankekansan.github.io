@@ -27,7 +27,7 @@ date: 2022-12-24T00:00:00.000Z
 
 ::: info
 
-Start [a memrise course](https://app.memrise.com/course/5969373/essential-toki-pona-vocabulary/)
+Start [a memrise course](https://app.memrise.com/community/course/6039964/toki-pona-jan-lentans-course-with-audio/)
 or [memorizing game](https://jamesmoulang.itch.io/nasin-sona-musi) to help memorize the words!
 
 :::
