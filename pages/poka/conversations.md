@@ -4,7 +4,7 @@ Hey everyone, I'm gregdan3, and today I wanna teach you about Toki Pona!
 
 # Goals and Topics
 
-The goal of this presentation is to take you from zero to basic conversation in Toki Pona. I'm not going to cover everything- I can't- but I'll cover enough to get you started, and shoutout some resources at the end to help you keep going!
+The goal of this talk is to take you from zero to basic conversation in Toki Pona. I'm not going to cover everything- I can't- but I'll cover enough to get you started, and shoutout some resources at the end to help you keep going!
 
 We are going to briefly discuss all of the following:
 
@@ -14,8 +14,8 @@ We are going to briefly discuss all of the following:
 - basic sentences
 - modifiers
 - questions
-- objects
 - a bit of interjections
+- objects
 
 This leaves a _lot_ on the cutting room floor, including commands and instructions, context, prepositions, preverbs, semantic spaces, names, numbers, the list of words and their meanings, and certainly more. Not to mention, I'm only going over each of these topics briefly.
 
@@ -41,7 +41,7 @@ pona refers to good things like friendliness, positivity, being helpful, and fix
 
 But together, "toki pona" can mean "friendly conversation", "positive thought", and of course "good language".
 
-For time reasons, I'm not going to be defining each of the words as I go- I'll give valid and helpful translations, and I'll spend more time on really important words, but I'm going to be focusing mainly on the grammar, the really big concepts you need to get started. As I translate, keep the "broad words" idea in mind!
+For time reasons, I'm not going to be defining each of the words as I go- I'll give valid and helpful translations, and I'll spend more time on really important words, but I'm going to be focusing mainly on the grammar, the really big concepts you need to get started. As I translate, keep the "broad words" idea in mind! Hopefully, all the sentences I go over will be small enough that you can tell apart the words I do define from the ones I only provide in translations.
 
 <!-- And don't worry if the translations themselves move a little quick- we're focused on the grammar. -->
 
@@ -49,11 +49,11 @@ But before we get to sentences, or grammar, or translations, we need to talk abo
 
 # sitelen pona
 
-This here, that you've already seen, is the "logo" of sorts for Toki Pona. The circle with three lines over it is the word "toki", and the smile-like line on the inside is the word "pona". In normal writings, you'll usually them side by side rather than one inside the other, but it means the same either way.
+This here, that you've already seen, is the "logo" of sorts for Toki Pona. The circle with three lines over it is the word "toki", and the smile-like curve on the inside is the word "pona". In normal writings, you'll usually see words side by side rather than one inside the other, but it means the same either way.
 
 This way of writing is called "sitelen pona", literally "good writing", and it is toki pona's most adorable writing system.
 
-sitelen pona is logographic, so each word has a symbol. Every symbol means exactly one word, and nearly all the words have exactly one symbol- assuming they do have exactly one works for now. Lastly, each symbol is representative of the idea of the word! Uh, except for grammar words, then the symbol kinda looks like punctuation to my English-reading eyes.
+sitelen pona is logographic, so each word has a symbol. Every symbol means exactly one word, and nearly all the words have exactly one symbol- assuming they do have exactly one works for this talk. Lastly, each symbol is representative of the idea of the word! Even grammar words look a bit like punctuation to my English-reading eyes.
 
 Anyway, For this talk, all sitelen pona will be annotated with their pronunciation, but I encourage you to study the sitelen pona alongside the language itself!
 
@@ -147,7 +147,7 @@ So now, we have a handle on the pronouns. We can talk about ourselves with mi, p
 
 Next, we're gonna look at modifiers. You might know them better as adjectives- same thing, but for every part of speech.
 
-As a matter of fact, we already saw one of these: the name of the language, "toki pona," has one modifier!
+As a matter of fact, we already saw one of these: in the name of the language, "pona" is a modifier!
 
 You'll note the translations I gave earlier were all types of communication, even if they were specifically "good" communication: positive thought, friendly conversation, good language.
 
@@ -209,6 +209,9 @@ There are actually a few "technically" things I could say about this type of que
 
 Oh, but there is one more "technically" that is important: You can answer this type of question with "ni" for yes, or "ni ala" or "ala" for no. Interpreting it literally in English as "this" or "not this" makes it a little silly sounding, but it is very clear in practice.
 
+<!-- Technically, it can be fit onto any part of speech because "anu" just means "or" for the current part of speech. But putting "anu seme" at the end of the sentence is so common, we can pretend that's all you do to get you started, and get into the details another time. -->
+<!-- It can also, occasionally, indicate uncertainty that doesn't expect an answer. -->
+
 The meaning in answering the question is essentially the same, but some speakers prefer this way of answering questions, especially anu seme questions, because it's a little easier to know what to respond with, and it more clearly confirms or denies the entire sentence.
 
 Let's do one more of these questions before we continue:
@@ -223,7 +226,7 @@ Alright, one more type of question, and this is the most important one.
 
 So, that word "seme" from before does more than just live in the phrase "anu seme". It also works on its own, and can replace essentially any word that isn't part of the grammar.
 
-seme stands in for any missing information, so you can use it to ask any sort of who, what, where, when, why, or how type of question.
+seme stands in for any missing information, so you can use it to ask any sort of who, what, where, when, why, which, or how type of question.
 
 With the grammar we have so far, subject-verb sentences and modifiers, we can only really ask "who" or "what". But let's do that!
 
@@ -239,24 +242,27 @@ But what about answering these questions? Turns out, you already know how- you j
 
 For example, the question "sina seme" can be answered with "pali", "working", or "mi pali", "I am working." The first fills in the blank, and the second restates the sentence, but both provide the same information.
 
-Let's do another one of these
+Let's do another one of these before we move on.
 
-<!-- Technically, it can be fit onto any part of speech because "anu" just means "or" for the current part of speech. But putting "anu seme" at the end of the sentence is so common, we can pretend that's all you do to get you started, and get into the details another time. -->
-<!-- It can also, occasionally, indicate uncertainty that doesn't expect an answer. -->
+> "ni li moku seme"? "What kind of food is this?"
+
+Here, seme is now a _modifier_- we're asking for a word to describe "moku", the food. And we could answer- "suwi!" sweet! or "nasa," "strange!" or with a complete sentence describing the origin and ingredients of the food!
+
+What we learn here is that seme fits into the subject or verb, and can be a modifier of another word in any part of speech. seme can also fit into other parts of speech we haven't covered yet- it's amazingly versatile, so try it on lots of things!
+
+We have two more topics, but the next one is brief. Let's go!
 
 # Interjections
 
-Now, let's move on to interjections. They're pretty easy, so this will be brief.
-
 You know all those questions we answered before? The answers are interjections- words or phrases, but not complete sentences. That much is obvious-
 
-But there are more types of interjections. As a general statement, any non-grammar word can be an interjection, and what they mean as an interjections has to do with the meaning of the word.
+But there are more types of interjections. As a general statement, any non-grammar word can be an interjection, and what they mean as an interjection has to do with the meaning of the word.
 
 For example, It's pretty clear how "ala" relates to "no."
 
 But _every_ word does this- "toki" is used for "hello," kinda like starting a conversation by saying "conversation!"
 
-"pona", good and pleasant, is used to acknowledge that something is good.
+"pona", good and pleasant, is used to positively acknowledge something.
 
 "sona", knowledge and knowing, is used to indicate you understand something.
 
@@ -264,23 +270,117 @@ But _every_ word does this- "toki" is used for "hello," kinda like starting a co
 
 And the word "a" can be used for essentially any emotion or emphasis.
 
-For this talk, all we're really concerned with is putting this idea in your head- interjections come up a _lot_ in conversation, so they're pretty important.
+This list is not exhaustive- it's a pile of examples. But interjections come up a _lot_ in conversation, so they're pretty important.
+
+But uh, the real trick here is that I added this whole section just to tell you that "toki" is how we say "hello!"
 
 # Objects
 
+So lastly, we come to objects. This is another major part of speech, and gives us a whole new dimension of sentence types to mess with: subject, then verb, then object. The sentences in this section will be the longest in the presentation, so listen carefully!
+
+My recommendation? Pay close attention to the grammatical particles- they can guide your way.
+
+Let's look at an example sentence:
+
+> mi pana e sona
+
+In this sentence, the subject is "mi", I. The verb is "pana", "give". And the object is "sona", knowledge. Together, this is "I give knowledge."
+
+As with the grammatical object in other languages, the object is a distinct thing in the sentence that the subject is interacting with.
+
+The prior sentence is how we'd express teaching- to give knowledge.
+
+<!-- It's worth mentioning that you could just say "mi pana sona." The meaning is different- instead of giving knowledge, a distinct thing, you're giving in a knowledge-related way- the sentence doesn't explicitly say what you're giving, but a listener would probably figure it out. -->
+<!---->
+<!-- That doesn't sound all that different, and for most purposes it isn't. But the extra grammar, the expression of a separate thing in the sentence, can massively help understanding. -->
+
+<!-- But just to make the point- let's translate a sentence from English to Toki Pona. "The boy played with the ball." -->
+<!---->
+<!-- "The boy" is jan, a person. the act of playing is "musi." And the ball is "sike." -->
+<!---->
+<!-- But the translation would be more like "jan li musi sike."  -->
+
+Let's look at another, longer sentence.
+
+> soweli li moku e kili kiwen e kasi. "The animal ate hard fruit and plants", "the mouse is eating seeds and grass." Yes, you can have more than one "e" too!
+
+As a general statement, most sentences with an object are about the subject applying the verb to the object.
+
+<!-- That's a little dense. Let's break that idea down: -->
+
+Here, soweli (furry animal) applies moku (eating) to kili kiwen (hard fruit or vegetable) and to kasi (plants)
+
+Breaking it down like that, this "apply" idea is very simple. But the trick is that this, too, works with essentially any word.
+
+If I say something silly, like
+
+> mi kala e sina.
+
+kala means "fish," so this could mean "I turn you into a fish" or "I hit you with a fish." If you're playing fast and loose, it could be "I give you flippers", or "I push you into a pool"- those _kinda_ make you like a fish, even if they're a bit more silly.
+
+The point is, all of these things loosely mean "apply kala, fish, to you"
+
+Of course, most verbs applied to objects will mean more usual things, just because usual things... are more usual.
+
+So let's look at a more usual case.
+
+> sina pona e pilin mi, "You helped my feelings," "you improved my mood."
+
+Here, "pilin mi", my feelings, become "pona," good. Because of sina, "you."
+
+And after this, we could say:
+
+> pilin mi li pona. "My feelings are good." "My vibe is positive."
+
+Here's another one:
+
+> jan seme li jaki e tomo?! Who tracked mud in the house?! Who threw garbage in the office??
+
+And after this, we can say "tomo li jaki." The building is dirty.
+
+<!-- Of course, now I have to backtrack a bit- not every object sentence is best interpreted as "apply". At least, not in the sense that the object _changes_. -->
+<!---->
+<!-- We saw before that "mi pana e sona" is translated as "I give knowledge". That doesn't _do_ anything to the knowledge,. There are several words that can "apply" but not so much "change." Here are some quick examples: -->
+
+Now, some sentences aren't going to actually change the object- just involve it in some action the subject does. Your intuition about the action itself will help you here, so I'll demonstrate this more quickly:
+
+> pipi li wile e seme? the bug wants what?
+
+<!-- It would be weird to say "poki li wile." after this. You could do it, but it would imply that the poki wants- -->
+
+> ona suwi li lukin e sina, "the cute one is looking at you!" ... oh yeah! you can modify pronouns!
+
+<!-- You'll find that your intuition from other languages serves you pretty well here- or more exactly, your intuition about the action itself serves you well. -->
+<!---->
+<!-- The same is true for the sentences from before- -->
+
+In case you didn't catch it, seme can go in the object too.
+
 # Summary
 
-Here's a rapid-fire rundown of every topic, just to remind you of how much ground we covered:
+And that's the presentation!
+
+Here's a list of every topic, just to remind you of how much ground we covered:
 
 - Words are super broad, like the english word fruit, but even bigger.
 - The grammar is broad too- "doing" and "being" are the same thing, nouns don't tell you number, and verbs don't tell you when something happens.
 - The basic pronouns are mi, "I, me, we", sina: "you, "y'all", and ona: "she, it, they, he." There's also "ni", "this, that, these, those."
-- The word li is used to mark the start of the verb for any subject besides mi or sina. mi or sina are special and don't need it, but they still have to be the _exact_ subject for that to be the case.
+- The word li is marks the start of a verb for any subject besides mi or sina. mi or sina are special and don't need it because we say them lots.
+- You can ask questions in three different ways: doubling the first word of the verb and putting ala between them, adding anu seme to the end of the sentence, or putting seme in place of something you don't know.
+- You can answer the first two types of questions with the first word of the verb for yes, or ala for no. And you can answer seme questions with anything by filling in the blank!
+- And lastly, the word e marks the start of an object, and means the subject is doing something to or with that object.
 
 # Resources
 
 - First, here's another type of getting started lesson, but one of a different style: ilo Tani created the video "toki pona in 18 minutes," and it has the goal of covering absolutely everything you need, but very briefly. It's a great way to put all the ideas in your head right away.
 - Next, here's several online lessons:
+  - lipu sona pona, by jan Lentan, is an older but still very helpful course- I did some of my own learning from it.
+  - o pilin e toki pona is a full-immersion course by jan Telakoman, and helpful even if you've completed other lessons!
+  -
+  -
+- And two online resources:
+  - there is a dictionary called lipu Linku at linku.la,
+  - and
 
 <!-- # What did I gloss over? -->
 <!---->
