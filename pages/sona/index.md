@@ -186,14 +186,14 @@ all of them are beneficial to your understanding of Toki Pona.
 Sometimes I write scripts- in which case, you'll find it here! These are written with a video or presentation format considered first, and a written format considered later.
 
 - **Live Lessons**: These are written for my benefit, but they're _mostly_ a transcript!
-  - [(2023-06-24) Literally Jellyfish - Learn Toki Pona!](./jellyfish.html) --- [On YouTube](https://youtu.be/4ituR4S-NS0)
   - [(2023-06-17) li, modifiers, seme questions](./jun-17-li-modifiers.html)
+  - [(2023-06-24) Literally Jellyfish - Learn Toki Pona!](./jellyfish.html) --- [On YouTube](https://youtu.be/4ituR4S-NS0)
   - [(2023-07-08) e, pi, ijo ala ijo questions](./jul-08-e-pi.html)
   - [(2023-09-16) prepositions, la phrases](./sep-16-preps-la.html)
   - [(2023-10-21) preverbs, anu seme, _mu!_](./oct-21-preverbs-interjections.html)
 - **Presentations**: These are written to be accessible to everyone!
-  - **ale li nanpa** [on YouTube](https://youtu.be/AgkDx8dIAio) and [its script](../toki/ale-li-nanpa-tp.md) and [its slides](../poka/ale-li-nanpa-tp.md)
-  - **Everything is Numbers** [on YouTube](https://youtu.be/_awfcwuJhpk) and [its script](../toki/ale-li-nanpa-en.md) and [its slides](../poka/ale-li-nanpa-en.md)
+  - **ale li nanpa** [on YouTube](https://youtu.be/AgkDx8dIAio) and [its script](../poka/ale-li-nanpa-tp.html) and [its slides](../toki/ale-li-nanpa-tp.html)
+  - **Everything is Numbers** [on YouTube](https://youtu.be/_awfcwuJhpk) and [its script](../poka/ale-li-nanpa-en.md) and [its slides](../toki/ale-li-nanpa-en.md)
   - [ilo wawa lukin](../toki/mi-lon-ilo.html)
   - [ilo wawa pi tenpo kama](../toki/ilo-lukin.html) -- [on YouTube](https://www.youtube.com/watch?v=43tB0hZ29LI)
   - [toki pona, tan jan Telakoman](../toki/telakoman.html)

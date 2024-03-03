@@ -1,12 +1,12 @@
 ---
 title: And Another Thing...
 author: gregdan3
-date: date unknown
+date: 2024-03-03
 ---
 
 ::: error
 
-This lesson is a work in progress!
+This lesson is complete, but the examples are not!
 
 :::
 
