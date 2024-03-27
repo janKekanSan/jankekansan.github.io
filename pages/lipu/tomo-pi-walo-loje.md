@@ -47,7 +47,7 @@ jan awen li lukin e jan tomo.
 
 ona li jo e ilo lukin pi walo loje lon sinpin ona.
 
-ona li jo e len wawa. len wawa ni li tan tenpo suli musi. len ni li walo loje lon sewi, lon anpa, lon noka!
+ona li jo e len wawa. len li tan tenpo suli musi, li walo loje lon sewi, lon anpa, lon noka!
 
 ona li kama toki e ni:
 
@@ -75,13 +75,15 @@ jan tomo li kama li toki e ni: "sewi tomo la sina ken lon supa. sina awen la mi 
 
 jan awen li tawa sewi tomo lon nasin sewi pi leko mute. nasin sewi la leko ale li walo loje.
 
-jan awen li kama lukin e supa lape. supa li walo loje. len pi supa lape li walo loje.
+jan awen li kama lon tomo sewi li lukin e supa lape. supa li walo loje. len pi supa lape li walo loje.
 
-kin la, poki len li lon li tawa lawa li walo loje.
+kin la, poki li lon supa li suwi tawa pilin li pona tawa lawa, li walo loje.
 
 jan awen li awen e lawa ona lon poki pi walo loje,
 li awen e sijelo ona lon supa lape pi walo loje,
-li lon anpa len. a, len pi walo loje.
+li pilin pona lon anpa len.
+
+a, len pi walo loje.
 
 ...
 
@@ -107,61 +109,56 @@ jan awen li pilin li toki e ni:
 
 "mi wile a e pan!"
 
-ni la, jan tomo li tawa poki moku lon sinpin tomo li open e ona. poki ni kin li walo loje.
+ni la, jan tomo li tawa poki moku lon sinpin tomo li open e ona. poki ni li walo loje.
 
 jan tomo li lukin e insa poki li kama jo e pan tan ona. pan, kin, li walo loje.
 
 jan tomo li pana e pan tawa supa lili pi walo loje,
 li pana e supa pi walo loje tawa jan awen...
-lon supa suli pi walo loje.
 
 jan tomo li awen li moku pona e pan pi walo loje kepeken ilo moku pi walo loje.
 
 ona li pini la ona li weka tan supa pi walo loje li tawa tomo ilo.
 
-jan tomo li lon tomo ilo li toki e ni: "tawa pona!"
+jan awen kin li moku e pan ona tan supa pi walo loje, kepeken ilo moku pi walo loje.
+
+tenpo lili poka la jan awen kin li tawa tomo ilo.
+
+jan tomo li pona ale e ilo la ona li toki e ni tawa jan awen: "tawa pona!"
 
 jan awen li kama lon ilo ona li tawa tomo ona. weka la ona li luka tawa jan tomo li toki e ni: "sina pona a!"
 
 <!-- walkway, mailbox, flowers, door, glasses, tuxedo, couch, television, coffee table, stairs, bed, sheets, pillow, NEXT DAY, walls of the kitchen, floor of the kitchen, kitchen table, chairs, utensils, plates -->
 
-<!-- the next guy can shower -->
-
 ---
 
 tenpo kama weka la, ale li lete. sewi li pimeja mute li pana e ko lete.
 
-jan sin li lon ilo wawa ona li tawa tan ni: ona li weka tan pali lon tenpo suli li kama sin tan tenpo lape.
+jan sin li lon ilo wawa li tawa tan ni: ona li weka tan pali lon tenpo suli li kama sin tan tenpo lape.
 
 tenpo ni li pali ala li pona tawa ona, taso ona li wile kama sin lon tomo ona!
 
 ona li wile lape lon supa lape ona.
 
-taso, ona li kama kute e ijo nasa tan ilo ona. ilo ona li kalama suli sama ni: soweli suli ike li utala!
+taso, kalama nasa li kama tan ilo ona. ilo ona li kalama suli sama ni: soweli suli ike li utala e ilo!
 
-jan li tawa poka nasin li weka tan ilo li lukin e ni: sike wan pi ilo ona li kama pakala!
+jan li tawa poka nasin li weka tan ilo li lukin e ni: sike wan pi ilo ona li pakala!
 
-ni li ike a. ilo li ken awen tawa pona lon sike pakala.
+ni li ike a. ilo li ken ala tawa pona lon sike pakala!
 
-ona li kama lukin e tomo mute lon poka. pilin ona la ona li ken toki tawa jan lon tomo. ken la, jan tomo li ken pona e ilo ona.
+ona li lukin e tomo mute lon poka. ken la, jan li lon li ken pona e ilo ona.
 
-jan awen li kama lukin e tomo mute li kama lukin e tomo wan ni:
-
-ilo suno li lon li pana e suno pi walo loje lon kasi pi walo loje.
-
-palisa suli li awen e sewi tomo li walo loje.
-
-lupa lukin li lon sinpin tomo li lon sewi tomo kin li walo loje!
+jan awen li kama lukin e tomo ni:
 
 nasin li lon li tawa sinpin tomo li walo loje
 
-poka nasin la ilo suno lili li lon li pana e sona ni: pimeja la nasin li lon seme? ona li walo loje.
+ilo lili li lon poka nasin li pana e suno pi walo loje lon nasin pi walo loje.
 
-supa noka li lon poka pi sinpin tomo li walo loje.
+palisa suli li awen e sewi tomo li walo loje. sewi tomo kin li walo loje.
 
-supa awen en supa monsi li lon supa noka lon sinpin tomo, li walo loje.
+lupa lukin li lon sinpin tomo li lon sewi tomo kin li walo loje!
 
-jan awen li kama jo e poki ona tan ilo ona, li tawa tomo pi walo loje lon nasin lili pi walo loje, li kalama luka lon sinpin pi walo loje.
+jan awen li kama jo e poki ona tan ilo ona, li tawa tomo pi walo loje lon nasin pi walo loje, li kalama luka lon sinpin tomo.
 
 tenpo la jan li kama li open e tomo pi walo loje!
 
@@ -169,15 +166,11 @@ jan awen li lukin e jan tomo.
 
 jan tomo li jo e len seli pi tenpo lape. len li walo loje.
 
-ona li jo e len suwi noka lon noka ona. ni kin li walo loje.
+ona li jo e len suwi lon noka ona. len ni kin li walo loje.
 
-ona li luka lili e lukin ona li weka e jaki lili li alasa weka e pilin lape.
+ona li luka lili e lukin ona tan pilin lape la jan awen li lukin e ilo tenpo lili lon luka ona. ilo tenpo li walo loje.
 
-ona li sewi e luka la jan li ken lukin e ilo tenpo lili lon luka ona.
-
-ilo tenpo li walo loje.
-
-jan tomo li lukin e jan lon poka pi tomo ona li toki e ni:
+jan tomo li lukin e jan awen lon poka pi tomo ona li toki e ni:
 
 "aaaa... toki! sina pini e lape mi, a a. taso, ale li pona. seme li lon?"
 
@@ -187,65 +180,69 @@ jan awen li kama toki tawa ona:
 
 jan tomo li awen lon tenpo lili li toki e ni:
 
-"mi ken pona e ilo sina! taso, ni li wile e tenpo. o kama, sina o awen lon lete, o awen ala lon pimeja. o kama lon tomo."
+"mi ken pona e ilo sina! taso, ni li wile e tenpo. o kama, sina o weka tan pimeja, o weka tan lete. o kama lon tomo."
 
-jan tomo li luka tawa insa tomo, li kama e jan awen.
+jan tomo li luka tawa insa tomo, li kama e ona.
 
 jan awen li kama lon tomo li lukin e ijo mute lon tomo.
 
-ona li lukin e supa pi lipu mute. supa en lipu ale li walo loje.
+ona li lukin e supa pi lipu mute. sona mute li lon lipu. supa en lipu ale li walo loje.
 
-ona li lukin e supa monsi lon poka pi ilo suno. supa li walo loje. ilo suno li walo loje, li pana e suno pi walo loje.
+kin la ona li lukin e supa monsi e ilo suno lon poka.
 
-supa ante li lon poka pi supa monsi li walo loje. ilo lukin li lon supa ni li walo loje.
+supa monsi li walo loje. ilo suno li walo loje, li pana e suno pi walo loje lon lipu.
 
-jan awen li lukin e supa noka lon insa tomo. supa noka li suwi tawa pilin li walo loje.
+jan awen li lukin e supa noka lon insa tomo. supa noka li suwi len tawa pilin li walo loje.
 
 jan tomo li kama li toki e ni: "ni li tenpo pi pimeja suli la sina ken lape lon tomo. o tawa sewi, supa lape li lon. o lape pona. tenpo suno kama la mi pona e ilo sina."
 
-jan awen li pilin pona tan ni, li toki e ni: "sina pona suli a." ni la, ona li tawa sewi tomo, lon nasin sewi pi walo loje.
+jan awen li pilin pona, li toki e ni: "sina pona suli a." ni la, ona li tawa sewi tomo, lon nasin sewi pi walo loje.
+
+...
+
+<!-- stair sound, move to bedroom -->
 
 ona li kama lon tomo la ona li lukin e supa lape. supa lape li walo loje, li jo e len pi walo loje kin.
 
-sinpin tomo la lupa lukin li lon. ni la jan awen li lukin sin e ma lon poka tomo, e nasin pi walo loje, e kasi pi walo loje.
-
-poka tomo la tomo ante li lon li jo e supa kiwen e poki jaki e poki suli telo e poki len.
-
-supa kiwen li walo loje. poki jaki li walo loje. poki telo li walo loje. poki len li walo loje.
+sinpin tomo la lupa lukin li lon. ni la jan awen li lukin sin e ma lon poka tomo, e nasin pi walo loje, e kasi pi walo loje, e ilo ona.
 
 jan awen li tawa mute lon tenpo suno ni la ona li wile lape a.
 
-ona li kama awen lon supa pi walo loje, li lon anpa len pi walo loje, li lape lon tenpo suli.
+ona li kama lon supa pi walo loje, li lon anpa len pi walo loje, li lape lon tenpo suli.
 
 <!-- spotlights, plants, windows, walkway, little lights, porch, chairs, pajamas, slippers, watch, INSIDE bookshelf, chair, lamp, stand, glasses, carpet, stairs, bed, blanket, tile floor, toilet, bathtub -->
 
 ...
 
+<!-- birds chirping?  -->
+
 suno li kama sin lon sewi la jan awen li weka tan lape.
 
-open la ona li jaki lili tawa pilin li wile telo e ona.
+ona li jaki lili tawa pilin li wile weka e jaki kepeken telo.
+
+<!-- bathroom -->
 
 ona li tawa tomo poka li suno e tomo. suno li walo loje.
 
 ona li weka e len ona li tawa poki telo pi walo loje.
 
-ona li kepeken ilo pi walo loje lon sinpin poki li open e telo.
+ona li open e telo kepeken ilo pi walo loje lon sinpin poki.
 
 telo li walo loje.
 
 pini la ona li weka tan poki pi walo loje, li lukin e poki len.
 
-poki len li walo loje lon sinpin, li walo loje lon insa, li jo e len mute pi walo loje.
+poki len li walo loje lon sinpin, li walo loje lon insa, li jo e len mute.
 
 len li weka e telo tan sijelo li walo loje.
 
-jan awen li kama jo e len wan pi walo loje, li weka e telo pi walo loje, li kama jo e len ona tan poki ona.
+jan awen li kama jo e len pi walo loje, li weka e telo pi walo loje, li kama jo e len ona tan poki ona.
 
 ni la, ona li weka tan tomo, li tawa tomo anpa kepeken nasin pi walo loje.
 
-tenpo sama la, jan tomo li kama sin lon tomo li toki e ni:
+tenpo sama la, jan tomo li tawa insa tomo li toki e ni:
 
-"a, pona! sina pini e lape. tenpo poka la mi pona ale e ilo sina. taso, tenpo lili la sina o awen."
+"a, pona! sina lape ala. tenpo poka la mi pona ale e ilo sina. taso, mi pini ala la sina o awen lili."
 
 jan awen li pilin pona suli tan ni. tenpo poka la ona li ken tawa tomo ona!
 
@@ -257,37 +254,29 @@ jan awen li pilin li toki e ni:
 
 "n, mi wile e pan..."
 
-jan tomo li tawa poki moku pi walo loje, li kama jo e poki pan, li pana e ona tawa supa suli pi walo loje.
+jan tomo li tawa poki moku pi walo loje, li kama jo e ijo mute.
 
-kin la, jan tomo li kama jo e supa moku pi pali loje, e ilo moku pi walo loje, li pana e ona tu tawa supa suli pi walo loje.
+ona li pana e poki pan pi walo loje, e supa moku pi walo loje, e ilo moku pi walo loje tawa supa suli pi walo loje.
 
-jan tomo li toki e ni:
+ni la jan tomo li toki e ni:
 
 "mi wile pona e ilo sina la mi o tawa o ni lon tenpo ni. pakala la mi ken ala awen. taso, o moku pona! mi kama sin lon tenpo poka."
 
-ni la, ona li kama jo e poki pi ilo mute tan supa noka, li weka tan tomo. poki li walo loje. supa li walo loje.
+ni la, ona li kama jo e poki ilo pi walo loje tan supa noka pi walo loje, li weka tan tomo.
 
-jan awen li open e poki pan pi walo loje. pan li lon insa li walo loje.
+jan awen li open e poki pan pi walo loje. pan insa li walo loje.
 
-ona li kama jo e lipu pan tu li pana e ona tawa supa ona.
-
-ona li wile e pan, taso ona li wile e pan seli a!
+ona li kama jo e lipu pan tu. ona li wile a e pan, taso ona li wile e pan seli!
 
 ona li lukin e supa pali lon tomo, li alasa e ilo seli.
 
-ilo seli li lon li walo loje! lupa tu li lon ona la jan awen li pana e pan ona tawa lupa.
+ilo seli li lon li walo loje! lupa li lon ona la jan awen li pana e pan tawa insa ilo li anpa e nena ilo li awen.
 
-ona li anpa e nena ilo li awen. ilo li pana sin e pan ona lon pini pi tenpo lili. pan li awen walo loje.
+ilo li pana sin e pan ona kepeken tenpo lili. pan li awen walo loje.
 
-jan awen li pana sin e pan seli pi walo loje tawa supa moku pi walo loje li moku pona.
+jan awen li moku pona e pan pi walo loje.
 
-ona li moku e ale pan la jan tomo li kama sin!
-
-ona li jo e ilo lon luka. ilo ni li ken sike e nena lili kepeken tenpo lili, li ken weka e nena li ken pana sin e ona.
-
-ilo li walo loje.
-
-jan tomo li toki e ni:
+tenpo poka la, jan tomo li kama sin li toki e ni:
 
 "mi pona ale e ilo sina! o tawa pona a!"
 
@@ -295,11 +284,21 @@ jan awen li pilin pona wawa a.
 
 jan tomo li luka tawa nasin weka. ona tu li weka tan tomo li lukin e ilo.
 
-ilo li pona la, jan awen li kama lon ilo, li luka a tawa jan tomo lon weka, li tawa a.
+ilo li pona la, jan awen li kama lon ilo, li luka a tawa jan tomo lon weka.
 
 ---
 
 tenpo weka suli la, jan li lon
+
+pilin ona la ona li ken toki tawa jan lon tomo.
+
+jan awen li lukin e tomo mute li kama lukin e tomo wan ni:
+
+supa awen en supa monsi li lon poka tomo, li walo loje.
+
+<!-- poka tomo la tomo ante li lon li jo e supa kiwen e poki jaki e poki suli telo e poki len. -->
+<!---->
+<!-- supa kiwen li walo loje. poki jaki li walo loje. poki telo li walo loje. poki len li walo loje. -->
 
 ...
 
