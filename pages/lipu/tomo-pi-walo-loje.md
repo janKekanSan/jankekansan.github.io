@@ -142,9 +142,7 @@ ona li wile lape lon supa lape ona.
 
 taso, kalama nasa li kama tan ilo ona. ilo ona li kalama suli sama ni: soweli suli ike li utala e ilo!
 
-jan li tawa poka nasin li weka tan ilo li lukin e ni: sike wan pi ilo ona li pakala!
-
-ni li ike a. ilo li ken ala tawa pona lon sike pakala!
+jan li tawa poka nasin la ilo li pini. ona li ken ala open sin! pakala suli.
 
 ona li lukin e tomo mute lon poka. ken la, jan li lon li ken pona e ilo ona.
 
@@ -172,7 +170,7 @@ ona li luka lili e lukin ona tan pilin lape la jan awen li lukin e ilo tenpo lil
 
 jan tomo li lukin e jan awen lon poka pi tomo ona li toki e ni:
 
-"aaaa... toki! sina pini e lape mi, a a. taso, ale li pona. seme li lon?"
+"a... toki! sina pini e lape mi, a a. taso, ale li pona. seme li lon?"
 
 jan awen li kama toki tawa ona:
 
@@ -234,7 +232,7 @@ pini la ona li weka tan poki pi walo loje, li lukin e poki len.
 
 poki len li walo loje lon sinpin, li walo loje lon insa, li jo e len mute.
 
-len li weka e telo tan sijelo li walo loje.
+len li weka e telo tan selo li walo loje.
 
 jan awen li kama jo e len pi walo loje, li weka e telo pi walo loje, li kama jo e len ona tan poki ona.
 
@@ -288,25 +286,139 @@ ilo li pona la, jan awen li kama lon ilo, li luka a tawa jan tomo lon weka.
 
 ---
 
-tenpo weka suli la, jan li lon
+tenpo li kama li weka. jan sin li lon li tawa lon nasin kepeken ilo.
 
-pilin ona la ona li ken toki tawa jan lon tomo.
+taso! tawa ona li pini lon tenpo poka tan ni:
 
-jan awen li lukin e tomo mute li kama lukin e tomo wan ni:
+ona li lukin pona ala. kiwen li lon nasin li pakala e sike pi ilo ona!
+
+ni li ike a. ilo li ken ala tawa pona lon sike pakala!
+
+ona li pini e tawa ilo lon poka nasin.
+
+taso, ona li jo ala e sike ante la ona li ken ala pona e ilo.
+
+pilin ona la ona li ken toki tawa jan lon tomo. ken la, jan li lon li ken pona e ilo ona.
+
+ona li lukin e tomo mute lon poka li kama lukin e tomo ni:
+
+nasin lili li lon li walo loje, li jo e kasi suwi mute lon poka. kasi kin li walo loje.
+
+sinpin lili mute li selo e ma lon poka tomo, li walo loje.
+
+ilo sike li lon sewi tomo li kute e wawa tan ilo weka. ona li walo loje.
 
 supa awen en supa monsi li lon poka tomo, li walo loje.
 
-<!-- poka tomo la tomo ante li lon li jo e supa kiwen e poki jaki e poki suli telo e poki len. -->
-<!---->
-<!-- supa kiwen li walo loje. poki jaki li walo loje. poki telo li walo loje. poki len li walo loje. -->
+jan awen li tawa sinpin tomo li kalama luka lon sinpin li awen.
+
+tenpo li weka lili. jan awen li luka sin lon sinpin.
+
+jan li kama li open e tomo li lukin e ona, li toki e ni:
+
+"a! mi pakala. mi kepeken tenpo suli tan ni: mi weka tan tomo telo lon tenpo poka. seme li lon?"
+
+jan awen li lukin e jan tomo e len ona. lukin la, ona li toki lon.
+
+linja lawa ona li telo a, li walo loje. len ona li suli li weka e telo tan selo ona, li walo loje.
+
+ona li jo e supa lili lon anpa noka, e linja lon supa. supa en linja li walo loje.
+
+jan awen li kama toki tawa ona:
+
+"sina pakala ala a! o sona e ni: tenpo poka la, sike pi ilo mi li kama pakala. mi jo ala e sike ante la mi ken ala pona e ilo li ken ala tawa tomo mi. sina ken ala ken pona e sike mi?"
+
+jan tomo li pilin insa li toki e ni:
+
+"mi ken pona e ona! ni li wile e tenpo lili, taso mi jo ala e ko tawa ni. mi o tawa tomo esun o kama jo e ni. mi ni lon open pi tenpo suno kama. o kama lon tomo!"
+
+jan tomo li luka tawa insa tomo la jan awen li kama.
+
+ona li lukin e ijo mute lon tomo.
+
+lukin la jan mute li lon tomo li musi wawa lon tenpo poka!
+
+poki moku li lon supa suli li walo loje.
+
+musi supa li lon supa noka li walo loje.
+
+lukin la jan mute li musi- ilo lili mute en lipu mani mute li lon poka li walo loje.
+
+sike kon li lon li walo loje. linja li awen e ona lon supa li walo loje.
+
+jan tomo li toki sin:
+
+"sina o awen tan pakala ilo la, sina ken awen lon tomo mi. sewi tomo la, supa lape li lon. sina ken kepeken ni!"
+
+jan tomo li luka tawa sewi tomo, tawa nasin sewi- selo nasin en leko ale nasin li walo loje.
+
+jan awen li pilin pona a, li toki e ni tawa jan tomo: "sina pona sewi!"
+
+ni la, jan awen li tawa tomo sewi kepeken nasin sewi pi walo loje.
+
+ona li kama lon tomo sewi la, ona li lukin e supa lape pi walo loje, e supa pi ilo suno poka. ona kin li walo loje.
+
+wawa la ona li wile e lape.
+
+ni la, ona li weka e len, li pana e len tawa supa poka pi walo loje.
+
+ona li kama lon supa lape pi walo loje, li pana e len pi walo loje lon sewi ona, li pini e suno pi walo loje, li lape lon tenpo suli.
 
 ...
 
-"tenpo ni la sina ken moku. mi jo e kala e pan. sina wile e seme?"
+suno suli li kama lon sewi li utala e lukin pi jan awen la ona li weka tan lape.
 
-jan awen li pilin li toki e ni:
+ona li kama jo e len ona tan supa pi walo loje, li tawa tomo anpa kepeken nasin pi walo loje.
 
-"a! kala li pona tawa mi. mi wile e kala. sina pona."
+jan tomo li kama tan lupa open lon tenpo ni, li jo e poki pi walo loje.
+
+ona li lukin e jan awen li toki e ni:
+
+"a! kama pona tan lape! mi kama sin tan tomo esun, li jo e ko wile e ilo wile. ni la mi ken pona e ilo sina."
+
+jan awen li pilin wawa a tan ni!
+
+jan tomo li toki sin:
+
+"mi o pona e ilo sina lon tenpo poka. taso, sina ken awen li ken moku. mi jo e kala e pan. sina wile e seme?"
+
+jan awen li pilin lon tenpo suli. ona li sona ala e wile. ona li alasa e pilin, li awen, li kama sona e wile.
+
+ona li toki e ni:
+
+"kala li pona tawa mi. mi wile e kala. sina pona."
+
+ni la, jan tomo li pana e poki ona pi walo loje tawa supa pi walo loje, li tawa poki lete pi walo loje lon tomo moku pi walo loje.
+
+ona li kama jo e kala pi walo loje tan poki lete pi walo loje, li pana e ona tawa ilo seli pi walo loje, li open e seli.
+
+tenpo lili la, kala li seli pona li awen walo loje.
+
+jan tomo li pana e kala tawa supa moku pi walo loje, li pana e ni tawa jan awen, li toki e ni:
+
+"o moku pona!"
+
+ni la, ona li kama jo e poki ona pi walo loje, li weka tan tomo pi walo loje.
+
+jan awen li lukin e kala pi walo loje, li kama sona e ni: ona li jo ala e ilo moku!
+
+ona li alasa e ilo moku lon tomo. poki mute li lon li walo loje.
+
+jan awen li open e ona ale, li kama lukin e poki pi ilo moku.
+
+ilo moku mute li lon insa, li walo loje!
+
+jan awen li kama jo e ona wan, li tawa moku ona, li moku e kala pi walo loje.
+
+ona li pona mute a!
+
+tenpo lili la, jan tomo li kama sin li toki e ni:
+
+"mi pona a e ilo sina! ni la, sina ken tawa tomo sina."
+
+jan awen li pilin pona la, ona li jo luka e jan tomo! ona tu li pilin musi mute tan ni.
+
+ni la, jan awen li weka tan tomo pi walo loje, li kama lon ilo ona, li tawa tomo ona.
 
 ---
 
@@ -314,7 +426,11 @@ jan awen li pilin li toki e ni:
 
 ---
 
-mi toki mute, li toki suli a. sina sona e seme tan toki? sina sona e ni:
+ni la, toki mi li pini. mi toki mute a.
+
+ken la, sina wile sona e ni: sina kama sona e seme tan toki mi?
+
+sina kama sona e ni:
 
 jan tu wan la, jan tu li wile moku e pan, jan wan li wile moku e kala.
 
