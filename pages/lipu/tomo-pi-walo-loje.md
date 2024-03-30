@@ -3,9 +3,11 @@
 % 2023-10-03
 % published: false
 
-toki a, jan ale o. mi walo loje Kekan San. mi wile musi.
+toki a, jan ale o. mi jan Kekan San pi walo loje. mi wile musi.
 
 ni li toki pona taso.
+
+o kute pona e musi mi
 
 ---
 
