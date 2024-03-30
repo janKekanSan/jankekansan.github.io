@@ -37,6 +37,8 @@ ni li tan seme?
 
 ni li tan ni: tomo li walo loje.
 
+---
+
 [front of home view]
 
 jan li lukin e tomo, li lukin e ni:
@@ -48,6 +50,8 @@ kasi li lon poka nasin li walo loje.
 sinpin tomo li lon pini nasin li walo loje.
 
 poki lipu li lon poka sinpin... li walo loje!
+
+---
 
 [front door closeup]
 
@@ -77,6 +81,8 @@ jan tomo li toki e ni:
 
 jan tomo li luka tawa insa tomo, li kama e jan awen.
 
+---
+
 [indoor view, preferably of a couch and tv and stand]
 
 jan awen li kama lon tomo li lukin e ijo mute lon tomo.
@@ -91,6 +97,8 @@ jan tomo li kama li toki e ni: "sewi tomo la sina ken lon supa. sina awen la mi 
 
 jan awen li tawa sewi tomo lon nasin sewi pi leko mute. nasin sewi la leko ale li walo loje.
 
+---
+
 [bedroom]
 
 jan awen li kama lon tomo sewi li lukin e supa lape. supa li walo loje. len pi supa lape li walo loje.
@@ -101,9 +109,13 @@ jan awen li awen e lawa ona lon poki pi walo loje, li awen e sijelo ona lon supa
 
 ...
 
+---
+
 [daylight transition? or just stay in bedroom]
 
 tenpo suno kama la, jan awen li weka tan supa pi walo loje li tawa nasin anpa pi walo loje.
+
+---
 
 [kitchen]
 
@@ -137,6 +149,8 @@ jan tomo li awen li moku pona e pan pi walo loje kepeken ilo moku pi walo loje.
 
 ona li pini la ona li weka tan supa pi walo loje li tawa tomo ilo.
 
+---
+
 [garage]
 
 jan awen kin li moku e pan ona tan supa pi walo loje, kepeken ilo moku pi walo loje.
@@ -167,6 +181,8 @@ ona li lukin e tomo mute lon poka. ken la, jan li lon li ken pona e ilo ona.
 
 jan awen li kama lukin e tomo ni:
 
+---
+
 [home view]
 
 nasin li lon li tawa sinpin tomo li walo loje
@@ -176,6 +192,8 @@ ilo lili li lon poka nasin li pana e suno pi walo loje lon nasin pi walo loje.
 palisa suli li awen e sewi tomo li walo loje. sewi tomo kin li walo loje.
 
 lupa lukin li lon sinpin tomo li lon sewi tomo kin li walo loje!
+
+---
 
 [near door view]
 
@@ -205,6 +223,8 @@ jan tomo li awen lon tenpo lili li toki e ni:
 
 jan tomo li luka tawa insa tomo, li kama e jan awen.
 
+---
+
 [inside house view, with bookshelf, recliner, light, carpet]
 
 jan awen li kama lon tomo li lukin e ijo mute lon tomo.
@@ -221,6 +241,8 @@ jan tomo li kama li toki e ni: "ni li tenpo pi pimeja suli la sina ken lape lon 
 
 jan awen li pilin pona, li toki e ni: "sina pona suli a." ni la, ona li tawa sewi tomo, lon nasin sewi pi walo loje.
 
+---
+
 [move to bedroom]
 
 ona li kama lon tomo la ona li lukin e supa lape. supa lape li walo loje, li jo e len pi walo loje kin.
@@ -234,6 +256,8 @@ ona li kama lon supa pi walo loje, li lon anpa len pi walo loje, li lape lon ten
 suno li kama sin lon sewi la jan awen li weka tan lape.
 
 ona li jaki lili tawa pilin li wile weka e jaki kepeken telo.
+
+---
 
 [bathroom]
 
@@ -254,6 +278,8 @@ len li weka e telo tan selo li walo loje.
 jan awen li kama jo e len pi walo loje, li weka e telo pi walo loje, li kama jo e len ona tan poki ona.
 
 ni la, ona li weka tan tomo lape, li tawa tomo anpa kepeken nasin pi walo loje.
+
+---
 
 [kitchen]
 
@@ -287,6 +313,8 @@ ona li kama jo e lipu pan tu. ona li wile a e pan, taso ona li wile e pan seli!
 
 ona li lukin e supa pali lon tomo, li alasa e ilo seli.
 
+---
+
 [toaster]
 
 ilo seli li lon li walo loje! lupa li lon ona la jan awen li pana e pan tawa insa ilo li anpa e nena ilo li awen.
@@ -300,6 +328,8 @@ tenpo poka la, jan tomo li kama sin li toki e ni:
 "mi pona ale e ilo sina! o tawa pona a!"
 
 jan awen li pilin pona wawa a.
+
+---
 
 [garage]
 
@@ -335,6 +365,8 @@ ilo sike li lon sewi tomo li kute e wawa tan ilo weka. ona li walo loje.
 
 supa awen en supa monsi li lon poka tomo, li walo loje.
 
+---
+
 [front door]
 
 jan awen li tawa sinpin tomo li kalama luka lon sinpin li awen.
@@ -361,6 +393,8 @@ jan tomo li pilin insa li toki e ni:
 
 jan tomo li luka tawa insa tomo la jan awen li kama.
 
+---
+
 [inside, board games, party]
 
 ona li lukin e ijo mute lon tomo.
@@ -379,6 +413,8 @@ jan tomo li toki sin:
 
 "sina o awen tan pakala ilo la, sina ken awen lon tomo mi. sewi tomo la, supa lape li lon. sina ken kepeken ni!"
 
+---
+
 [stairs]
 
 jan tomo li luka tawa sewi tomo, tawa nasin sewi- selo nasin en leko ale nasin li walo loje.
@@ -386,6 +422,8 @@ jan tomo li luka tawa sewi tomo, tawa nasin sewi- selo nasin en leko ale nasin l
 jan awen li pilin pona a, li toki e ni tawa jan tomo: "sina pona sewi!"
 
 ni la, jan awen li tawa tomo sewi kepeken nasin sewi pi walo loje.
+
+---
 
 [bedroom]
 
@@ -397,11 +435,15 @@ ni la, ona li weka e len, li pana e len tawa supa poka pi walo loje.
 
 ona li kama lon supa lape pi walo loje, li pana e len pi walo loje lon sewi ona, li pini e suno pi walo loje, li lape lon tenpo suli.
 
+---
+
 [daylight transition]
 
 suno suli li kama lon sewi li utala e lukin pi jan awen la ona li weka tan lape.
 
 ona li kama jo e len ona tan supa pi walo loje, li tawa tomo anpa kepeken nasin pi walo loje.
+
+---
 
 [front room area]
 
@@ -424,6 +466,8 @@ ona li toki e ni:
 "kala li pona tawa mi. mi wile e kala. sina pona."
 
 ni la, jan tomo li pana e poki ona pi walo loje tawa supa pi walo loje, li tawa poki lete pi walo loje lon tomo moku pi walo loje.
+
+---
 
 [kitchen, fridge]
 
@@ -459,9 +503,7 @@ ni la, jan awen li weka tan tomo pi walo loje, li kama lon ilo ona, li tawa tomo
 
 ---
 
----
-
----
+[indoor in a recliner?]
 
 ni la, toki mi li pini. mi toki mute a.
 
