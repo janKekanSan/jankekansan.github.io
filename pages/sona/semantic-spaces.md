@@ -8,9 +8,9 @@ CHAPTERS:
 
 toki a, jan ale o! mi jan Kekan San! mi wile pana e sona pi toki pona e sona ni: waso li lon ala!
 
-Hey everyone, I'm gregdan3, and today I wanna teach you about toki pona. And that birds are not real!
+Hey everyone, I'm gregdan3, and today I wanna teach you about toki pona. And about birds. Because they are not real.
 
-Today, we're gonna talk about **semantic spaces**. What are they? How do they work? How do they relate to birds, which are vey much fake? Let's get started.
+Today, we're gonna talk about **semantic spaces**. What are they? How do they work? How do they relate to birds, which are very much fake? Let's get started.
 
 ---
 
@@ -20,41 +20,61 @@ You may not _know_ what a semantic space is- but you _feel_ it!
 
 Even if you're not thinking about it, every time you use language, you're "feeling" every word you use.
 
-Each word means something to you, and they usually mean something similar to the person you're speaking to.
+Each word means something to you, and usually means something similar to the person you're speaking to.
 
-But you've probably noticed before that this isn't always the case- it's very easy to end up in an argument about a word, only to realize you're using that word differently from how the other person is using it.
+But you've probably noticed before that this isn't always the case- it's easy to get into an argument over a word, and realize later that you're using that word differently from how the other person is using it.
 
-[TODO: move tomato discourse to here?]
+How does that happen? Doesn't the dictionary say what the word means?
 
-How does that happen? Doesn't the dictionary say what the word means? Sure, one word can have multiple meanings, but we can tell which meaning is being used by context, right?
+<!-- Sure, one word can have multiple meanings, but we can tell which meaning is being used by context, right? -->
 
-Well, maybe. But what if we sincerely thought different things about what the word meant?
+Well, maybe. But what if you and I sincerely thought different things about what the word meant?
 
-Your personal experiences, opinions, and beliefs can change what you assume a word to mean.
+When a word has multiple definitions, we can see this clearly: the word "score" refers to points in sports and games, but a musician would think of sheet music.
 
-Multiple definitions give us obvious examples of this, like "score" referring to points in sports and games, but a page of sheet music to a musician.
+You can tell these apart by context- but it's easy to hear the word and think of the wrong meaning at first!
 
-But even single definitions of a given word can be subtly different, able to change based on context- not in unfamiliar ways, but in ways we may not even notice.
+Your personal experiences, opinions, and beliefs can change what you assume a word means when you hear it.
+
+And it doesn't stop there- even single definitions of a word can be subtly different, able to change based on context and experience- in ways we may not even notice.
+
+How do we get through even one conversation, then?
+
+My goal is to give you a way to think about this particular challenge of communication. And hopefully, it will make you a better communicator!
 
 ---
 
 So, what _is_ a semantic space?
 
-Semantic spaces are the collection of meanings that surround a specific word.
+Semantic spaces are the collection of meanings that surround a word.
 
-Not just a dictionary's list of meanings, but all the times and places that word might show up to reference those meanings, all the real life examples of those meanings, and so much more.
+But those meanings don't come from a dictionary- they come from context, experience, culture, and much more.
 
-It's like a big bubble, with a bunch of smaller ideas in it.
+You hear or see the word at the same time as its meaning, over and over.
+
+And from that, you connect the collection of sounds or symbols with that meaning.
+
+Think of "book".
+
+You could see a book on a shelf, in a haunted house, or thrown into a river,
+
+<!-- editor: get dan olson's river thrown book clip, phasmophobia book on the groud -->
+
+And you'd still know it was a book.
+
+We know a book when we see it, because we've seen the word with its meaning so many times.
 
 ---
 
-As an example, think about the word "fruit". It doesn't mean banana, apple, grapefruit, or [TODO].
+But it's not just you experiencing words- everyone does.
+
+Think of "fruit". It doesn't mean banana, apple, jabuticaba, or lemon.
 
 <!-- editor: show pictures of all fruit as i say them -->
 
-It means all of those things- you could point at any one of them, shout "That's a fruit!" and be completely correct. There's that "big bubble" I was talking about.
+It refers to all of those things- you could point at any of them, shout "That's a fruit!" and be correct.
 
-But it isn't about correctness. It's about what others understand when you say the word.
+But it isn't about being correct. It's about what others understand when you say the word.
 
 If you point at a _tomato_ and say it's a fruit, there are plenty of people who will agree with you.
 
@@ -62,11 +82,13 @@ If you point at a _tomato_ and say it's a fruit, there are plenty of people who 
 
 But for one group of people, the _feeling_ of a tomato is that it's a vegetable! I mean, come on, you wouldn't put it in a fruit salad.
 
-For another group of people, they're aware of the scientific fact that a tomato is, specifically, a berry, and they are here to correct you. [TODO: fact check!]
+Another group of people will remind you of the scientific fact that a tomato is, in fact, a berry. We call these people nerds.
 
-So this big bubble that is the semantic space of a word isn't necessarily the same from person to person.
+What we learn from this is that semantic spaces are different to different people, because of what you know, and what contexts you see the word in.
 
-It can change, it's dynamic. And there is no better place to watch this in action than in Toki Pona.
+Your experiences in life make a word- and your experiences are never like somebody else's.
+
+And there is no better place to watch this in action than in Toki Pona.
 
 ---
 
@@ -267,9 +289,7 @@ For example, here is the definition for lipu from Toki Pona: The Language of Goo
 
 Most leaves are both flat and bendy, like most of the things in this list.
 
-"Website" is a notable exception, but it is still flat, and works by analogy to paper:
-
-Paper is flat and bendy. Websites often try to act like paper, but on a screen where it's still flat, just not bendy anymore. Sure!
+Even the items that aren't bendy are still flat, and so are good for writing on. This is why website is already on the list!
 
 In general, it makes sense to look at things agree are lipu, find similar things, and call those things lipu. This is how _every_ word works.
 
@@ -279,13 +299,17 @@ So back to kala, then. What kind of experimentation is going on?
 
 What if we look at kala the way we just looked at lipu, taking the definition's examples of kala and then looking for similar things?
 
-Well, all the lipu were flat and bendy, or made of many flat and bendy things, or related to flat and bendy things.
+Well, all the lipu were some combination of flat, bendy, and good for writing on- with an emphasis on being flat.
 
 So what are the most defining trait of fish, marine animals, and sea creatures?
 
-You'll often see fins, gills, scales, and TODO: example, but those examples are too obvious, right?
+You'll often see fins, gills, and scales, as well as common body shapes.
 
-There isn't much to experiment with. Is there something else we could focus on?
+Even the sitelen pona for kala reflects this.
+
+But those examples are too obvious, right?
+
+This isn't much to experiment with. Is there something else we could focus on?
 
 A lot of kala spend their lives in the water, swimming.
 
@@ -387,6 +411,14 @@ Are they [waso]{.tokipona}? Some speakers would say no, because they can't fly.
 
 ---
 
+How do you know what a bird is?
+
+It's not that there's some specific thing that is "bird" which all other birds are measured by.
+
+Birds aren't real, because the word bird isn't even real.
+
+---
+
 There you have it. Birds are not real. In fact, words as you knew them are not real.
 
 Words are a mess in a beautiful way.
@@ -396,3 +428,6 @@ So the next time you get into a debate about the definition of a word, take a st
 I'd like to leave you off with one last thought: A pile of baseball cards is a good example of a kulupu, but kulupu doesn't _mean_ "a pile of baseball cards."
 
 Thanks to jan Tekinowi for the thumbnail of this video, and thank you all so much for learning! Have a good one!
+
+<!-- moli vs pini -->
+<!-- wile want vs need  -->
