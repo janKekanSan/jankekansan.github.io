@@ -231,9 +231,6 @@ details p {
   font-size: 1.2em;
   padding: 1.5%;
 }
-.tpdefinitions table tbody tr td:nth-child(1) {
-  text-align: center;
-}
 
 button.sptoggle {
   position: fixed;

@@ -38,35 +38,27 @@ All new words will be separated into categories!
 
 Particles are for grammar. They are used for sentence structure, introducing new parts of a sentence. Most do not have meanings, only functions.
 
-::: tpdefinitions
-
-| Word                                  | Use                                          | Writing                |
-| ------------------------------------- | -------------------------------------------- | ---------------------- |
+|                 Word                  | Use                                          | Writing                |
+| :-----------------------------------: | -------------------------------------------- | ---------------------- |
 | [li]{.glyph}<br/>[li]{.glyphsubtitle} | (mark a predicate; begin a predicate phrase) | One right-facing arrow |
-
-:::
 
 #### Content Words
 
 Content words have meaning, and can be used most places in a sentence- so far, the subject and predicate!
 
-::: tpdefinitions
-
-| Word                                          | Definition                                    | Writing                                                                        |
-| --------------------------------------------- | --------------------------------------------- | ------------------------------------------------------------------------------ |
-| [kasi]{.glyph}<br/>[kasi]{.glyphsubtitle}     | plant, flower, tree, vegetation               | A plant with two pointed leaves at its top.                                    |
-| [kiwen]{.glyph}<br/>[kiwen]{.glyphsubtitle}   | rock, hard, tough, sturdy, durable            | A five-sided diamond shape                                                     |
-| [ko]{.glyph}<br/>[ko]{.glyphsubtitle}         | dust, goop, clay, paste, squishy thing        | A pile of goop, or a fluffy ball. Give it several curves!                      |
-| [telo]{.glyph}<br/>[telo]{.glyphsubtitle}     | liquid, water, fluid                          | Two wavy lines drawn horizontally, like waves on the beach                     |
+|                     Word                      | Definition                                    | Writing                                                                        |
+| :-------------------------------------------: | --------------------------------------------- | ------------------------------------------------------------------------------ |
+|   [kasi]{.glyph}<br/>[kasi]{.glyphsubtitle}   | plant, flower, tree, vegetation               | A plant with two pointed leaves at its top.                                    |
+|  [kiwen]{.glyph}<br/>[kiwen]{.glyphsubtitle}  | rock, hard, tough, sturdy, durable            | A five-sided diamond shape                                                     |
+|     [ko]{.glyph}<br/>[ko]{.glyphsubtitle}     | dust, goop, clay, paste, squishy thing        | A pile of goop, or a fluffy ball. Give it several curves!                      |
+|   [telo]{.glyph}<br/>[telo]{.glyphsubtitle}   | liquid, water, fluid                          | Two wavy lines drawn horizontally, like waves on the beach                     |
 | [kulupu]{.glyph}<br/>[kulupu]{.glyphsubtitle} | group, collection, nation, community          | Three circles in a triangle shape, with some space.                            |
-| [jaki]{.glyph}<br/>[jaki]{.glyphsubtitle}     | gross, garbage, trash, sick                   | Scribble!                                                                      |
-| [wawa]{.glyph}<br/>[wawa]{.glyphsubtitle}     | power, strength, courage, energy, electricity | A person holding their arms over their head                                    |
-| [suwi]{.glyph}<br/>[suwi]{.glyphsubtitle}     | sweet, soft, fluffy, cute, fragrant           | A cute and pleasant cat face like this emoticon: `^.^`                         |
-| [nasa]{.glyph}<br/>[nasa]{.glyphsubtitle}     | strange, weird, silly, rare                   | A spiral. Any spiral will do!                                                  |
-| [seli]{.glyph}<br/>[seli]{.glyphsubtitle}     | hot, fire, warm, hot object                   | A dot with three almost-vertical lines ("emitters") over top, like a big fire! |
-| [lete]{.glyph}<br/>[lete]{.glyphsubtitle}     | cold, ice, raw, undercooked, cold object      | Three crossing lines making a simple snowflake                                 |
-
-:::
+|   [jaki]{.glyph}<br/>[jaki]{.glyphsubtitle}   | gross, garbage, trash, sick                   | Scribble!                                                                      |
+|   [wawa]{.glyph}<br/>[wawa]{.glyphsubtitle}   | power, strength, courage, energy, electricity | A person holding their arms over their head                                    |
+|   [suwi]{.glyph}<br/>[suwi]{.glyphsubtitle}   | sweet, soft, fluffy, cute, fragrant           | A cute and pleasant cat face like this emoticon: `^.^`                         |
+|   [nasa]{.glyph}<br/>[nasa]{.glyphsubtitle}   | strange, weird, silly, rare                   | A spiral. Any spiral will do!                                                  |
+|   [seli]{.glyph}<br/>[seli]{.glyphsubtitle}   | hot, fire, warm, hot object                   | A dot with three almost-vertical lines ("emitters") over top, like a big fire! |
+|   [lete]{.glyph}<br/>[lete]{.glyphsubtitle}   | cold, ice, raw, undercooked, cold object      | Three crossing lines making a simple snowflake                                 |
 
 The words from the last lesson were content words too!
 

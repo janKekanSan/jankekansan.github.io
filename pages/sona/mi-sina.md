@@ -31,16 +31,14 @@ date: 2022-07-30T00:00:00.000Z
 
 ### Words to Know
 
-::: tpdefinitions
-
-| Word                                      | Definition                               | Writing                                                          |
-| ----------------------------------------- | ---------------------------------------- | ---------------------------------------------------------------- |
-| [mi]{.glyph}<br/>[mi]{.glyphsubtitle}     | I, me, myself, we, mine, ours            | Left hand thumb pointing at yourself, other fingers closed       |
+|                   Word                    | Definition                               | Writing                                                          |
+| :---------------------------------------: | ---------------------------------------- | ---------------------------------------------------------------- |
+|   [mi]{.glyph}<br/>[mi]{.glyphsubtitle}   | I, me, myself, we, mine, ours            | Left hand thumb pointing at yourself, other fingers closed       |
 | [sina]{.glyph}<br/>[sina]{.glyphsubtitle} | you, yourself, yours, y'all, y'all's     | Right hand index finger pointing away from you                   |
 | [toki]{.glyph}<br/>[toki]{.glyphsubtitle} | talk, say, conversation, language, hello | Circle with 3 lines ("emitters") above like sound from a mouth   |
 | [pona]{.glyph}<br/>[pona]{.glyphsubtitle} | good, simple, easy, fix, repair, help    | Friendly smile                                                   |
-| [ike]{.glyph}<br/>[ike]{.glyphsubtitle}   | bad, difficult, complex, challenging     | Sad frown                                                        |
-| [jan]{.glyph}<br/>[jan]{.glyphsubtitle}   | person, people, someone, anyone          | Person's head and shoulders                                      |
+|  [ike]{.glyph}<br/>[ike]{.glyphsubtitle}  | bad, difficult, complex, challenging     | Sad frown                                                        |
+|  [jan]{.glyph}<br/>[jan]{.glyphsubtitle}  | person, people, someone, anyone          | Person's head and shoulders                                      |
 | [moku]{.glyph}<br/>[moku]{.glyphsubtitle} | food, eat                                | Hand outline with thumb and extended fingers, mouth on top       |
 | [musi]{.glyph}<br/>[musi]{.glyphsubtitle} | fun, entertaining, artistic, playful     | A very wide smile with cheeks circled                            |
 | [suli]{.glyph}<br/>[suli]{.glyphsubtitle} | big, important, tall, wide               | Big "V" shape. The sides can curve in, so the top curves out!    |
@@ -50,8 +48,6 @@ date: 2022-07-30T00:00:00.000Z
 | [tawa]{.glyph}<br/>[tawa]{.glyphsubtitle} | move, go, travel                         | Pair of legs walking to the right                                |
 
 As you're learning, it may seem daunting to learn a brand new writing system and all the words in it. Fortunately, all the glyphs naturally represent the ideas of the word they mean. To help, the "writing" description explains what each glyph represents, and how you can think about each word to help you remember it!
-
-:::
 
 ::: info
 

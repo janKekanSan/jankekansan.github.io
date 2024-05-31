@@ -31,24 +31,16 @@ date: date unknown
 
 #### Particles
 
-::: tpdefinitions
-
-| Word                                | Definition                               | Writing                                                      |
-| ----------------------------------- | ---------------------------------------- | ------------------------------------------------------------ |
+|                Word                 | Definition                               | Writing                                                      |
+| :---------------------------------: | ---------------------------------------- | ------------------------------------------------------------ |
 | [a]{.glyph}<br/>[a]{.glyphsubtitle} | (mark exclamation, excitement, emphasis) | Letter "a" beneath a vertical line like an exclamation point |
-
-:::
 
 #### Content Words
 
-::: tpdefinitions
-
-| Word                                          | Definition                            | Writing                                                              |
-| --------------------------------------------- | ------------------------------------- | -------------------------------------------------------------------- |
-| [mu]{.glyph}<br/>[mu]{.glyphsubtitle}         | moo, meow, ribbit, bark, animal sound | Circle animal face with two circle ears and dotted nose below center |
+|                     Word                      | Definition                            | Writing                                                              |
+| :-------------------------------------------: | ------------------------------------- | -------------------------------------------------------------------- |
+|     [mu]{.glyph}<br/>[mu]{.glyphsubtitle}     | moo, meow, ribbit, bark, animal sound | Circle animal face with two circle ears and dotted nose below center |
 | [kalama]{.glyph}<br/>[kalama]{.glyphsubtitle} | sound, noise                          | A mouth shape with emitters                                          |
-
-:::
 
 Not many words this time! Instead, we'll be looking at a bunch of words from before in new ways.
 

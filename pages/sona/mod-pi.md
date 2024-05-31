@@ -37,34 +37,26 @@ date: date unknown
 
 #### Particles
 
-::: tpdefinitions
-
-| Word                                  | Use                                        | Writing                           |
-| ------------------------------------- | ------------------------------------------ | --------------------------------- |
+|                 Word                  | Use                                        | Writing                           |
+| :-----------------------------------: | ------------------------------------------ | --------------------------------- |
 | [pi]{.glyph}<br/>[pi]{.glyphsubtitle} | (groups modifiers into one modifier)       | Left and bottom sides of a square |
 | [en]{.glyph}<br/>[en]{.glyphsubtitle} | (mark additional subjects/subject phrases) | Plus sign                         |
 
-:::
-
 #### Content Words
 
-::: tpdefinitions
-
-| Word                                          | Definition                                 | Writing                                          |
-| --------------------------------------------- | ------------------------------------------ | ------------------------------------------------ |
-| [ona]{.glyph}<br/>[ona]{.glyphsubtitle}       | he, she, it, they, them, their, themselves | Right hand index finger pointing to your left    |
-| [ni]{.glyph}<br/>[ni]{.glyphsubtitle}         | this, that                                 | An arrow pointing downward                       |
-| [ale]{.glyph}<br/>[ale]{.glyphsubtitle}       | every, all, universe, countless            | An infinity sign                                 |
-| [mute]{.glyph}<br/>[mute]{.glyphsubtitle}     | many, multiple, several, very              | Three vertical lines, like tally marks           |
-| [suno]{.glyph}<br/>[suno]{.glyphsubtitle}     | light, shine, brightness, glow             | A sun with lines at top, bottom, left, and right |
-| [kule]{.glyph}<br/>[kule]{.glyphsubtitle}     | color, pigment, paint, relating to LGBTQ+  | Triangle with a line through it, like a prism    |
-| [laso]{.glyph}<br/>[laso]{.glyphsubtitle}     | blue, green                                | Triangle with a plant on top                     |
-| [loje]{.glyph}<br/>[loje]{.glyphsubtitle}     | red                                        | Triangle with a mouth shape on top               |
-| [jelo]{.glyph}<br/>[jelo]{.glyphsubtitle}     | yellow                                     | Triangle with a sun on top                       |
-| [walo]{.glyph}<br/>[walo]{.glyphsubtitle}     | white, pale, desaturated                   | Triangle with lines coming off its top two sides |
+|                     Word                      | Definition                                 | Writing                                          |
+| :-------------------------------------------: | ------------------------------------------ | ------------------------------------------------ |
+|    [ona]{.glyph}<br/>[ona]{.glyphsubtitle}    | he, she, it, they, them, their, themselves | Right hand index finger pointing to your left    |
+|     [ni]{.glyph}<br/>[ni]{.glyphsubtitle}     | this, that                                 | An arrow pointing downward                       |
+|    [ale]{.glyph}<br/>[ale]{.glyphsubtitle}    | every, all, universe, countless            | An infinity sign                                 |
+|   [mute]{.glyph}<br/>[mute]{.glyphsubtitle}   | many, multiple, several, very              | Three vertical lines, like tally marks           |
+|   [suno]{.glyph}<br/>[suno]{.glyphsubtitle}   | light, shine, brightness, glow             | A sun with lines at top, bottom, left, and right |
+|   [kule]{.glyph}<br/>[kule]{.glyphsubtitle}   | color, pigment, paint, relating to LGBTQ+  | Triangle with a line through it, like a prism    |
+|   [laso]{.glyph}<br/>[laso]{.glyphsubtitle}   | blue, green                                | Triangle with a plant on top                     |
+|   [loje]{.glyph}<br/>[loje]{.glyphsubtitle}   | red                                        | Triangle with a mouth shape on top               |
+|   [jelo]{.glyph}<br/>[jelo]{.glyphsubtitle}   | yellow                                     | Triangle with a sun on top                       |
+|   [walo]{.glyph}<br/>[walo]{.glyphsubtitle}   | white, pale, desaturated                   | Triangle with lines coming off its top two sides |
 | [pimeja]{.glyph}<br/>[pimeja]{.glyphsubtitle} | black, dark, unlit, shaded                 | Triangle with an X inside it                     |
-
-:::
 
 ## Overview
 

@@ -37,33 +37,25 @@ date: 2022-09-09T00:00:00.000Z
 
 #### Particles
 
-::: tpdefinitions
-
-| Word                                | Use                                      | Writing                 |
-| ----------------------------------- | ---------------------------------------- | ----------------------- |
+|                Word                 | Use                                      | Writing                 |
+| :---------------------------------: | ---------------------------------------- | ----------------------- |
 | [e]{.glyph}<br/>[e]{.glyphsubtitle} | (mark an object; begin an object phrase) | Two right-facing arrows |
-
-:::
 
 #### Content Words
 
-::: tpdefinitions
-
-| Word                                          | Definition                                             | Writing                                                     |
-| --------------------------------------------- | ------------------------------------------------------ | ----------------------------------------------------------- |
-| [wile]{.glyph}<br/>[wile]{.glyphsubtitle}     | want, need, to want                                    | Curvy letter "w"                                            |
-| [lipu]{.glyph}<br/>[lipu]{.glyphsubtitle}     | paper, card, document, website, leaf, small flat thing | Tall rectangle like a piece of paper                        |
-| [sona]{.glyph}<br/>[sona]{.glyphsubtitle}     | knowledge, understanding, to know                      | Piece of paper with emitters!                               |
-| [lukin]{.glyph}<br/>[lukin]{.glyphsubtitle}   | eyes, to look, to try                                  | An eye with a pupil in the center                           |
-| [pali]{.glyph}<br/>[pali]{.glyphsubtitle}     | create, work, creation                                 | A hand shape with a circle above it                         |
-| [kute]{.glyph}<br/>[kute]{.glyphsubtitle}     | ear, hear, listen, pay attention to                    | Ear shape curving out to the right, tiny line in the middle |
-| [jo]{.glyph}<br/>[jo]{.glyphsubtitle}         | have, possess, carry, own                              | "G" shape with circle at top end, like sitting person       |
-| [pana]{.glyph}<br/>[pana]{.glyphsubtitle}     | give, emit, provide, gift                              | A hand shape with emitters                                  |
+|                     Word                      | Definition                                             | Writing                                                     |
+| :-------------------------------------------: | ------------------------------------------------------ | ----------------------------------------------------------- |
+|   [wile]{.glyph}<br/>[wile]{.glyphsubtitle}   | want, need, to want                                    | Curvy letter "w"                                            |
+|   [lipu]{.glyph}<br/>[lipu]{.glyphsubtitle}   | paper, card, document, website, leaf, small flat thing | Tall rectangle like a piece of paper                        |
+|   [sona]{.glyph}<br/>[sona]{.glyphsubtitle}   | knowledge, understanding, to know                      | Piece of paper with emitters!                               |
+|  [lukin]{.glyph}<br/>[lukin]{.glyphsubtitle}  | eyes, to look, to try                                  | An eye with a pupil in the center                           |
+|   [pali]{.glyph}<br/>[pali]{.glyphsubtitle}   | create, work, creation                                 | A hand shape with a circle above it                         |
+|   [kute]{.glyph}<br/>[kute]{.glyphsubtitle}   | ear, hear, listen, pay attention to                    | Ear shape curving out to the right, tiny line in the middle |
+|     [jo]{.glyph}<br/>[jo]{.glyphsubtitle}     | have, possess, carry, own                              | "G" shape with circle at top end, like sitting person       |
+|   [pana]{.glyph}<br/>[pana]{.glyphsubtitle}   | give, emit, provide, gift                              | A hand shape with emitters                                  |
 | [pakala]{.glyph}<br/>[pakala]{.glyphsubtitle} | destroy, break, shatter, explode, ruin, mistake        | Paper with jagged middle line, like a crack or tear         |
-| [ante]{.glyph}<br/>[ante]{.glyphsubtitle}     | change, alter, other, different                        | Two arrows pointing at each other from the top and bottom   |
-| [pilin]{.glyph}<br/>[pilin]{.glyphsubtitle}   | feeling, emotion, touch, contact                       | A heart                                                     |
-
-:::
+|   [ante]{.glyph}<br/>[ante]{.glyphsubtitle}   | change, alter, other, different                        | Two arrows pointing at each other from the top and bottom   |
+|  [pilin]{.glyph}<br/>[pilin]{.glyphsubtitle}  | feeling, emotion, touch, contact                       | A heart                                                     |
 
 ## Overview
 

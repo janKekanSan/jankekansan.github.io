@@ -45,37 +45,29 @@ This lesson is complete, but the examples are not!
 
 #### Particles
 
-::: tpdefinitions
-
-| Word                                        | Use                                        | Writing                                                            |
-| ------------------------------------------- | ------------------------------------------ | ------------------------------------------------------------------ |
-| [anu]{.glyph}<br/>[anu]{.glyphsubtitle}     | (connect phrases with 'or')                | A capital letter "Y" with a wide top                               |
-| [kin]{.glyph}<br/>[kin]{.glyphsubtitle}     | (indicate something is additional, extra)  | Asterisk or 6 pointed star below a line, like an exclamation point |
+|                    Word                     | Use                                        | Writing                                                            |
+| :-----------------------------------------: | ------------------------------------------ | ------------------------------------------------------------------ |
+|   [anu]{.glyph}<br/>[anu]{.glyphsubtitle}   | (connect phrases with 'or')                | A capital letter "Y" with a wide top                               |
+|   [kin]{.glyph}<br/>[kin]{.glyphsubtitle}   | (indicate something is additional, extra)  | Asterisk or 6 pointed star below a line, like an exclamation point |
 | [nanpa]{.glyph}<br/>[nanpa]{.glyphsubtitle} | (group modifiers into an ordinal, ranking) | Two horizontal and vertical lines as in a hash symbol `#`          |
-
-:::
 
 #### Content Words
 
-::: tpdefinitions
-
-| Word                                                           | Definition                                | Writing                                                                                              |
-| -------------------------------------------------------------- | ----------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| [kipisi]{.glyph}<br/>[kipisi]{.glyphsubtitle}                  | split, cut, divide                        | A dot in the upper left and lower right divided down the diagonal by a line, like a percent sign `%` |
-| [leko]{.glyph}<br/>[leko]{.glyphsubtitle}                      | square, cube, corner                      | A square, inside another square                                                                      |
-| [meli]{.glyph}<br/>[meli]{.glyphsubtitle}                      | girl, woman, female                       | Circle with a curve from the bottom, around the top, and back to the bottom like long hair           |
-| [mije]{.glyph}<br/>[mije]{.glyphsubtitle}                      | boy, man, male                            | Circle with corners off the bottom like broad shoulders                                              |
-| [tonsi]{.glyph}<br/>[tonsi]{.glyphsubtitle}                    | transgender, non-binary                   | A circle with three lines coming off at upper left, upper right, bottom                              |
-| [monsuta]{.glyph}<br/>[monsuta]{.glyphsubtitle}                | fear, fright, scary, frightening, anxiety | Cartoonish shaking from fear; a zig zag that starts and ends going down and is larger in the middle  |
+|                              Word                              | Definition                                | Writing                                                                                              |
+| :------------------------------------------------------------: | ----------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+|         [kipisi]{.glyph}<br/>[kipisi]{.glyphsubtitle}          | split, cut, divide                        | A dot in the upper left and lower right divided down the diagonal by a line, like a percent sign `%` |
+|           [leko]{.glyph}<br/>[leko]{.glyphsubtitle}            | square, cube, corner                      | A square, inside another square                                                                      |
+|           [meli]{.glyph}<br/>[meli]{.glyphsubtitle}            | girl, woman, female                       | Circle with a curve from the bottom, around the top, and back to the bottom like long hair           |
+|           [mije]{.glyph}<br/>[mije]{.glyphsubtitle}            | boy, man, male                            | Circle with corners off the bottom like broad shoulders                                              |
+|          [tonsi]{.glyph}<br/>[tonsi]{.glyphsubtitle}           | transgender, non-binary                   | A circle with three lines coming off at upper left, upper right, bottom                              |
+|        [monsuta]{.glyph}<br/>[monsuta]{.glyphsubtitle}         | fear, fright, scary, frightening, anxiety | Cartoonish shaking from fear; a zig zag that starts and ends going down and is larger in the middle  |
 | [namako2]{.glyph}[namako]{.glyph}<br/>[namako]{.glyphsubtitle} | extra, ornamental, spicy                  | An open-top pepper with emitters OR four lines away from the center going up, down, left, right      |
-| [soko]{.glyph}<br/>[soko]{.glyphsubtitle}                      | mushroom, fungus                          | A mushroom; half circle on top with smaller rectangle for the stalk in center to bottom              |
-| [unpa]{.glyph}<br/>[unpa]{.glyphsubtitle}                      | sex, sexual relations                     | Three crossing loops like a triple venn-diagram but simpler                                          |
-| [wan]{.glyph}<br/>[wan]{.glyphsubtitle}                        | one, unite, join, group                   | Number `1` with no base; a vertical line with a small slant down to the left from its top            |
-| [tu]{.glyph}<br/>[tu]{.glyphsubtitle}                          | two, split, divide, cut                   | Two vertical tally marks close together                                                              |
-| [nanpa]{.glyph}<br/>[nanpa]{.glyphsubtitle}                    | number                                    | Two horizontal and vertical lines as in a hash symbol `#`                                            |
-| [nimi]{.glyph}<br/>[nimi]{.glyphsubtitle}                      | word, name                                | A horizontal rectangle with slightly curved corners                                                  |
-
-:::
+|           [soko]{.glyph}<br/>[soko]{.glyphsubtitle}            | mushroom, fungus                          | A mushroom; half circle on top with smaller rectangle for the stalk in center to bottom              |
+|           [unpa]{.glyph}<br/>[unpa]{.glyphsubtitle}            | sex, sexual relations                     | Three crossing loops like a triple venn-diagram but simpler                                          |
+|            [wan]{.glyph}<br/>[wan]{.glyphsubtitle}             | one, unite, join, group                   | Number `1` with no base; a vertical line with a small slant down to the left from its top            |
+|             [tu]{.glyph}<br/>[tu]{.glyphsubtitle}              | two, split, divide, cut                   | Two vertical tally marks close together                                                              |
+|          [nanpa]{.glyph}<br/>[nanpa]{.glyphsubtitle}           | number                                    | Two horizontal and vertical lines as in a hash symbol `#`                                            |
+|           [nimi]{.glyph}<br/>[nimi]{.glyphsubtitle}            | word, name                                | A horizontal rectangle with slightly curved corners                                                  |
 
 ## Overview
 
@@ -230,17 +222,13 @@ If you _really, really_ want to use bigger and more specific numbers, there is a
 
 Counting with this system works exactly as before, except you have bigger numbers to use:
 
-::: tpdefinitions
-
-| Word                                      | Number            |
-| ----------------------------------------- | ----------------- |
-| [wan]{.glyph}<br/>[wan]{.glyphsubtitle}   | One (1)           |
-| [tu]{.glyph}<br/>[tu]{.glyphsubtitle}     | Two (2)           |
+|                   Word                    | Number            |
+| :---------------------------------------: | ----------------- |
+|  [wan]{.glyph}<br/>[wan]{.glyphsubtitle}  | One (1)           |
+|   [tu]{.glyph}<br/>[tu]{.glyphsubtitle}   | Two (2)           |
 | [luka]{.glyph}<br/>[luka]{.glyphsubtitle} | Five (5)          |
 | [mute]{.glyph}<br/>[mute]{.glyphsubtitle} | Twenty (20)       |
-| [ale]{.glyph}<br/>[ale]{.glyphsubtitle}   | One Hundred (100) |
-
-:::
+|  [ale]{.glyph}<br/>[ale]{.glyphsubtitle}  | One Hundred (100) |
 
 Here are some quick examples:
 
