@@ -48,9 +48,9 @@ transform-origin: 50% 80%; }
 <a href="https://sike.pona.la/jan/jan Kekan San/prev.html" id="prev">← prev</a>
 </span>
 <span id="mid"><a href="https://sike.pona.la">
-<img class="icon" src="https://sike.pona.la/assets/tokipona.svg"></img>
+<img class="icon" src="tokipona.png"></img>
 sike pona
-<img class="icon" src="https://sike.pona.la/assets/tokipona.svg"></img>
+<img class="icon" src="tokipona.png"></img>
 </a></span>
 <span id="right">
 <a href="https://sike.pona.la/jan/jan Kekan San/next.html" id="next">next →</a>
@@ -66,7 +66,6 @@ sike pona
 <!-- [secret presentations!](./toki/) -->
 
 ## [ijo]{.tokipona} (things)
-
 
 - [lipu Linku, a dictionary](https://linku.la)
 - [Urban Dictionary but Toki Pona](https://kijetesantakalu.com/)
