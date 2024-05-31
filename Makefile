@@ -9,7 +9,7 @@ TEMPLATE=templates/default.html
 
 PAGES_BUILT=$(patsubst $(PAGEDIR)/%.md,$(BUILDDIR)/%.html,$(PAGES))
 STATICS_BUILT=$(patsubst static/%,$(BUILDDIR)/%,$(STATICS))
-LUA_FILTER=rm-colgroup.lua
+LUA_FILTER=pandoc/rm-colgroup.lua
 
 MARP=npx marp --html
 MD_TO_HTML=pandoc --lua-filter=$(LUA_FILTER) --from=markdown+yaml_metadata_block
