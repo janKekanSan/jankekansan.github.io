@@ -12,9 +12,7 @@ function toggle() {
   let current = elementRules.style.getPropertyValue("font-family");
   if (current === "") {
     elementRules.style["font-family"] = "sp";
-    elementRules.style["font-size"] = "1.75em";
   } else {
     elementRules.style["font-family"] = "";
-    elementRules.style["font-size"] = "";
   }
 }
