@@ -239,7 +239,7 @@ button.sptoggle {
   font-size: 0.8em;
 }
 @media (pointer: none), (pointer: coarse) {
-  button {
+  button.sptoggle {
     bottom: 95.5%;
     right: 3%;
   }
