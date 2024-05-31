@@ -13,7 +13,22 @@ LUA_FILTER=pandoc/rm-colgroup.lua
 
 MARP=npx marp --html
 MD_TO_HTML=pandoc --lua-filter=$(LUA_FILTER) --from=markdown+yaml_metadata_block
-MINIFIER=htmlmin --remove-comments --remove-all-empty-space
+MINIFIER=npx html-minifier \
+				--collapse-boolean-attributes \
+				--collapse-whitespace \
+				--minify-css true \
+				--minify-js true \
+				--minify-urls true \
+				--remove-attribute-quotes \
+				--remove-comments \
+				--remove-empty-attributes \
+				--remove-empty-elements \
+				--remove-optional-tags \
+				--remove-redundant-attributes \
+				--remove-script-type-attributes \
+				--remove-script-link-type-attributes \
+				--remove-tag-whitespace \
+				--use-short-doctype
 TOC_MAKER=npx markdown-toc --maxdepth 5 --no-stripHeadingTags --indent="  " --bullets="-" -i
 MAPPER=npx markmap --no-open
 
@@ -29,17 +44,17 @@ clean:
 $(BUILDDIR)/lipu/index.html: blogindex.sh
 	@mkdir -p $(@D)
 	bash blogindex.sh | $(MD_TO_HTML) --template=$(TEMPLATE) -o $@
-	$(MINIFIER) $@ $@
+	$(MINIFIER) $@ -o $@
 
 $(BUILDDIR)/toki/%.html: $(PAGEDIR)/toki/%.md
 	@mkdir -p $(@D)
 	$(MARP) $< -o $@
-	$(MINIFIER) $@ $@
+	# $(MINIFIER) $@ -o $@  # broken
 
 $(BUILDDIR)/ilo/map.html: $(PAGEDIR)/ilo/map.md
 	@mkdir -p $(@D)
 	$(MAPPER) $< -o $@
-	$(MINIFIER) $@ $@
+	$(MINIFIER) $@ -o $@
 
 $(BUILDDIR)/%.html: $(PAGEDIR)/%.md $(TEMPLATE)
 	# altered because of publish line
@@ -49,7 +64,7 @@ $(BUILDDIR)/%.html: $(PAGEDIR)/%.md $(TEMPLATE)
 		--template=$(TEMPLATE) \
 		--metadata="directory:$(subst pages/,,$<)" \
 		-o $@
-	$(MINIFIER) $@ $@
+	$(MINIFIER) $@ -o $@
 
 $(BUILDDIR)/%: $(STATICDIR)/%
 	@mkdir -p $(@D)
@@ -58,7 +73,7 @@ $(BUILDDIR)/%: $(STATICDIR)/%
 $(BUILDDIR)/%.css: $(STATICDIR)/%.css
 	@mkdir -p $(@D)
 	cp -r $< $@
-	$(MINIFIER) $@ $@
+	$(MINIFIER) $@ -o $@
 
 dev: stopdev
 	docker rm $(DEVNAME) | true
