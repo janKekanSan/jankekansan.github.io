@@ -10,7 +10,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: pandoc/actions/setup@{main}
+      - uses: pandoc/actions/setup@main
       - run: sudo apt-get install -y npm
       - uses: actions/checkout@v3
         with:
