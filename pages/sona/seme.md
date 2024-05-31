@@ -409,7 +409,7 @@ Several of the question fragments stated here are often valid as full questions!
 
 Fluency is _not_ about understanding everything. It's about knowing what questions to ask if you don't understand!
 
-Skilled speakers aren’t just skilled at expression and comprehension; they also are quick to ask appropriate questions when they don’t understand something. Not understanding a statement has stopped being a hindrance or a reason to switch to another language; you can correct your understanding and continue in Toki Pona alone.
+Skilled speakers aren't just skilled at expression and comprehension; they also are quick to ask appropriate questions when they don't understand something. Not understanding a statement has stopped being a hindrance or a reason to switch to another language; you can correct your understanding and continue in Toki Pona alone.
 
 :::
 

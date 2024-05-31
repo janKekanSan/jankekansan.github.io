@@ -35,7 +35,7 @@ I consider the claws+feet of a bird to be luka when they are used to grab things
 
 Again, feeling is important.
 
-> Interesting — so words are relative to the definitions of the conversation partners moreso than in English.
+> Interesting - so words are relative to the definitions of the conversation partners moreso than in English.
 
 That's my experience, yes- I strive to consider the meanings of words to my conversational partner, and this lets me better understand them and them better understand me.
 

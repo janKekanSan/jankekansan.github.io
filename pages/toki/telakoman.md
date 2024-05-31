@@ -165,7 +165,7 @@ In addition Toki Pona has a simple grammar
 
 ante la toki pona li kepeken nimi lon nasin pona
 
-Words don’t change or behave strangely
+Words don't change or behave strangely
 
 nimi li ante ala li nasa ala
 
@@ -323,7 +323,7 @@ In this playlist all the videos use Toki Pona
 
 kulupu ni pi sitelen tawa la sitelen ale li kepeken toki pona
 
-Even if you watched non-stop for a week, you couldn’t finish them all!
+Even if you watched non-stop for a week, you couldn't finish them all!
 
 sina kepeken tenpo suno en tenpo pimeja ale lon tenpo esun la sina ken ala lukin e sitelen ale ni!
 
@@ -481,7 +481,7 @@ sina kama sona e toki pona la sina kama sona e wawa ante pi toki jan
 
 <div class="columns">
 
-Feynman said that if you can’t explain something simply, maybe you don’t actually know it
+Feynman said that if you can't explain something simply, maybe you don't actually know it
 
 jan Penman li toki e ni: "o pana e sona lon nasin pona. sina ken ala pona e sona sina la ken la sina sona ala"
 
@@ -491,7 +491,7 @@ jan Penman li toki e ni: "o pana e sona lon nasin pona. sina ken ala pona e sona
 
 <div class="columns">
 
-With Toki Pona, you can’t hide problems in your knowledge with big words
+With Toki Pona, you can't hide problems in your knowledge with big words
 
 toki pona la sina ken ala len e sona pakala sina kepeken nimi suli
 
@@ -555,7 +555,7 @@ You start with a feeling that is simple
 
 ni la sina open lon pilin pi nasa ala
 
-You don’t use a complex term, you use simple words
+You don't use a complex term, you use simple words
 
 sina kepeken ala nimi suli nasa, sina kepeken nimi pona
 

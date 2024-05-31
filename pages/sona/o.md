@@ -71,13 +71,13 @@ date: date unknown
 |        [pipi]{.glyph}<br/>[pipi]{.glyphsubtitle}         | bug, insect, spider, exo-skeletal creature  | A vertical line with three lines across for legs. Then dot the eyes at the top two boxes!                   |
 | [kala]{.glyph}[kala2]{.glyph}<br/>[kala]{.glyphsubtitle} | fish, swimming creature                     | A fish in a loop: from top left of fin, down and around for body, back to the bottom left to finish the fin |
 
-Don’t worry, these are content words too! I separated them to make them easier to remember.
+Don't worry, these are content words too! I separated them to make them easier to remember.
 
 ## Overview
 
 #### Instructions
 
-We’re going to look at another new sentence! We'll use the particle [o]{.tokipona}, so we can give instructions or set out requirements.
+We're going to look at another new sentence! We'll use the particle [o]{.tokipona}, so we can give instructions or set out requirements.
 
 The particle [o]{.tokipona} is like [li]{.tokipona}. It takes the same place in the sentence, but it changes the meaning: now, the sentence is an instruction!
 
@@ -95,7 +95,7 @@ This is the most common form of an instruction, _without_ a subject.
 
 ::: info
 
-In Toki Pona, it is not rude to give an instruction. If you say [o ni]{.tokipona} as in "Do this", it is as polite as "Can you please do this?" in English. There is no “please” in Toki Pona, and no need for it!
+In Toki Pona, it is not rude to give an instruction. If you say [o ni]{.tokipona} as in "Do this", it is as polite as "Can you please do this?" in English. There is no "please" in Toki Pona, and no need for it!
 
 :::
 
@@ -138,13 +138,13 @@ Now the listener is responsible for the paper!
 
 <details><summary> A note about politeness </summary>
 
-It is possible to be rude in Toki Pona, as it is possible in any language. But in English, we soften requests with lots of extra words, such as please and can. In Toki Pona, there is an assumption that you are being earnest and respectful of your listener, so a request doesn’t need to be softened with other words. This is often called a "polite default" assumption, but I call it an "earnest default."
+It is possible to be rude in Toki Pona, as it is possible in any language. But in English, we soften requests with lots of extra words, such as please and can. In Toki Pona, there is an assumption that you are being earnest and respectful of your listener, so a request doesn't need to be softened with other words. This is often called a "polite default" assumption, but I call it an "earnest default."
 
 </details>
 
 #### Attention
 
-You may use [o]{.tokipona} directly after a subject phrase to get that subject’s attention:
+You may use [o]{.tokipona} directly after a subject phrase to get that subject's attention:
 
 <details><summary> [mama o ]{.tokipona} </summary>
 
@@ -156,7 +156,7 @@ Dad! [dad looks over]
 
 ::: info
 
-This is an interjection, which we’ll learn more about in the next lesson!
+This is an interjection, which we'll learn more about in the next lesson!
 
 :::
 
@@ -164,17 +164,17 @@ This may appear before or after a sentence, but both mean the same:
 
 <details><summary> [jan sona o! sina pona]{.tokipona} </summary>
 
-Teacher, you’re excellent!
+Teacher, you're excellent!
 
 </details>
 
 <details><summary> [sina pona! jan sona o]{.tokipona} </summary>
 
-You’re excellent, teacher!
+You're excellent, teacher!
 
 </details>
 
-Here, [jan sona o]{.tokipona} is getting the attention of [jan sona]{.tokipona}, and the speaker says a complete sentence directed at them. The order of the sentence and interjection doesn’t matter, so do what feels right in the moment.
+Here, [jan sona o]{.tokipona} is getting the attention of [jan sona]{.tokipona}, and the speaker says a complete sentence directed at them. The order of the sentence and interjection doesn't matter, so do what feels right in the moment.
 
 You can use this interjection with an instruction, so you know that an instruction will be heard by its intended listener:
 
@@ -270,11 +270,11 @@ You're on a camping trip in the hills of a huge mountain range, and have a range
 
 <details><summary> [o utala ala e soweli ]{.tokipona} </summary>
 
-Don’t attack the bear!
+Don't attack the bear!
 
 </details>
 
-You’re on a boat with some friends, enjoying the sun and the wind. One of your friends has been intently watching over the side, waiting for… Something? Eventually, they call out to everyone to come look, because they spotted something! They say:
+You're on a boat with some friends, enjoying the sun and the wind. One of your friends has been intently watching over the side, waiting for... Something? Eventually, they call out to everyone to come look, because they spotted something! They say:
 
 <details><summary> [o lukin e kala suli ]{.tokipona} </summary>
 
@@ -316,7 +316,7 @@ Sticks must not make the house gross. Remove the sticks!
 
 </details>
 
-You’ve been hanging out on the porch for too long, and you’ve started to notice lots of obnoxious bugs coming out as the sun sets. In your frustration, you yell out at the bugs:
+You've been hanging out on the porch for too long, and you've started to notice lots of obnoxious bugs coming out as the sun sets. In your frustration, you yell out at the bugs:
 
 <details><summary> [pipi o weka! o moli!]{.tokipona} </summary>
 
@@ -334,7 +334,7 @@ The person who knows about the game should explain!
 
 </details>
 
-You’re explaining the rules to the game: When the leader covers their eyes, everyone runs as fast as they can. When the leader opens their eyes, if anyone is seen moving they’re out! You explain:
+You're explaining the rules to the game: When the leader covers their eyes, everyone runs as fast as they can. When the leader opens their eyes, if anyone is seen moving they're out! You explain:
 
 <details><summary> [ona ale o tawa ala ]{.tokipona} </summary>
 
@@ -352,7 +352,7 @@ Your pasta has to come out _amazingly_!
 
 #### [o]{.tokipona} for attention
 
-You spotted a cute squirrel, and you’re trying to get its attention!
+You spotted a cute squirrel, and you're trying to get its attention!
 
 <details><summary> [soweli o ]{.tokipona} </summary>
 
