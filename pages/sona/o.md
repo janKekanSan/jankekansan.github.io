@@ -17,16 +17,16 @@ date: date unknown
 - [Overview](#overview)
     - [Instructions](#instructions)
     - [Attention](#attention)
-    - [taso sentences](#taso-sentences)
-    - [taso modifier](#taso-modifier)
-    - [taso head](#taso-head)
+    - [[taso]{.tokipona} sentences](#tasotokipona-sentences)
+    - [[taso]{.tokipona} modifier](#tasotokipona-modifier)
+    - [[taso]{.tokipona} head](#tasotokipona-head)
 - [Exercises](#exercises)
   - [Toki Pona to English](#toki-pona-to-english)
-    - [o for commands](#o-for-commands)
-    - [o with a subject](#o-with-a-subject)
-    - [o for attention](#o-for-attention)
-    - [Sentence-start taso](#sentence-start-taso)
-    - [Modifier taso](#modifier-taso)
+    - [[o]{.tokipona} for commands](#otokipona-for-commands)
+    - [[o]{.tokipona} with a subject](#otokipona-with-a-subject)
+    - [[o]{.tokipona} for attention](#otokipona-for-attention)
+    - [Sentence-start [taso]{.tokipona}](#sentence-start-tasotokipona)
+    - [Modifier [taso]{.tokipona}](#modifier-tasotokipona)
   - [English to Toki Pona](#english-to-toki-pona)
 - [Takeaway](#takeaway)
     - [Giving Instructions](#giving-instructions)
@@ -138,7 +138,7 @@ Now the listener is responsible for the paper!
 
 <details><summary> A note about politeness </summary>
 
-It is possible to be rude in Toki Pona, as it is possible in any language. But in English, we soften requests with lots of extra words, such as please and can. In Toki Pona, there is an assumption that you are being earnest and respectful of your listener, so a request doesn’t need to be softened with other words. This is often called a “polite default” assumption, but I call it an “earnest default.”
+It is possible to be rude in Toki Pona, as it is possible in any language. But in English, we soften requests with lots of extra words, such as please and can. In Toki Pona, there is an assumption that you are being earnest and respectful of your listener, so a request doesn’t need to be softened with other words. This is often called a "polite default" assumption, but I call it an "earnest default."
 
 </details>
 
@@ -162,13 +162,13 @@ This is an interjection, which we’ll learn more about in the next lesson!
 
 This may appear before or after a sentence, but both mean the same:
 
-<details><summary> [jan sona o! sina pona ]{.tokipona} </summary>
+<details><summary> [jan sona o! sina pona]{.tokipona} </summary>
 
 Teacher, you’re excellent!
 
 </details>
 
-<details><summary> [sina pona! jan sona o ]{.tokipona} </summary>
+<details><summary> [sina pona! jan sona o]{.tokipona} </summary>
 
 You’re excellent, teacher!
 
@@ -178,7 +178,7 @@ Here, [jan sona o]{.tokipona} is getting the attention of [jan sona]{.tokipona},
 
 You can use this interjection with an instruction, so you know that an instruction will be heard by its intended listener:
 
-<details><summary> [jan ale o! o pana e lipu sina ]{.tokipona} </summary>
+<details><summary> [jan ale o! o pana e lipu sina]{.tokipona} </summary>
 
 Everyone, please turn in your papers!
 
@@ -186,7 +186,7 @@ Everyone, please turn in your papers!
 
 And you can put the two together, because an instruction with a subject can get the attention of that subject at the same time as instructing or requiring:
 
-<details><summary> [jan ale o pana e lipu sina ]{.tokipona} </summary>
+<details><summary> [jan ale o pana e lipu sina]{.tokipona} </summary>
 
 Everyone, please turn in your papers!
 
@@ -194,7 +194,7 @@ Everyone must turn in their papers.
 
 </details>
 
-#### taso sentences
+#### [taso]{.tokipona} sentences
 
 Sometimes you'll see [taso]{.tokipona} at the start of a sentence. This is like saying "but" or "however," and is usually used before a _later_ sentence to connect two ideas.
 
@@ -212,29 +212,29 @@ For comparison, here is the second sentence without [taso]{.tokipona}:
 
 Without [taso]{.tokipona}, the sentences are not as clearly related.
 
-#### taso modifier
+#### [taso]{.tokipona} modifier
 
 [taso]{.tokipona} is a modifier the rest of the time, but usually as the _last_ modifier of a phrase, affecting the entire phrase. Consider these examples:
 
-<details><summary> [kute taso li pona e sona sina ]{.tokipona} </summary>
+<details><summary> [kute taso li pona e sona sina]{.tokipona} </summary>
 
 (Only listening) can improve your understanding.
 
 </details>
 
-<details><summary> [kute li pona taso e sona sina ]{.tokipona} </summary>
+<details><summary> [kute li pona taso e sona sina]{.tokipona} </summary>
 
 Listening will (only improve) your understanding.
 
 </details>
 
-<details><summary> [kute li pona e sona sina taso ]{.tokipona} </summary>
+<details><summary> [kute li pona e sona sina taso]{.tokipona} </summary>
 
 Listening will improve (your understanding only).
 
 </details>
 
-#### taso head
+#### [taso]{.tokipona} head
 
 taso can also be the head of a phrase, used as a normal content word:
 
@@ -264,7 +264,7 @@ In previous lessons, I gave many interpretations for each sentence. As these sen
 
 ### Toki Pona to English
 
-#### o for commands
+#### [o]{.tokipona} for commands
 
 You're on a camping trip in the hills of a huge mountain range, and have a ranger with you to help the trip and provide knowledge of nature! You get back to your camp one night before sunset, and find a bear digging through your food. Oh no, you've gotta stop it! But the ranger tells you in hushed but serious tone:
 
@@ -306,7 +306,7 @@ Don't destroy your painting. It's fantastic!
 
 </details>
 
-#### o with a subject
+#### [o]{.tokipona} with a subject
 
 Your dad is leaving you at home while he runs errands. He wants you to clean the house, because you made a mess of the place not long ago, bringing in a bunch of branches from outside. He says to you:
 
@@ -350,7 +350,7 @@ Your pasta has to come out _amazingly_!
 
 </details>
 
-#### o for attention
+#### [o]{.tokipona} for attention
 
 You spotted a cute squirrel, and you’re trying to get its attention!
 
@@ -376,7 +376,7 @@ Please eat the lettuce, little lizard
 
 </details>
 
-#### Sentence-start taso
+#### Sentence-start [taso]{.tokipona}
 
 You're discussing hobbies with a friend, especially when you like to work on your hobbies. Your friend is a morning person and loves feeling the sun as they're productive. You like the sun, but prefer to work in the dark when the moon is out. You tell them:
 
@@ -407,7 +407,7 @@ I am not a bird, but I can fly!
 
 </details>
 
-#### Modifier taso
+#### Modifier [taso]{.tokipona}
 
 Your friend has become quite philosophical as of late, and has been throwing various statements in their new philosophical views your way for review. The most recent one seems rather obvious to you, but you don't let them know that. The statement:
 
@@ -586,7 +586,7 @@ You can use [o]{.tokipona} in place of [li]{.tokipona} in a sentence to turn tha
 
 You can optionally include [taso]{.tokipona} before a sentence, which connects it to previous statements in a similar way to "but" or "however" in English.
 
-> (taso) [subject] (li) [predicate] (e [object])
+> ([taso]{.tokipona}) [subject] ([li]{.tokipona}) [predicate] ([e]{.tokipona} [object])
 
 taso can be used at the end of a phrase to indicate that particular phrase is exclusive.
 
