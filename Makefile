@@ -14,21 +14,7 @@ LINK_FIX=pandoc/link-md-to-html.lua
 
 MARP=npx marp --html
 MD_TO_HTML=pandoc --lua-filter=$(WIDTH_FIX) --lua-filter=$(LINK_FIX) --from=markdown+yaml_metadata_block+mark-definition_lists+wikilinks_title_after_pipe
-MINIFIER=npx html-minifier \
-				--collapse-boolean-attributes \
-				--collapse-whitespace \
-				--minify-css true \
-				--minify-js true \
-				--minify-urls true \
-				--remove-attribute-quotes \
-				--remove-comments \
-				--remove-empty-attributes \
-				--remove-optional-tags \
-				--remove-redundant-attributes \
-				--remove-script-type-attributes \
-				--remove-script-link-type-attributes \
-				--remove-tag-whitespace \
-				--use-short-doctype
+MINIFIER=npx html-minifier --config html-minifier.config.json
 TOC_MAKER=npx markdown-toc --maxdepth 5 --no-stripHeadingTags --indent="  " --bullets="-" -i
 MAPPER=npx markmap --no-open
 
