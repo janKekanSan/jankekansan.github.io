@@ -187,7 +187,7 @@ The reading of the cartouche is **Kanse**.
 
 Lastly, symbols can be stacked or nested! Both are read from the bottom up, which is the same as reading from the outside in for nested symbols.
 
-> [toki-pona li pona mute tawa mi! waso li jo e linja-suwi!]{.tokipona}
+> [toki+pona li pona mute tawa mi! waso li jo e linja-suwi!]{.tokipona}
 
 The first symbol is read "toki pona" and it is two nested symbols, [toki]{.tokipona} outside and [pona]{.tokipona} inside. The last symbol is "linja suwi" and it is two stacked symbols, [linja]{.tokipona} below and [suwi]{.tokipona} above.
 
