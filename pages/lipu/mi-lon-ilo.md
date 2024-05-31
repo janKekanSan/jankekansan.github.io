@@ -5,8 +5,6 @@
 
 ::: tokipona
 
-[o lukin e ni lon lipu pona!](/toki/mi-lon-ilo.html)
-
 ---
 
 <center>

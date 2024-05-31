@@ -25,7 +25,7 @@ Others not in the webring:
   <!-- - [tan ijo Mina](https://ap5.dev/tokipona) -->
   <!-- - [tan lipamanka](https://lipamanka.github.io/) (ona li kam lon sike) -->
 
-[fanart others have made for me!](./fanart.html)
+[fanart others have made for me!](./fanart.md)
 
 <!-- [secret presentations!](./toki/) -->
 
@@ -33,7 +33,7 @@ Others not in the webring:
 
 **tan mi (from me)**
 
-- [An explorable map of Toki Pona concepts](./ilo/map.html)
+- [An explorable map of Toki Pona concepts](./ilo/map.md)
   - Most data is from [nimi_pu.txt](http://tokipona.org/nimi_pu.txt) and
     [nimi_pi_pu_ala.txt](http://tokipona.org/nimi_pi_pu_ala.txt)
 

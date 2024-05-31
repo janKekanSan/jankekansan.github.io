@@ -559,6 +559,6 @@ This applies to every preposition, but understandably, it affects [tawa]{.tokipo
 
 ---
 
-[Previous lesson](./pre-predicates.html)
+[Previous lesson](./pre-predicates.md)
 
-[Next lesson](./o.html)
+[Next lesson](./o.md)

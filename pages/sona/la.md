@@ -3,6 +3,7 @@ title: Context and la
 author: gregdan3
 date: 2023-02-11T00:00:00.000Z
 ---
+
 Video lesson still to come!
 
 <details><summary>**Table of Contents**</summary>
@@ -470,7 +471,7 @@ Here, the phrase and sentence are in the opposite order. Just as well!
 
 ::: warning
 
-It might be that both contexts apply to the last "main" sentence, or that the first applies to the second and the second applies to the last sentence. [Like when we learned about [pi]{.tokipona}](./mod-pi.html), context matters- but shorter sentences, and fewer phrases, are clearer!
+It might be that both contexts apply to the last "main" sentence, or that the first applies to the second and the second applies to the last sentence. [Like when we learned about [pi]{.tokipona}](./mod-pi.md), context matters- but shorter sentences, and fewer phrases, are clearer!
 
 :::
 
@@ -506,7 +507,7 @@ Sentences are often more clear than phrases because they provide more informatio
 
 ::: info
 
-Check out [my side lesson](./la-extras.html) for more tricks with [la]{.tokipona}!
+Check out [my side lesson](./la-extras.md) for more tricks with [la]{.tokipona}!
 
 :::
 
@@ -759,6 +760,6 @@ Remember, these lessons aren't comprehensive. The guidance and interpretations o
 
 :::
 
-[Previous lesson](./interjections.html)
+[Previous lesson](./interjections.md)
 
-[Next lesson](./seme.html)
+[Next lesson](./seme.md)

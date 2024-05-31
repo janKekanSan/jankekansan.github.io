@@ -162,7 +162,7 @@ This means mostly the same: You look at the plant. The plant is cute.
 
 ::: info
 
-[mi]{.tokipona} and [sina]{.tokipona} can be modified, even in the **subject**. If you do, you still use [li]{.tokipona}! You only omit [li]{.tokipona} if the subject is _exactly_ [mi]{.tokipona} or _exactly_ [sina]{.tokipona}. [Check the first lesson again](./mi-sina.html)!
+[mi]{.tokipona} and [sina]{.tokipona} can be modified, even in the **subject**. If you do, you still use [li]{.tokipona}! You only omit [li]{.tokipona} if the subject is _exactly_ [mi]{.tokipona} or _exactly_ [sina]{.tokipona}. [Check the first lesson again](./mi-sina.md)!
 
 :::
 
@@ -539,6 +539,6 @@ You can see this in English too: a blue book is a kind of book, and a deep under
 
 ---
 
-[Previous lesson](./e.html)
+[Previous lesson](./e.md)
 
-[Next lesson](./pre-predicates.html)
+[Next lesson](./pre-predicates.md)

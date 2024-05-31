@@ -2,7 +2,7 @@
 title: Fanart!
 author: jan mute
 date: 2023-09-06T00:00:00.000Z
-extracss: gallery-style
+extracss: /gallery-style
 ---
 
 <script>
@@ -1896,12 +1896,8 @@ This gallery was set up by [@munantuwan](https://discord.com/users/1054273094358
 
 If you're in [ma pona pi toki pona](https://discord.gg/mapona), [check out the fanart thread too](https://discord.com/channels/301377942062366741/1145483914765422682/1145483914765422682)!
 
-<br/>
-
 ---
 
-<br/>
+::: gallery
 
-<div class="gallery">
-
-</div>
+:::

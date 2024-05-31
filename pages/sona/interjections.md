@@ -675,12 +675,12 @@ There are a variety of ways to speak Toki Pona that aren't complete sentences, a
 
 ::: info
 
-By the way, check out [this side lesson about phatic phrases](./phatic-phrases.html)!
+By the way, check out [this side lesson about phatic phrases](./phatic-phrases.md)!
 
 :::
 
 ---
 
-[Previous lesson](./o.html)
+[Previous lesson](./o.md)
 
-[Next lesson](./la.html)
+[Next lesson](./la.md)

@@ -9,10 +9,11 @@ TEMPLATE=templates/default.html
 
 PAGES_BUILT=$(patsubst $(PAGEDIR)/%.md,$(BUILDDIR)/%.html,$(PAGES))
 STATICS_BUILT=$(patsubst static/%,$(BUILDDIR)/%,$(STATICS))
-LUA_FILTER=pandoc/rm-colgroup.lua
+WIDTH_FIX=pandoc/rm-colgroup.lua
+LINK_FIX=pandoc/link-md-to-html.lua
 
 MARP=npx marp --html
-MD_TO_HTML=pandoc --lua-filter=$(LUA_FILTER) --from=markdown+yaml_metadata_block
+MD_TO_HTML=pandoc --lua-filter=$(WIDTH_FIX) --lua-filter=$(LINK_FIX) --from=markdown+yaml_metadata_block+mark-definition_lists+wikilinks_title_after_pipe
 MINIFIER=npx html-minifier \
 				--collapse-boolean-attributes \
 				--collapse-whitespace \
@@ -22,7 +23,6 @@ MINIFIER=npx html-minifier \
 				--remove-attribute-quotes \
 				--remove-comments \
 				--remove-empty-attributes \
-				--remove-empty-elements \
 				--remove-optional-tags \
 				--remove-redundant-attributes \
 				--remove-script-type-attributes \

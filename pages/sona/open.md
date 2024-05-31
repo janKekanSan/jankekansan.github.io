@@ -261,4 +261,4 @@ Remember to take breaks!
 
 :::
 
-[Next lesson](./mi-sina.html)
+[Next lesson](./mi-sina.md)

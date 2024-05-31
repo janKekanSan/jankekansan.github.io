@@ -610,6 +610,6 @@ Now that we've learned the word [sitelen]{.tokipona}, here's a fun side note: To
 
 ---
 
-[Previous lesson](./preps.html)
+[Previous lesson](./preps.md)
 
-[Next lesson](./interjections.html)
+[Next lesson](./interjections.md)

@@ -421,6 +421,6 @@ Skilled speakers aren’t just skilled at expression and comprehension; they als
 
 :::
 
-[Previous lesson](./la.html)
+[Previous lesson](./la.md)
 
-[Next lesson](./bits.html)
+[Next lesson](./bits.md)

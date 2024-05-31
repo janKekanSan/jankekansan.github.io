@@ -6,7 +6,7 @@ date: date unknown
 
 ::: info
 
-This is a bunch of focused mini lessons, helpful ways to use and think about [la]{.tokipona}! [Check out the main [la]{.tokipona} lesson too!](./la.html)
+This is a bunch of focused mini lessons, helpful ways to use and think about [la]{.tokipona}! [Check out the main [la]{.tokipona} lesson too!](./la.md)
 
 :::
 
@@ -25,7 +25,7 @@ This is a bunch of focused mini lessons, helpful ways to use and think about [la
 
 ## Comparisons with la
 
-Back in the [prepositions lesson](./preps.html), we learned several ways to make comparisons using [tawa]{.tokipona} and [sama]{.tokipona}! [la]{.tokipona}, especially with a phrase, gives us a few more useful comparisons!
+Back in the [prepositions lesson](./preps.md), we learned several ways to make comparisons using [tawa]{.tokipona} and [sama]{.tokipona}! [la]{.tokipona}, especially with a phrase, gives us a few more useful comparisons!
 
 <details><summary> [tomo la tomo ni li lili]{.tokipona} </summary>
 
@@ -72,7 +72,7 @@ The trick here is that it's almost the same- the sentence that was originally be
 
 ## Avoiding a 2nd pi
 
-Remember way back in the [modifiers lesson](./mod-pi.html) when we learned about [pi]{.tokipona} and using only one at a time? If you've been practicing since then, you might have noticed that two [pi]{.tokipona} phrases can be hard to avoid sometimes. But [la]{.tokipona} can help!
+Remember way back in the [modifiers lesson](./mod-pi.md) when we learned about [pi]{.tokipona} and using only one at a time? If you've been practicing since then, you might have noticed that two [pi]{.tokipona} phrases can be hard to avoid sometimes. But [la]{.tokipona} can help!
 
 Take the following sentence for example:
 
@@ -125,7 +125,7 @@ In general, you can put statements in the context and refer back to them with [o
 
 ## Implying an object
 
-We noted through the [main [la]{.tokipona} lesson](./la.html) that [la]{.tokipona} phrases can stand in for other prepositions and grammatical functions. What if it stood in for an even more important word- [e]{.tokipona}?
+We noted through the [main [la]{.tokipona} lesson](./la.md) that [la]{.tokipona} phrases can stand in for other prepositions and grammatical functions. What if it stood in for an even more important word- [e]{.tokipona}?
 
 One of the coolest ways to use [la]{.tokipona} is to imply a specific object- a specific word or phrase being interacted with.
 
@@ -167,6 +167,4 @@ These are still valid though!
 
 ---
 
-[Back to [la]{.tokipona}](./la.html)
-
-[Back to home]
+[Back to [la]{.tokipona}](./la.md)

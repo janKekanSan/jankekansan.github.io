@@ -109,7 +109,7 @@ mi ante e tan pakala tawa sina
 
 Using kepeken as a tprep is the least useful kind of tprep, but it does have interesting consequences to consider. Normally, `kepeken e` constructions are discouraged, and considered to be meaningless; tpreps change this! Consider `mi tawa e ijo`: this would mean `I apply moving to ijo`. From this, we can say `mi kepeken e ijo` means `I apply using to ijo`. Then, if kepeken takes an object, it takes on a more helpful meaning: we apply the use of some object to another object. In other words, kepeken tprep is to `make [object] use [something]!`
 
-Check out [kepeken vs kepeken e](./kepeken.html) for more info.
+Check out [kepeken vs kepeken e](./kepeken.md) for more info.
 
 <details><summary> mi kepeken ilo e sina</summary>
 mi ni e sina: sina kepeken ilo

@@ -446,6 +446,6 @@ We're in the home stretch! Have you been practicing? Even if you have, you can n
 
 :::
 
-[Previous lesson](./seme.html)
+[Previous lesson](./seme.md)
 
-[Next lesson](./pini.html)
+[Next lesson](./pini.md)

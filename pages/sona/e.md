@@ -697,6 +697,6 @@ Try remembering the words with **[this game by James Moulang](https://jamesmoula
 
 :::
 
-[Previous lesson](./li.html)
+[Previous lesson](./li.md)
 
-[Next lesson](./mod-pi.html)
+[Next lesson](./mod-pi.md)

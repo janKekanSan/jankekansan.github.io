@@ -517,6 +517,6 @@ There's no better time to start practicing than right now! Check out **[ma pona 
 
 :::
 
-[Previous lesson](./mi-sina.html)
+[Previous lesson](./mi-sina.md)
 
-[Next lesson](./e.html)
+[Next lesson](./e.md)

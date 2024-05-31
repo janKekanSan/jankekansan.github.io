@@ -670,6 +670,6 @@ That said, if any ambiguity or even simple misunderstanding comes up when speaki
 
 ---
 
-[Previous lesson](./mod-pi.html)
+[Previous lesson](./mod-pi.md)
 
-[Next lesson](./preps.html)
+[Next lesson](./preps.md)

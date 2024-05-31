@@ -1,4 +1,3 @@
-/* @media (prefers-color-scheme: light) { */
 :root {
   --prim-fg: #444444;
   --prim-bg: #f2f2f2;
@@ -15,25 +14,6 @@
   --spoil-fg: #443231;
   --spoil-bg: #e2c49c;
 }
-/* } */
-/* @media (prefers-color-scheme: dark) { */
-/*   :root { */
-/*     --prim-fg: #eeeeee; */
-/*     --prim-bg: #333333; */
-/*     --prim-ac: #cccccc; */
-/*     --sec-fg: #dddddd; */
-/*     --sec-bg: #222222; */
-/*     --sec-ac: #b9b9b9; */
-/*     --info-bg: darkblue; */
-/*     --info-fg: lightblue; */
-/*     --warn-bg: darkgreen; */
-/*     --warn-fg: yellow; */
-/*     --error-bg: darkred; */
-/*     --error-fg: pink; */
-/*     --spoil-fg: #e2c49c; */
-/*     --spoil-bg: #443231; */
-/*   } */
-/* } */
 body {
   margin: 8% auto;
   padding: 4%;
@@ -44,7 +24,9 @@ body {
   font-size: 1.125em;
   line-height: 1.7em;
   max-width: 69%;
-  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2), 0 15px 40px rgba(0, 0, 0, 0.05);
+  box-shadow:
+    0 5px 10px rgba(0, 0, 0, 0.2),
+    0 15px 40px rgba(0, 0, 0, 0.05);
 }
 
 @media (pointer: none), (pointer: coarse) {
@@ -115,6 +97,12 @@ code {
   background: var(--sec-bg);
   padding: 0.1em;
 }
+.sourceCode {
+  margin: 0.5em;
+  padding-inline: 0.5em;
+  border-inline-start: 0.25em solid var(--prim-ac);
+  background: var(--sec-bg);
+}
 table {
   margin: 0.5em;
   background: var(--sec-bg);
@@ -153,10 +141,9 @@ summary {
   cursor: pointer;
 }
 details summary > * {
-  display: inline; /*fix block elems*/
+  display: inline;
 }
 details p {
-  /* TODO: why the FUCK is this needed?? */
   margin: 0.1em;
   margin-left: 1em;
 }
@@ -204,8 +191,6 @@ details p {
   margin: 0.5em;
   border-inline-start: 0.25em solid var(--prim-ac);
   background: var(--sec-bg);
-  /* border-inline-start: 0.25em solid gold; */
-  /* background: lightyellow; */
 }
 .bloglink {
   padding-inline: 1em;
@@ -215,8 +200,6 @@ details p {
   margin: 1.5em;
   padding: 0.3em;
   padding-inline: 0.5em;
-  /* border-inline-start: 0.25em solid var(--prim-ac); */
-  /* background: var(--sec-bg); */
 }
 
 @font-face {
@@ -227,6 +210,7 @@ details p {
 .tokipona {
   font-family: sp;
   font-size: 1.75em;
+  /* line-height: 0.6em; */
 }
 .glyph {
   font-family: sp;

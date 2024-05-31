@@ -42,7 +42,7 @@ Everything here is important to know! The three bold words were not in the lesso
 | [kin]{.glyph}<br/>[kin]{.glyphsubtitle}                         | (indicate something is additional, extra)            | in pu, former synonym of a              |
 | [kipisi]{.glyph}<br/>[kipisi]{.glyphsubtitle}                   | split, cut, divide                                   | similar to tu: split, divide            |
 | [leko]{.glyph}<br/>[leko]{.glyphsubtitle}                       | square, cube                                         | my personal favorite nimi ku suli       |
-| [monsuta]{.glyph}<br/>[monsuta]{.glyphsubtitle}                 | fear, scary                                          | see [monsutatesu](./monsutatesu.html)   |
+| [monsuta]{.glyph}<br/>[monsuta]{.glyphsubtitle}                 | fear, scary                                          |                                         |
 | [namako]{.glyph}<br/>[namako]{.glyphsubtitle}                   | spicy, extra, ornamental                             | in pu, former synonym of sin            |
 | [soko]{.glyph}<br/>[soko]{.glyphsubtitle}                       | mushroom, fungus                                     | similar to kasi: fungus, kili: mushroom |
 | [tonsi]{.glyph}<br/>[tonsi]{.glyphsubtitle}                     | transexual, non-binary                               |                                         |
@@ -102,6 +102,6 @@ The previous use gives only the definition which is no longer used.
 
 ---
 
-[Previous lesson](./bits.html)
+[Previous lesson](./bits.md)
 
 [Other lessons](/sona/#namako-extra)
