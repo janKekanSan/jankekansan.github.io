@@ -14,7 +14,7 @@ LINK_FIX=pandoc/link-md-to-html.lua
 
 MARP=npx marp --html
 MD_TO_HTML=pandoc --lua-filter=$(WIDTH_FIX) --lua-filter=$(LINK_FIX) --from=markdown+yaml_metadata_block+mark+wikilinks_title_after_pipe-definition_lists-smart
-MINIFIER=npx html-minifier --config html-minifier.config.json
+MINIFIER=npx minify
 TOC_MAKER=npx markdown-toc --maxdepth 5 --no-stripHeadingTags --indent="  " --bullets="-" -i
 
 DEVNAME=mun.la
@@ -29,12 +29,12 @@ clean:
 $(BUILDDIR)/lipu/index.html: blogindex.sh
 	@mkdir -p $(@D)
 	bash blogindex.sh | $(MD_TO_HTML) --template=$(TEMPLATE) -o $@
-	$(MINIFIER) $@ -o $@
+	$(MINIFIER) $@ | sponge $@
 
 $(BUILDDIR)/toki/%.html: $(PAGEDIR)/toki/%.md
 	@mkdir -p $(@D)
 	$(MARP) $< -o $@
-	# $(MINIFIER) $@ -o $@  # broken
+	$(MINIFIER) $@ | sponge $@
 
 $(BUILDDIR)/%.html: $(PAGEDIR)/%.md $(TEMPLATE)
 	# altered because of publish line
@@ -44,7 +44,7 @@ $(BUILDDIR)/%.html: $(PAGEDIR)/%.md $(TEMPLATE)
 		--template=$(TEMPLATE) \
 		--metadata="directory:$(subst pages/,,$<)" \
 		-o $@
-	$(MINIFIER) $@ -o $@
+	$(MINIFIER) $@ | sponge $@
 
 $(BUILDDIR)/%: $(STATICDIR)/%
 	@mkdir -p $(@D)
@@ -53,7 +53,7 @@ $(BUILDDIR)/%: $(STATICDIR)/%
 $(BUILDDIR)/%.css: $(STATICDIR)/%.css
 	@mkdir -p $(@D)
 	cpp $< | sed 's/^#.*//g' > $@
-	$(MINIFIER) $@ -o $@
+	$(MINIFIER) $@ | sponge $@
 
 dev: stopdev
 	screen -S $(DEVNAME) -d -m python3 -m http.server -d $(BUILDDIR)
