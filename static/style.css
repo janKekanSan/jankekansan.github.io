@@ -5,12 +5,12 @@
   --sec-fg: #333333;
   --sec-bg: #d3d3d3;
   --sec-ac: #555555;
-  --info-bg: lightblue;
-  --info-fg: blue;
-  --warn-bg: lightyellow;
-  --warn-fg: green;
-  --error-bg: pink;
-  --error-fg: darkred;
+  --info-bg: #add8e6;
+  --info-fg: #0000ff;
+  --warn-bg: #ffffe0;
+  --warn-fg: #008000;
+  --error-bg: #ffc0cb;
+  --error-fg: #8b0000;
   --spoil-fg: #443231;
   --spoil-bg: #e2c49c;
 }
