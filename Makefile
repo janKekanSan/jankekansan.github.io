@@ -17,7 +17,7 @@ MD_TO_HTML=pandoc --lua-filter=$(WIDTH_FIX) --lua-filter=$(LINK_FIX) --from=mark
 MINIFIER=npx html-minifier --config html-minifier.config.json
 TOC_MAKER=npx markdown-toc --maxdepth 5 --no-stripHeadingTags --indent="  " --bullets="-" -i
 
-DEVNAME=mun-la
+DEVNAME=mun.la
 
 .PHONY: all clean dev stopdev
 
@@ -56,13 +56,7 @@ $(BUILDDIR)/%.css: $(STATICDIR)/%.css
 	$(MINIFIER) $@ -o $@
 
 dev: stopdev
-	docker rm $(DEVNAME) | true
-	docker run \
-		-d \
-		--network host \
-		-v $(PWD)/$(BUILDDIR):/usr/local/apache2/htdocs \
-		--name $(DEVNAME) \
-		httpd:2
+	screen -S $(DEVNAME) -d -m python3 -m http.server -d $(BUILDDIR)
 
 stopdev:
-	docker kill $(DEVNAME) | true
+	screen -S $(DEVNAME) -X quit | true
