@@ -4,11 +4,14 @@ on:
   push:
     branches:
       - main
+  workflow_dispatch:
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - run: sudo apt-get install -y pandoc htmlmin npm
+      - uses: pandoc/actions/setup@{main}
+      - run: sudo apt-get install -y npm
       - uses: actions/checkout@v3
         with:
           fetch-depth: 1
