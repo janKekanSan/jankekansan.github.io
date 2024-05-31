@@ -221,7 +221,8 @@ details p {
 
 @font-face {
   font-family: sp;
-  src: url("/ssk.ttf");
+  /* src: url("/ssk.ttf"); */
+  src: url("/ntl.ttf");
 }
 .tokipona {
   font-family: sp;
