@@ -16,7 +16,6 @@ MARP=npx marp --html
 MD_TO_HTML=pandoc --lua-filter=$(WIDTH_FIX) --lua-filter=$(LINK_FIX) --from=markdown+yaml_metadata_block+mark-definition_lists+wikilinks_title_after_pipe
 MINIFIER=npx html-minifier --config html-minifier.config.json
 TOC_MAKER=npx markdown-toc --maxdepth 5 --no-stripHeadingTags --indent="  " --bullets="-" -i
-MAPPER=npx markmap --no-open
 
 DEVNAME=mun-la
 
@@ -36,11 +35,6 @@ $(BUILDDIR)/toki/%.html: $(PAGEDIR)/toki/%.md
 	@mkdir -p $(@D)
 	$(MARP) $< -o $@
 	# $(MINIFIER) $@ -o $@  # broken
-
-$(BUILDDIR)/ilo/map.html: $(PAGEDIR)/ilo/map.md
-	@mkdir -p $(@D)
-	$(MAPPER) $< -o $@
-	$(MINIFIER) $@ -o $@
 
 $(BUILDDIR)/%.html: $(PAGEDIR)/%.md $(TEMPLATE)
 	# altered because of publish line

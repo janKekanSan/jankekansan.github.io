@@ -130,7 +130,7 @@ generic codeblock
 ```py
 # python codeblock
 def somefunc(a: int) -> int:
-  return a + 5
+    return a + 5
 ```
 
 ---
@@ -326,11 +326,19 @@ Details content under summary inside info
 
 ## Toki Pona
 
+::: tokipona
+
+> mi unpa e mama sina, aaaaa
+
+:::
+
 [mi toki tawa sina]{.tokipona}
 
 ::: tokipona
 
 mi toki suli tawa sina
+
+ni li nasa anu seme
 
 :::
 
@@ -342,10 +350,10 @@ _mun_ li moli la seme? lon poka pi tenpo moli la mun pi suli wawa li kama suli s
 
 :::
 
-| Word                                                  | Definition                                             | Writing                              |
-| ----------------------------------------------------- | ------------------------------------------------------ | ------------------------------------ |
-| [wile]{.glyph}<br/>[wile]{.glyphsubtitle}             | want, need, to want                                    | Curvy letter "w"                     |
-| [a]{.glyph}<br/>[sona]{.glyphsubtitle}                | knowledge, understanding, to know                      | Piece of paper with emitters!        |
-| [kijetesantakalu]{.glyph}<br/>[lukin]{.glyphsubtitle} | eyes, to look, to try                                  | An eye with a pupil in the center    |
-| [lipu]{.glyph}<br/>[lipu]{.glyphsubtitle}             | paper, card, document, website, leaf, small flat thing | Tall rectangle like a piece of paper |
-| [pali]{.glyph}<br/>[pali]{.glyphsubtitle}             | create, work, creation                                 | A hand shape with a circle above it  |
+|                              Word                               | Definition                                             | Writing                                                      |
+| :-------------------------------------------------------------: | ------------------------------------------------------ | ------------------------------------------------------------ |
+|            [wile]{.glyph}<br/>[wile]{.glyphsubtitle}            | want, need, to want                                    | Curvy letter "w"                                             |
+|               [a]{.glyph}<br/>[a]{.glyphsubtitle}               | (mark exclamation, excitement, emphasis)               | Letter "a" beneath a vertical line like an exclamation point |
+| [kijetesantakalu]{.glyph}<br/>[kijetesantakalu]{.glyphsubtitle} | **raccoon, procyonid, musteloid, skrunkly mammal**     | **raccoon**                                                  |
+|            [lipu]{.glyph}<br/>[lipu]{.glyphsubtitle}            | paper, card, document, website, leaf, small flat thing | Tall rectangle like a piece of paper                         |
+|            [pali]{.glyph}<br/>[pali]{.glyphsubtitle}            | create, work, creation                                 | A hand shape with a circle above it                          |
