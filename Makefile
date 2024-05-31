@@ -52,7 +52,7 @@ $(BUILDDIR)/%: $(STATICDIR)/%
 
 $(BUILDDIR)/%.css: $(STATICDIR)/%.css
 	@mkdir -p $(@D)
-	cp -r $< $@
+	cpp $< | sed 's/^#.*//g' > $@
 	$(MINIFIER) $@ -o $@
 
 dev: stopdev

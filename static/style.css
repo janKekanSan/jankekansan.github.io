@@ -1,24 +1,26 @@
-:root {
-  --prim-fg: #444444;
-  --prim-bg: #f2f2f2;
-  --prim-ac: #444444;
-  --sec-fg: #333333;
-  --sec-bg: #d3d3d3;
-  --sec-ac: #555555;
-  --info-bg: #add8e6;
-  --info-fg: #0000ff;
-  --warn-bg: #ffffe0;
-  --warn-fg: #008000;
-  --error-bg: #ffc0cb;
-  --error-fg: #8b0000;
-  --spoil-fg: #443231;
-  --spoil-bg: #e2c49c;
-}
+#define FG1 #444444
+#define BG1 #f2f2f2
+
+#define FG2 #333333
+#define BG2 #d3d3d3
+
+#define INFOFG #0000ff
+#define INFOBG #add8e6
+
+#define WARNBG #ffffe0
+#define WARNFG #008000
+
+#define ERRORBG #ffc0cb
+#define ERRORFG #8b0000
+
+#define SPOILFG #443231
+#define SPOILBG #e2c49c
+
 body {
   margin: 8% auto;
   padding: 4%;
-  background: var(--prim-bg);
-  color: var(--prim-fg);
+  background: BG1;
+  color: FG1;
   font-family:
     system-ui,
     -apple-system,
@@ -64,7 +66,7 @@ header h3 {
   text-align: center;
 }
 header img {
-  border: 0.18em solid var(--prim-ac);
+  border: 0.18em solid FG1;
   border-radius: 50%;
   width: 3.8em;
   height: 3.8em;
@@ -89,39 +91,39 @@ footer {
 }
 a {
   text-decoration: none;
-  border-bottom: 0.06em solid var(--prim-ac);
-  color: var(--prim-fg);
+  border-bottom: 0.06em solid FG1;
+  color: FG1;
 }
 a:hover {
-  border-bottom: 0.06em dotted var(--prim-ac);
+  border-bottom: 0.06em dotted FG1;
 }
 blockquote {
   margin: 0.5em;
   padding-inline: 0.5em;
-  border-inline-start: 0.25em solid var(--prim-ac);
-  background: var(--sec-bg);
+  border-inline-start: 0.25em solid FG1;
+  background: BG2;
   font-size: 1.2em;
 }
 code {
   font-family: monospace;
-  background: var(--sec-bg);
+  background: BG2;
   padding: 0.1em;
 }
 div.sourceCode {
   margin: 0.5em;
   padding-inline: 0.5em;
-  border-inline-start: 0.25em solid var(--prim-ac);
-  background: var(--sec-bg);
+  border-inline-start: 0.25em solid FG1;
+  background: BG2;
 }
 table {
   margin: 0.5em;
-  background: var(--sec-bg);
-  border: 2px solid var(--prim-ac);
+  background: BG2;
+  border: 2px solid FG1;
   border-collapse: collapse;
 }
 td,
 th {
-  border: 1px solid var(--prim-ac);
+  border: 1px solid FG1;
   padding: 4pt;
 }
 hr {
@@ -132,9 +134,9 @@ hr {
 }
 details {
   margin: 0.5em;
-  border-inline-start: 4px solid var(--spoil-fg);
-  background: var(--spoil-bg);
-  color: var(--spoil-fg);
+  border-inline-start: 4px solid SPOILFG;
+  background: SPOILBG;
+  color: SPOILFG;
 }
 summary {
   padding: 0.15em;
@@ -142,7 +144,7 @@ summary {
   font-size: 1.2em;
 }
 details[open] > summary {
-  border-bottom: 2px solid var(--spoil-fg);
+  border-bottom: 2px solid SPOILFG;
 }
 details > p,
 details > div {
@@ -175,27 +177,27 @@ details > div {
 }
 
 .info {
-  border-inline-start: 4px solid var(--info-fg);
-  background: var(--info-bg);
-  color: var(--info-fg);
+  border-inline-start: 4px solid INFOFG;
+  background: INFOBG;
+  color: INFOFG;
 }
 .warning {
-  border-inline-start: 4px solid var(--warn-fg);
-  background: var(--warn-bg);
-  color: var(--warn-fg);
+  border-inline-start: 4px solid WARNFG;
+  background: WARNBG;
+  color: WARNFG;
 }
 .error {
-  border-inline-start: 4px solid var(--error-fg);
-  background: var(--error-bg);
-  color: var(--error-fg);
+  border-inline-start: 4px solid ERRORFG;
+  background: ERRORBG;
+  color: ERRORFG;
 }
 
 /* each blogpost link */
 .blogentry {
   padding: 0em;
   margin: 0.5em;
-  border-inline-start: 0.25em solid var(--prim-ac);
-  background: var(--sec-bg);
+  border-inline-start: 0.25em solid FG1;
+  background: BG2;
 }
 .bloglink {
   padding-inline: 1em;
@@ -231,6 +233,8 @@ details > div {
   vertical-align: text-bottom;
   line-height: 0.5em;
 }
+
+/* prev/next lesson */
 
 /* enable/disable ligatures */
 button.sptoggle {
