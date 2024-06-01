@@ -33,6 +33,7 @@ body {
     Helvetica,
     sans-serif;
   font-size: 1.125em;
+  image-rendering: pixelated;
   line-height: 1.7em;
   max-width: 69%;
   box-shadow:
