@@ -73,7 +73,3 @@ sike pona
 - [Wiki for Toki Pona](https://sona.pona.la/wiki/Main_Page)
 - [Wiki _in_ Toki Pona](https://wikipesija.org/wiki/lipu_open)
 - [telo misikeke - a grammar checker](https://telo-misikeke.gitlab.io/)
-
-## [o toki tawa mi]{.tokipona} (talk to me)
-
-[YouTube](https://www.youtube.com/@gregdan3d) -- [GitHub](https://github.com/gregdan3) -- [Discord](https://discord.com/users/497549183847497739) -- [Telegram](https://gregdan3.t.me/) -- [VRChat](https://vrchat.com/home/user/usr_8a07de27-2d25-48d0-aa5d-d7e00faa7bde)
