@@ -38,8 +38,7 @@ for f in $POSTS; do
 	OUTPAGE=${OUTPAGE#"${BLOGDIR}/"}
 
 	echo -e "::: blogentry\n"
-	echo -e "[[$TITLE]($OUTPAGE)]{.bloglink} ($(date -d "@$MTIME" "+%Y-%m-%d"))\n"
-
+	echo -e "<a href=\"$OUTPAGE\" class=\"bloglink\">$TITLE</a> ($(date -d "@$MTIME" "+%Y-%m-%d"))\n"
 	PREAMBLE=$(sed '/^<!-- cut -->$/Q' "$f")
 	if [[ $(echo "$PREAMBLE" | wc -l) -lt 8 ]]; then
 		CLEANED=$(echo "$PREAMBLE" | sed 's/%.*//g ; /^$/d')
