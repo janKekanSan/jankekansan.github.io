@@ -183,13 +183,14 @@ Everything inside the cartouche is read by only its first character:
 
 > [sina wile lon poka mi la mi tu li tawa ma [kiwen alasa nasin sewi esun]]{.tokipona}
 
-The reading of the cartouche is **Kanse**.
+The reading of the cartouche is **Kanse**: **k**iwen, **a**lasa, **n**asin, **s**ewi, **e**sun.
 
 Lastly, symbols can be stacked or nested! Both are read from the bottom up, which is the same as reading from the outside in for nested symbols.
 
 > [toki+pona li pona mute tawa mi! waso li jo e linja-suwi!]{.tokipona}
 
-The first symbol is read "toki pona" and it is two nested symbols, [toki]{.tokipona} outside and [pona]{.tokipona} inside. The last symbol is "linja suwi" and it is two stacked symbols, [linja]{.tokipona} below and [suwi]{.tokipona} above.
+The first symbol is read "toki pona" and it is two nested symbols, [toki]{.tokipona} outside and [pona]{.tokipona} inside.
+The last symbol is "linja suwi" and it is two stacked symbols, [linja]{.tokipona} below and [suwi]{.tokipona} above.
 
 Don't worry about _all_ this just yet! You'll find what feels comfortable as you learn.
 
