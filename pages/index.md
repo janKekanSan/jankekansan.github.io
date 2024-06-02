@@ -15,27 +15,16 @@ This site is all about Toki Pona, but not necessarily in Toki Pona. If it is in 
 ## [jan poka]{.tokipona} (friends)
 
 <div id="sike-pona" style="width: 100%; height: 3rem;">
-  <style>
+<style>
 
-#sike-pona a { color: inherit; }
-
-#sike-pona {
-height: 100%;
-margin: 0;
-box-sizing: border-box;
-display: flex;
-padding: 0.25em;
-flex-wrap: wrap;
-justify-content: space-evenly;
-align-content: center;
-}
+#sike-pona { text-align: center; }
 
 #sike-pona .icon {
-height: 1em;
-margin: 0 5px;
+margin: 1px 5px;
 vertical-align: text-top;
 animation: swim .7s infinite forwards linear;
-transform-origin: 50% 80%; }
+transform-origin: 50% 80%;
+}
 
 @keyframes swim {
 0% { transform: rotate(0deg); }
@@ -43,9 +32,10 @@ transform-origin: 50% 80%; }
 75% { transform: rotate(-10deg); }
 100% { transform: rotate(0); }
 }
+
 </style>
 <span id="left">
-<a href="https://sike.pona.la/jan/jan Kekan San/prev.html" id="prev">← prev</a>
+<a href="https://sike.pona.la/jan/jan Kekan San/prev.html" id="prev"><- prev</a>
 </span>
 <span id="mid"><a href="https://sike.pona.la">
 <img class="icon" src="tokipona.png"></img>
@@ -53,7 +43,7 @@ sike pona
 <img class="icon" src="tokipona.png"></img>
 </a></span>
 <span id="right">
-<a href="https://sike.pona.la/jan/jan Kekan San/next.html" id="next">next →</a>
+<a href="https://sike.pona.la/jan/jan Kekan San/next.html" id="next">next -></a>
 </span>
 
 </div>

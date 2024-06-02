@@ -42,7 +42,7 @@ for f in $POSTS; do
 	PREAMBLE=$(sed '/^<!-- cut -->$/Q' "$f")
 	if [[ $(echo "$PREAMBLE" | wc -l) -lt 8 ]]; then
 		CLEANED=$(echo "$PREAMBLE" | sed 's/%.*//g ; /^$/d')
-		echo -e "\n[$CLEANED]{.blogdetails}\n"
+		echo -e "\n<p class=\"blogdetails\">$CLEANED</p>\n"
 	fi
 	echo -e "\n:::\n"
 done

@@ -1,11 +1,13 @@
 #define FG1 #444444
 #define BG1 #f2f2f2
 
+#define FG2 #333333
+#define BG2 #d3d3d3
+
 #define URL #3366cc
 #define URLVISITED #795cb2
 
-#define FG2 #333333
-#define BG2 #d3d3d3
+#define THEADBG #b2b2b2
 
 #define INFOFG #0000ff
 #define INFOBG #add8e6
@@ -22,6 +24,9 @@
 body {
   margin: 8% auto;
   padding: 4%;
+  max-width: 69%;
+  font-size: 1.125em;
+  line-height: 1.7em;
   background: BG1;
   color: FG1;
   font-family:
@@ -32,63 +37,76 @@ body {
     Roboto,
     Helvetica,
     sans-serif;
-  font-size: 1.125em;
   image-rendering: pixelated;
-  line-height: 1.7em;
-  max-width: 69%;
   box-shadow:
     0 5px 10px rgba(0, 0, 0, 0.2),
     0 15px 40px rgba(0, 0, 0, 0.05);
 }
+p {
+  margin: 0;
+}
+p + p {
+  margin-top: 10px;
+}
 
-@media (pointer: none), (pointer: coarse) {
+@media (pointer: none), (pointer: coarse), (max-width: 800px) {
   body {
     line-height: 1.5em;
     max-width: 80%;
     font-size: 1.05em;
   }
-  header h2 {
+  header > h2 {
     display: none;
   }
 }
 header {
   display: flex;
   padding-block: 1em;
-  justify-content: center;
 }
-header h2 {
+header > h2 {
   position: relative;
   left: 2%;
 }
-header h3 {
+header > h3 {
   margin-left: auto;
   margin-right: auto;
   text-align: center;
 }
-header img {
+header > img {
   border: 0.18em solid FG1;
   border-radius: 50%;
   width: 3.8em;
   height: 3.8em;
 }
 nav {
-  display: flex;
-  font-size: 1em;
   font-weight: bold;
-  height: 1.6em;
-  line-height: 2em;
-  margin-bottom: 1.6em;
-  justify-content: space-evenly;
+  text-align: center;
+  font-size: 1.1em;
 }
+nav a {
+  display: inline-block;
+  width: 20%;
+}
+
 article {
-  padding-inline: 0.5em;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
 }
 footer {
   font-size: 0.75em;
   line-height: 1em;
-  padding-top: 0.25em;
   text-align: center;
 }
+
+footer > p {
+  display: block;
+}
+footer img {
+  margin: 0.25em;
+}
+
+/*  */
+
 a {
   text-decoration: underline URL;
   color: URL;
@@ -100,12 +118,21 @@ a:visited {
 a:hover {
   text-decoration: underline dotted;
 }
-blockquote {
+blockquote,
+summary,
+.info,
+.warning,
+.error,
+.blogentry,
+div.sourceCode {
   margin: 0.5em;
-  padding-inline: 0.5em;
-  border-inline-start: 0.25em solid FG1;
+  padding: 0.5em;
+  font-size: 1.1em;
+}
+blockquote {
+  color: FG2;
   background: BG2;
-  font-size: 1.2em;
+  border-left: 4px solid FG2;
 }
 code {
   font-family: monospace;
@@ -113,10 +140,9 @@ code {
   padding: 0.1em;
 }
 div.sourceCode {
-  margin: 0.5em;
-  padding-inline: 0.5em;
-  border-inline-start: 0.25em solid FG1;
+  font-family: monospace;
   background: BG2;
+  border-left: 4px solid FG2;
 }
 table {
   margin: 0.5em;
@@ -124,44 +150,37 @@ table {
   border: 2px solid FG1;
   border-collapse: collapse;
 }
+thead {
+  background: THEADBG;
+  border: 2px solid FG1;
+}
 td,
 th {
   border: 1px solid FG1;
   padding: 4pt;
 }
 hr {
-  margin-top: 1em;
-  margin-bottom: 1em;
-  border-top: 1px solid black;
-  border-bottom: 1px solid black;
+  border: 1px solid FG1;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
 }
 details {
-  margin: 0.5em;
-  border-inline-start: 4px solid SPOILFG;
-  background: SPOILBG;
   color: SPOILFG;
+  background: SPOILBG;
+  border-left: 4px solid SPOILFG;
+  margin: 0.5em;
 }
 summary {
-  padding: 0.15em;
+  margin: 0;
   cursor: pointer;
-  font-size: 1.2em;
 }
 details[open] > summary {
   border-bottom: 2px solid SPOILFG;
 }
-details > p,
-details > div {
-  margin: 0.1em;
-  margin-left: 1em;
+details > * {
+  padding: 0.25em;
 }
 /* fake blockquotes like github alerts */
-.info,
-.warning,
-.error {
-  margin: 0.5em;
-  padding-inline-start: 0em;
-  padding: 0.35em;
-}
 .info:before,
 .warning:before,
 .error:before {
@@ -180,36 +199,33 @@ details > div {
 }
 
 .info {
-  border-inline-start: 4px solid INFOFG;
-  background: INFOBG;
   color: INFOFG;
+  background: INFOBG;
+  border-left: 4px solid INFOFG;
 }
 .warning {
-  border-inline-start: 4px solid WARNFG;
-  background: WARNBG;
   color: WARNFG;
+  background: WARNBG;
+  border-left: 4px solid WARNFG;
 }
 .error {
-  border-inline-start: 4px solid ERRORFG;
-  background: ERRORBG;
   color: ERRORFG;
+  background: ERRORBG;
+  border-left: 4px solid ERRORFG;
 }
 
 /* each blogpost link */
 .blogentry {
-  padding: 0em;
-  margin: 0.5em;
-  border-inline-start: 0.25em solid FG1;
   background: BG2;
+  border-left: 4px solid FG2;
 }
 .bloglink {
-  padding-inline: 1em;
   font-weight: bold;
+  padding-left: 1em;
 }
 .blogdetails {
-  margin: 1.5em;
-  padding: 0.3em;
-  padding-inline: 0.5em;
+  margin: 0.25em;
+  margin-left: 2em;
 }
 
 /* sitelen pona font. TODO: rename to `.sp` */
@@ -220,14 +236,10 @@ details > div {
 .tokipona {
   font-family: sp;
 }
-.tokipona::after {
-  content: "​"; /* fix line-end ligature on firefox */
-}
 
-/* definition tables in lessons */
 .glyph {
   font-family: sp;
-  font-size: 2.25em;
+  font-size: 2em;
   vertical-align: bottom;
   line-height: 0.5em;
 }
@@ -237,9 +249,6 @@ details > div {
   line-height: 0.5em;
 }
 
-/* prev/next lesson */
-
-/* enable/disable ligatures */
 button.sptoggle {
   position: fixed;
   bottom: 2%;
