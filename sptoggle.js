@@ -1,16 +1,15 @@
-"use strict";
 function toggle() {
-  const stylesheet = document.styleSheets[0];
-  let elementRules;
-  for (let i = 0; i < stylesheet.cssRules.length; i++) {
+  var stylesheet = document.styleSheets[0];
+  var elementRules;
+  for (var i = 0; i < stylesheet.cssRules.length; i++) {
     if (stylesheet.cssRules[i].selectorText === ".tokipona") {
       elementRules = stylesheet.cssRules[i];
       break; // TODO: so lazy
     }
   }
 
-  let current = elementRules.style.getPropertyValue("font-family");
-  if (current === "") {
+  var current = elementRules.style.getPropertyValue("font-family");
+  if (current !== "sp") {
     elementRules.style["font-family"] = "sp";
   } else {
     elementRules.style["font-family"] = "";
