@@ -13,7 +13,7 @@ WIDTH_FIX=pandoc/rm-colgroup.lua
 LINK_FIX=pandoc/link-md-to-html.lua
 
 MARP=npx marp --html
-MD_TO_HTML=pandoc --lua-filter=$(WIDTH_FIX) --lua-filter=$(LINK_FIX) --from=markdown+yaml_metadata_block+mark+wikilinks_title_after_pipe-definition_lists-smart-task_lists
+MD_TO_HTML=pandoc --lua-filter=$(WIDTH_FIX) --lua-filter=$(LINK_FIX) --from=markdown+yaml_metadata_block+mark+wikilinks_title_after_pipe-definition_lists-smart
 MINIFIER=npx minify
 TOC_MAKER=npx markdown-toc --maxdepth 5 --no-stripHeadingTags --indent="  " --bullets="-" -i
 
