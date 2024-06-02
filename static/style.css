@@ -7,8 +7,6 @@
 #define URL #3366cc
 #define URLVISITED #795cb2
 
-#define THEADBG #b2b2b2
-
 #define INFOFG #0000ff
 #define INFOBG #add8e6
 
@@ -35,30 +33,26 @@ body {
     BlinkMacSystemFont,
     "Segoe UI",
     Roboto,
+    Oxygen,
+    Ubuntu,
+    Cantarell,
+    "Open Sans",
+    "Helvetica Neue",
     Helvetica,
     sans-serif;
-  image-rendering: pixelated;
+  text-rendering: optimizeLegibility; /* for old browsers */
   box-shadow:
     0 5px 10px rgba(0, 0, 0, 0.2),
     0 15px 40px rgba(0, 0, 0, 0.05);
 }
 p {
+  /* don't let default p formatting mess with parent elems */
   margin: 0;
 }
 p + p {
   margin-top: 10px;
 }
 
-@media (pointer: none), (pointer: coarse), (max-width: 800px) {
-  body {
-    line-height: 1.5em;
-    max-width: 80%;
-    font-size: 1.05em;
-  }
-  header > h2 {
-    display: none;
-  }
-}
 header {
   display: flex;
   padding-block: 1em;
@@ -73,7 +67,7 @@ header > h3 {
   text-align: center;
 }
 header > img {
-  border: 0.18em solid FG1;
+  border: 3px solid FG1;
   border-radius: 50%;
   width: 3.8em;
   height: 3.8em;
@@ -81,11 +75,28 @@ header > img {
 nav {
   font-weight: bold;
   text-align: center;
-  font-size: 1.1em;
+  margin-top: 0.25em;
+  margin-bottom: 1.5em;
 }
-nav a {
+nav > a {
   display: inline-block;
-  width: 20%;
+  width: 20%; /* emulate flex/justify-content */
+  color: inherit;
+  border-style: outset;
+  border-color: BG2;
+  border-radius: 0.5em;
+  text-decoration: none;
+}
+nav > a:active {
+  background: BG2;
+  border-style: inset;
+}
+nav > a:hover {
+  color: FG1;
+  background: #dfdfdf;
+}
+nav > a:visited {
+  color: inherit;
 }
 
 article {
@@ -104,8 +115,9 @@ footer > p {
 footer img {
   margin: 0.25em;
 }
-
-/*  */
+footer a {
+  text-decoration: none;
+}
 
 a {
   text-decoration: underline URL;
@@ -117,9 +129,10 @@ a:visited {
 }
 a:hover {
   text-decoration: underline dotted;
+  color: FG2;
 }
 blockquote,
-summary,
+details,
 .info,
 .warning,
 .error,
@@ -134,10 +147,16 @@ blockquote {
   background: BG2;
   border-left: 4px solid FG2;
 }
+
+mark, code, sup, sub {
+  padding: 0.1em;
+}
+mark {
+  background: WARNBG;
+}
 code {
   font-family: monospace;
   background: BG2;
-  padding: 0.1em;
 }
 div.sourceCode {
   font-family: monospace;
@@ -151,7 +170,6 @@ table {
   border-collapse: collapse;
 }
 thead {
-  background: THEADBG;
   border: 2px solid FG1;
 }
 td,
@@ -177,9 +195,6 @@ summary {
 details[open] > summary {
   border-bottom: 2px solid SPOILFG;
 }
-details > * {
-  padding: 0.25em;
-}
 /* fake blockquotes like github alerts */
 .info:before,
 .warning:before,
@@ -187,6 +202,11 @@ details > * {
   float: right;
   font-size: 3em;
   padding: 0.2em;
+}
+.info,
+.warning,
+.error {
+  min-height: 3em;
 }
 .info:before {
   content: "★";
@@ -197,7 +217,6 @@ details > * {
 .error:before {
   content: "⚑";
 }
-
 .info {
   color: INFOFG;
   background: INFOBG;
@@ -228,7 +247,6 @@ details > * {
   margin-left: 2em;
 }
 
-/* sitelen pona font. TODO: rename to `.sp` */
 @font-face {
   font-family: sp;
   src: url("/ntl.ttf");
@@ -249,15 +267,37 @@ details > * {
   line-height: 0.5em;
 }
 
-button.sptoggle {
+input#sptoggle {
+  background-image: url("/sitelenpona.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  image-rendering: pixelated;
+  padding-left: 2em;
+  height: 2em;
   position: fixed;
-  bottom: 2%;
-  right: 2%;
+  bottom: 3%;
+  right: 3%;
   font-size: 0.8em;
+  border-style: outset;
+  cursor: pointer;
 }
-@media (pointer: none), (pointer: coarse) {
-  button.sptoggle {
-    bottom: 95.5%;
-    right: 3%;
+input#sptoggle:hover {
+  background-color: BG2;
+}
+input#sptoggle:active {
+  border-style: inset;
+}
+
+@media (pointer: none), (pointer: coarse), (max-width: 800px) {
+  body {
+    line-height: 1.5em;
+    max-width: 80%;
+    font-size: 1em;
+  }
+  header > h2 {
+    display: none;
+  }
+  nav {
+    font-size: 0.8em;
   }
 }

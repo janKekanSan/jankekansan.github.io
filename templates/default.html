@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE HTML>
 <html lang="en-US">
   <head>
     <meta charset="UTF-8" />
@@ -30,7 +30,7 @@
     <meta http-equiv="refresh" content="0;url=$destination$" />
     $endif$
     <title>mun! - $pagetitle$</title>
-    <link href="https://mun.la/" rel="canonical" />
+    <link href="https://mun.la/$directory$" rel="canonical" />
     <link href="/style.css" rel="stylesheet" type="text/css" />
     $if(extracss)$
     <link href="$extracss$.css" rel="stylesheet" type="text/css" />
@@ -52,7 +52,7 @@
       <a href="/sona/">Lessons</a>
       <a href="https://gregdan3.dev">Dev&nbsp;Work</a>
     </nav>
-    <button type="button" class="sptoggle" onclick="toggle()">Toggle SP</button>
+      <input type="button" id="sptoggle" onclick="toggle()" value="Toggle" />
     <article>
       $for(include-before)$ $include-before$ $endfor$ $body$
       $for(include-after)$ $include-after$ $endfor$
@@ -82,9 +82,7 @@
         <a href="https://github.com/gregdan3/SWGIG">Static Website Generator I Guess</a>.
 
         Code on
-        <a href="https://github.com/janKekanSan/jankekansan.github.io"
-          >my GitHub</a
-        >.
+        <a href="https://github.com/janKekanSan/jankekansan.github.io">my GitHub</a>.
       </p>
     </footer>
     <script src="/sptoggle.js"></script>

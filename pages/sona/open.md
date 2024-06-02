@@ -205,7 +205,7 @@ Try to pronounce the following words. The pronunciation is in a clip under the s
 
 ::: info
 
-There's a button labeled **Toggle SP** in the top right for mobile, and the bottom right for desktop. It switches sitelen pona for English letters and back. Try it out here!
+There's a button labeled **[sitelen+pona]{.tokipona} Toggle** in the bottom right, and it switches sitelen pona for English letters and back. Try it out!
 
 :::
 

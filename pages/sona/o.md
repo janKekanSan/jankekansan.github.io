@@ -592,10 +592,6 @@ taso can be used at the end of a phrase to indicate that particular phrase is ex
 
 There's also a bit more freedom for what can go _around_ a sentence. You can interject subjects, followed by o, to indicate who should be listening!
 
-#### Other Notes
-
-Now that we've learned the word [sitelen]{.tokipona}, here's a fun side note: Toki Pona's writing system is called [sitelen pona]{.tokipona}, "good writing"!
-
 ---
 
 [Previous lesson](./preps.md)
