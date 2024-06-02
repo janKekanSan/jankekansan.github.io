@@ -7,7 +7,6 @@ function toggle() {
       break; // TODO: so lazy
     }
   }
-
   var current = elementRules.style.getPropertyValue("font-family");
   if (current !== "sp") {
     elementRules.style["font-family"] = "sp";
