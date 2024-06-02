@@ -14,39 +14,34 @@ This site is all about Toki Pona, but not necessarily in Toki Pona. If it is in 
 
 ## [jan poka]{.tokipona} (friends)
 
-<div id="sike-pona" style="width: 100%; height: 3rem;">
 <style>
-
-#sike-pona { text-align: center; }
-
-#sike-pona .icon {
-margin: 1px 5px;
-vertical-align: text-top;
-animation: swim .7s infinite forwards linear;
-transform-origin: 50% 80%;
+#sike-pona { text-align: center; font-size: 1.5em; }
+#sike-pona img {
+vertical-align: bottom;
+animation: sway .7s infinite forwards linear;
+transform-origin: 50% 90%;
+image-rendering: pixelated;
+padding-left: 0.5em;
+padding-right: 0.5em;
+height: 1.2em;
 }
-
-@keyframes swim {
+@keyframes sway {
 0% { transform: rotate(0deg); }
 25% { transform: rotate(10deg); }
 75% { transform: rotate(-10deg); }
 100% { transform: rotate(0); }
 }
-
 </style>
-<span id="left">
-<a href="https://sike.pona.la/jan/jan Kekan San/prev.html" id="prev"><- prev</a>
-</span>
-<span id="mid"><a href="https://sike.pona.la">
-<img class="icon" src="tokipona.png"></img>
-sike pona
-<img class="icon" src="tokipona.png"></img>
-</a></span>
-<span id="right">
-<a href="https://sike.pona.la/jan/jan Kekan San/next.html" id="next">next -></a>
-</span>
 
-</div>
+::: {.tokipona #sike-pona}
+
+[lipu+ni4](https://sike.pona.la/jan/jan%20Kekan%20San/prev.html)
+<img src="tokipona.png" alt="toki pona" />
+[sike pona](https://sike.pona.la)
+<img src="tokipona.png" alt="toki pona" />
+[lipu+ni2](https://sike.pona.la/jan/jan%20Kekan%20San/prev.html)
+
+:::
 
 - [jan Lakuse](https://raacz.neocities.org/tokipona) -- [sike musi](https://datakinds.github.io/toki-pona/) -- [jan Telakoman](https://joelthomastr.github.io/tokipona/README_si) -- [ijo Mina](https://ap5.dev/tokipona)
 - [[jan ante mute mute]{.tokipona}](https://sona.pona.la/wiki/Personal_Sites)
