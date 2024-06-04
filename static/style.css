@@ -93,8 +93,8 @@ nav > a:active {
   border-style: inset;
 }
 nav > a:hover {
-  color: FG1;
-  background: #dfdfdf;
+  color: inherit;
+  background: BG2;
 }
 nav > a:visited {
   color: inherit;
