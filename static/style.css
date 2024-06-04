@@ -110,15 +110,6 @@ footer {
   text-align: center;
 }
 
-footer > p {
-  display: block;
-}
-footer img {
-  margin: 0.25em;
-}
-footer a {
-  text-decoration: none;
-}
 
 a {
   text-decoration: underline URL;
