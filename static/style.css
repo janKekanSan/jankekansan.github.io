@@ -55,7 +55,8 @@ p + p {
 
 header {
   display: flex;
-  padding-block: 1em;
+  padding-top: 1em;
+  padding-bottom: 1em;
 }
 header > h2 {
   position: relative;
