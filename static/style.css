@@ -198,6 +198,10 @@ summary {
   margin: 0;
   cursor: pointer;
 }
+
+summary > * {
+  display: inline-block;
+}
 details[open] > summary {
   border-bottom: BLOCK_MARK solid SPOILFG;
 }
