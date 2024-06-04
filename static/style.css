@@ -82,6 +82,7 @@ header > img {
 nav {
   font-weight: bold;
   text-align: center;
+  margin-bottom: 1em;
 }
 nav > a {
   display: inline-block;
