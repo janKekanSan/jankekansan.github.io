@@ -135,7 +135,6 @@ a:visited {
   color: URLVISITED;
 }
 blockquote,
-details,
 .info,
 .warning,
 .error,
@@ -193,14 +192,17 @@ details {
   background: SPOILBG;
   border-left: BLOCK_MARK solid SPOILFG;
   margin: INDENT;
+  padding-bottom: INDENT;
 }
 summary {
-  margin: 0;
   cursor: pointer;
+  padding: INDENT;
 }
-
 summary > * {
   display: inline-block;
+}
+details > p {
+  padding: INDENT;
 }
 details[open] > summary {
   border-bottom: BLOCK_MARK solid SPOILFG;
