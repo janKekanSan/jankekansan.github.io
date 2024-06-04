@@ -129,7 +129,6 @@ a {
 }
 a:hover {
   text-decoration: underline dotted;
-  text-shadow: 0 0 1px currentColor; /* emulate bold */
 }
 a:visited {
   text-decoration: underline URLVISITED;
