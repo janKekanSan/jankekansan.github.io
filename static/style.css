@@ -19,28 +19,33 @@
 #define SPOILFG #443231
 #define SPOILBG #e2c49c
 
+#define BLOCK_MARK 4px
+#define INDENT 0.5em
+
+html {
+  font-size: 10px;
+  font-family:
+    /* system-ui, default font on user's OS UI, causes localization issues */
+    -apple-system, /* San Francisco in Safari, Helvetica Neue/Lucida Grande on MacOS */
+    /* BlinkMacSystemFont, Chrome version of system-ui on MacOS */
+    "Segoe UI", /* Windows, Windows Phone */
+    Roboto, /* Android, Chrome OS */
+    /* Ubuntu, Ubuntu (duh) */
+    /* Oxygen, KDE */
+    /* Cantarell, GNOME */
+    "Helvetica Neue",
+    Helvetica,
+    Arial,
+    sans-serif;
+  text-rendering: optimizeLegibility; /* old browsers don't set this by default */
+}
+
 body {
   margin: 8% auto;
   padding: 4%;
-  max-width: 69%;
-  font-size: 1.125em;
-  line-height: 1.7em;
-  background: BG1;
+  max-width: 80%;
   color: FG1;
-  font-family:
-    -apple-system,
-    BlinkMacSystemFont,
-    "Segoe UI",
-    Roboto,
-    Oxygen,
-    Ubuntu,
-    Cantarell,
-    "Open Sans",
-    /* system-ui, default font on user's OS UI, causes localization issues */
-    "Helvetica Neue",
-    Helvetica,
-    sans-serif;
-  text-rendering: optimizeLegibility; /* for old browsers */
+  background: BG1;
   box-shadow:
     0 5px 10px rgba(0, 0, 0, 0.2),
     0 15px 40px rgba(0, 0, 0, 0.05);
@@ -61,6 +66,7 @@ header {
 header > h2 {
   position: relative;
   left: 2%;
+  display: none;
 }
 header > h3 {
   margin-left: auto;
@@ -68,7 +74,7 @@ header > h3 {
   text-align: center;
 }
 header > img {
-  border: 3px solid FG1;
+  border: BLOCK_MARK solid FG1;
   border-radius: 50%;
   width: 3.8em;
   height: 3.8em;
@@ -78,8 +84,6 @@ nav {
   text-align: center;
 }
 nav > a {
-  padding-top: 0.25em;
-  padding-bottom: 0.25em;
   display: inline-block;
   width: 20%; /* emulate flex/justify-content */
   color: inherit;
@@ -87,6 +91,9 @@ nav > a {
   border-color: BG2;
   border-radius: 0.5em;
   text-decoration: none;
+  font-size: 0.8em;
+  padding-top: 0.3em;
+  padding-bottom: 0.3em;
 }
 nav > a:active {
   background: BG2;
@@ -95,33 +102,37 @@ nav > a:active {
 nav > a:hover {
   color: inherit;
   background: BG2;
+  text-decoration: none;
 }
 nav > a:visited {
   color: inherit;
 }
 
-article {
-  padding-left: 0.5em;
-  padding-right: 0.5em;
-}
 footer {
   font-size: 0.75em;
   line-height: 1em;
   text-align: center;
 }
+footer img {
+  box-shadow: 1px 1px 0px 0px rgba(0,0,0,1);
+}
 
-
+article {
+  padding-left: INDENT;
+  padding-right: INDENT;
+  line-height: 1.5em;
+}
 a {
   text-decoration: underline URL;
   color: URL;
 }
+a:hover {
+  text-decoration: underline dotted;
+  text-shadow: 0 0 1px currentColor; /* emulate bold */
+}
 a:visited {
   text-decoration: underline URLVISITED;
   color: URLVISITED;
-}
-a:hover {
-  text-decoration: underline dotted;
-  color: FG2;
 }
 blockquote,
 details,
@@ -130,18 +141,20 @@ details,
 .error,
 .blogentry,
 div.sourceCode {
-  margin: 0.5em;
-  padding: 0.5em;
-  font-size: 1.1em;
+  margin: INDENT;
+  padding: INDENT;
 }
 blockquote {
   color: FG2;
   background: BG2;
-  border-left: 4px solid FG2;
+  border-left: BLOCK_MARK solid FG2;
 }
 
-mark, code, sup, sub {
-  padding: 0.1em;
+mark,
+code,
+sup,
+sub {
+  padding: 0.1em; /* breathing room */
 }
 mark {
   background: WARNBG;
@@ -153,10 +166,10 @@ code {
 div.sourceCode {
   font-family: monospace;
   background: BG2;
-  border-left: 4px solid FG2;
+  border-left: BLOCK_MARK solid FG2;
 }
 table {
-  margin: 0.5em;
+  margin: INDENT;
   background: BG2;
   border: 2px solid FG1;
   border-collapse: collapse;
@@ -167,7 +180,7 @@ thead {
 td,
 th {
   border: 1px solid FG1;
-  padding: 4pt;
+  padding: 0.25em;
 }
 hr {
   border: 1px solid FG1;
@@ -177,15 +190,15 @@ hr {
 details {
   color: SPOILFG;
   background: SPOILBG;
-  border-left: 4px solid SPOILFG;
-  margin: 0.5em;
+  border-left: BLOCK_MARK solid SPOILFG;
+  margin: INDENT;
 }
 summary {
   margin: 0;
   cursor: pointer;
 }
 details[open] > summary {
-  border-bottom: 2px solid SPOILFG;
+  border-bottom: BLOCK_MARK solid SPOILFG;
 }
 /* fake blockquotes like github alerts */
 .info:before,
@@ -212,23 +225,23 @@ details[open] > summary {
 .info {
   color: INFOFG;
   background: INFOBG;
-  border-left: 4px solid INFOFG;
+  border-left: BLOCK_MARK solid INFOFG;
 }
 .warning {
   color: WARNFG;
   background: WARNBG;
-  border-left: 4px solid WARNFG;
+  border-left: BLOCK_MARK solid WARNFG;
 }
 .error {
   color: ERRORFG;
   background: ERRORBG;
-  border-left: 4px solid ERRORFG;
+  border-left: BLOCK_MARK solid ERRORFG;
 }
 
 /* each blogpost link */
 .blogentry {
   background: BG2;
-  border-left: 4px solid FG2;
+  border-left: BLOCK_MARK solid FG2;
 }
 .bloglink {
   font-weight: bold;
@@ -254,7 +267,6 @@ details[open] > summary {
   line-height: 0.5em;
 }
 .glyphsubtitle {
-  font-size: 1em;
   vertical-align: text-bottom;
   line-height: 0.5em;
 }
@@ -269,7 +281,7 @@ input#sptoggle {
   position: fixed;
   bottom: 3%;
   right: 3%;
-  font-size: 0.8em;
+  font-size: 0.8em; /* slightly larger than its default */
   border-style: outset;
   cursor: pointer;
 }
@@ -280,16 +292,29 @@ input#sptoggle:active {
   border-style: inset;
 }
 
-@media (pointer: none), (pointer: coarse), (max-width: 800px) {
+@media (pointer: fine), (min-width: 800px) {
+  html {
+    font-size: 18px;
+  }
   body {
-    line-height: 1.5em;
-    max-width: 80%;
-    font-size: 1em;
+    max-width: 69%
+  }
+  article {
+    line-height: 1.7em;
   }
   header > h2 {
-    display: none;
+    display: block;
   }
-  nav {
-    font-size: 0.8em;
+  nav > a {
+    font-size: 1em
+  }
+}
+
+@media (pointer: none), (pointer: coarse) {
+  html {
+    font-size: 18px;
+  }
+  input#sptoggle {
+    font-size: 1em;
   }
 }
