@@ -236,6 +236,27 @@ irrelevant details
 <details>
 <summary>
 
+> blockquote nested inside summary multiple times
+> 
+> > blockquote
+> >
+> > > blockquote
+> > > 
+> > > > blockquote
+> > > > 
+> > > > > blockquote
+> > > > > 
+
+</summary>
+
+irrelevant details
+
+</details>
+
+
+<details>
+<summary>
+
 blockquote inside details
 
 </summary>
