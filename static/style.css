@@ -188,6 +188,7 @@ hr {
   margin-bottom: 1.5em;
 }
 details {
+  display: block;
   color: SPOILFG;
   background: SPOILBG;
   border-left: BLOCK_MARK solid SPOILFG;
