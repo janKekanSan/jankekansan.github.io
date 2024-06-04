@@ -164,6 +164,8 @@ This produces a `figure` and `figcaption` element
 
 ![alt text](toki/mi-lon-ilo/MRI.jpg)
 
+![alien](emotes/alien.gif)
+
 # Checklist
 
 - [x] one
