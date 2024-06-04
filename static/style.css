@@ -197,6 +197,7 @@ details {
 summary {
   cursor: pointer;
   padding: INDENT;
+  /* display: list-item; this is the default display, but it doesn't help on ie11 */
 }
 summary > * {
   display: inline-block;
