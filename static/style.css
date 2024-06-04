@@ -76,10 +76,10 @@ header > img {
 nav {
   font-weight: bold;
   text-align: center;
-  margin-top: 0.25em;
-  margin-bottom: 1.5em;
 }
 nav > a {
+  padding-top: 0.25em;
+  padding-bottom: 0.25em;
   display: inline-block;
   width: 20%; /* emulate flex/justify-content */
   color: inherit;
