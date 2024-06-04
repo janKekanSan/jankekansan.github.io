@@ -192,7 +192,6 @@ details {
   background: SPOILBG;
   border-left: BLOCK_MARK solid SPOILFG;
   margin: INDENT;
-  padding-bottom: INDENT;
 }
 summary {
   cursor: pointer;
@@ -204,6 +203,9 @@ summary > * {
 }
 details > p {
   padding: INDENT;
+}
+details[open] {
+  padding-bottom: 0.25em;
 }
 details[open] > summary {
   border-bottom: BLOCK_MARK solid SPOILFG;
