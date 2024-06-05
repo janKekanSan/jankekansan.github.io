@@ -34,7 +34,7 @@
     "removeComments": true,
     "removeEmptyAttributes": true,
     "removeEmptyElements": false,
-    "removeOptionalTags": true,
+    "removeOptionalTags": false,
     "removeRedundantAttributes": true,
     "removeScriptTypeAttributes": true,
     "removeStyleLinkTypeAttributes": true,
@@ -42,7 +42,7 @@
     "sortAttributes": false,
     "sortClassName": false,
     "trimCustomFragments": false,
-    "useShortDoctype": true
+    "useShortDoctype": false
   },
   "css": {
     "compatibility": "*"
