@@ -40,7 +40,7 @@ html {
   text-rendering: optimizeLegibility; /* old browsers don't set this by default */
 }
 
-body {
+.body {
   margin: 8% auto;
   padding: 4%;
   max-width: 80%;
@@ -58,33 +58,33 @@ p + p {
   margin-top: 10px;
 }
 
-header {
+.header {
   display: flex;
   padding-top: 1em;
   padding-bottom: 1em;
 }
-header > h2 {
+.header > h2 {
   position: relative;
   left: 2%;
   display: none;
 }
-header > h3 {
+.header > h3 {
   margin-left: auto;
   margin-right: auto;
   text-align: center;
 }
-header > img {
+.header > img {
   border: BLOCK_MARK solid FG1;
   border-radius: 50%;
   width: 3.8em;
   height: 3.8em;
 }
-nav {
+.nav {
   font-weight: bold;
   text-align: center;
   margin-bottom: 1em;
 }
-nav > a {
+.nav > a {
   display: inline-block;
   width: 20%; /* emulate flex/justify-content */
   color: inherit;
@@ -96,29 +96,29 @@ nav > a {
   padding-top: 0.3em;
   padding-bottom: 0.3em;
 }
-nav > a:active {
+.nav > a:active {
   background: BG2;
   border-style: inset;
 }
-nav > a:hover {
+.nav > a:hover {
   color: inherit;
   background: BG2;
   text-decoration: none;
 }
-nav > a:visited {
+.nav > a:visited {
   color: inherit;
 }
 
-footer {
+.footer {
   font-size: 0.75em;
   line-height: 1em;
   text-align: center;
 }
-footer img {
+.footer img {
   box-shadow: 1px 1px 0px 0px rgba(0,0,0,1);
 }
 
-article {
+.article {
   padding-left: INDENT;
   padding-right: INDENT;
   line-height: 1.5em;
@@ -186,28 +186,33 @@ hr {
   margin-top: 1.5em;
   margin-bottom: 1.5em;
 }
-details {
+.details { 
+/* This is a hack that targets JUST the NDS.
+ * It won't follow CSS rules applied to custom elements, and it doesn't recognize summary/details.
+ * So Pandoc applies a class to all identified summary/details, and we use it to assign rules anyway.
+ * */
   display: block;
   color: SPOILFG;
   background: SPOILBG;
   border-left: BLOCK_MARK solid SPOILFG;
   margin: INDENT;
 }
-summary {
+.summary {
   cursor: pointer;
   padding: INDENT;
-  /* display: list-item; this is the default display, but it doesn't help on ie11 */
+  /* display: list-item; */
+  /* this is the default display, but it doesn't help on ie11 */
 }
-summary > * {
+.summary > * {
   display: inline-block;
 }
-details > p {
+.details > p {
   padding: INDENT;
 }
-details[open] {
+.details[open] {
   padding-bottom: 0.25em;
 }
-details[open] > summary {
+.details[open] > .summary {
   border-bottom: BLOCK_MARK solid SPOILFG;
 }
 /* fake blockquotes like github alerts */
@@ -306,16 +311,16 @@ input#sptoggle:active {
   html {
     font-size: 18px;
   }
-  body {
+  .body {
     max-width: 69%
   }
-  article {
+  .article {
     line-height: 1.7em;
   }
-  header > h2 {
+  .header > h2 {
     display: block;
   }
-  nav > a {
+  .nav > a {
     font-size: 1em
   }
 }

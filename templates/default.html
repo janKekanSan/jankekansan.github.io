@@ -37,8 +37,8 @@
     $endif$
     <link href="/favicon.ico" rel="icon" type="image/x-icon" />
   </head>
-  <body>
-    <header>
+  <body class="body">
+    <header class="header">
       <img src="/avatar.gif" alt="jan Kekan San"/>
       <h2>jan Kekan San</h2>
       <h3>$pagetitle$</h3>
@@ -46,18 +46,18 @@
       <img src="$image$"></img>
       $endif$
     </header>
-    <nav>
+    <p class="nav">
       <a href="/">Home</a>
       <a href="/lipu/">Blog</a>
       <a href="/sona/">Lessons</a>
       <a href="https://gregdan3.dev">Dev&nbsp;Work</a>
-    </nav>
       <input type="button" id="sptoggle" onclick="toggle()" value="Toggle" />
-    <article>
+    </p>
+    <article class="article">
       $for(include-before)$ $include-before$ $endfor$ $body$
       $for(include-after)$ $include-after$ $endfor$
     </article>
-    <footer>
+    <div class="footer">
       <h2 class="tokipona">o toki tawa mi</h2>
       <!-- <h2>󱥄󱥬󱥩󱤴</h2> -->
       <p>
@@ -84,7 +84,7 @@
         Code on
         <a href="https://github.com/janKekanSan/jankekansan.github.io">my GitHub</a>.
       </p>
-    </footer>
+    </div>
     <script src="/sptoggle.js"></script>
     <!-- <script type="text/javascript" src="https://livejs.com/live.js"></script> -->
     <script
