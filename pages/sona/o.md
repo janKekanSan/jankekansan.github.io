@@ -31,7 +31,6 @@ date: date unknown
 - [Takeaway](#takeaway)
     - [Giving Instructions](#giving-instructions)
     - [Grammar](#grammar)
-    - [Other Notes](#other-notes)
 
 <!-- tocstop -->
 
