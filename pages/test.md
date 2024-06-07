@@ -44,8 +44,6 @@ _italic text_
 
 ~~strikethrough text~~
 
-==Highlighted text==
-
 `monospaced text`
 
 [link](https://example.com)
@@ -85,12 +83,11 @@ _italic text_
 |        Item1.4         | Item2.4       |       Item3.4 | Item4.4           |
 
 | Column1 | Column2 | Column3 | Column4 | Column5 |
-| --------------- | --------------- | --------------- | --------------- | --------------- |
+| ------- | ------- | ------- | ------- | ------- |
 | Item1.1 | Item2.1 | Item3.1 | Item4.1 | Item5.1 |
-| Item1.2 | Item2.2 | | | Item5.2 |
-| Item1.3 | Item2.3 | Item3.3 | | Item5.3 |
-| | Item2.4 | Item3.4 | Item4.4 | Item5.4 |
-
+| Item1.2 | Item2.2 |         |         | Item5.2 |
+| Item1.3 | Item2.3 | Item3.3 |         | Item5.3 |
+|         | Item2.4 | Item3.4 | Item4.4 | Item5.4 |
 
 ---
 
@@ -128,19 +125,18 @@ _italic text_
 > blockquote
 
 > blockquote
-> 
->  > with a blockquote
+>
+> > with a blockquote
 
 > blockquote
-> 
+>
 > > blockquote
 > >
 > > > blockquote
-> > > 
+> > >
 > > > > blockquote
-> > > > 
+> > > >
 > > > > > blockquote
-> > > > > 
 
 ---
 
@@ -181,9 +177,12 @@ Sentence with a much longer footnote [^2]
 Sentence with an inline footnote^[the inline content chills right here next to the sentence]
 
 [^1]: footnote
+
 [^2]: A much longer footnote which even has built in [toki pona]{.tokipona}
 
 # Misc missing or disabled syntax
+
+==Highlighted text==
 
 Some statement needing context [@reference]
 
@@ -239,22 +238,20 @@ irrelevant details
 <summary>
 
 > blockquote nested inside summary multiple times
-> 
+>
 > > blockquote
 > >
 > > > blockquote
-> > > 
+> > >
 > > > > blockquote
-> > > > 
+> > > >
 > > > > > blockquote
-> > > > > 
 
 </summary>
 
 irrelevant details
 
 </details>
-
 
 <details>
 <summary>
