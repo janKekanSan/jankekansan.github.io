@@ -9,12 +9,11 @@ TEMPLATE=templates/default.html
 
 PAGES_BUILT=$(patsubst $(PAGEDIR)/%.md,$(BUILDDIR)/%.html,$(PAGES))
 STATICS_BUILT=$(patsubst static/%,$(BUILDDIR)/%,$(STATICS))
-WIDTH_FIX=pandoc/rm-colgroup.lua
-LINK_FIX=pandoc/link-md-to-html.lua
-CLASSES_FIX=pandoc/summary_details.lua
+PANDOC_FROM=markdown+yaml_metadata_block+wikilinks_title_after_pipe-definition_lists-smart
 
+LUA_FILTERS=pandoc/filters.lua
 MARP=npx marp --html
-MD_TO_HTML=pandoc --lua-filter=$(WIDTH_FIX) --lua-filter=$(LINK_FIX) --lua-filter=$(CLASSES_FIX) --from=markdown+yaml_metadata_block+mark+wikilinks_title_after_pipe-definition_lists-smart
+MD_TO_HTML=pandoc --lua-filter=$(LUA_FILTERS) --from=$(PANDOC_FROM)
 MINIFIER=npx minify
 TOC_MAKER=npx markdown-toc --maxdepth 5 --no-stripHeadingTags --indent="  " --bullets="-" -i
 
