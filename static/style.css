@@ -58,22 +58,22 @@ p + p {
   margin-top: 10px;
 }
 
-.header {
+.-header {
   display: flex;
   padding-top: 1em;
   padding-bottom: 1em;
 }
-.header > h2 {
+.-header > h2 {
   position: relative;
   left: 2%;
   display: none;
 }
-.header > h3 {
+.-header > h3 {
   margin-left: auto;
   margin-right: auto;
   text-align: center;
 }
-.header > img {
+.-header > img {
   border: BLOCK_MARK solid FG1;
   border-radius: 50%;
   width: 3.8em;

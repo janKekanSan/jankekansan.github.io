@@ -38,14 +38,14 @@
     <link href="/favicon.ico" rel="icon" type="image/x-icon" />
   </head>
   <body class="body">
-    <header class="header">
+    <div class="-header"> <!-- pandoc assigns `header` to every thead... -->
       <img src="/avatar.gif" alt="jan Kekan San"/>
       <h2>jan Kekan San</h2>
       <h3>$pagetitle$</h3>
       $if(image)$
       <img src="$image$"></img>
       $endif$
-    </header>
+    </div>
     <p class="nav">
       <a href="/">Home</a>
       <a href="/lipu/">Blog</a>
