@@ -155,9 +155,6 @@ sup,
 sub {
   padding: 0.1em; /* breathing room */
 }
-mark {
-  background: WARNBG;
-}
 code {
   font-family: monospace;
   background: BG2;
