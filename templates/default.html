@@ -37,7 +37,7 @@
     $endif$
     <link href="/favicon.ico" rel="icon" type="image/x-icon" />
   </head>
-  <body class="body">
+  <div class="body">
     <div class="-header"> <!-- pandoc assigns `header` to every thead... -->
       <img src="/avatar.gif" alt="jan Kekan San"/>
       <h2>jan Kekan San</h2>
@@ -53,10 +53,10 @@
       <a href="https://gregdan3.dev">Dev&nbsp;Work</a>
       <input type="button" id="sptoggle" onclick="toggle()" value="Toggle" />
     </p>
-    <article class="article">
+    <div class="article">
       $for(include-before)$ $include-before$ $endfor$ $body$
       $for(include-after)$ $include-after$ $endfor$
-    </article>
+    </div>
     <div class="footer">
       <h2 class="tokipona">o toki tawa mi</h2>
       <!-- <h2>󱥄󱥬󱥩󱤴</h2> -->
@@ -92,5 +92,5 @@
       async
       src="//gc.zgo.at/count.js"
     ></script>
-  </body>
+  </div>
 </html>
