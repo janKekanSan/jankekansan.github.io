@@ -84,7 +84,7 @@ p + p {
   text-align: center;
   margin-bottom: 1em;
 }
-.nav > a {
+.nav > a, .lessonnav a {
   display: inline-block;
   width: 20%; /* emulate flex/justify-content */
   color: inherit;
@@ -251,6 +251,11 @@ hr {
   color: ERRORFG;
   background: ERRORBG;
   border-left: BLOCK_MARK solid ERRORFG;
+}
+
+.lessonnav {
+  text-align: center;
+  font-size: 1.3em;
 }
 
 /* each blogpost link */

@@ -10,32 +10,32 @@ Video lesson still to come!
 
 <!-- toc -->
 
-  - [Words to Know](#words-to-know)
-    - [Particles](#particles)
-    - [Content Words](#content-words)
+- [Words to Know](#words-to-know)
+  - [Particles](#particles)
+  - [Content Words](#content-words)
 - [Overview](#overview)
-    - [Intro to la](#intro-to-la)
-    - [Phrases and la](#phrases-and-la)
-      - [la and perspective](#la-and-perspective)
-      - [la and location](#la-and-location)
-      - [la and cause](#la-and-cause)
-      - [la and description](#la-and-description)
-      - [la and feelings](#la-and-feelings)
-      - [la and meaning](#la-and-meaning)
-      - [la and whole prepositions](#la-and-whole-prepositions)
-    - [Phrases and la summary](#phrases-and-la-summary)
-    - [Sentences and la](#sentences-and-la)
-    - [Sentences and la summary](#sentences-and-la-summary)
-    - [Other uses of la](#other-uses-of-la)
-      - [Multiple la](#multiple-la)
-      - [if la, then o](#if-la-then-o)
+  - [Intro to la](#intro-to-la)
+  - [Phrases and la](#phrases-and-la)
+    - [la and perspective](#la-and-perspective)
+    - [la and location](#la-and-location)
+    - [la and cause](#la-and-cause)
+    - [la and description](#la-and-description)
+    - [la and feelings](#la-and-feelings)
+    - [la and meaning](#la-and-meaning)
+    - [la and whole prepositions](#la-and-whole-prepositions)
+  - [Phrases and la summary](#phrases-and-la-summary)
+  - [Sentences and la](#sentences-and-la)
+  - [Sentences and la summary](#sentences-and-la-summary)
+  - [Other uses of la](#other-uses-of-la)
+    - [Multiple la](#multiple-la)
+    - [if la, then o](#if-la-then-o)
 - [Exercises](#exercises)
   - [Toki Pona to English](#toki-pona-to-english)
   - [English to Toki Pona](#english-to-toki-pona)
 - [Takeaway](#takeaway)
-    - [Summary](#summary)
-    - [la and expression](#la-and-expression)
-    - [What if I don't get it?](#what-if-i-dont-get-it)
+  - [Summary](#summary)
+  - [la and expression](#la-and-expression)
+  - [What if I don't get it?](#what-if-i-dont-get-it)
 
 <!-- tocstop -->
 
@@ -752,6 +752,6 @@ Remember, these lessons aren't comprehensive. The guidance and interpretations o
 
 :::
 
-[Previous lesson](./interjections.md)
-
-[Next lesson](./seme.md)
+::: lessonnav
+[Previous lesson](./interjections.md) [Next lesson](./seme.md)
+:::

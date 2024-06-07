@@ -16,18 +16,18 @@ Video lesson still to come!
 
 <!-- toc -->
 
-  - [Words to Know](#words-to-know)
-    - [Particles](#particles)
-    - [Content Words](#content-words)
+- [Words to Know](#words-to-know)
+  - [Particles](#particles)
+  - [Content Words](#content-words)
 - [Overview](#overview)
-    - [Asking your first question with [ala]{.tokipona}](#asking-your-first-question-with-alatokipona)
-    - [Asking questions with [anu seme]{.tokipona}](#asking-questions-with-anu-semetokipona)
-    - [Asking about "no" with [anu seme]{.tokipona}](#asking-about-no-with-anu-semetokipona)
-    - [[anu seme]{.tokipona} can be anywhere in the sentence?!](#anu-semetokipona-can-be-anywhere-in-the-sentence)
-    - [Asking questions with [seme]{.tokipona}](#asking-questions-with-semetokipona)
-    - [Asking multiple questions at the same time](#asking-multiple-questions-at-the-same-time)
-    - [Lots of ways to answer questions](#lots-of-ways-to-answer-questions)
-    - [Frequently Asked Questions](#frequently-asked-questions)
+  - [Asking your first question with [ala]{.tokipona}](#asking-your-first-question-with-alatokipona)
+  - [Asking questions with [anu seme]{.tokipona}](#asking-questions-with-anu-semetokipona)
+  - [Asking about "no" with [anu seme]{.tokipona}](#asking-about-no-with-anu-semetokipona)
+  - [[anu seme]{.tokipona} can be anywhere in the sentence?!](#anu-semetokipona-can-be-anywhere-in-the-sentence)
+  - [Asking questions with [seme]{.tokipona}](#asking-questions-with-semetokipona)
+  - [Asking multiple questions at the same time](#asking-multiple-questions-at-the-same-time)
+  - [Lots of ways to answer questions](#lots-of-ways-to-answer-questions)
+  - [Frequently Asked Questions](#frequently-asked-questions)
 - [Exercises](#exercises)
   - [Toki Pona to English](#toki-pona-to-english)
   - [English to Toki Pona](#english-to-toki-pona)
@@ -413,6 +413,6 @@ Skilled speakers aren't just skilled at expression and comprehension; they also 
 
 :::
 
-[Previous lesson](./la.md)
-
-[Next lesson](./bits.md)
+::: lessonnav
+[Previous lesson](./la.md) [Next lesson](./bits.md)
+:::

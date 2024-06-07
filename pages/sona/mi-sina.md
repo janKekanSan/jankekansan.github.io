@@ -499,6 +499,6 @@ Don't forget, you can toggle the glyphs back to familiar letters with the **Togg
 
 :::
 
-[Previous lesson](./open.md)
-
-[Next lesson](./li.md)
+::: lessonnav
+[Previous lesson](./open.md) [Next lesson](./li.md)
+:::

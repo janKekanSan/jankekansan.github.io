@@ -10,20 +10,20 @@ date: date unknown
 
 <!-- toc -->
 
-  - [Words to Know](#words-to-know)
-    - [Particles](#particles)
-    - [Content Words](#content-words)
-    - [Pre-predicates](#pre-predicates)
+- [Words to Know](#words-to-know)
+  - [Particles](#particles)
+  - [Content Words](#content-words)
+  - [Pre-predicates](#pre-predicates)
 - [Overview](#overview)
-    - [Every Pre-predicate](#every-pre-predicate)
-      - [wile](#wile)
-      - [ken](#ken)
-      - [kama](#kama)
-      - [awen](#awen)
-      - [sona](#sona)
-      - [alasa / lukin](#alasa--lukin)
-    - [Multiple pre-predicates](#multiple-pre-predicates)
-    - [ala](#ala)
+  - [Every Pre-predicate](#every-pre-predicate)
+    - [wile](#wile)
+    - [ken](#ken)
+    - [kama](#kama)
+    - [awen](#awen)
+    - [sona](#sona)
+    - [alasa / lukin](#alasa--lukin)
+  - [Multiple pre-predicates](#multiple-pre-predicates)
+  - [ala](#ala)
 - [Exercises](#exercises)
   - [Toki Pona to English](#toki-pona-to-english)
     - [One pre-pred](#one-pre-pred)
@@ -32,8 +32,8 @@ date: date unknown
     - [ala and other things](#ala-and-other-things)
   - [English to Toki Pona](#english-to-toki-pona)
 - [Takeaway](#takeaway)
-    - [Clarity of Grammar](#clarity-of-grammar)
-    - [Ambiguity](#ambiguity)
+  - [Clarity of Grammar](#clarity-of-grammar)
+  - [Ambiguity](#ambiguity)
 
 <!-- tocstop -->
 
@@ -658,6 +658,6 @@ That said, if any ambiguity or even simple misunderstanding comes up when speaki
 
 ---
 
-[Previous lesson](./mod-pi.md)
-
-[Next lesson](./preps.md)
+::: lessonnav
+[Previous lesson](./mod-pi.md) [Next lesson](./preps.md)
+:::
