@@ -10,16 +10,16 @@ date: date unknown
 
 <!-- toc -->
 
-- [Words to Know](#words-to-know)
-  - [Particles](#particles)
-  - [Content Words](#content-words)
-  - [Critters](#critters)
+  - [Words to Know](#words-to-know)
+    - [Particles](#particles)
+    - [Content Words](#content-words)
+    - [Critters](#critters)
 - [Overview](#overview)
-  - [Instructions](#instructions)
-  - [Attention](#attention)
-  - [[taso]{.tokipona} sentences](#tasotokipona-sentences)
-  - [[taso]{.tokipona} modifier](#tasotokipona-modifier)
-  - [[taso]{.tokipona} head](#tasotokipona-head)
+    - [Instructions](#instructions)
+    - [Attention](#attention)
+    - [[taso]{.tokipona} sentences](#tasotokipona-sentences)
+    - [[taso]{.tokipona} modifier](#tasotokipona-modifier)
+    - [[taso]{.tokipona} head](#tasotokipona-head)
 - [Exercises](#exercises)
   - [Toki Pona to English](#toki-pona-to-english)
     - [[o]{.tokipona} for commands](#otokipona-for-commands)
@@ -29,8 +29,8 @@ date: date unknown
     - [Modifier [taso]{.tokipona}](#modifier-tasotokipona)
   - [English to Toki Pona](#english-to-toki-pona)
 - [Takeaway](#takeaway)
-  - [Giving Instructions](#giving-instructions)
-  - [Grammar](#grammar)
+    - [Giving Instructions](#giving-instructions)
+    - [Grammar](#grammar)
 
 <!-- tocstop -->
 

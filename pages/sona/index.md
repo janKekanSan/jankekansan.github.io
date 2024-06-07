@@ -8,8 +8,8 @@ date: 2022-12-24T00:00:00.000Z
 
 <!-- toc -->
 
-- [[o kama sona]{.tokipona} (Learn Toki Pona!)](#o-kama-sonatokipona-learn-toki-pona)
-  - [[sona pi jan ante]{.tokipona} (Others' Knowledge)](#sona-pi-jan-antetokipona-others-knowledge)
+- [o kama sona (Learn!)](#o-kama-sona-learn)
+  - [[sona ante]{.tokipona} (Other Knowledge)](#sona-antetokipona-other-knowledge)
 - [namako (extra)](#namako-extra)
 - [nasin (methods)](#nasin-methods)
 - [toki (scripts)](#toki-scripts)
@@ -20,9 +20,9 @@ date: 2022-12-24T00:00:00.000Z
 
 </details>
 
-## [o kama sona]{.tokipona} (Learn Toki Pona!)
+## o kama sona (Learn!)
 
-This is my Toki Pona lessons series, **Learn Toki Pona!** Each lesson is like the chapter of a book, long and detailed. Each one has important info to absorb. Be patient, and learn well!
+**[o kama sona]{.tokipona}**! This is my Toki Pona lessons series, **Learn Toki Pona!** Each lesson is like the chapter of a book, long and detailed. Each one has important info to absorb. Be patient, and learn well!
 
 ::: info
 
@@ -105,7 +105,7 @@ Looking for a specific topic? Here's some specific topics from the lessons, in t
 
 -->
 
-### [sona pi jan ante]{.tokipona} (Others' Knowledge)
+### [sona ante]{.tokipona} (Other Knowledge)
 
 - [o pilin e toki pona, by jan Telakoman](https://www.youtube.com/playlist?list=PLwYL9_SRAk8EXSZPSTm9lm2kD_Z1RzUgm) (playlist)
 - [lipu sona, by soweli Tesa](https://sowelitesa.kittycat.homes/lipu-sona/) (webpage)

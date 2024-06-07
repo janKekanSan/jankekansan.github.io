@@ -10,15 +10,15 @@ date: 2022-09-09T00:00:00.000Z
 
 <!-- toc -->
 
-- [Words to Know](#words-to-know)
-  - [Particles](#particles)
-  - [Content Words](#content-words)
+  - [Words to Know](#words-to-know)
+    - [Particles](#particles)
+    - [Content Words](#content-words)
 - [Overview](#overview)
-  - [Objects and e](#objects-and-e)
-  - [Changing things](#changing-things)
-  - [Not changing things](#not-changing-things)
-  - [Multiple e](#multiple-e)
-  - [Multiple li and multiple e](#multiple-li-and-multiple-e)
+    - [Objects and e](#objects-and-e)
+    - [Changing things](#changing-things)
+    - [Not changing things](#not-changing-things)
+    - [Multiple e](#multiple-e)
+    - [Multiple li and multiple e](#multiple-li-and-multiple-e)
 - [Exercises](#exercises)
   - [Toki Pona to English](#toki-pona-to-english)
     - [Single e](#single-e)
@@ -26,8 +26,8 @@ date: 2022-09-09T00:00:00.000Z
     - [Multiple li and Multiple e](#multiple-li-and-multiple-e)
   - [English to Toki Pona](#english-to-toki-pona)
 - [Takeaway](#takeaway)
-  - [Grammar](#grammar)
-  - [Content Words and Particles](#content-words-and-particles)
+    - [Grammar](#grammar)
+    - [Content Words and Particles](#content-words-and-particles)
 
 <!-- tocstop -->
 
@@ -683,12 +683,12 @@ The list of particles we know has grown to include [e]{.tokipona}! Every other n
 
 ---
 
+::: lessonnav
+[Previous lesson](./li.md) [Next lesson](./mod-pi.md)
+:::
+
 ::: info
 
 Try remembering the words with **[this game by James Moulang](https://jamesmoulang.itch.io/nasin-sona-musi)**! Getting ahead of the lessons on words will help!
 
-:::
-
-::: lessonnav
-[Previous lesson](./li.md) [Next lesson](./mod-pi.md)
 :::

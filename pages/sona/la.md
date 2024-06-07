@@ -746,12 +746,10 @@ And while you're at it, don't worry about not getting [la]{.tokipona} yet. Most 
 
 ---
 
-::: warning
-
-Remember, these lessons aren't comprehensive. The guidance and interpretations only tell part of the story- nothing can replace practice and immersion, so try [la]{.tokipona} in a conversation in **[[ma pona pi toki pona]{.tokipona}](https://discord.gg/mapona) [a!]{.tokipona}**
-
-:::
-
 ::: lessonnav
 [Previous lesson](./interjections.md) [Next lesson](./seme.md)
+:::
+
+::: warning
+Remember, these lessons aren't comprehensive. The guidance and interpretations only tell part of the story- nothing can replace practice and immersion, so try [la]{.tokipona} in a conversation in **[[ma pona pi toki pona]{.tokipona}](https://discord.gg/mapona) [a!]{.tokipona}**
 :::

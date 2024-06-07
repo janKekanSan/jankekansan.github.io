@@ -503,10 +503,10 @@ There are also a handful of words which are so-called **pseudo-particles**. This
 
 ---
 
-::: info
-There's no better time to start practicing than right now! Check out **[ma pona pi toki pona on Discord](https://discord.gg/mapona)**, and **[try listening to some Toki Pona](https://www.youtube.com/playlist?list=PLwYL9_SRAk8E-dYX8ioR3tt91hcd5bxV0)**!
-:::
-
 ::: lessonnav
 [Previous lesson](./mi-sina.md) [Next lesson](./e.md)
+:::
+
+::: info
+There's no better time to start practicing than right now! Check out **[ma pona pi toki pona on Discord](https://discord.gg/mapona)**, and **[try listening to some Toki Pona](https://www.youtube.com/playlist?list=PLwYL9_SRAk8E-dYX8ioR3tt91hcd5bxV0)**!
 :::
