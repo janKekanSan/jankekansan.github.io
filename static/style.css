@@ -319,7 +319,7 @@ input#sptoggle:active {
   .article {
     line-height: 1.7em;
   }
-  .header > h2 {
+  .-header > h2 {
     display: block;
   }
   .nav > a {
