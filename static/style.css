@@ -332,6 +332,13 @@ input#sptoggle:active {
   }
 }
 
+@media (min-width: 2000px) {
+  html {
+    font-size: 24px;
+    /* is this patronizing */
+  }
+}
+
 @media (pointer: none), (pointer: coarse) {
   html {
     font-size: 16px;
