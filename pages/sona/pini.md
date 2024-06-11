@@ -15,9 +15,9 @@ This lesson is a work in progress!
 <!-- toc -->
 
 - [nimi ku suli](#nimi-ku-suli)
-  - [Widespread](#widespread)
-  - [Common](#common)
-  - [Uncommon](#uncommon)
+    - [Widespread](#widespread)
+    - [Common](#common)
+    - [Uncommon](#uncommon)
 - [Differences](#differences)
 
 <!-- tocstop -->

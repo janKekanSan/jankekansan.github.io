@@ -18,9 +18,9 @@ This lesson is complete, but the examples are not!
 
 <!-- toc -->
 
-  - [Words to Know](#words-to-know)
-    - [Particles](#particles)
-    - [Content Words](#content-words)
+- [Words to Know](#words-to-know)
+  - [Particles](#particles)
+  - [Content Words](#content-words)
 - [Overview](#overview)
   - [Proper Names](#proper-names)
     - [nasin pona](#nasin-pona)
@@ -34,8 +34,8 @@ This lesson is complete, but the examples are not!
   - [Toki Pona to English](#toki-pona-to-english)
   - [English to Toki Pona](#english-to-toki-pona)
 - [Takeaway](#takeaway)
-    - [Names](#names)
-    - [Numbers](#numbers-1)
+  - [Names](#names)
+  - [Numbers](#numbers-1)
 
 <!-- tocstop -->
 
@@ -426,14 +426,14 @@ Numbers are not super important in Toki Pona. If you ever feel like counting an 
 
 Still, there are many ways to express numbers in Toki Pona when you need it. The systems here aren't exhaustive either- if you get clever, you can come up with systems on the spot! But often, comparisons to other things will help you the most.
 
----
-
 ::: info
 
 We're in the home stretch! Have you been practicing? Even if you have, you can never have enough listening practice; check out [o pilin e toki pona](https://www.youtube.com/playlist?list=PLwYL9_SRAk8EXSZPSTm9lm2kD_Z1RzUgm) by jan Telakoman!
 
 :::
 
-[Previous lesson](./seme.md)
+---
 
-[Next lesson](./pini.md)
+::: lessonnav
+[Previous lesson](./seme.md) [Next lesson](./pini.md)
+:::

@@ -681,14 +681,14 @@ And the same goes for what third person things do to other third person things, 
 
 The list of particles we know has grown to include [e]{.tokipona}! Every other new word is a content word.
 
----
-
-::: lessonnav
-[Previous lesson](./li.md) [Next lesson](./mod-pi.md)
-:::
-
 ::: info
 
 Try remembering the words with **[this game by James Moulang](https://jamesmoulang.itch.io/nasin-sona-musi)**! Getting ahead of the lessons on words will help!
 
+:::
+
+---
+
+::: lessonnav
+[Previous lesson](./li.md) [Next lesson](./mod-pi.md)
 :::

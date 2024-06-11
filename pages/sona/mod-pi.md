@@ -529,17 +529,14 @@ Modifiers do not _change_ what they modify, only make it more specific.
 
 You can see this in English too: a blue book is a kind of book, and a deep understanding is still a kind of understanding. Toki Pona always works like this, with _one_ exception coming up next lesson.
 
+::: info
+
+Practicing tip: Only practice as much as is fun for you!
+
+:::
+
 ---
 
 ::: lessonnav
 [Previous lesson](./e.md) [Next lesson](./pre-predicates.md)
-:::
-
-::: info
-
-Practicing tips:
-
-- Get as much practicing in as you find fun!
-- Practice as slow as you can do it correctly.
-
 :::

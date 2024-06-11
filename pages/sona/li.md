@@ -501,12 +501,12 @@ The word [li]{.tokipona} is a **particle**, and is not the only one! We will lea
 
 There are also a handful of words which are so-called **pseudo-particles**. This category is more blurry, but it contains words which have functions as particles _and_ as content words. Again, we'll learn about those in a future lesson!
 
+::: info
+There's no better time to start practicing than right now! Check out **[ma pona pi toki pona on Discord](https://discord.gg/mapona)**, and **[try listening to some Toki Pona](https://www.youtube.com/playlist?list=PLwYL9_SRAk8E-dYX8ioR3tt91hcd5bxV0)**!
+:::
+
 ---
 
 ::: lessonnav
 [Previous lesson](./mi-sina.md) [Next lesson](./e.md)
-:::
-
-::: info
-There's no better time to start practicing than right now! Check out **[ma pona pi toki pona on Discord](https://discord.gg/mapona)**, and **[try listening to some Toki Pona](https://www.youtube.com/playlist?list=PLwYL9_SRAk8E-dYX8ioR3tt91hcd5bxV0)**!
 :::

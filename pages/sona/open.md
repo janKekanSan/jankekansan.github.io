@@ -254,13 +254,13 @@ There's a button labeled **[sitelen+pona]{.tokipona} Toggle** in the bottom righ
 
 If you struggled with some of these, don't worry! A few of them were chosen to be tricky. Come back later and try the pronunciations again!
 
----
-
 ::: info
 
-Remember to take breaks!
+Remember: It's about consistency! Take breaks when you need it, and come back when you're ready! Tip: Set yourself a reminder for when you know you're free.
 
 :::
+
+---
 
 ::: lessonnav
 [Next lesson](./mi-sina.md)
