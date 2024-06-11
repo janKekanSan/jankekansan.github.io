@@ -308,7 +308,8 @@ input#sptoggle:active {
   border-style: inset;
 }
 
-@media (pointer: fine), (min-width: 800px) {
+@media (pointer: fine), (min-width: 900px) {
+  /* iphones have a logical resolution exclusively below 900px wuh */
   html {
     font-size: 18px;
   }
