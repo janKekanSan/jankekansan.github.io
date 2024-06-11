@@ -165,6 +165,8 @@ div.sourceCode {
   border-left: BLOCK_MARK solid FG2;
 }
 table {
+  margin-top: INDENT;
+  margin-bottom: INDENT;
   background: BG2;
   border: 2px solid FG1;
   border-collapse: collapse;
