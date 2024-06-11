@@ -165,7 +165,6 @@ div.sourceCode {
   border-left: BLOCK_MARK solid FG2;
 }
 table {
-  margin: INDENT;
   background: BG2;
   border: 2px solid FG1;
   border-collapse: collapse;
@@ -313,6 +312,9 @@ input#sptoggle:active {
   html {
     font-size: 18px;
   }
+  table {
+    margin: INDENT;
+  }
   .body {
     max-width: 69%
   }
@@ -329,7 +331,7 @@ input#sptoggle:active {
 
 @media (pointer: none), (pointer: coarse) {
   html {
-    font-size: 18px;
+    font-size: 16px;
   }
   input#sptoggle {
     font-size: 1em;
