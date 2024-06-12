@@ -155,13 +155,11 @@ sup,
 sub {
   padding: 0.1em; /* breathing room */
 }
-code {
+code, div.sourceCode {
   font-family: monospace;
   background: BG2;
 }
 div.sourceCode {
-  font-family: monospace;
-  background: BG2;
   border-left: BLOCK_MARK solid FG2;
 }
 table {
