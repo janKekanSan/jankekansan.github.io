@@ -28,7 +28,9 @@ clean:
 
 $(BUILDDIR)/lipu/index.html: blogindex.sh
 	@mkdir -p $(@D)
-	bash blogindex.sh | $(MD_TO_HTML) --template=$(TEMPLATE) -o $@
+	bash blogindex.sh | $(MD_TO_HTML) \
+		--template=$(TEMPLATE) \
+		-o $@
 	$(MINIFIER) $@ | sponge $@
 
 $(BUILDDIR)/toki/%.html: $(PAGEDIR)/toki/%.md
