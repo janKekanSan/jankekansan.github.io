@@ -1,25 +1,24 @@
 BUILDDIR=build
-
 PAGEDIR=pages
 STATICDIR=static
 
 PAGES=$(shell find $(PAGEDIR) -type f -name \*.md)
 STATICS=$(shell find $(STATICDIR) -type f)
-TEMPLATE=templates/default.html
-
 PAGES_BUILT=$(patsubst $(PAGEDIR)/%.md,$(BUILDDIR)/%.html,$(PAGES))
 STATICS_BUILT=$(patsubst static/%,$(BUILDDIR)/%,$(STATICS))
-PANDOC_FROM=markdown+yaml_metadata_block+wikilinks_title_after_pipe-definition_lists-smart
 
+TEMPLATE=templates/default.html
 LUA_FILTERS=pandoc/filters.lua
-MARP=npx marp --html
+PANDOC_FROM=markdown+yaml_metadata_block+wikilinks_title_after_pipe-definition_lists-smart
 MD_TO_HTML=pandoc --lua-filter=$(LUA_FILTERS) --from=$(PANDOC_FROM)
-MINIFIER=npx minify
+
 TOC_MAKER=npx markdown-toc --maxdepth 5 --no-stripHeadingTags --indent="  " --bullets="-" -i
+MARP=npx marp --html
+MINIFIER=npx minify
 
 DEVNAME=mun.la
 
-.PHONY: all clean dev stopdev
+.PHONY: all clean test dev stopdev
 
 all: $(BUILDDIR)/lipu/index.html $(PAGES_BUILT) $(STATICS_BUILT)
 
