@@ -126,29 +126,29 @@ To start, this system uses **morae**. Morae are like syllables, but they only go
 
 Using mora, we can write names in a new way! Without a dot, [[kepeken]]{.tokipona} is read as just **k**, but each dot completes the next mora:
 
-- [[kepeken·]]{.tokipona} is **ke**, finishing the **ke** mora!
-- [[kepeken··]]{.tokipona} is **kepe**, adding a whole mora!
-- [[kepeken···]]{.tokipona} is **kepeke**, one more mora!
-- [[kepeken····]]{.tokipona} is the entire word **kepeken**!
+- [[kepeken.]]{.tokipona} is **ke**, finishing the **ke** mora!
+- [[kepeken..]]{.tokipona} is **kepe**, adding a whole mora!
+- [[kepeken...]]{.tokipona} is **kepeke**, one more mora!
+- [[kepeken....]]{.tokipona} is the entire word **kepeken**!
 
 If the way the word is normally read is already a full mora, you go onto the next one still. This applies to words that start with vowels, because vowels are also complete mora! Examples with [anpa]{.tokipona}:
 
 - [[anpa]]{.tokipona} is **a** as you usually read it
-- [[anpa·]]{.tokipona} is **an**, which is two morae: **a** and **n**
-- [[anpa··]]{.tokipona} is **anpa**, now the entire word!
+- [[anpa.]]{.tokipona} is **an**, which is two morae: **a** and **n**
+- [[anpa..]]{.tokipona} is **anpa**, now the entire word!
 
 And then with [ike]{.tokipona}:
 
 - [[ike]]{.tokipona} is **i** without any dots
-- [[ike·]]{.tokipona} is **ike**, which is two morae: **i** and **ke**
+- [[ike.]]{.tokipona} is **ike**, which is two morae: **i** and **ke**
 
-If you want to use a whole word, but you don't want lots of dots, you can use a colon [[:]]{.tokipona} to refer to the entire word! [[kepeken:]]{.tokipona} is read as the whole word **kepeken**, the same as [[kepeken····]]{.tokipona} above.
+If you want to use a whole word, but you don't want lots of dots, you can use a colon [[:]]{.tokipona} to refer to the entire word! [[kepeken:]]{.tokipona} is read as the whole word **kepeken**, the same as [[kepeken....]]{.tokipona} above.
 
-Finally, here's somebody named **Kawalo** introducing themselves, and somebody named **Seta Luki** responding, written in this system:
+Here's an example of somebody named **Kawalo** introducing themselves, and somebody named **Seta Luki** responding, written in this system:
 
-> [toki! mi jan [kala· walo:]]{.tokipona}
+> [toki! mi jan [kala. walo:]]{.tokipona}
 >
-> > [toki a, jan [kala· walo:] o! mi jan [sewi· tawa·] [lukin··]]{.tokipona}
+> > [toki a, jan [kala. walo:] o! mi jan [sewi. tawa.] [lukin..]]{.tokipona}
 
 ::: info
 
