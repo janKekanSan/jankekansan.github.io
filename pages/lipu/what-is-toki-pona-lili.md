@@ -69,18 +69,18 @@ With Toki Pona, the whole community will be patient, helpful, and speak with you
 
 And there are lots of other reasons to try Toki Pona.
 
-I strongly believe that Toki Pona made me a better teacher, and more thoughtful about how I use all language.
+I feel that Toki Pona made me a better teacher, and more thoughtful about how I use all language.
 
-You can use it as a secret language between you and your friends.
+You can use it to develop as an artist, writer, or software developer.
 
-It's my opinion, but I Toki Pona makes you a better teacher, and a better communicator in general.
+You can use it to make new friends online and in person, whether speaking Toki Pona or sharing it as a weird, cool hobby.
 
-And if nothing else, Toki Pona is perfect as a secret language for you and your friends.
+And if nothing else, Toki Pona is perfect as a secret language for you and twenty twenty-nine of your closest friends.
 
 ---
 
 If you wanna try Toki Pona, check out the lessons and communities in the description, and ask questions in the comments! I'll answer all that I can.
 
-If you already speak Toki Pona, the next time somebody asks, "What language are you speaking?", show them this video!
+If you already speak Toki Pona, next time somebody asks, "What language is that?", show them this video!
 
-Thank you so much for watching! o toki pona!
+And thank you so much for watching! o toki pona!
