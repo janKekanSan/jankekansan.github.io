@@ -19,17 +19,19 @@ Toki Pona has about a hundred-twenty or a hundred-thirty words, depending on who
 
 This works because its words are broad, like "bird" or "tool", rather than specific like "sparrow" or "jackhammer"
 
-You might think that makes it hard to talk- but you can already talk like this in English!
+You might think that makes it hard to talk- but you already do this in English!
 
 ---
 
 Think of the word "fruit." <!-- TODO: new example? -->
 
-If you ask a friend, "Want some fruit?", then point to a bowl of bananas, apples, and mangos- they'll say, "Sure!"
+If you ask a friend, "Want some fruit?", then you point to a bowl of bananas, apples, and mangos, they'll say "Sure!"
 
-The word "fruit" is all you need for them to understand.
+In English they'd tell you the name of the fruit they want, but they could describe it with a color instead- and that's what Toki Pona does.
 
-And In Toki Pona, every word is like this!
+The point is, you didn't need to name each fruit- the one broad word "fruit" is enough.
+
+And in Toki Pona, every word is like this!
 
 <!-- TODO: better transition? -->
 
