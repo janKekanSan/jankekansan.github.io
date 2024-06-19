@@ -23,21 +23,21 @@ You might think that makes it hard to talk- but you already do this in English!
 
 ---
 
-Think of the word "fruit." <!-- TODO: new example? -->
+Think of the word "fruit."
 
-If you ask a friend, "Want some fruit?", then you point to a bowl of bananas, apples, and mangos, they'll say "Sure!"
+If somebody asked you, "Want some fruit?", then offers a bowl of fruits you've never seen before, you might look at everything in the bowl and say, "Sure, I'll have this red one."
 
-In English they'd tell you the name of the fruit they want, but they could describe it with a color instead- and that's what Toki Pona does.
+They didn't need to name each fruit, and you didn't either.
 
-The point is, you didn't need to name each fruit- the one broad word "fruit" is enough.
+The word "fruit" is broad, covering everything in the bowl.
 
-And in Toki Pona, every word is like this!
+And describing the fruit you wanted was enough!
 
-<!-- TODO: better transition? -->
+In Toki Pona, every word is like this: broad and descriptive!
 
 ---
 
-Because of that, Toki Pona often feels like a puzzle. Here's an example with the name of the language:
+Because of that, Toki Pona often feels like a puzzle. Let's try it on the name of the language:
 
 "Toki" means talk, conversation, language, think, and many similar things.
 
@@ -73,7 +73,7 @@ And there are lots of other reasons to try Toki Pona.
 
 I feel that Toki Pona made me a better teacher, and more thoughtful about how I use all language.
 
-You can use it to develop as an artist, writer, or software developer.
+You can use it to grow as an artist, writer, or software developer.
 
 You can use it to make new friends online and in person, whether speaking Toki Pona or sharing it as a weird, cool hobby.
 
