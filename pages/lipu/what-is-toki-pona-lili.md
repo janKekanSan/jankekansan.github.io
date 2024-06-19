@@ -75,7 +75,7 @@ You can use it to develop as an artist, writer, or software developer.
 
 You can use it to make new friends online and in person, whether speaking Toki Pona or sharing it as a weird, cool hobby.
 
-And if nothing else, Toki Pona is perfect as a secret language for you and twenty twenty-nine of your closest friends.
+And if nothing else, Toki Pona is perfect as a secret language for you and twenty-nine of your closest friends.
 
 ---
 
