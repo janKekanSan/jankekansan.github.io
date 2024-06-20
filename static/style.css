@@ -81,8 +81,15 @@ p + p {
 }
 .nav {
   text-align: center;
-  margin-bottom: 1em;
+  margin-bottom: 0.5em;
 }
+.nav a {
+  text-decoration: none;
+}
+.nav a:hover {
+  text-decoration: none;
+}
+
 .lessonnav a {
   display: inline-block;
   width: 20%; /* emulate flex/justify-content */
@@ -101,13 +108,10 @@ p + p {
   background: BG2;
 }
 
-.nav a {
-  text-decoration: none;
-}
-
 .button {
   width: 88px;
   height: 31px;
+  box-shadow: 1px 1px 0px 0px rgba(0,0,0,1);
   image-rendering: pixelated;
 }
 
@@ -116,10 +120,6 @@ p + p {
   line-height: 1em;
   text-align: center;
 }
-.footer img {
-  box-shadow: 1px 1px 0px 0px rgba(0,0,0,1);
-}
-
 .article {
   padding-left: INDENT;
   padding-right: INDENT;
@@ -310,10 +310,28 @@ input#sptoggle:active {
   border-style: inset;
 }
 
+@media (max-width: 470px) {
+  .button {
+    width: 66px;
+    height: 31px;
+  }
+}
+
+@media (min-width: 600px) {
+  html {
+    font-size: 14px;
+  }
+
+  .button {
+    width: 110px;
+    height: 38.75px;
+  }
+}
+
 @media (min-width: 900px) {
   /* iphones have a logical resolution exclusively below 900px wuh */
   html {
-    font-size: 18px;
+    font-size: 16px;
   }
   table {
     margin: INDENT;
@@ -328,15 +346,33 @@ input#sptoggle:active {
     display: block;
   }
   .button {
+    width: 132px;
+    height: 46.5px;
+  }
+}
+
+@media (min-width: 1200px) {
+  html {
+    font-size: 18px;
+  }
+  .button {
     width: 176px;
     height: 62px;
   }
 }
+@media (min-width: 1500px) {
+  html {
+    font-size: 20px;
+  }
+  .button {
+    width: 220px;
+    height: 77.5px;
+  }
+}
 
-@media (min-width: 2000px) {
+@media (min-width: 1800px) {
   html {
     font-size: 24px;
-    /* is this patronizing */
   }
   .button {
     width: 264px;
