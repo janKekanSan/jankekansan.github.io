@@ -131,11 +131,11 @@ One of the coolest ways to use [la]{.tokipona} is to imply a specific object- a 
 
 <!-- TODO: different than pana -->
 
-> ko la kasi li pana
+> [o la kasi li pana]{.tokipona}
 
 This isn't guaranteed to be understood, but it is possible for this statement to mean the same as the following:
 
-> kasi li pana e ko
+> [kasi li pana e ko]{.tokipona}
 
 You can even use this to imply multiple objects for a single part of speech, such as for [e]{.tokipona}:
 
@@ -167,4 +167,6 @@ These are still valid though!
 
 ---
 
+::: lessonnav
 [Back to [la]{.tokipona}](./la.md)
+:::
