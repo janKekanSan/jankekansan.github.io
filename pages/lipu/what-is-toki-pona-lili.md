@@ -3,7 +3,7 @@
 % 2024-06-18
 % published: true
 
-<!-- last timing: ~2:46 -->
+<!-- last timing: ~2:31 -->
 
 toki a, jan ale o! mi jan Kekan San! mi wile pana e sona pi toki pona!
 
@@ -15,7 +15,7 @@ But Toki Pona isn't for fiction- it's for fun!
 
 ---
 
-Toki Pona has about a hundred-twenty or a hundred-thirty words, depending on who you ask.
+Toki Pona has 120 to 130 words, depending on who you ask.
 
 This works because its words are broad, like "bird" or "tool", rather than specific like "sparrow" or "jackhammer"
 
@@ -23,15 +23,15 @@ You might think that makes it hard to talk- but you already do this in English!
 
 ---
 
-If somebody asked you, "Want some fruit?", then offers a bowl of fruits you've never seen before, you might look at everything in the bowl and say, "Sure, I'll have this red one."
+If somebody asked you, "Want some fruit?", then offers a bowl of fruits you've never seen before, you might look at them all say, "Sure, I'll have this red one."
 
 They didn't need to name each fruit, and you didn't either.
 
-The word "fruit" is broad, covering everything in the bowl.
+The word "fruit" is broad, covering all kinds of fruit.
 
-And describing the fruit you wanted was enough!
+And describing the one fruit you wanted was enough!
 
-In Toki Pona, every word is like this: broad and descriptive! <!--1m-->
+In Toki Pona, every word is like this: broad and descriptive!
 
 ---
 
@@ -45,9 +45,11 @@ Together, "Toki Pona" can refer to friendly conversation, positive thought, or "
 
 ---
 
-You can always use more words to be more specific, but a ton of fun comes from asking, "how can I say this, simply?" <!--1.30m-->
+You can always use more words to be more specific, but a ton of fun comes from asking, "how can I say this, simply?"
 
-But Toki Pona isn't just a game. It's a real language, and it's the easiest to start in.
+Because of that, Toki Pona feels a bit like a puzzle or a game.
+
+But Toki Pona isn't _just_ for fun. It's a real language, and it's the easiest to start in.
 
 You can learn all the words and have your first conversation in less than a week.
 
@@ -57,9 +59,9 @@ It still takes time to be skilled, like any language, but there's other good new
 
 If you've ever struggled to learn a language on Duolingo, you probably need more conversations!
 
-But it's hard to have conversations in a language you're new to- you have to find people who will be patient and correct you, but still interested in talking to you. <!--2m-->
+But it's hard to have conversations in a language you're new to- you need people who are interested in talking to you, but also patient and willing to correct you.
 
-Well, the whole Toki Pona community will be patient, helpful, and speak with you, no matter your skill level.
+With Toki Pona, _everyone_ will be patient, helpful, and excited to talk, no matter your skill level.
 
 ---
 
@@ -71,9 +73,9 @@ You can use it to grow as an artist, writer, or software developer-
 
 Or to make new friends by sharing the language.
 
-Many in the community are queer, neurodivergent, or both- you'll find a home if that's you too.
+Many in the community are queer, neurodivergent, or both- and you'll find a home if that's you too.
 
-And if nothing else, Toki Pona is perfect as a secret language for you and twenty-nine of your closest friends. <!--2.30m-->
+And if nothing else, Toki Pona is perfect as a secret language for you and twenty-nine of your closest friends.
 
 ---
 
