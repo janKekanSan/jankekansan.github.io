@@ -18,15 +18,15 @@ But Toki Pona isn't for fiction- it's for fun!
 
 ---
 
-Toki Pona has 120 to 130 words, depending on who you ask.
+Toki Pona has very few words- 120 to 130, depending on who you ask.
 
-This works because its words are broad, like "bird" or "tool", rather than specific like "sparrow" or "jackhammer"
+And that works because all the words are broad like "bird" or "tool", rather than specific like "sparrow" or "jackhammer"
 
 You might think that makes it hard to talk- but you already do this in English!
 
 ---
 
-If somebody asked you, "Want some fruit?", then offers a bowl of fruits you've never seen before, you might look at them all say, "Sure, I'll have this red one."
+If somebody asked you, "Want some fruit?", then offers a bowl of fruits you've never seen before, you might look at everything in the bowl and say, "Sure, I'll have this red one."
 
 They didn't need to name each fruit, and you didn't either.
 
