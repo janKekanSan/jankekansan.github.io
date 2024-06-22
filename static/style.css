@@ -110,7 +110,7 @@ p + p {
   background: BG2;
 }
 
-.button {
+.button, .social {
   width: 88px;
   height: 31px;
   box-shadow: 0.1em 0.1em 0 0 rgba(0,0,0,1);
@@ -118,7 +118,7 @@ p + p {
   image-rendering: pixelated;
 }
 
-.button:hover {
+.button:hover, .social:hover {
   box-shadow: 0.2em 0.2em 0 0 rgba(0,0,0,1);
   border: 2px solid FG1;
 }
@@ -319,7 +319,7 @@ input#sptoggle:active {
 }
 
 @media (max-width: 470px) {
-  .button {
+  .button, .social {
     width: 66px;
     height: 31px;
   }
