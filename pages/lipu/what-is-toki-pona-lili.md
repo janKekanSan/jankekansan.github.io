@@ -10,7 +10,7 @@
 <!--toki a, jan ale o! mi jan Kekan San! mi wile pana e sona pi toki pona!-->
 <!-- I'm gregdan3, and today  -->
 
-toki- mi jan Kekan San! I wanna tell you about the easiest language, Toki Pona.
+toki a- mi jan Kekan San! I wanna tell you about the easiest language, Toki Pona.
 
 Toki Pona is a constructed language, like Klingon in Star Trek, or Valyrian in Game of Thrones.
 
