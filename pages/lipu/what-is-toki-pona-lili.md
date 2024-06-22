@@ -3,11 +3,14 @@
 % 2024-06-18
 % published: true
 
+<!-- Is this the EASIEST language? -->
+
 <!-- last timing: ~2:31 -->
 
-toki a, jan ale o! mi jan Kekan San! mi wile pana e sona pi toki pona!
+<!--toki a, jan ale o! mi jan Kekan San! mi wile pana e sona pi toki pona!-->
+<!-- I'm gregdan3, and today  -->
 
-Hey everyone, I'm gregdan3, and today I wanna tell you about Toki Pona.
+toki- mi jan Kekan San! I wanna tell you about the easiest language, Toki Pona.
 
 Toki Pona is a constructed language, like Klingon in Star Trek, or Valyrian in Game of Thrones.
 
