@@ -3,20 +3,19 @@
 % 2024-06-18
 % published: true
 
-<!-- Is this the EASIEST language? -->
+This is a script for an upcoming video, which I'll be adapting into a script for you to learn yourself!
 
-<!-- last timing: ~2:31 -->
-
-<!--toki a, jan ale o! mi jan Kekan San! mi wile pana e sona pi toki pona!-->
-<!-- I'm gregdan3, and today  -->
+<!-- cut -->
 
 toki a- mi jan Kekan San! I wanna tell you about the easiest language, Toki Pona.
 
 Toki Pona is a constructed language, like Klingon in Star Trek, or Valyrian in Game of Thrones.
 
-But Toki Pona isn't for fiction- it's for fun!
+But Toki Pona isn't for fiction- it's for fun! And it's so simple, you could teach it to a rock.
 
 ---
+
+But how does it work?
 
 Toki Pona has very few words- 120 to 130, depending on who you ask.
 
@@ -32,7 +31,7 @@ They didn't need to name each fruit, and you didn't either.
 
 The word "fruit" is broad, covering all kinds of fruit.
 
-And describing the one fruit you wanted was enough!
+And all you needed to do was describe the fruit you wanted!
 
 In Toki Pona, every word is like this: broad and descriptive!
 
@@ -42,13 +41,13 @@ This is true for the name of the language too:
 
 "Toki" describes talking, conversation, language, thinking, and many similar things.
 
-"Pona" describes good things like being positive, friendly, trustworthy, and more.
+"Pona" describes good things like being friendly, positive, trustworthy, and more.
 
 Together, "Toki Pona" can refer to friendly conversation, positive thought, or "good language".
 
 ---
 
-You can always use more words to be more specific, but a ton of fun comes from asking, "how can I say this, simply?"
+You can always use more words to be more specific, but a ton of fun comes from asking, "Can I say this more simply?"
 
 Because of that, Toki Pona feels a bit like a puzzle or a game.
 
@@ -78,12 +77,12 @@ Or to make new friends by sharing the language.
 
 Many in the community are queer, neurodivergent, or both- and you'll find a home if that's you too.
 
-And if nothing else, Toki Pona is perfect as a secret language for you and twenty-nine of your closest friends.
+If nothing else, Toki Pona is perfect as a secret language for you and twenty-nine of your closest friends.
 
 ---
 
-If you wanna try Toki Pona, check out the lessons and communities in the description, and ask questions in the comments! I'll answer all that I can.
+If you wanna learn Toki Pona, check the description for lessons and communities, and ask questions in the comments!
 
-If you already speak Toki Pona, next time somebody asks, "What language is that?", show them this video!
+If you already speak Toki Pona, show this video to the next person who asks, "What's that language?"
 
 And thank you so much for watching! o toki pona!
