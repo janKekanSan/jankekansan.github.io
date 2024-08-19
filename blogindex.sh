@@ -21,6 +21,7 @@ done
 POSTS=$(sort -nr <blogdates.txt | cut -f 2-)
 
 cat templates/blog_header.md
+echo ""
 
 for f in $POSTS; do
 	PUBLISHED=$(head -n 4 "$f" | tail -n 1)
