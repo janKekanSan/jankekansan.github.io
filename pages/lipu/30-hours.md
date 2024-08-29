@@ -7,12 +7,10 @@
 
 Nobody knows how long it takes to learn Toki Pona. Nobody knows how long it takes to
 become "fluent," "skilled," or
-"conversational" either. Nobody even knows how long it takes to learn all the words. The community has been interested in this question for a long time, but no one has come up with any answer better than anecdotes. There is not and has never been any evidence-supported answer[^telakoman].
+"conversational" either. Nobody even knows how long it takes to learn all the words.
 
-[^telakoman]: It would be really silly to write an article where I try to find a source for the 30 hour claim, then open the article by baiting with an even more ludicrous claim, right? Foreshadowing!
-
-There _is_ a notion that Toki Pona is "easier" to learn than
-natural languages, and even that it is the "easiest" language to learn. Odds are, neither of these can be tested, so they'll never be more than beliefs that some members of the community hold[^me_too].
+The community has been interested in this question for a long time, but no one has come up with any answer better than anecdotes.
+There _is_ a notion that Toki Pona is "easier" to learn than natural languages, and even that it is the "easiest" language to learn. Odds are, neither of these can be tested, so they'll never be more than beliefs that some members of the community hold[^me_too]. There is not and has never been any evidence-supported answer to how long it takes to learn Toki Pona[^telakoman].
 
 [^me_too]:
     I'm one of them! I firmly believe that Toki Pona is the "easiest" language to
@@ -20,17 +18,52 @@ natural languages, and even that it is the "easiest" language to learn. Odds are
     "easiest language to learn," people seem to understand "can be learned with little effort" as
     opposed to "can be learned with less effort than other languages." Frustrating!
 
-But uh, [news organizations](https://www.theatlantic.com/technology/archive/2015/07/toki-pona-smallest-language/398363/) and [research publications](https://jalt-publications.org/sites/default/files/pdf-article/jalt2023-pcp-027.pdf) and [youtubers](https://www.youtube.com/watch?v=_d6bGAw5yt8&t=16s) are claiming it takes
-**30 hours** to learn Toki Pona. What?
+[^telakoman]: It would be really silly to write an article where I try to find a source for the 30 hour claim, then open the article by baiting with an even more ludicrous claim, right?
+
+Well, until now.
+
+## You can learn Toki Pona in 10 _study_-hours, _but_
+
+- "learn" means "become conversational in." It **does not** mean fluent.
+- Those 10 hours are spread over 30 days. Breaks matter!
+- There's only one source of evidence- but granted, that is better than no evidence!
+- That evidence is the only learning method that these numbers are known to apply to[^other_methods].
+
+[^other_methods]:
+    Stated more clearly: There could be other methods of learning Toki
+    Pona that are equally as fast. They just don't have evidence yet! And, while we're
+    here, there are absolutely learning methods that are slower.
+
+In January 2023, jan Telakoman published [o pilin e toki pona](https://www.youtube.com/playlist?list=PLwYL9_SRAk8EXSZPSTm9lm2kD_Z1RzUgm), "Experience Toki Pona". It's a Toki Pona course made entirely of [comprehensible input](https://en.wikipedia.org/wiki/Input_hypothesis). He then asked prospective learners to take his 30 day challenge, where they would watch one of these videos every day for 30 days. At the end of the challenge, they'd hop on a call with jan Telakoman, discuss the challenge, and have a conversation in Toki Pona to put the course to the test.
+
+Assuming participants follow the rules of the challenge, they will spend about 10 hours (20 minutes per video x 30 videos) studying Toki Pona over the course of 30 days. That's an excellent benchmark, and a very realistic timeline to become _conversational_ in Toki Pona. So, has anyone done it?
+
+Yes! [This playlist](https://www.youtube.com/playlist?list=PLwYL9_SRAk8F1hpZqv-pTgtnAjtD4yAy5), with 14 videos as of writing, documents those who took the 30 day challenge and then recorded a talk with jan Telakoman. All of these videos feature a purely Toki Pona conversation, and most of those conversations are over ten minutes long. These conversations do have their fair share of struggles, but each person does successfully hold a fairly long conversation with jan Telakoman. Or, put another way, they have achieved a conversational level of Toki Pona.
+
+With this, we can confidently claim that it takes at least **10 hours** over **30 days** to become **conversational** in Toki Pona.
+
+And this claim is much more apt- in addition to the evidence behind it, it portrays
+the process of learning in a more sincere way. You can't brute-force your way through
+the learning process by doing everything up front. You need time to rest between lessons, so everything you've learned can "lock in"[^brain]. Put another way, most people aren't going to get 30 hours better at playing the piano if those 30 hours of practice are spread over only 3 days. Time spent is only part of the puzzle- consistency is another.
+
+[^brain]:
+    I'm not about to go study the neurology of memory in order to make this claim
+    more accurate. Intuitively, this is how learning works; I think that's fair to say.
+
+But if you'd prefer a snappier version of the claim:
+
+### With **20 minutes a day** over **30 days**, you can be conversational in Toki Pona!
+
+But wait- [news organizations](https://www.theatlantic.com/technology/archive/2015/07/toki-pona-smallest-language/398363/) and [research publications](https://jalt-publications.org/sites/default/files/pdf-article/jalt2023-pcp-027.pdf) and [youtubers](https://www.youtube.com/watch?v=_d6bGAw5yt8&t=16s) have been claiming it takes **30 hours** to learn Toki Pona **since 2015**, years before we had this evidence. They even claim a "general consensus among the community." What?
 
 ## Where did "30 hours" come from?
 
-The earliest source actually surprised me. The 30 hour claim comes straight from the community.
+The earliest source actually surprised me. The 30 hour claim _does_ come from the community, but not so much from consensus.
 
 jan Mato, an early member of the Toki Pona community[^jan_mato_membership], posted [this thread](http://forums.tokipona.org/viewtopic.php?t=1801) asking everyone how many hours it took them to learn Toki Pona. The thread got five responses, and in the first of these, aikidave suggests the following figure for themselves:
 
 [^jan_mato_membership]:
-    jan Mato seems to have active from December 2009 to mid 2013,
+    jan Mato seems to have been active from December 2009 to mid 2013,
     with much more sporadic activity afterwards. They do [reference the mailing list](http://forums.tokipona.org/viewtopic.php?p=10777&hilit=technology+mailing#p10777)
     though, so they may have been around in the Yahoo Groups days (2002-2009).
 
@@ -71,7 +104,7 @@ There isn't any further source, so the only things left to do are speculate and 
 
 Cynically, it's easy to believe that the author of the Atlantic article searched "how long does
 it take to learn toki pona" and found one of jan Mato's forum posts. The author is
-writing for a fairly prestigious publication, so I wouldn't be surprised if they were nervous about citing a random forum post. Instead, don't cite the source at all!.
+writing for a fairly prestigious publication, so I wouldn't be surprised if they were nervous about citing a random forum post. Instead, don't cite the source at all!
 
 Alternatively, it could have been Marta Krzeminska. There isn't evidence to support this
 claim, but we are in speculation territory- "Marta" isn't terribly far from "Mato," and
@@ -81,7 +114,7 @@ so this theory isn't looking good!
 It could even have been Sonja Lang. As far as I'm aware, she has never made such a claim
 either before or since, but [this Scoop Whoop article](https://www.scoopwhoop.com/language/toki-pona-worlds-smallest-language/) [warning: all the suggested articles are NSFW] _does_ attribute the 30 hour claim to her. It is also the only one to do so.
 
-Unless the author of the article came forward to tell us, or Marta Krzeminska turned out to be jan Mato, we'll likely never know how or why the 30 hour claim on the forum jumped to being a 30 hour claim in a professional news publication.
+Unless the author of the Atlantic article came forward to tell us, or Marta Krzeminska turned out to be jan Mato, we'll likely never know how or why the 30 hour claim on the forum became a 30 hour claim in a professional news publication.
 
 </details>
 
@@ -91,29 +124,42 @@ As for the community, they were not immune to uncritically repeating the 30 hour
 
 It's unclear what impact this misinformation has on Toki Pona. Some newcomers are [drawn in by the claim](https://www.reddit.com/r/tokipona/comments/14vse6g/toki_mi_jan_kaan_mi_olin_toki_jan_sorry_for/jreces8/), but there's no telling how many [frustrated learners](https://www.reddit.com/r/tokipona/comments/1dsi4q1/things_you_wish_you_knew_when_you_started/lb4d0mj/) gave up and never came back because they couldn't understand any Toki Pona on their second day learning. There are also plenty of well-meaning learners who [accidentally put down other learners](https://www.reddit.com/r/tokipona/comments/1d4rm61/how_long_have_you_guys_been_learning_toki_pona/l6hz5qv/).
 
-## A better idea
+I'd like to help this situation. To do that, let's pick apart what "30 hours" means- not
+just literally, but as it would be understood by those reading it too.
 
-Instead, let's advocate for a number we _do_ have evidence for.
+## What does "30 hours" mean?
 
-In January 2023, jan Telakoman published [o pilin e toki pona](https://www.youtube.com/playlist?list=PLwYL9_SRAk8EXSZPSTm9lm2kD_Z1RzUgm), "Experience Toki Pona". It's a Toki Pona course made entirely of [comprehensible input](https://en.wikipedia.org/wiki/Input_hypothesis). He then asked prospective learners to take his 30 day challenge, where they would watch one of these videos every day for 30 days. At the end of the challenge, they'd hop on a call with jan Telakoman, discuss the challenge, and have a conversation in Toki Pona to put the course to the test.
+As I've alluded to, the claim that "You can learn Toki Pona in 30 hours!" is misleading. The challenge is in understanding how it's misleading. The truth is, there was never a single number that correctly described how long it takes to learn Toki Pona, or any language.
 
-Assuming participants follow the rules of the challenge, they will spend about 10 hours (20 minutes per video \* 30 videos) studying Toki Pona over the course of 30 days. That's an excellent benchmark, and a very realistic timeline to become _conversational_ in Toki Pona. So, has anyone done it?
+The first number is the amount of time you spend immersed in or studying the language, the "study-hours" I've referred to. For example, you'll often see claims that learning Japanese takes [100 hours, or 325-600 hours, or 3000-4800 hours](https://www.reddit.com/r/languagelearning/comments/8pq4w9/how_long_to_learn_japanese/), depending on what your goal is. This figure is generally given in hours.
 
-Yes! [This playlist](https://www.youtube.com/playlist?list=PLwYL9_SRAk8F1hpZqv-pTgtnAjtD4yAy5), with 14 videos as of writing, documents those who took the 30 day challenge and talked with jan Telakoman. All of these videos feature a purely Toki Pona conversation, and most of those conversations are over ten minutes long. These conversations do have their fair share of struggles, but each person does successfully hold a fairly long conversation with jan Telakoman. Or, put another way, they have achieved a conversational level of Toki Pona.
+The second number is how much time those study-hours are spread over. For example,
+you'll see claims that learning Japanese takes 6 months, or 1-2 years, or even
+sillier-sounding claims like "7 years" and "24 years." This figure is generally given in
+months or years, and is loosely linked to the study-hours figure by how many hours you
+spend studying per day.
 
-With this, we can confidently make the following claim: It takes **10 hours** over **30 days** to become **conversational** in Toki Pona.
+But even understanding that the "30 hours" claim was missing context, there is still more missing context. The "30 hours" are study-hours, but what does "learn" mean? It could range from "knows the words" to "conversational" to "fluent," and even "fluency" can be understood differently from person to person. When the 30 hour claim was first made on the forum, "learn" was quoted to indicate its dubious meaning- "learn" could have meant "become conversational" or even as little as "make some sentences." Either way, these are wildly different from the "mastery" or "fluency" claim that appears in so many articles.
 
-And this claim is much more apt- in addition to the evidence behind it, it portrays
-the process of learning in a more sincere way. You can't brute-force your way through
-the learning process by doing everything up front. You need time to rest between lessons, so everything you've learned can "lock in"[^brain]. Put another way, you probably aren't going to get 30 hours better at playing the piano if those 30 hours of practice are spread over only 3 days. Time spent is only part of the puzzle- consistency is another.
+When the "30 hours" claim appears in various publications, especially after the Atlantic article, there doesn't seem to be any care taken for how the reader would interpret the claim. There is no context given for those 30 hours. The articles do not specify how long you might take to get through those 30 hours, and they provide either no understanding or a badly misinformed understanding of what you'll achieve by the end of those 30 hours.
 
-[^brain]:
-    I'm not about to go study the neurology of memory in order to make this claim
-    more accurate. Intuitively, this is how learning works; I think that's fair to say.
+This issue is made even worse by the fact that Toki Pona is a "small" language, or "minimalist" language, or "the world's smallest" language. These, while mostly accurate on their own, make the 30 hour claim even more misleading by adding legitimacy to the "30 hours to fluency" claim. If the language is so small, it makes perfect sense that you can learn it so fast! Except that isn't true at all.
 
-But if you'd prefer a snappier version of the claim:
+It would have been more _honest_ to say that those 30 hours were over the course of a
+few weeks or months, or at least that they were 30 hours of studying. But many
+publications let readers come away with the belief that "you can learn toki pona in 30
+hours," where the reader will likely understand "30 hours" as "basically two days."
 
-### If you spend **20 minutes a day** for **30 days**, you can learn to speak Toki Pona!
+The only solution to this is to include all the context you can, every time you make
+this claim. At minimum:
+
+- It takes at least 10 hours of study over 30 days, structured as 20 minutes per day.
+- There's only one learning method, [comprehensible input](https://www.youtube.com/playlist?list=PLwYL9_SRAk8EXSZPSTm9lm2kD_Z1RzUgm), that is known to work in that
+  time frame.
+- You'll only get to a "conversational" level of Toki Pona with this amount of time and effort.
+- Your personal results could be different!
+
+And if you must put flashy numbers on how long it takes to learn Toki Pona, "conversational in 10 hours over 30 days" or "20 minutes per day for 30 days to be conversational" is as good as it's going to get.
 
 <!--
 
