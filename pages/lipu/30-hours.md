@@ -111,8 +111,12 @@ claim, but we are in speculation territory- "Marta" isn't terribly far from "Mat
 jan Mato was the source for the 30 hour claim on the forum. Uh, that's it for evidence,
 so this theory isn't looking good!
 
-It could even have been Sonja Lang. As far as I'm aware, she has never made such a claim
-either before or since, but [this Scoop Whoop article](https://www.scoopwhoop.com/language/toki-pona-worlds-smallest-language/) [warning: all the suggested articles are NSFW] _does_ attribute the 30 hour claim to her. It is also the only one to do so.
+~~It could even have been Sonja Lang. As far as I'm aware, she has never made such a claim
+either before or since, but [this Scoop Whoop article](https://www.scoopwhoop.com/language/toki-pona-worlds-smallest-language/) [warning: all the suggested articles are NSFW] _does_ attribute the 30 hour claim to her. It is also the only one to do so.~~
+
+Update: Sonja read this article and said the following:
+
+!["i've never made such a claim and tha scoop whoop publication never contacted me for a quote" - Sonja on Discord August 29th 2024, 12:08PM CDT](./sonja-quote.jpg)
 
 Unless the author of the Atlantic article came forward to tell us, or Marta Krzeminska turned out to be jan Mato, we'll likely never know how or why the 30 hour claim on the forum became a 30 hour claim in a professional news publication.
 
