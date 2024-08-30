@@ -58,9 +58,9 @@ But wait- [news organizations](https://www.theatlantic.com/technology/archive/20
 
 ## Where did "30 hours" come from?
 
-The earliest source actually surprised me. The 30 hour claim _does_ come from the community, but not so much from consensus.
+The earliest source surprised me. The 30 hour claim _does_ come from the community, but not so much from consensus.
 
-jan Mato, an early member of the Toki Pona community[^jan_mato_membership], posted [this thread](http://forums.tokipona.org/viewtopic.php?t=1801) asking everyone how many hours it took them to learn Toki Pona. The thread got five responses, and in the first of these, aikidave suggests the following figure for themselves:
+jan Mato, an early member of the Toki Pona community[^jan_mato_membership], posted [this thread](http://forums.tokipona.org/viewtopic.php?t=1801) on January 11th 2011. In it, they ask everyone how many hours it took them to learn Toki Pona. The thread got five responses, and in the first of these, aikidave suggests the following figure for themselves:
 
 [^jan_mato_membership]:
     jan Mato seems to have been active from December 2009 to mid 2013,
@@ -69,7 +69,7 @@ jan Mato, an early member of the Toki Pona community[^jan_mato_membership], post
 
 > I spent on average, about 45 minutes per day studying toki pona, so that means it took me about 30 hours to 'learn' toki pona.
 
-Note: this quote portrays those 30 hours as study-hours, as in the amount of time you
+Note: This quote portrays those 30 hours as study-hours, as in the amount of time you
 spend with your nose down to study. This is a huge contrast to the way those 30
 hours are sold in various
 articles and videos today: 30 hours from introduction to fluency.
