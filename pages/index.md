@@ -52,6 +52,7 @@ height: 1.2em;
 
 ## [ijo]{.tokipona} (things)
 
+- [ilo Muni, graph word trends](https://gregdan3.github.io/ilo-muni/) (my work!)
 - [lipu Linku, a dictionary](https://linku.la)
 - [Urban Dictionary but Toki Pona](https://kijetesantakalu.com/)
 - [Hand written [sitelen pona]{.tokipona} recognizer!](https://ilo-like.bucketfish.me/)
