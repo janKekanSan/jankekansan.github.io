@@ -123,6 +123,13 @@ p + p {
   border: 2px solid FG1;
 }
 
+.icon {
+  width: 16px;
+  height: 16px;
+  image-rendering: pixelated;
+  transform: translateY(15%);
+}
+
 .footer {
   font-size: 0.75em;
   line-height: 1em;
@@ -349,6 +356,11 @@ input#sptoggle:active {
   .button {
     width: 110px;
     height: 38.75px;
+  }
+
+  .icon {
+    width: 32px;
+    height: 32px;
   }
 }
 
