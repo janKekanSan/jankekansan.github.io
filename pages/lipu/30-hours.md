@@ -76,7 +76,7 @@ articles and videos today: 30 hours from introduction to fluency.
 
 Continuing: jan Mato [repeated](http://forums.tokipona.org/viewtopic.php?p=10574&hilit=30+hours#p10574) [this](http://forums.tokipona.org/viewtopic.php?p=10777&hilit=30+hours#p10777) [claim](http://forums.tokipona.org/viewtopic.php?p=11117&hilit=30+hours#p11117) a few more times throughout 2011, and that was almost the end of it! The 30 hour claim never showed up on the forum again.
 
-But in January 2015, [The Guardian](https://www.theguardian.com/education/2015/jan/08/toki-pona-invented-language-memrise) posted an article discussing a small group attempting to learn toki pona in 48 hours, led by Oliver Mayeux and Marta Krzeminska. This doesn't include the specific "30 hour" claim[^mental_floss]- if anything, their article is an honest and realistic portrayal of what your first two days of learning Toki Pona could be like. But this article is important because it would be a turning point for Toki Pona itself: Toki Pona was starting to get more public attention.
+But in January 2015, [The Guardian](https://www.theguardian.com/education/2015/jan/08/toki-pona-invented-language-memrise) posted an article discussing a small group attempting to learn Toki Pona in 48 hours, led by Oliver Mayeux and Marta Krzeminska. This doesn't include the specific "30 hour" claim[^mental_floss]- if anything, their article is an honest and realistic portrayal of what your first two days of learning Toki Pona could be like. But this article is important because it would be a turning point for Toki Pona itself: Toki Pona was starting to get more public attention.
 
 [^mental_floss]: Uh, [this Mental Floss article](https://www.mentalfloss.com/article/66403/language-only-123-words-less-more) actually cites the Guardian article, directly on the words "around 30 hours." I have no idea why, because the Guardian article does not make that claim at all.
 
@@ -88,7 +88,7 @@ Later, in July 2015, [The Atlantic](https://www.theatlantic.com/technology/archi
 
 [^best_friend]:
     Oliver Mayeux is not interviewed for or named in the Atlantic article, but Krzeminska does
-    reference speaking toki pona with her best friend- from some of the other reading I
+    reference speaking Toki Pona with her best friend- from some of the other reading I
     did along the way, I'm pretty sure that's Oliver!
 
 > a general consensus among Toki Pona speakers is that it takes about 30 hours to master.
@@ -106,10 +106,14 @@ Cynically, it's easy to believe that the author of the Atlantic article searched
 it take to learn toki pona" and found one of jan Mato's forum posts. The author is
 writing for a fairly prestigious publication, so I wouldn't be surprised if they were nervous about citing a random forum post. Instead, don't cite the source at all!
 
-Alternatively, it could have been Marta Krzeminska. There isn't evidence to support this
+~~Alternatively, it could have been Marta Krzeminska. There isn't evidence to support this
 claim, but we are in speculation territory- "Marta" isn't terribly far from "Mato," and
 jan Mato was the source for the 30 hour claim on the forum. Uh, that's it for evidence,
-so this theory isn't looking good!
+so this theory isn't looking good!~~
+
+Update: jan **Mata** reached out, and is not jan Mato! And it's genuinely so cool that
+she did. I have such an appreciation for the community and how it can feel so large and
+so small all at once.
 
 ~~It could even have been Sonja Lang. As far as I'm aware, she has never made such a claim
 either before or since, but [this Scoop Whoop article](https://www.scoopwhoop.com/language/toki-pona-worlds-smallest-language/) [warning: all the suggested articles are NSFW] _does_ attribute the 30 hour claim to her. It is also the only one to do so.~~
@@ -118,7 +122,7 @@ Update: Sonja read this article and said the following:
 
 !["i've never made such a claim and tha scoop whoop publication never contacted me for a quote" - Sonja on Discord August 29th 2024, 12:08PM CDT](./sonja-quote.jpg)
 
-Unless the author of the Atlantic article came forward to tell us, or Marta Krzeminska turned out to be jan Mato, we'll likely never know how or why the 30 hour claim on the forum became a 30 hour claim in a professional news publication.
+Unless the author of the Atlantic article came forward to tell us, we'll likely never know how or why the 30 hour claim on the forum became a 30 hour claim in a professional news publication.
 
 </details>
 
@@ -151,7 +155,7 @@ This issue is made even worse by the fact that Toki Pona is a "small" language, 
 
 It would have been more _honest_ to say that those 30 hours were over the course of a
 few weeks or months, or at least that they were 30 hours of studying. But many
-publications let readers come away with the belief that "you can learn toki pona in 30
+publications let readers come away with the belief that "you can learn Toki Pona in 30
 hours," where the reader will likely understand "30 hours" as "basically two days."
 
 The only solution to this is to include all the context you can, every time you make
