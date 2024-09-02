@@ -159,6 +159,10 @@ blockquote {
   border-left: BLOCK_MARK solid FG2;
 }
 
+img {
+  max-width: 100%;
+}
+
 mark,
 code,
 sup,
