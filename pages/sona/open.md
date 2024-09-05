@@ -57,7 +57,8 @@ If you feel like you're not getting it, take a break and come back later!
 
 If you know the International Phonetic Alphabet, Toki Pona is read like that.
 If you don't, the vowels are like Spanish, Italian, or long vowels in Latin.
-If you don't know the vowels in these languages, read the guide [here](#vowels).
+If you don't know the vowels in these languages, read the table in the vowels section
+below.
 
 The consonants are like English except `j` which makes a `y` sound.
 
@@ -196,7 +197,8 @@ Don't worry about _all_ this just yet! You'll find what feels comfortable as you
 
 ::: info
 
-The font I'm using is called **sitelen seli kiwen**. Check it out [here](https://www.kreativekorp.com/software/fonts/sitelenselikiwen/)!
+The font I'm using is called **Nishiki-teki**. [Download here](/ntl.ttf), [more info
+here](https://sitelen.pona.la/font/Nishiki-teki-lili)
 
 :::
 
