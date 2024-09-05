@@ -16,7 +16,7 @@ the following conversation?
 >
 > > [mi pona. sina seme?]{.tokipona}
 > >
-> > > [mi pona kin. (_pini_)]{.tokipona}
+> > > [mi pona kin.]{.tokipona}    **[[pini]{.tokipona}]**
 
 Not really. This doesn't convey anything about either speaker, and it doesn't
 give you anything to think about.
