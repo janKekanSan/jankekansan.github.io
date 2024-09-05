@@ -293,7 +293,7 @@ hr {
   font-family: sp;
   src: url("/ntl.ttf");
 }
-.tokipona {
+.tokipona, .tp {
   font-family: sp;
 }
 
