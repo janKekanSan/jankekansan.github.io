@@ -4,13 +4,9 @@
 
 ::: error
 
-This nasin is non-standard in _adding_ to Toki Pona's grammar. Speakers may be able to understand you, but if they don't, **use a more common nasin**!
+This lesson teaches a **non-standard way of using Toki Pona**, and it **may not be understood by most speakers**. If you use it, you may have to repeat yourself without it!
 
 :::
-
-Check out my live lesson [here](https://youtu.be/NpcoCeNOptc), and join the Discord server [here](https://discord.com/invite/acN3PD5y7M)!
-
----
 
 ## Introduction
 
