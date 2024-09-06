@@ -115,10 +115,10 @@ p + p {
   border: none;
   background: none;
   text-align: left;
+  font-size: 0.9em;
 }
 
 .lessonmenu td {
-  padding-left: 1%;
   border: none;
 }
 
@@ -357,6 +357,10 @@ input#sptoggle:active {
 @media (min-width: 450px) {
   html {
     font-size: 14px;
+  }
+
+  .lessonmenu table {
+    font-size: 1em;
   }
 }
 
