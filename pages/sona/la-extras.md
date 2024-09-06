@@ -168,5 +168,5 @@ These are still valid though!
 ---
 
 ::: lessonnav
-[Back to [la]{.tokipona}](./la.md) [Lessons](/sona)
+[Back to [la]{.tokipona}](./la.md)
 :::

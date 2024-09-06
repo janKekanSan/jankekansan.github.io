@@ -110,6 +110,18 @@ p + p {
   background: BG2;
 }
 
+.lessonmenu table {
+  width: 100%;
+  border: none;
+  background: none;
+  text-align: left;
+}
+
+.lessonmenu td {
+  padding-left: 1%;
+  border: none;
+}
+
 .button, .social {
   width: 88px;
   height: 31px;

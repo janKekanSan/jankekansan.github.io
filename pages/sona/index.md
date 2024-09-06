@@ -4,46 +4,51 @@ author: gregdan3
 date: 2022-12-24T00:00:00.000Z
 ---
 
-<details><summary>**Table of Contents**</summary>
+## [o kama sona a]{.tp} (Learn!)
 
-<!-- toc -->
-
-- [o kama sona (Learn!)](#o-kama-sona-learn)
-  - [[sona ante]{.tokipona} (Other Knowledge)](#sona-antetokipona-other-knowledge)
-- [namako (extra)](#namako-extra)
-- [nasin (methods)](#nasin-methods)
-- [toki (scripts)](#toki-scripts)
-- [ijo ante (other things)](#ijo-ante-other-things)
-- [tan seme (why)](#tan-seme-why)
-
-<!-- tocstop -->
-
-</details>
-
-## o kama sona (Learn!)
-
-**[o kama sona]{.tokipona}**! This is my Toki Pona lessons series, **Learn Toki Pona!** Each lesson is like the chapter of a book, long and detailed. Each one has important info to absorb. Be patient, and learn well!
+This is my series of Toki Pona lessons, **Learn Toki Pona!** 
+Each lesson is like the chapter of a book: long and detailed, but important.
+Be patient, learn well, and good luck!
 
 ::: info
 
-Start [a memrise course](https://app.memrise.com/community/course/6039964/toki-pona-jan-lentans-course-with-audio/)
-or [memorizing game](https://jamesmoulang.itch.io/nasin-sona-musi) to help memorize the words!
+Take [a memory game](https://jamesmoulang.itch.io/nasin-sona-musi) and [a cheatsheet](https://raw.githubusercontent.com/zhukant/toki-pona-cheatsheet-suko/main/output/tp-cheatsheet-suko-2pg.pdf) to help you remember words! 
 
 :::
 
-- [Getting Started](./open.md) --- **[Whole Playlist](https://www.youtube.com/playlist?list=PLoLQoll2U6WEeCO7C2oc1LTWgkoBC8rvT)**
-- [You and I](./mi-sina.md) --- [On YouTube](https://youtu.be/J93GWOMbgdg)
-- [Actions with li](./li.md) --- [On YouTube](https://youtu.be/xaYd936H--o)
-- [Objects with e](./e.md) --- [On YouTube](https://youtu.be/ZLcSwYEZmIY)
-- [Modifiers and pi](./mod-pi.md) --- [On YouTube](https://youtu.be/J6ThX6dQyCI)
-- [Pre-predicates, ala](./pre-predicates.md) --- [On YouTube](https://youtu.be/YjxSaqAZwqk)
-- [Prepositions](./preps.md) --- [On YouTube](https://youtu.be/hbUaLDRmULI)
-- [Instructions with o](./o.md) --- [On YouTube](https://youtu.be/lf3lDjIWiYI)
-- [Interjections and a](./interjections.md) --- [On YouTube](https://youtu.be/0hz1VHldmq4)
-- [Context and la](./la.md)
-- [[WIP] Questions, answers, seme](./seme.md)
-- [And Another Thing...](./bits.md) --- [On YouTube](https://youtu.be/P0N1S5jBujI) --- [Also On YouTube](https://youtu.be/BGsodPu9UAw)
-- [[WIP] Finale](./pini.md)
+::: lessonmenu
+
+|    |     |
+|--------------- | --------------- |
+| 1. **[Starting Out](./open.md)** | 7. **[Prepositions](./preps.md)**                    |
+| 2. **[You and I](./mi-sina.md)** | 8. **[Instructions with o](./o.md)**                 |
+| 3. **[Actions with li](./li.md)** | 9. **[Interjections and a](./interjections.md)**     |
+| 4. **[Objects with e](./e.md)** | 10. **[Context and la](./la.md)**                    |
+| 5. **[Modifiers and pi](./mod-pi.md)** | 11. **[Ask and Answer](./seme.md)**                  |
+| 6. **[Pre-predicates, ala](./pre-predicates.md)** | 12. **[Cleaning up!](./bits.md)**                    |
+
+:::
+
+
+<!-- 1. **[You're done!](./pini.md)** -->
+
+<details>
+<summary>Also on YouTube! (click for links)</summary>
+
+**[Whole Playlist](https://www.youtube.com/playlist?list=PLoLQoll2U6WEeCO7C2oc1LTWgkoBC8rvT)**
+
+- [You and I](https://youtu.be/J93GWOMbgdg)
+- [Actions with li](https://youtu.be/xaYd936H--o)
+- [Objects with e](https://youtu.be/ZLcSwYEZmIY)
+- [Modifiers and pi](https://youtu.be/J6ThX6dQyCI)
+- [Pre-predicates and ala](https://youtu.be/YjxSaqAZwqk)
+- [Prepositions](https://youtu.be/hbUaLDRmULI)
+- [Instructions and o](https://youtu.be/lf3lDjIWiYI)
+- [Interjections, mu, a!](https://youtu.be/0hz1VHldmq4)
+- [Names, Numbers, kin](https://youtu.be/P0N1S5jBujI) 
+- [Many li, e, en, anu](https://youtu.be/BGsodPu9UAw)
+
+</details>
 
 <!--
 
@@ -105,123 +110,30 @@ Looking for a specific topic? Here's some specific topics from the lessons, in t
 
 -->
 
-### [sona ante]{.tokipona} (Other Knowledge)
+## [o kama sona mute a]{.tp} (Learn a lot!)
 
-- [o pilin e toki pona, by jan Telakoman](https://www.youtube.com/playlist?list=PLwYL9_SRAk8EXSZPSTm9lm2kD_Z1RzUgm) (playlist)
-- [lipu sona, by soweli Tesa](https://sowelitesa.kittycat.homes/lipu-sona/) (webpage)
-- [lipu sona pona, by jan Lentan](https://lipu-sona.pona.la/) (webpage)
-- [Toki Pona: The Language of Good, by jan Sonja](https://www.amazon.com/dp/0978292308/) (ebook or paperback)
+These are extra lessons which don't fit into the main series.
+They offer more examples and new ways of thinking about Toki Pona. 
+Think of it like endgame content, or bonus levels!
 
-## namako (extra)
+### Grammar
 
-::: info
+<!-- ![new!](/icons/new.gif) -->
 
-I'm adding new lessons all the time! Check back once in a while.
+- [We don't need [pi]{.tp}!](./pint.md) (updated! 2024-09-05)
+- [What else can [la]{.tp} do?](./la-extras.md)
+- [[pali]{.tp} doesn't\* mean do](./palint.md)
+- [Why are [taso]{.tp} and [kin]{.tp} different around [la]{.tp}?](./taso-vs-taso-la.md)
+- [Why [kepeken]{.tp} and not [kepeken e]{.tp}](./kepeken.md)
+-  [Transitive Prepositional Phrases](./trans-preps.md): [mi lon poki e ilo]{.tp}
+- [gendern't](./gendernt.md): not using [meli]{.tp} or [mije]{.tp} or even [tonsi]{.tp}
 
-:::
+### Translation & Expression
 
-These lessons work with [Learn Toki Pona!](o-kama-sona-learn-toki-pona), giving more examples,
-better understanding, and new ways of thinking about Toki Pona. Importantly,
-all of these lessons focus on how Toki Pona is used commonly, teaching the way most others will understand.
+- [Conlang Critic opener](./conlang-critic.md)
+- [Instead of Phatic Phrases](./phatic-phrases.md)
 
-<!-- - Grammar -->
-  <!-- - [Multiple _li_ with sina with mi](./multiple-li.md) -->
-  <!-- - [_la_ and prepositions](./la-prepositions.md) -->
-  <!-- - [_ona_ and _ni_](./ona-ni.md) -->
-<!-- - Modifiers -->
-  <!-- - [Proper nouns](./proper-nouns.md) -->
-  <!-- - [Colors and _kule_](./kule.md) -->
-  <!-- - [Negations with _ala_](./ala.md) -->
-  <!-- - [Numbers and _nanpa_](./nanpa.md) -->
-
-- **Specific Words**
-  - [Tricks with la](./la-extras.md)
-  - [pali doesn't (usually) mean "do"](./palint.md)
-  - [taso and kin](./taso-vs-taso-la.md): Why do [taso]{.tokipona} and [kin]{.tokipona} act differently around [la]{.tokipona}?
-  <!-- - [mi monsuta e sina](./monsutatesu.md) -->
-- **Prepositions**
-  <!-- - [Telling Time](./time.md) -->
-  <!-- - [Knowing Place](./location.md) -->
-  - [kepeken vs kepeken e](./kepeken.md)
-- **Themed Lessons**
-  - [Instead of Phatic Phrases](./phatic-phrases.md)
-  - [Conlang Critic opener](./conlang-critic.md)
-    <!-- - [Advanced Comparisons](./comparisons.md) -->
-    <!-- - [Concepts and Translation](./ante-toki.md) -->
-    <!-- - [Modern Toki Pona vs. pu](./modern-tp.md) -->
-    <!-- - [Units of time](./tenpo-nanpa.md) -->
-    <!-- - [Beginner Mistakes](./beginner-mistakes.md) -->
-    <!-- - [Frequently Asked Questions](./faq.md) -->
-
-## nasin (methods)
-
-nasin is a collection of lessons focusing on specific uses of Toki Pona
-which you could encounter while speaking. These are not taught as a
-way to speak Toki Pona, but as a way of exploring what is possible and what
-others do. You may choose to use any/all of these nasin, or none of them, but
-all of them are beneficial to your understanding of Toki Pona.
-
-<!-- - [pu taso](./pu-taso.md): only using Toki Pona: The Language of Good -->
-<!-- - **nimi sin** -->
-  <!-- - [ki si wi](./ki-si-wi.md) -->
-<!-- - **nimi ante (different words)** -->
-<!--   - [newer pre-predicates](./newer-pre-predicates.md): open, pini, alasa, olin -->
-<!--   - [nanpa seme?](./nanpa-seme.md): nanpa but it ranks non-integers -->
-<!--   - [nasin kule](./kule-ante.md): altered color -->
-<!--   - [nasin nanpa ante](./nasin-nanpa.md): a few different number systems -->
-
-- **nasin sin (new methods)**
-  - [Transitive Prepositional Phrases](./trans-preps.md): mi lon poki e ilo
-- **nimi weka (removed words)**
-  - [pin't](./pint.md): not using pi
-  - [gendern't](./gendernt.md): not using meli or mije or even tonsi
-    <!-- - [jan't](./jant.md): not using jan (as a head noun) -->
-    <!-- - [jon't](./jont.md): not using jo -->
-    <!-- - [anun't](./anunt.md): only using anu for questions -->
-    <!-- - [min't](./mint.md): not using mi, or sometimes sina, or even ona! -->
-    <!-- - [noun't](./nount.md): not using proper nouns -->
-    <!-- - [pre-predicaten't](./pre-predicatent.md): not using pre-predicates -->
-    <!-- - [nanpan't](./nanpant.md): no number system -->
-
-## toki (scripts)
-
-Sometimes I write scripts- in which case, you'll find it here! These are written with a video or presentation format considered first, and a written format considered later.
-
-- **Live Lessons**: These are written for my benefit, but they're _mostly_ a transcript!
-  - [(2023-06-17) li, modifiers, seme questions](./jun-17-li-modifiers.md)
-  - [(2023-06-24) Literally Jellyfish - Learn Toki Pona!](./jellyfish.md) --- [On YouTube](https://youtu.be/4ituR4S-NS0)
-  - [(2023-07-08) e, pi, ijo ala ijo questions](./jul-08-e-pi.md)
-  - [(2023-09-16) prepositions, la phrases](./sep-16-preps-la.md)
-  - [(2023-10-21) preverbs, anu seme, _mu!_](./oct-21-preverbs-interjections.md)
-- **Presentations**: These are written to be accessible to everyone!
-  - **ale li nanpa** [on YouTube](https://youtu.be/AgkDx8dIAio) and [its script](../poka/ale-li-nanpa-tp.md) and [its slides](../toki/ale-li-nanpa-tp.md)
-  - **Everything is Numbers** [on YouTube](https://youtu.be/_awfcwuJhpk) and [its script](../poka/ale-li-nanpa-en.md) and [its slides](../toki/ale-li-nanpa-en.md)
-  - [ilo wawa lukin](../toki/mi-lon-ilo.md)
-  - [ilo wawa pi tenpo kama](../toki/ilo-lukin.md) -- [on YouTube](https://www.youtube.com/watch?v=43tB0hZ29LI)
-  - [toki pona, tan jan Telakoman](../toki/telakoman.md)
-
-## ijo ante (other things)
-
-- **ilo (Resources)**
-  - [lipu Linku, a dictionary by kala Asi](https://lipu-linku.github.io/)
-  - [nasin toki, a grammar by kili Juli](https://github.com/kilipan/nasin-toki)
-  - [lipu lili pona, a cheat sheet by jan Ne](https://jan-ne.github.io/lipu-lili-pona/)
-  - [nasin sona musi, by James Moulang](https://jamesmoulang.itch.io/nasin-sona-musi)
-- **kulupu (Communities)**
-  - [ma pona pi toki pona, on Discord](https://discord.gg/mapona)
-  - [kama sona, on Discord](https://discord.gg/ChC6qtVsSE)
-  - [ma toki pona, on Discord](https://discord.gg/arjV4Nw) (toki pona taso!)
-  - [Ma Toki Pona VR, for VRChat Events](http://munsona.tokiponavr.net/)
-  - [toki pona - jan pi wile pona taso, on Telegram](https://t.me/+UqUj9OFM_9e8iPUW)
-  - [toki pona, on Facebook](https://www.facebook.com/groups/sitelen/)
-  - [toki.social, a Mastodon instance](https://toki.social/public)
-- **pali sona (Practice)**
-  - [lipu tenpo](https://liputenpo.org/) --- [lipu kule](https://lipukule.org/) --- [lipu monsuta](https://lipumonsuta.neocities.org/) (zines)
-  - [kalama sin](https://www.youtube.com/watch?v=QmgaRPuF9CE&list=PLjOmpMyMxd8Qs2mAXcLk817tQy_AQj09u) --- [seme li sin](https://www.youtube.com/c/semelisin) (podcasts)
-  - [jan Tepo](https://www.youtube.com/@tbodt) --- [jan Lakuse](https://www.youtube.com/@janlakuse5199) (skits, vlogs)
-  - [jan Telakoman](https://www.youtube.com/@jantelakoman) --- [jan Astrodonunt](https://www.youtube.com/user/astrodonunt) (skits, vlogs)
-  - [jan Usawi](https://www.youtube.com/@janusawi8794) (music!)
-  - [lipu Wikipesija](https://wikipesija.org/wiki/lipu_open) (wiki)
+<!-- 
 
 ## tan seme (why)
 
@@ -234,3 +146,83 @@ I couldn't find a single other lesson series that covered interjections beyond "
 And I wanted to help with some of the terminology problems floating around the community!
 
 This, and many more things, drove me to create my own series. But most of the credit belongs to the Toki Pona VR community, where I found the most fascinating and excited people to practice with and to teach! They drove me to begin writing down what I knew, to help more discover the language, and to grow the community.
+
+-->
+
+::: error
+
+If you're only here for my lessons, [head back up!](./#)
+
+:::
+
+---
+
+
+## [sitelen toki]{.tp} (scripts)
+
+This is a collection of my scripts for live lessons and my presentations. These are written for me to read from- but they're _mostly_ a transcript, which you can still learn from!
+Still, the quality isn't the same as the rest of my lessons. You've been warned!
+
+### Live Lessons
+
+- [(2023-06-17) li, modifiers, seme questions](./jun-17-li-modifiers.md)
+- [(2023-06-24) Literally Jellyfish - Learn Toki Pona!](./jellyfish.md) --- [On YouTube](https://youtu.be/4ituR4S-NS0)
+- [(2023-07-08) e, pi, ijo ala ijo questions](./jul-08-e-pi.md)
+- [(2023-09-16) prepositions, la phrases](./sep-16-preps-la.md)
+- [(2023-10-21) preverbs, anu seme, _mu!_](./oct-21-preverbs-interjections.md)
+- [(2024-02-17) Giving Compliments](./valentines.md)
+<!-- - [(2024-04-13) Semantic Spaces](./semantic-spaces.md) -->
+- [(2024-06-22) Your First Conversation](./conversations-1.md)
+
+### **Presentations**
+
+- **ale li nanpa** [on YouTube](https://youtu.be/AgkDx8dIAio) and [its script](../poka/ale-li-nanpa-tp.md) and [its slides](../toki/ale-li-nanpa-tp.md)
+- **Everything is Numbers** [on YouTube](https://youtu.be/_awfcwuJhpk) and [its script](../poka/ale-li-nanpa-en.md) and [its slides](../toki/ale-li-nanpa-en.md)
+- [ilo wawa lukin](../toki/mi-lon-ilo.md)
+- [ilo wawa pi tenpo kama](../toki/ilo-lukin.md) -- [on YouTube](https://www.youtube.com/watch?v=43tB0hZ29LI)
+- [toki pona, tan jan Telakoman](../toki/telakoman.md)
+
+
+---
+
+
+## [ijo ante]{.tp} (Other Things)
+
+
+### Communities
+
+- **[[ma pona pi toki pona]{.tp}](https://discord.gg/mapona)** is the busiest community server!
+- <img src="/icons/kama-sona_s.png" class="icon" alt="server icon for kama sona" /> **[[kama sona]{.tp}](https://discord.gg/ChC6qtVsSE)** is a great place to learn!
+- **[[ma toki pona]{.tp} VR](https://vrc.group/TOKI.9663)** is the VRChat community, and my personal favorite!
+- <img src="/icons/ma-mun_s.png" class="icon" alt="server icon for ma mun" /> **[[ma mun]{.tp}](https://discord.gg/RPAGqVaJBa)** is my own toki pona **only** server!
+- **[/r/tokipona](https://reddit.com/r/tokipona)** is a great place to share projects!
+- [[jan pi wile pona taso]{.tp}](https://t.me/+UqUj9OFM_9e8iPUW) is on Telegram, 
+  great if you don't like Discord!
+- [toki.social](https://toki.social/public/local) is a Mastodon instance for Toki Pona!
+
+### Practice 
+
+- [lipu tenpo](https://liputenpo.org/) --- [lipu kule](https://lipukule.org/) --- [lipu monsuta](https://lipumonsuta.neocities.org/) (zines)
+- [kalama sin](https://www.youtube.com/watch?v=QmgaRPuF9CE&list=PLjOmpMyMxd8Qs2mAXcLk817tQy_AQj09u) --- [seme li sin](https://www.youtube.com/c/semelisin) (podcasts)
+- [jan Tepo](https://www.youtube.com/@tbodt) --- [jan Lakuse](https://www.youtube.com/@janlakuse5199) (skits, vlogs)
+- [jan Telakoman](https://www.youtube.com/@jantelakoman) --- [jan Astrodonunt](https://www.youtube.com/user/astrodonunt) (skits, vlogs)
+- [jan Usawi](https://www.youtube.com/@janusawi8794) (music!)
+
+### Others' lessons
+
+- [Toki Pona in 18 minutes by ilo Tani](https://www.youtube.com/watch?v=5phj5Ae80h8) is a brief
+video rundown of how Toki Pona works for beginners!
+- [[o pilin e toki pona]{.tp} by jan Telakoman](https://www.youtube.com/playlist?list=PLwYL9_SRAk8EXSZPSTm9lm2kD_Z1RzUgm) is a playlist where you learn by watching and listening. It's a tried-and-true way to become conversational in Toki Pona!
+- [[lipu sona]{.tp} by soweli Tesa](https://sowelitesa.kittycat.homes/lipu-sona/) is a lesson series like mine, but with much shorter and more focused lessons.
+- [[lipu sona pona]{.tp} by jan Lentan](https://lipu-sona.pona.la/) is an older but well
+thought out lesson series which has been translated into several languages.
+- [Toki Pona: The Language of Good by jan Sonja](https://www.amazon.com/dp/0978292308/) is the classic! If you stick with Toki Pona, get one for other speakers you meet to sign!
+
+
+
+::: lessonnav
+
+[Back to top](#)
+
+:::
+

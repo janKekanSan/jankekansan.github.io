@@ -53,9 +53,9 @@ This here, that you've already seen, is the "logo" of sorts for Toki Pona. The c
 
 This way of writing is called "sitelen pona", literally "good writing", and it is toki pona's most adorable writing system.
 
-sitelen pona is logographic, so each word has a symbol. Every symbol means exactly one word, and nearly all the words have exactly one symbol- assuming they do have exactly one works for this talk. Lastly, each symbol is representative of the idea of the word! Even grammar words look a bit like punctuation to my English-reading eyes.
+sitelen pona is logographic, so entire words are represented with symbols. For this lesson, we'll assume that every symbol means exactly one word, and every word has exactly one symbol. There are exceptions, but this is close enough to true! Lastly, each symbol is representative of the idea of the word. Even grammar words look a bit like punctuation to my English-reading eyes.
 
-Anyway, For this talk, all sitelen pona will be annotated with their pronunciation, but I encourage you to study the sitelen pona alongside the language itself!
+Anyway, For this talk, I'll annotate all sitelen pona with their pronunciation, but I encourage you to study the sitelen pona alongside the language itself!
 
 Alright, _now_ we can actually start on the language.
 
