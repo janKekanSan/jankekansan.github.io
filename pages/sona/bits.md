@@ -18,9 +18,9 @@ This lesson is complete, but the examples are not!
 
 <!-- toc -->
 
-- [Words to Know](#words-to-know)
-  - [Particles](#particles)
-  - [Content Words](#content-words)
+  - [Words to Know](#words-to-know)
+    - [Particles](#particles)
+    - [Content Words](#content-words)
 - [Overview](#overview)
   - [Proper Names](#proper-names)
     - [nasin pona](#nasin-pona)
@@ -34,8 +34,8 @@ This lesson is complete, but the examples are not!
   - [Toki Pona to English](#toki-pona-to-english)
   - [English to Toki Pona](#english-to-toki-pona)
 - [Takeaway](#takeaway)
-  - [Names](#names)
-  - [Numbers](#numbers-1)
+    - [Names](#names)
+    - [Numbers](#numbers-1)
 
 <!-- tocstop -->
 
@@ -150,6 +150,11 @@ Here's an example of somebody named **Kawalo** introducing themselves, and someb
 >
 > > [toki a, jan [kala. walo:] o! mi jan [sewi. tawa.] [lukin..]]{.tokipona}
 
+<!--Lastly, here's a few speakers' names, written in [sitelen pona]{.tokipona}!-->
+<!---->
+<!--- [jan [tenpo. pona.]]{.tokipona} - jan Tepo-->
+<!--- [jan [s]]-->
+<!---->
 ::: info
 
 Toki Pona lets people and places name themselves! For example, Japan is called "にほん (Nihon)" by Japanese speakers, so in Toki Pona, Japan is called **ma Nijon**.
