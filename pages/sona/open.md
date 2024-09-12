@@ -9,9 +9,9 @@ date: 2022-07-30T00:00:00.000Z
 <!-- toc -->
 
 - [How to Learn](#how-to-learn)
-    - [Toki Pona is a Real Language](#toki-pona-is-a-real-language)
-    - [Simplicity in Toki Pona](#simplicity-in-toki-pona)
-    - [Lesson Notes](#lesson-notes)
+  - [Toki Pona is a Real Language](#toki-pona-is-a-real-language)
+  - [Simplicity in Toki Pona](#simplicity-in-toki-pona)
+  - [Lesson Notes](#lesson-notes)
 - [How to Read](#how-to-read)
   - [Vowels](#vowels)
   - [Consonants](#consonants)
@@ -29,15 +29,15 @@ date: 2022-07-30T00:00:00.000Z
 
 This is a collection of philosophy notes, both for Toki Pona and for these lessons.
 
-#### Toki Pona is a Real Language
+### Toki Pona is a Real Language
 
 Toki Pona is a real language. It has few words which you can easily memorize, but memorizing all the words is only the start. You learn much more through practice! For comparison, memorizing all the numbers from 0 to 9 won't teach you Calculus, but it would let you start learning more math!
 
-#### Simplicity in Toki Pona
+### Simplicity in Toki Pona
 
 Toki Pona values simplicity in statements and expression. If you find yourself making a long single phrase, think about breaking it up to restate it! Using more sentences with fewer words each is more clear than one sentence with many words. But don't go too far with this- as you learn, you'll find a comfortable balance between the two.
 
-#### Lesson Notes
+### Lesson Notes
 
 The definitions for words are examples, not comprehensive. The same goes for exercise translations. Words can refer to more than the examples, and be used in more ways than appear in the exercises. Be experimental, try many things as you learn!
 
