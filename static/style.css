@@ -139,7 +139,7 @@ p + p {
   width: 16px;
   height: 16px;
   image-rendering: pixelated;
-  transform: translateY(15%);
+  transform: translateY(15%); /* better inline with text */
 }
 
 .footer {
