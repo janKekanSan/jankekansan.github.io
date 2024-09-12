@@ -95,20 +95,19 @@ p + p {
 
 .lessonnav a {
   display: inline-block;
-  width: 20%; /* emulate flex/justify-content */
-  border-style: outset;
-  border-color: BG2;
-  border-radius: 0.5em;
+  min-width: 20%; /* emulate flex/justify-content */
   font-size: 0.8em;
-  padding-top: 0.3em;
-  padding-bottom: 0.3em;
+  border: 0.3em outset lightgray;
+  padding: 0.3em;
+  margin: 0.2em;
+  box-shadow: 0.15em 0.15em 0 0 rgba(0, 0, 0, 1);
 }
 .lessonnav a:active {
   background: BG2;
   border-style: inset;
 }
 .lessonnav a:hover {
-  background: BG2;
+  box-shadow: 0.25em 0.25em 0 0 rgba(0, 0, 0, 1);
 }
 
 .lessonmenu table {
