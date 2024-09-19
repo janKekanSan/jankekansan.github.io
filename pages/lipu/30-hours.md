@@ -95,7 +95,7 @@ Later, in July 2015, [The Atlantic](https://www.theatlantic.com/technology/archi
 
 And note, this quote doesn't qualify those 30 hours as "study-hours."
 
-After this publication, [other](https://www.mentalfloss.com/article/66403/language-only-123-words-less-more) [organizations](https://www.scoopwhoop.com/language/toki-pona-worlds-smallest-language/) and [podcasts](https://www.theallusionist.org/transcripts/tokipona) seem to have copied them. They include the unsupported 30 hour claim, do not qualify the 30 hours as study-hours.
+After this publication, [other](https://www.mentalfloss.com/article/66403/language-only-123-words-less-more) [organizations](https://www.scoopwhoop.com/language/toki-pona-worlds-smallest-language/) and [podcasts](https://www.theallusionist.org/transcripts/tokipona) seem to have copied them. They include the unsupported 30 hour claim, and do not qualify the 30 hours as study-hours.
 
 There isn't any further source, so the only things left to do are speculate and see how the community dealt with this information after the fact! I've packaged my speculation below to be skipped.
 
