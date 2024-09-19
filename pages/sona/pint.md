@@ -81,14 +81,14 @@ Try to restate these phrases without [pi]{.tp}. You can look at my suggested res
 
 <details><summary> [mi jan pi pana sona]{.tp} </summary>
 
-- [mi jan li mi pana e sona.]{.tp}
+- [mi jan li pana e sona.]{.tp}
 - [mi jan. mi pana e sona.]{.tp}
 
 ::: info
 
 Even though this example didn't have two [pi]{.tp} phrases, I still recommend
 using [e]{.tp} here. Just like the walkthrough example with nested [pi]{.tp}
-phrases, the intent of the sentnece is more clear when using appropriate grammar!
+phrases, the intent of the sentence is more clear when using appropriate grammar!
 
 :::
 
