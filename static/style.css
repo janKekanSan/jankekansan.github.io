@@ -10,7 +10,7 @@
 #define INFOFG #0000ff
 #define INFOBG #add8e6
 
-#define WARNBG #ffffe0
+#define WARNBG #F8F3B6
 #define WARNFG #008000
 
 #define ERRORBG #ffc0cb
@@ -61,8 +61,8 @@ p + p {
 
 .-header {
   display: flex;
-  padding-top: 1em;
-  padding-bottom: 1em;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
 }
 .-header > h2 {
   position: relative;
@@ -83,7 +83,7 @@ p + p {
 .nav {
   margin: -0.6em;
   text-align: center;
-  margin-top: 0em;
+  margin-top: -0.2em;
   margin-bottom: 0.25em;
 }
 .nav a {
@@ -100,14 +100,14 @@ p + p {
   border: 0.3em outset lightgray;
   padding: 0.3em;
   margin: 0.2em;
-  box-shadow: 0.15em 0.15em 0 0 rgba(0, 0, 0, 1);
+  box-shadow: 0.1em 0.1em 0 0 rgba(0, 0, 0, 1);
 }
 .lessonnav a:active {
   background: BG2;
   border-style: inset;
 }
 .lessonnav a:hover {
-  box-shadow: 0.25em 0.25em 0 0 rgba(0, 0, 0, 1);
+  box-shadow: 0.2em 0.2em 0 0 rgba(0, 0, 0, 1);
 }
 
 .lessonmenu table {
@@ -122,17 +122,22 @@ p + p {
   border: none;
 }
 
-.button, .social {
+.button {
   width: 88px;
   height: 31px;
   box-shadow: 0.1em 0.1em 0 0 rgba(0,0,0,1);
   border: 2px solid FG1;
   image-rendering: pixelated;
+  text-decoration: none;
 }
 
-.button:hover, .social:hover {
+.button:hover {
   box-shadow: 0.2em 0.2em 0 0 rgba(0,0,0,1);
   border: 2px solid FG1;
+}
+
+.button:active {
+  box-shadow: none;
 }
 
 .icon {
@@ -147,6 +152,13 @@ p + p {
   line-height: 1em;
   text-align: center;
 }
+.footer a {
+  text-decoration: none;
+}
+.footer a:hover {
+  text-decoration: none;
+}
+
 .article {
   padding-left: INDENT;
   padding-right: INDENT;
@@ -167,14 +179,15 @@ blockquote,
 .info,
 .warning,
 .error,
-.blogentry,
-div.sourceCode {
+.blogentry {
   margin: INDENT;
   padding: INDENT;
+  border-radius: BLOCK_MARK;
 }
 blockquote {
   color: FG2;
   background: BG2;
+  border: 1px solid FG2;
   border-left: BLOCK_MARK solid FG2;
 }
 
@@ -182,20 +195,32 @@ img {
   max-width: 100%;
 }
 
-mark,
-code,
-sup,
-sub {
-  padding: 0.1em; /* breathing room */
+.red {
+  border: 1px solid ERRORFG;
+  background-color: ERRORBG;
 }
-code, div.sourceCode {
+.yellow {
+  border: 1px dashed WARNFG;
+  background-color: WARNBG;
+}
+.blue {
+  border: 1px dotted INFOFG;
+  background-color: INFOBG;
+}
+code,
+.red,
+.blue,
+.yellow {
+  padding: 1px;
+  border-radius: BLOCK_MARK;
+}
+code {
   font-family: monospace;
   background: BG2;
-}
-div.sourceCode {
-  border-left: BLOCK_MARK solid FG2;
+  border: 1px solid FG2;
 }
 table {
+  width: 100%;
   margin-top: INDENT;
   margin-bottom: INDENT;
   background: BG2;
@@ -208,7 +233,7 @@ thead {
 td,
 th {
   border: 1px solid FG1;
-  padding: 0.25em;
+  padding: 2px;
 }
 hr {
   border: 1px solid FG1;
@@ -223,8 +248,10 @@ hr {
   display: block;
   color: SPOILFG;
   background: SPOILBG;
+  border: 1px solid SPOILFG;
   border-left: BLOCK_MARK solid SPOILFG;
   margin: INDENT;
+  border-radius: BLOCK_MARK;
 }
 .summary {
   cursor: pointer;
@@ -239,7 +266,7 @@ hr {
   padding-bottom: 0.25em;
 }
 .details[open] > .summary {
-  border-bottom: BLOCK_MARK solid SPOILFG;
+  border-bottom: 1px solid SPOILFG;
 }
 /* fake blockquotes like github alerts */
 .info:before,
@@ -266,16 +293,19 @@ hr {
 .info {
   color: INFOFG;
   background: INFOBG;
+  border: 1px solid INFOFG;
   border-left: BLOCK_MARK solid INFOFG;
 }
 .warning {
   color: WARNFG;
   background: WARNBG;
+  border: 1px solid WARNFG;
   border-left: BLOCK_MARK solid WARNFG;
 }
 .error {
   color: ERRORFG;
   background: ERRORBG;
+  border: 1px solid ERRORFG;
   border-left: BLOCK_MARK solid ERRORFG;
 }
 
@@ -308,7 +338,7 @@ hr {
 
 .glyph {
   font-family: sp;
-  font-size: 2em;
+  font-size: 1.8em;
   vertical-align: bottom;
   line-height: 0.5em;
 }
@@ -339,7 +369,7 @@ input#sptoggle:active {
 }
 
 @media (max-width: 470px) {
-  .button, .social {
+  .button {
     width: 66px;
     height: 31px;
   }
@@ -381,9 +411,6 @@ input#sptoggle:active {
   /* iphones have a logical resolution exclusively below 900px wuh */
   html {
     font-size: 18px;
-  }
-  table {
-    margin: INDENT;
   }
   .body {
     max-width: 69%

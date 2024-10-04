@@ -3,7 +3,7 @@ title: secret test page!
 date: 2024-05-30
 author: gregdan3
 description: a secret test page for all my formatting
-image: /art/other/1386294-trashbag.png
+image: /avatar.gif
 ---
 
 # Table of Contents
@@ -28,6 +28,7 @@ image: /art/other/1386294-trashbag.png
 - [Inline HTML](#inline-html)
   - [Spoilers](#spoilers)
 - [Custom CSS](#custom-css)
+  - [Highlights](#highlights)
   - [Info Blocks](#info-blocks)
   - [Blog](#blog)
   - [Toki Pona](#toki-pona)
@@ -265,6 +266,23 @@ blockquote inside details
 </details>
 
 # Custom CSS
+
+## Highlights
+
+text with [class-given highlight]{.red} from style.css
+
+text with a different [class-given highlight]{.blue}, from the same
+
+text with a third [class-given highlight]{.yellow}, do i even need to say it
+
+<details>
+<summary> [mi [toki]{.red} [pona]{.blue} [tawa mama sina]{.yellow}]{.tp} </summary>
+
+I [speak]{.red} [calmly]{.blue} [to your dad]{.yellow}
+
+</details>
+
+
 
 ## Info Blocks
 
