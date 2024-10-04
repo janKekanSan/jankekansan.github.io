@@ -206,7 +206,7 @@ Still, the quality isn't the same as the rest of my lessons. You've been warned!
 - [kalama sin](https://www.youtube.com/watch?v=QmgaRPuF9CE&list=PLjOmpMyMxd8Qs2mAXcLk817tQy_AQj09u) --- [seme li sin](https://www.youtube.com/c/semelisin) (podcasts)
 - [jan Tepo](https://www.youtube.com/@tbodt) --- [jan Lakuse](https://www.youtube.com/@janlakuse5199) (skits, vlogs)
 - [jan Telakoman](https://www.youtube.com/@jantelakoman) --- [jan Astrodonunt](https://www.youtube.com/user/astrodonunt) (skits, vlogs)
-- [jan Usawi](https://www.youtube.com/@janusawi8794) (music!)
+- [jan Usawi](https://www.youtube.com/@janusawi8794) --- [jan Sotan](https://www.youtube.com/@Zotn) (music!)
 
 ### Others' lessons
 
