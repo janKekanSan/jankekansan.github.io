@@ -1,4 +1,4 @@
-% [jan seme li ilo]{.tokipona}
+% [ilo li kama kalama]{.tokipona}
 % gregdan3
 % 2024-10-11
 % published: true

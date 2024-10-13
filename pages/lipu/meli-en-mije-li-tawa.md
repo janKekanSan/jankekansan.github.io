@@ -1,4 +1,4 @@
-% [jan sinpin luka ilo tomo sinpin]{.tokipona}
+% [meli en mije li tawa]{.tokipona}
 % gregdan3
 % 2024-10-13
 % published: true
