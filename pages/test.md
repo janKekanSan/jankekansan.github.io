@@ -3,7 +3,7 @@ title: secret test page!
 date: 2024-05-30
 author: gregdan3
 description: a secret test page for all my formatting
-image: /avatar.gif
+image: /avatar_s.png
 ---
 
 # Table of Contents
