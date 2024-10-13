@@ -43,7 +43,7 @@ $(BUILDDIR)/%.html: $(PAGEDIR)/%.md $(TEMPLATE)
 	$(TOC_MAKER) $<
 	cat $< | sed 's/% published: .*//g' | $(MD_TO_HTML) \
 		--template=$(TEMPLATE) \
-		--metadata="directory:$(subst pages/,,$<)" \
+		--metadata="directory:$(patsubst pages/%.md,%.html,$<)" \
 		-o $@
 	$(MINIFIER) $@ | sponge $@
 
