@@ -70,7 +70,7 @@ height: 1.2em;
 
 there are others who should be on this list but I don't know if they have personal sites!
 
-[fanart others have made for me!](./fanart.md) (due for an update!)
+[fanart others have made for me!](./fanart.md) (updated 2024-10-20!)
 
 ## [ijo]{.tokipona} (things)
 
