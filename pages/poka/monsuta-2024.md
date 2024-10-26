@@ -1,7 +1,7 @@
 ---
 ---
 
-[starting by the bookshelf, looking for a book]
+[starting in library desk]
 
 a, toki. kama pona tawa tomo monsuta mi.
 
@@ -14,7 +14,7 @@ o kute pona.
 
 ---
 
-toki open li lon tenpo suno pi telo sijelo ale.
+toki open li lon suno pi telo sijelo ale.
 
 jan li lon li tawa poka lili la telo sijelo mute li kama kama tan ona lon ale pi sijelo ona
 
