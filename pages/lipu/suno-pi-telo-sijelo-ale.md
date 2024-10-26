@@ -26,7 +26,7 @@ tenpo wan la telo sijelo li moku e jan lili e soweli.
 pini pi tenpo suno la jan ale li kama pilin e ni: jan telo o tawa ma mun. ni la
 ona li ken ala pana e telo sijelo tawa ale.
 
-monsuta nanpa wan la jan ni li sina!!!! (ante la sina ijo la ona kin li ijo)
+monsuta nanpa wan la jan ni li sina!!!! (ante la sina soweli la ona kin li soweli)
 
 kin la sina weka e sona ale ni!
 
