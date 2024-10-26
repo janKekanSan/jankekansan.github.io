@@ -5,9 +5,9 @@
 
 ::: tp
 
-jan [jo: nasa] [sama. weka. nasin] li awen. ilo suno li pini li open sin lon sewi tomo.
+jan [jo: nasa] [sama. wan:] li awen. ilo suno li pini li open sin lon sewi tomo.
 
-monsuta li lon tomo. jan [jo: nasa] li lukin ala e ona, taso ona li pilin e kama
+monsuta li lon tomo. jan [jo: nasa] li lukin ala e monsuta, taso ona li pilin e kama
 monsuta lon tenpo suli.
 
 ona li toki e kama monsuta tawa jan lawa [kon. seli. n] lon tenpo mute, taso jan [kon. seli. n] li kute ala la tenpo pi ken pali li weka. n, tenpo ni la tenpo ken li weka.
@@ -39,6 +39,6 @@ jan [jo: nasa] li toki wawa e ni: "ala! mi o moli e monsuta!"
 
 taso, toki ni li kama tan ilo toki: "ala a, jan [jo: nasa] o. sina monsuta."
 
-ni la jan [jo: nasa] li monsuta.
+ni la jan [jo: nasa] li kama monsuta.
 
 :::

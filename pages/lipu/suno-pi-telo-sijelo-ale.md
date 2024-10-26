@@ -11,7 +11,7 @@ jan li lon li tawa poka lili la telo sijelo mute li kama kama tan ona lon ale pi
 
 telo sijelo li mute wawa la poki li kama jo ale e telo.
 
-jan ni li tawa tomo esun la telo sijelo li lon _ale_ tomo.
+jan ni li tawa tomo esun la telo sijelo li kama lon _ale_ tomo.
 
 jan ante li ken ala awen pona lon noka ona tan mute telo! kin la ona li pilin
 jaki mute.
