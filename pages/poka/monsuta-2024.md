@@ -5,9 +5,9 @@
 
 a, toki. kama pona tawa tomo monsuta mi.
 
-mi jan Kekan San. mi wile pana e toki monsuta tawa sina, lon tenpo pimeja ni.
+mi moli Kekan San. mi wile pana e sona monsuta, lon tenpo pimeja ni.
 
-ona tu wan li lon. monsuta ona li kama suli lon tenpo la sina ken weka.
+toki tu wan li lon. monsuta ona li kama suli lon tenpo la sina ken weka.
 ni li ike ala e pilin mi.
 
 o kute pona.
@@ -53,6 +53,8 @@ taso, ni li suli ala tawa mi. mi sona e ni: toki kama li monsuta wawa.
 
 mi wile pana e ona la, mi o monsuta.
 
+o kama. mi tawa tomo ante.
+
 ---
 
 jan Jon Sawan li awen. ilo suno li pini li open sin lon sewi tomo.
@@ -95,7 +97,7 @@ ni la jan Jon li kama monsuta.
 
 a, pona. sina awen kute.
 
-mi kama pilin e ni: sina weka tan monsuta toki.
+mi pilin e ni: sina weka tan monsuta toki.
 
 toki ni li monsuta wile, anu seme?
 
