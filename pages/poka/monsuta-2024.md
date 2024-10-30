@@ -1,113 +1,186 @@
----
----
+aaaaa, toki!
 
-[starting in library desk]
+kama pona tawa tomo monsuta mi.
 
-a, toki. kama pona tawa tomo monsuta mi.
+mi moli Kekan San.
 
-mi moli Kekan San. mi wile pana e sona monsuta, lon tenpo pimeja ni.
+mi wile pana e sona monsuta, 
 
-toki tu wan li lon. monsuta ona li kama suli lon tenpo la sina ken weka.
+lon tenpo pimeja ni.
+
+toki tu wan li lon. 
+
+monsuta ona li kama suli lon tenpo la,
+
+sina ken weka.
+
 ni li ike ala e pilin mi.
 
 o kute pona.
 
----
-
 toki open li lon suno pi telo sijelo ale.
 
-jan li lon li tawa poka lili la telo sijelo mute li kama kama tan ona lon ale pi sijelo ona
+jan li lon li tawa poka lili la,
 
-telo sijelo li mute wawa la poki li kama jo ale e telo.
+telo sijelo MUTE li kama KAMA tan ona!
 
-jan ni li tawa tomo esun la telo sijelo li kama lon _ale_ tomo.
+lon ALE pi sijelo ona.
 
-jan ante li ken ala awen pona lon noka ona tan mute telo! kin la ona li pilin
-jaki mute.
+telo sijelo li mute wawa la, 
 
-jan telo li tawa telo suli, li alasa tawa lon telo, taso kala suli li kama li uta e
-jan **ale**.
+poki li kama jo ale e telo.
 
-jan moli li kama li wile moku e telo sijelo la ona li alasa e jan telo!
+jan ni li tawa tomo esun la,
 
-tenpo wan la telo sijelo li moku e jan lili e soweli.
+telo sijelo li kama lon ALE tomo.
 
-pini pi tenpo suno la jan ale li kama pilin e ni: jan telo o tawa ma mun. ni la
-ona li ken ala pana e telo sijelo tawa ale.
+jan ante li ken ala awen pona lon noka ona- 
 
-monsuta nanpa wan la jan ni li sina!!!! (ante la sina soweli la ona kin li soweli)
+tan mute telo! 
+
+kin la ona li pilin jaki mute.
+
+jan telo li tawa telo suli, li alasa tawa lon telo, 
+
+taso! kala SULI li kama, li uta e jan ALE!
+
+kin la, jan moli li kama, li wile moku e telo sijelo la,
+
+ona li alasa e jan telo!
+
+tenpo wan la,
+
+telo sijelo li moku e jan lili e soweli.
+
+pini pi tenpo suno la jan ale li kama pilin e ni: 
+
+jan telo o tawa ma mun. 
+
+ni la ona li ken ala pana e telo sijelo tawa ale!
+
+monsuta nanpa wan la jan ni li SINA!!!!
+
+(ante la sina soweli la ona kin li soweli)
 
 kin la sina weka e sona ale ni!
 
 ---
 
+a a a a a a a a a a a a a a a 
+
 monsuta mute, anu seme?
 
 sina wile mu monsuta, sama jan lili, anu seme?
 
-a, ala? toki mi li monsuta ala, anu seme?
+a, ala? 
 
-sona. sona, sona. ni li monsuta ala tawa sina.
+toki mi li monsuta ala, anu seme?
 
-taso, ni li suli ala tawa mi. mi sona e ni: toki kama li monsuta wawa.
+n.
 
-mi wile pana e ona la, mi o monsuta.
+sona. 
+
+sona, sona. ni li monsuta ala tawa sina.
+
+taso, ni li suli ala tawa mi. 
+
+mi sona e ni: 
+
+toki kama li monsuta wawa.
+
+mi wile pana e ona la, 
+
+mi o monsuta.
 
 o kama. mi tawa tomo ante.
 
----
+jan Jon Sawan li awen. 
 
-jan Jon Sawan li awen. ilo suno li pini li open sin lon sewi tomo.
+ilo suno li pini li open sin lon sewi tomo.
 
-monsuta li lon tomo. jan Jon li lukin ala e monsuta, taso ona li pilin e kama
-monsuta lon tenpo suli.
+monsuta li lon tomo. 
 
-ona li toki e kama monsuta tawa jan lawa Kosen lon tenpo mute, taso jan Kosen li kute ala la tenpo pi ken pali li weka. n, tenpo ni la tenpo ken li weka.
+jan Jon li lukin ala e monsuta, 
 
-jan Jon li lon kulupu utala lon ma mun lon tenpo sike luka luka tu tu. ona li
-lili la, ona li lukin e ilo pi tawa mun li toki e ni tawa mama ona: "mi wile lon
-ilo, mama o!"
+taso ona li pilin e kama monsuta lon tenpo suli.
 
-mama ona li toki e ni: "ala! monsuta li moli e sina!"
+ona li toki e kama monsuta tawa jan lawa Kosen lon tenpo mute,
 
-tenpo pini la jan Jon li pilin sama mama ona. ona li kama suli la pilin ni
-li weka. taso, tenpo ni la jan Jon li sona e ni: monsuta li kama lon tomo.
+taso jan Kosen li kute ala la tenpo pi ken pali li weka.
+
+n, tenpo ni la tenpo ken li weka.
+
+jan Jon li lon kulupu utala lon ma mun,
+
+lon tenpo sike luka luka tu tu.
+
+ona li lili la, ona li lukin e ilo pi tawa mun li toki e ni tawa mama ona:
+
+"mi wile lon ilo, mama o!"
+
+taso, mama ona li toki e ni: 
+
+"ala! monsuta li MOLI e sina!"
+
+tenpo pini la jan Jon li pilin sama mama ona. 
+
+ona li kama suli la, pilin ni li weka. 
+
+taso, tenpo ni la jan Jon li sona e ni: 
+
+monsuta li kama lon tomo.
 
 jan Jon li kute e ilo toki.
 
 "ni li jan Kosen! sina o utala e monsuta!"
 
-ni la jan Jon li kama jo e ilo utala pi wawa suno li pakala wawa e sinpin.
+ni la jan Jon li kama jo e ilo utala pi wawa suno, 
 
-monsuta mute li lukin e ona li toki e ni: "ona li kama moli e mi ale!"
+li pakala wawa e sinpin.
 
-monsuta sewi pi wawa ilo li toki e ni: "mi utala pana e ona."
+monsuta mute li lukin e ona li toki e ni: 
 
-ni la monsuta li pana utala e ilo pakala wawa. jan Jon li wawa suno e
-monsuta li alasa moli e ona. taso, sewi tomo li kama anpa la ona tu li kama ken
-ala moli e ona ante.
+"ona li kama moli e mi ale!"
 
-jan Jon li toki wawa e ni: "ala! mi o moli e monsuta!"
+monsuta sewi pi wawa ilo li toki e ni: 
 
-taso, toki ni li kama tan ilo toki: "ala a, jan Jon o. sina monsuta."
+"mi utala pana e ona."
 
-ni la jan Jon li kama monsuta.
+ni la monsuta li pana utala e ilo pi pakala wawa.
 
----
+jan Jon li wawa suno e monsuta li alasa moli e ona.
 
-a, pona. sina awen kute.
+taso, sewi tomo li kama anpa la, 
 
-mi pilin e ni: sina weka tan monsuta toki.
+ona tu li kama ken ala moli e ona ante.
+
+jan Jon li toki wawa e ni: 
+
+"ala! mi o moli e monsuta!"
+
+taso, toki ni li kama tan ilo toki: 
+
+"ala a, jan Jon o. 
+
+sina monsuta."
+
+ni la,
+
+jan Jon li kama MONSUTA.
+
+a a a a a a a a a.
+
+aaaa, pona. sina awen kute.
+
+mi pilin e ni: sina weka, tan monsuta toki.
 
 toki ni li monsuta wile, anu seme?
 
-n. ni kin li suli ala.
+n. ni kin li suli ala tawa mi.
 
 mi ken monsuta e sina.
 
 toki wan li awen.
-
----
 
 meli en mije li lon ilo tawa li tawa mute lon tenpo pimeja pi mun suli suno.
 
@@ -119,13 +192,23 @@ mije li toki e ni tawa meli:
 
 "olin mi o, seme li lon?"
 
-"ilo li kama ken ala tawa. pilin mi la insa ona li pakala. mi weka, li kama
-jo e telo wawa tawa ilo li kama sin."
+"ilo li kama ken ala tawa.
 
-"sona. mi awen lon tomo ilo, li awen e ilo kalama. mi kute e ni tan jan poka mi:
-tenpo mute poka la jan ike li weka e ilo kalama tan tomo ilo."
+pilin mi la insa ona li pakala. 
 
-"nasin pona. ale la o awen pini e sinpin ilo. mi olin e sina, telo o"
+mi weka, li kama jo e telo wawa tawa ilo, li kama sin."
+
+"sona. mi awen lon tomo ilo, li awen e ilo kalama.
+
+mi kute e ni tan jan poka mi: 
+
+tenpo mute poka la, jan ike li weka e ilo kalama tan tomo ilo."
+
+"nasin pona. ale la,
+
+o awen pini e sinpin ilo. 
+
+mi olin e sina, suli o"
 
 "seme-"
 
@@ -133,20 +216,28 @@ ni la mije li weka li alasa kama jo e telo wawa tawa ilo.
 
 tenpo suli tu li weka la meli li toki e ni:
 
-"olin mi li lon seme, ona li weka lon tenpo suli, ona o kama sin"
+"olin mi li lon seme?? 
+
+ona li weka lon tenpo suli- ona o kama sin"
 
 ona li kama kute e kalama nasa ni:
 
-jan li tawa e palisa kiwen lon sinpin tomo.
+*jan* li *tawa* e **palisa kiwen** lon sinpin tomo...
 
-ona li kute e jan sin. jan sin li toki e ni:
+ona li kute e jan sin. 
 
-### "o open e ilo"
+jan sin li toki e ni:
 
-taso, meli li open ala e ilo. tenpo la ona li kama lape.
+**O OPEN E ILO**
 
-tenpo suno kama la ona li weka tan lape li lukin e ni: olin ona li awen lon ala.
+taso, meli li open ala e ilo.
 
-ona li weka tan ilo li wile alasa e olin ona la jan sinpin luka ilo tomo sinpin
+tenpo la ona li kama lape.
 
----
+tenpo suno kama la ona li weka tan lape li lukin e ni: 
+
+olin ona li awen lon ala.
+
+ona li weka tan ilo li wile alasa e olin ona la, 
+
+JAN SINPIN LUKA ILO TOMO SINPIN
