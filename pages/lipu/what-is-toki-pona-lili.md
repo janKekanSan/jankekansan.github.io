@@ -31,7 +31,7 @@ But how does it work?
 
 Toki Pona has very few words- 120 to 130, depending on who you ask.
 
-And that works because all the words are broad like "bird" or "tool", rather than specific like "sparrow" or "jackhammer"
+And that works because all the words are broad like "bird" or "tool", rather than specific like "sparrow" or "jackhammer."
 
 <!-- anim: waso sitelen pona fades in -->
 <!-- sfx: pencil drawing sound -->
@@ -70,7 +70,7 @@ In Toki Pona, every word is like this: broad and descriptive!
 
 This is true for the name of the language too:
 
-"Toki" describes talking, conversation, language, thinking, and many similar things.
+"toki" describes talking, conversation, language, thinking, and many similar things.
 
 <!-- anim: talking emoji, two people talking, "language stock photo", thinking emoji -->
 <!-- anim: "many similar things" prayer, dial-up internet, instant messaging, more? -->
