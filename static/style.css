@@ -195,22 +195,34 @@ img {
   max-width: 100%;
 }
 
-.red {
-  border: 1px solid ERRORFG;
-  background-color: ERRORBG;
+.h1 {
+  border: 1px solid INFOFG;
+  background-color: INFOBG;
 }
-.yellow {
+.h2 {
   border: 1px dashed WARNFG;
   background-color: WARNBG;
 }
-.blue {
-  border: 1px dotted INFOFG;
-  background-color: INFOBG;
+.h3 {
+  border: 1px dotted ERRORFG;
+  background-color: ERRORBG;
 }
+.h4 {
+  border: 1px solid #186b33;
+  background-color: #a7e7ca;
+}
+.h5 {
+  border: 1px dashed #5b0c82;
+  background-color: #e2b7f7;
+
+}
+
 code,
-.red,
-.blue,
-.yellow {
+.h1,
+.h2,
+.h3,
+.h4,
+.h5 {
   padding: 1px;
   border-radius: BLOCK_MARK;
 }
@@ -275,6 +287,7 @@ hr {
   float: right;
   font-size: 3em;
   padding: 0.2em;
+  padding-top: 0.3em;
 }
 .info,
 .warning,
