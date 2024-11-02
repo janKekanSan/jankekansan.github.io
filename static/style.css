@@ -179,6 +179,7 @@ blockquote,
 .info,
 .warning,
 .error,
+.convo,
 .blogentry {
   margin: INDENT;
   padding: INDENT;
@@ -200,12 +201,12 @@ img {
   background-color: INFOBG;
 }
 .h2 {
-  border: 1px dashed WARNFG;
-  background-color: WARNBG;
-}
-.h3 {
   border: 1px dotted ERRORFG;
   background-color: ERRORBG;
+}
+.h3 {
+  border: 1px dashed WARNFG;
+  background-color: WARNBG;
 }
 .h4 {
   border: 1px solid #186b33;
@@ -214,7 +215,39 @@ img {
 .h5 {
   border: 1px dashed #5b0c82;
   background-color: #e2b7f7;
+}
 
+.convo p:nth-child(2n) {
+  border: 1px solid ERRORFG;
+  background-color: ERRORBG;
+  border-left-width: 4px;
+}
+.convo p:nth-child(2n+1) {
+  border: 1px solid INFOFG;
+  background-color: INFOBG;
+  border-right-width: 4px;
+  margin-left: auto;
+  margin-right: 0;
+}
+
+.convo {
+  margin: INDENT;
+  padding: INDENT;
+  border-radius: BLOCK_MARK;
+
+  color: FG2;
+  background: BG2;
+  border: 1px solid FG2;
+  /* border-left: BLOCK_MARK solid FG2; */
+
+  min-width: fit-content;
+  max-width: 50%;
+}
+
+.convo p {
+  padding: 1px;
+  border-radius: BLOCK_MARK;
+  width: fit-content;
 }
 
 code,
@@ -268,8 +301,7 @@ hr {
 .summary {
   cursor: pointer;
   padding: INDENT;
-  /* display: list-item; */
-  /* this is the default display, but it doesn't help on ie11 */
+  list-style-position: outside;
 }
 .details > p {
   padding: INDENT;
@@ -475,5 +507,8 @@ input#sptoggle:active {
   }
   input#sptoggle {
     font-size: 1em;
+  }
+  .convo {
+    max-width: 100%;
   }
 }
