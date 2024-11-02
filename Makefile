@@ -60,6 +60,8 @@ test: build/test.html build/style.css build/index.html build/sona/index.html
 
 dev: stopdev
 	screen -S $(DEVNAME) -d -m python3 -m http.server -d $(BUILDDIR)
+	screen -S $(DEVNAME)-build -d -m bash -c "find pages/ -type f -name '*.md' | entr make -j"
 
 stopdev:
 	screen -S $(DEVNAME) -X quit | true
+	screen -S $(DEVNAME)-build -X quit | true
