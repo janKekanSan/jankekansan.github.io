@@ -4,6 +4,17 @@ author: gregdan3
 date: 2022-07-30T00:00:00.000Z
 ---
 
+::: info
+
+If you wanna get right into learning, [go to the next lesson!](./mi-sina.md)
+
+If you do skip ahead, here's some quick advice: In language learning, trust
+**sentences**, not words. That is to say, don't worry about the meaning of
+specific words- worry about the sentences they fit into, and what those
+sentences mean!
+
+:::
+
 <details><summary>**Table of Contents**</summary>
 
 <!-- toc -->
@@ -27,27 +38,41 @@ date: 2022-07-30T00:00:00.000Z
 
 ## How to Learn
 
-This is a collection of philosophy notes, both for Toki Pona and for these lessons.
+This is a collection of philosophy notes, both for Toki Pona and for these
+lessons.
 
 ### Toki Pona is a Real Language
 
-Toki Pona is a real language. It has few words which you can easily memorize, but memorizing all the words is only the start. You learn much more through practice! For comparison, memorizing all the numbers from 0 to 9 won't teach you Calculus, but it would let you start learning more math!
+Toki Pona is a real language. It has few words which you can easily memorize,
+but memorizing all the words is only the start. You learn much more through
+practice! For comparison, memorizing all the numbers from 0 to 9 won't teach you
+Calculus, but it would let you start learning more math!
 
 ### Simplicity in Toki Pona
 
-Toki Pona values simplicity in statements and expression. If you find yourself making a long single phrase, think about breaking it up to restate it! Using more sentences with fewer words each is more clear than one sentence with many words. But don't go too far with this- as you learn, you'll find a comfortable balance between the two.
+Toki Pona values simplicity in statements and expression. If you find yourself
+making a long single phrase, think about breaking it up to restate it! Using
+more sentences with fewer words each is more clear than one sentence with many
+words. But don't go too far with this- as you learn, you'll find a comfortable
+balance between the two.
 
 ### Lesson Notes
 
-The definitions for words are examples, not comprehensive. The same goes for exercise translations. Words can refer to more than the examples, and be used in more ways than appear in the exercises. Be experimental, try many things as you learn!
+The definitions for words are examples, not comprehensive. The same goes for
+exercise translations. Words can refer to more than the examples, and be used in
+more ways than appear in the exercises. Be experimental, try many things as you
+learn!
 
-If an exercise spoiler has **bold text**, there's a lesson with the translation! Check for more info!
+If an exercise spoiler has **bold text**, there's a lesson with the translation!
+Check for more info!
 
-If you see a spoiler starting with "a note", it is not necessary to read. But it might still be helpful!
+If you see a spoiler starting with "a note", it is not necessary to read. But it
+might still be helpful!
 
 ::: info
 
-These lessons are best experienced over a long period of time, reading through one page and regularly reviewing the content and exercises.
+These lessons are best experienced over a long period of time, reading through
+one page and regularly reviewing the content and exercises.
 
 If you feel like you're not getting it, take a break and come back later!
 
@@ -55,27 +80,38 @@ If you feel like you're not getting it, take a break and come back later!
 
 ## How to Read
 
-If you know the International Phonetic Alphabet, Toki Pona is read like that.
-If you don't, the vowels are like Spanish, Italian, or long vowels in Latin.
-If you don't know the vowels in these languages, read the table in the vowels section
+If you know the International Phonetic Alphabet, Toki Pona is read like that. If
+you don't, the vowels are like Spanish, Italian, or long vowels in Latin. If you
+don't know the vowels in these languages, read the table in the vowels section
 below.
 
 The consonants are like English except `j` which makes a `y` sound.
 
-The first syllable of a word is stressed, and the others are not. [Listen to Toki Pona](https://youtu.be/9VjPV9BpU2I) to get a feel for this. Don't worry about understanding!
+The first syllable of a word is stressed, and the others are not.
+[Listen to Toki Pona](https://youtu.be/9VjPV9BpU2I) to get a feel for this.
+Don't worry about understanding!
 
 <details><summary> A note for IPA-knowers and the curious </summary>
 
-What I described above is good enough- but there's more detail if you're interested!
+What I described above is good enough- but there's more detail if you're
+interested!
 
-The sounds of Toki Pona can be subtly different in a variety of ways. For example, the nasal `n` that can end syllables is intended to be in the same part of the mouth as the consonant that follows it- `[tenpo]` becomes `/tempo/`, and `[ilo Linku]` becomes `/ilo Liŋku/` (`ilo Lingku`). Additionally, Toki Pona: The Language of Good notes that some of the vowels are not _exactly_ as in the International Phonetic Alphabet, such as `[a]` actually being realized as `/ä/`- but this book documents jan Sonja's own use of Toki Pona, so don't worry about it too much! So long as you speak clearly and consistently enough to be understood, you'll be fine.
+The sounds of Toki Pona can be subtly different in a variety of ways. For
+example, the nasal `n` that can end syllables is intended to be in the same part
+of the mouth as the consonant that follows it- `[tenpo]` becomes `/tempo/`, and
+`[ilo Linku]` becomes `/ilo Liŋku/` (`ilo Lingku`). Additionally, Toki Pona: The
+Language of Good notes that some of the vowels are not _exactly_ as in the
+International Phonetic Alphabet, such as `[a]` actually being realized as `/ä/`-
+but this book documents jan Sonja's own use of Toki Pona, so don't worry about
+it too much! So long as you speak clearly and consistently enough to be
+understood, you'll be fine.
 
 </details>
 
 ### Vowels
 
-These are _close_ but not exact. They may change because of accent too. [Listen
-to Toki Pona](https://youtu.be/E_DfpQTRvyc) to get a feel for the sound!
+These are _close_ but not exact. They may change because of accent too.
+[Listen to Toki Pona](https://youtu.be/E_DfpQTRvyc) to get a feel for the sound!
 
 | vowel | sound      |
 | ----- | ---------- |
@@ -101,9 +137,9 @@ to Toki Pona](https://youtu.be/E_DfpQTRvyc) to get a feel for the sound!
 
 ### Syllables
 
-In Toki Pona, syllables can start with a consonant at any time,
-and can start with a vowel at the beginning of a word.
-Here are all possible types of syllable:
+In Toki Pona, syllables can start with a consonant at any time, and can start
+with a vowel at the beginning of a word. Here are all possible types of
+syllable:
 
 - a single vowel (**e**sun)
 - a vowel and n (**an**pa)
@@ -142,7 +178,10 @@ Also,
 
 <details> <summary>A note on banned syllables</summary>
 
-The purpose of Toki Pona's banned syllables is to make pronunciation easier for learners of many language backgrounds. The syllable `[wu]` has become `/u/` in the development of some languages, and the same applies to the other syllables which all change in some way. Here's the list:
+The purpose of Toki Pona's banned syllables is to make pronunciation easier for
+learners of many language backgrounds. The syllable `[wu]` has become `/u/` in
+the development of some languages, and the same applies to the other syllables
+which all change in some way. Here's the list:
 
 - `[wu] -> /u/`
 - `[wo] -> /o/`
@@ -151,9 +190,13 @@ The purpose of Toki Pona's banned syllables is to make pronunciation easier for 
 - `[nn] -> /n/` or a different second consonant
 - `[nm] -> /n/` or a different second consonant
 
-As an example, the syllable を is generally written `[wo]` in romanized Japanese text, but it is pronounced `/o/`. This sound shift occurred a long time ago, but persisted in the written language.
+As an example, the syllable を is generally written `[wo]` in romanized Japanese
+text, but it is pronounced `/o/`. This sound shift occurred a long time ago, but
+persisted in the written language.
 
-Also, this distinction does not _have_ to be written despite my use of brackets then slashes- the symbols used to represent the sound can also change or disappear as the sound of the language changes.
+Also, this distinction does not _have_ to be written despite my use of brackets
+then slashes- the symbols used to represent the sound can also change or
+disappear as the sound of the language changes.
 
 </details>
 
@@ -161,11 +204,17 @@ Also, this distinction does not _have_ to be written despite my use of brackets 
 
 ### sitelen Lasina - "Latin writing"
 
-In the Latin alphabet (this one!), Toki Pona is written without capital letters. This includes the start of sentences, but there is one exception: the names of people, places, languages, and other named things. Example:
+In the Latin alphabet (this one!), Toki Pona is written without capital letters.
+This includes the start of sentences, but there is one exception: the names of
+people, places, languages, and other named things. Example:
 
 > sina wile lon poka mi la mi tu li tawa ma Sonko
 
-There are no punctuation rules, but speakers often end statements with a period `.` or exclamation mark `!`, questions with a question mark `?`, and sentences referring to other sentences with a colon `:`. It is also common to use a comma `,` to indicate natural pauses. None of these are required though- some speakers use nothing but new lines or periods!
+There are no punctuation rules, but speakers often end statements with a period
+`.` or exclamation mark `!`, questions with a question mark `?`, and sentences
+referring to other sentences with a colon `:`. It is also common to use a comma
+`,` to indicate natural pauses. None of these are required though- some speakers
+use nothing but new lines or periods!
 
 > jan li toki e ni: seme li lon? ona li wile tawa, li wile lape.
 
@@ -173,42 +222,54 @@ Your intuition from English is close enough that you don't need to worry.
 
 ### sitelen pona - "good writing"
 
-Toki Pona can be written with a system known as sitelen pona, or [sitelen pona]{.tokipona}. It has one character per word, which is easy with few words! I provide each character with each new word, and use it for all the exercises.
+Toki Pona can be written with a system known as sitelen pona, or [sitelen
+pona]{.tokipona}. It has one character per word, which is easy with few words! I
+provide each character with each new word, and use it for all the exercises.
 
-In sitelen pona, speakers will use a big blank space, a new line, or an interpunct `・` at the end of sentences. No other punctuation is generally used, though anything familiar is fine to use.
+In sitelen pona, speakers will use a big blank space, a new line, or an
+interpunct `・` at the end of sentences. No other punctuation is generally used,
+though anything familiar is fine to use.
 
 > [jan li toki e ni: seme li lon? ona li wile tawa li wile lape]{.tokipona}
 
-Proper nouns are written in a box called a cartouche, which is an enclosed square around a group of symbols.
-Everything inside the cartouche is read by only its first character:
+Proper nouns are written in a box called a cartouche, which is an enclosed
+square around a group of symbols. Everything inside the cartouche is read by
+only its first character:
 
-> [sina wile lon poka mi la mi tu li tawa ma [kiwen alasa nasin sewi esun]]{.tokipona}
+> [sina wile lon poka mi la mi tu li tawa ma [kiwen alasa nasin > sewi esun]]{.tokipona}
 
-The reading of the cartouche is **Kanse**: **k**iwen, **a**lasa, **n**asin, **s**ewi, **e**sun.
+The reading of the cartouche is **Kanse**: **k**iwen, **a**lasa, **n**asin,
+**s**ewi, **e**sun.
 
-Lastly, symbols can be stacked or nested! Both are read from the bottom up, which is the same as reading from the outside in for nested symbols.
+Lastly, symbols can be stacked or nested! Both are read from the bottom up,
+which is the same as reading from the outside in for nested symbols.
 
 > [toki+pona li pona mute tawa mi! waso li jo e linja-suwi!]{.tokipona}
 
-The first symbol is read "toki pona" and it is two nested symbols, [toki]{.tokipona} outside and [pona]{.tokipona} inside.
-The last symbol is "linja suwi" and it is two stacked symbols, [linja]{.tokipona} below and [suwi]{.tokipona} above.
+The first symbol is read "toki pona" and it is two nested symbols,
+[toki]{.tokipona} outside and [pona]{.tokipona} inside. The last symbol is
+"linja suwi" and it is two stacked symbols, [linja]{.tokipona} below and
+[suwi]{.tokipona} above.
 
-Don't worry about _all_ this just yet! You'll find what feels comfortable as you learn.
+Don't worry about _all_ this just yet! You'll find what feels comfortable as you
+learn.
 
 ::: info
 
-The font I'm using is called **Nishiki-teki**. [Download here](/ntl.ttf), [more info
-here](https://sitelen.pona.la/font/Nishiki-teki-lili)
+The font I'm using is called **Nishiki-teki**. [Download here](/ntl.ttf),
+[more info here](https://sitelen.pona.la/font/Nishiki-teki-lili)
 
 :::
 
 ## Exercises
 
-Try to pronounce the following words. The pronunciation is in a clip under the spoiler!
+Try to pronounce the following words. The pronunciation is in a clip under the
+spoiler!
 
 ::: info
 
-There's a button labeled **[sitelen+pona]{.tokipona} Toggle** in the bottom right, and it switches sitelen pona for English letters and back. Try it out!
+There's a button labeled **[sitelen+pona]{.tokipona} Toggle** in the bottom
+right, and it switches sitelen pona for English letters and back. Try it out!
 
 :::
 
@@ -254,16 +315,20 @@ There's a button labeled **[sitelen+pona]{.tokipona} Toggle** in the bottom righ
 
 </details>
 
-If you struggled with some of these, don't worry! A few of them were chosen to be tricky. Come back later and try the pronunciations again!
+If you struggled with some of these, don't worry! A few of them were chosen to
+be tricky. Come back later and try the pronunciations again!
 
 ::: info
 
-Remember: It's about consistency! Take breaks when you need it, and come back when you're ready! Tip: Set yourself a reminder for when you know you're free.
+Remember: It's about consistency! Take breaks when you need it, and come back
+when you're ready! Tip: Set yourself a reminder for when you know you're free.
 
 :::
 
 ---
 
 ::: lessonnav
+
 [Next lesson](./mi-sina.md)
+
 :::
