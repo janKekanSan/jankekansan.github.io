@@ -202,7 +202,7 @@ action or description- as long as it fits into the meaning of the word!
 Tip: You can translate these sentences in **dozens** of ways, especially with
 appropriate context- you'll probably think of something that isn't listed!
 
-### Asking Questions
+### Your First Question
 
 No language is complete without questions, and Toki Pona is no different! There
 are three ways to ask questions in Toki Pona, but we'll focus on the simplest
