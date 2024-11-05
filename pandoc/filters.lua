@@ -38,3 +38,27 @@ function RawBlock(html)
 	end
 	return html
 end
+
+local function setLangTok(el)
+  local hasClass = false
+  for i, val in ipairs(el.classes) do
+    if val == "tp" or val == "tokipona" then
+      hasClass = true
+      break
+    end
+  end
+
+  if hasClass then
+    el.attributes.lang = "tok"
+  end
+
+  return el
+end
+
+function Div(el)
+  return setLangTok(el)
+end
+
+function Span(el)
+  return setLangTok(el)
+end
