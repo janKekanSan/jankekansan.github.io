@@ -64,21 +64,19 @@ how to remember and draw each symbol.
 
 ### You and I
 
-The most basic Toki Pona sentence has two parts: a subject and a predicate. The
-subject does something, and the predicate is what they do!
+The most basic Toki Pona sentence has two parts: a [subject]{.h1} and a
+[predicate]{.h2}. The subject does something, and the predicate is what they do!
+To start, we'll only have one word in each, so here's an example:
 
-> [subject] [predicate]
+> [[mi]{.h1} [toki]{.h2}]{.tp}
 
-For this kind of sentence, two subjects are possible:
-
-- [mi]{.tp} - First person pronoun. I, me, my, mine, we, our, myself, ourselves
-- [sina]{.tp} - Second person pronoun. You, yours, yourself, y'all, y'all's
-
-So these sentences will always look like this:
+This kind of sentence can start with [mi]{.tp} (mi) to mean "I", or [sina]{.tp}
+(sina) to mean "you". Every sentence in this lesson will be one of these, so
+they'll always look like this:
 
 > [[mi]{.tp}/[sina]{.tp}] [predicate]
 
-The English interpretation looks like this for [mi]{.tp}:
+If a sentence starts with [mi]{.tp}, you could read it in any of these ways:
 
 > I am [description]
 >
@@ -88,11 +86,12 @@ The English interpretation looks like this for [mi]{.tp}:
 >
 > We [action]
 
-You'll notice that [mi]{.tp} is translated as "I" or "we," even though the word
-didn't change. In Toki Pona, words can refer to any number of people or things,
-and they don't change to do that!
+You'll notice that [mi]{.tp} can be translated as "I" or "we"- it can be
+singular or plural, even though the word didn't change. In Toki Pona, words can
+refer to any number of people or things!
 
-Then, here are the English interpretations for [sina]{.tp}:
+Then, if a sentence started with [sina]{.tp}, you could read it in any of these
+ways:
 
 > You are [description]
 >
@@ -103,22 +102,22 @@ Then, here are the English interpretations for [sina]{.tp}:
 > Y'all [action]
 
 In all of these examples, the predicate is either an action or a description-
-either what the subject is doing, or what the subject is! Keep that in mind as
-you translate the following:
+either what the subject is doing, or what the subject is! Keep that in mind, and
+try to translate this sentence:
 
-<details> <summary> [mi jan]{.tp} (click for the translation!) </summary>
+<details> <summary> [[mi]{.h1} [jan]{.h2}]{.tp} (click for the translation!) </summary>
 
 Since [jan]{.tp} (person/people) doesn't make much sense as an action, we
-translate it as a description. This sentence means "**I am a person**" or "**We
-are people.**"
+translate it as a description. This sentence means "**[I]{.h1} am a
+[person]{.h2}**" or "**[We]{.h1} are [people]{.h2}.**"
 
 </details>
 
-[mi]{.tp} is the subject, and refers to the speaker. [jan]{.tp} is the
-predicate, and is either an action or description of the speaker. Check your
-understanding under the spoiler by clicking it!
+[mi]{.tp} is the [subject]{.h1}, and refers to the speaker. [jan]{.tp} is the
+[predicate]{.h2}, and is either an action or description of the speaker. Check
+your understanding under the spoiler by clicking it!
 
-<details> <summary> [sina moku]{.tp} </summary>
+<details> <summary> [[sina]{.h1} [moku]{.h2}]{.tp} </summary>
 
 Because [moku]{.tp} (food/eat) could be either a description or an action, this
 sentence could be "**You eat**" or "**You are food.**" Both are valid!
@@ -129,23 +128,39 @@ keep that "reasonable" point in mind!
 
 </details>
 
-[sina]{.tp} is the subject, and refers to the listener. [moku]{.tp} is the
-predicate, and is either an action or description of the listener. Again, check
-your understanding under the spoiler!
+[sina]{.tp} is the [subject]{.h1}, and refers to the listener. [moku]{.tp} is
+the [predicate]{.h2}, and is either an action or description of the listener.
+Again, check your understanding under the spoiler!
 
 ### Words and Context
 
 We saw that [mi]{.tp} can be used like "I" or like "we," and we'll see it work
-like "my" and "myself" and "our" in future lessons! We also saw that the
-predicate can be an action, or a description- putting it another way, Toki Pona
-doesn't tell you the difference between "being red" and "redding," the act of
-being red! Here's the bigger picture:
+like "my" and "myself" and "our" in future lessons! The same goes for
+[sina]{.tp}, which is used for "you" or "y'all", and will mean "yours" or
+"yourself" in future lessons.
+
+<!--Expanding on that, you'll often see [mi]{.tp} and [sina]{.tp} defined with many-->
+<!--different examples, like this:-->
+<!---->
+<!--- [mi]{.tp} - All first person pronouns. I, me, my, mine, we, our, myself,-->
+<!--  ourselves-->
+<!--- [sina]{.tp} - All person pronouns. You, yours, yourself, y'all, y'all's-->
+
+<!--And this is because Toki Pona words change based on context- like, who or what-->
+<!--are we talking about, and where in the sentence is the word?-->
+
+Each word can take on so many different meanings because Toki Pona words mean
+different things in different contexts! And plurality isn't the only thing that
+can change. In the previous section, we saw that the predicate can be an action
+or a description- putting it another way, Toki Pona doesn't tell you the
+difference between "being red" and "redding," the act of being red! Here's the
+bigger picture:
 
 - **Words don't mark number!** [jan]{.tp} may talk about one person, fourteen
   people, everyone in a city, a hypothetical person, and more.
 - **Words don't mark time!** [moku]{.tp} may talk about eating right now, going
   out to eat next week, drinking months ago, and anything else.
-- **Words don't mark gender!** [mama]{.tp} can any parent, guardian, or
+- **Words don't mark gender!** [mama]{.tp} can be any parent, guardian, or
   ancestor, regardless of gender.
 
 Other languages put this information into the way words are said, or into the
@@ -208,16 +223,16 @@ No language is complete without questions, and Toki Pona is no different! There
 are three ways to ask questions in Toki Pona, but we'll focus on the simplest
 for this lesson: **Yes or no questions!**
 
-To ask a yes or no question, you double the first word of the predicate, then
-put [**ala**]{.tp} between them. Here's a common example:
+To ask a yes or no question, you double the first word of the [predicate]{.h2},
+then put [**ala**]{.tp} (ala) in between. Here's an example:
 
-<details> <summary> [sina pona ala pona?]{.tp} </summary>
+<details> <summary> [[sina]{.h1} [pona ala pona]{.h2}?]{.tp} </summary>
 
-- You good or not good?
 - Are you okay?
 - Are you well?
 - Are you alright?
 - Are you hurt?
+- You good or not good?
 
 ::: info
 
@@ -232,8 +247,10 @@ sentence, but the meaning in Toki Pona is what's most important!
 
 </details>
 
-The subject, [sina]{.tp}, is exactly the same as before. But now, there's more
-going on in the predicate
+The [subject]{.h1}, [sina]{.tp}, is exactly the same as before. But now, there's
+more going on in the predicate that turns it into a question! We'll see longer
+sentences in the future, but it's always that first word, doubled and with
+[ala]{.tp} between, which makes a statement into a question.
 
 To answer a yes or no question, you can say an entire sentence back, or just
 repeat the true part of the predicate- in the above example, you'd say
@@ -287,10 +304,15 @@ one. I'll point out more in future lessons!
 
 ## Exercises
 
-Try to figure out what these statements mean in English, then check your answer
-under the spoiler! The first answer is the one that best fits the given context,
-and the rest are other ways that sentence could be understood, but in different
-contexts.
+Try to translate these sentences to English, then check your understanding under
+the spoiler! The first answer fits the given context, but the rest are valid for
+other contexts.
+
+<!--::: info-->
+<!---->
+<!--You don't need to do every exercise! -->
+<!---->
+<!--:::-->
 
 All Toki Pona to English exercises include some situation as context, because
 language lives in context! Toki Pona is no exception. Knowing _when_ a sentence
@@ -492,14 +514,13 @@ You're tall!
 
 ### Questions
 
-You and a friend are having a conversation while walking through the park, when
-suddenly your foot snags a crack in the sidewalk and you trip! You tumble to the
-ground, and your friend rushes to check on you. You have the following
-conversation:
+[You]{.h1} and [a friend]{.h2} are having a conversation while walking through the
+park, when suddenly your foot snags a crack in the sidewalk and you trip! You tumble
+to the ground, and your friend rushes to check on you. You have the following conversation:
 
 <details> <summary>
 
-::: {.tp .convo}
+::: {.tp .convo-they}
 
 sina pona ala pona?!
 
@@ -509,7 +530,7 @@ mi pona!
 
 </summary>
 
-::: {.convo}
+::: {.convo-they}
 
 Are you alright?!
 
@@ -519,17 +540,17 @@ I'm fine!
 
 </details>
 
-<!--You're wearing your headphones, listening to music and not paying a lot of-->
-<!--attention to the outside world. However, -->
+<!--You're wearing your headphones, listening to music and not paying attention to-->
+<!--the outside world. However,-->
 
-You and a friend are wandering around inside a haunted house- you've heard scary
-rumors about this place for ages, and wanted to see it for yourself! But as you
-approach the basement, you hear a faint voice you don't recognize. Your friend,
-who's gone pale in the face, turns to you and asks:
+[You]{.h1} and [a friend]{.h2} are wandering around inside a haunted house- you've
+heard scary rumors about this place for ages, and wanted to see it for yourself!
+But as you approach the basement, you hear a faint voice you don't recognize. Your
+friend, who's gone pale in the face, turns to you and asks:
 
 <details><summary>
 
-::: {.tp .convo}
+::: {.tp .convo-they}
 
 sina toki ala toki?
 
@@ -539,13 +560,31 @@ ala.
 
 </summary>
 
-::: {.convo}
+::: {.convo-they}
 
 Did you say something?
 
 Nope.
 
 :::
+
+</details>
+
+You've been staring at a page of a textbook for several minutes, re-reading each
+paragraph as you try to understand. As you reach the bottom of the page again,
+you mumble to yourself:
+
+<details><summary>
+
+::: {.tp}
+
+mi sona ala sona?
+
+:::
+
+</summary>
+
+Do I understand?
 
 </details>
 
@@ -558,8 +597,6 @@ asleep. The teacher walks in and says to everyone:
 <details> <summary> [toki]{.tp} </summary>
 
 Good morning!
-
----
 
 - Hello!
 - Hi!
@@ -654,25 +691,53 @@ but also easier to figure out!
 
 ## Summary
 
-<!--- You can now make sentences with [mi]{.tp} and [sina]{.tp}, letting you talk about-->
-<!--  yourself and whoever you're speaking to!-->
-<!--- Y-->
+### What did you learn?
 
-<!-- ### Sentences about "you" and "I" -->
-<!---->
-<!-- ### Saying hello and goodbye -->
-<!---->
+In Toki Pona, a word can be understood in many different ways, depending on when
+it's said and where it is in the sentence! And there are two reasons for that:
+
+**Toki Pona words are broad in meaning**
+
+In Toki Pona, words don't tell you about number, time, or gender. They also
+don't care if they're being used as a verb or adjective, or anything else.
+Because of that, each word can have a huge number of possible meanings- a huge
+number of things they can refer to!
+
+Instead of changing the words to tell you about time or number, Toki Pona lets
+you figure things out from context- or spell it out literally, as we'll learn
+later!
+
+**Actions and descriptions are the same thing**
+
+In Toki Pona, there is no grammatical difference between "doing" and "being."
+The predicate does both! To describe it in English, you could say that if a
+person walks, they are also a walking person.
+
+But this is better understood in Toki Pona: You might assume that [mi
+tawa]{.tp} means "I'm walking" or maybe "I'm leaving." But it could just as easily
+mean "I am being shaken!"
 
 ### What can you say now?
 
-By now, you can make sentences with [mi]{.tp} and [sina]{.tp}, so you can talk
-about yourself and whoever you're speaking to! You can also ask some questions.
-This may not seem like a lot, but you can already follow this conversation:
+By now, you can say hello or goodbye, read and make sentences with [mi]{.tp} and
+[sina]{.tp}, and ask a variety of useful questions. This may not seem like a
+lot, but you already have all the pieces you need to follow along with some
+conversations, and even join them!
+
+, so you can talk about yourself and whoever you're speaking to! You can also
+ask important questions, like whether somebody understands you, or if they're
+okay.
+
+### Test yourself!
+
+Here's a short conversation to test yourself with! It covers everything you've
+learned in this lesson. You've seen all the words here, and there's only one bit
+of grammar you don't know yet, so you're very prepared to
 
 <details>
 <summary>
 
-::: {.tp .convo}
+::: {.tp .convo-you}
 
 toki!
 
@@ -690,7 +755,7 @@ tawa pona!
 
 Here's a translation that sounds natural in English:
 
-::: convo
+::: convo-you
 
 Hi!
 
@@ -706,7 +771,7 @@ Have a nice day!
 
 And here's a literal interpretation:
 
-::: convo
+::: convo-you
 
 Hi!
 
@@ -722,40 +787,16 @@ Walk well!
 
 </details>
 
-You already know all the words here, and there's only one bit of grammar we
-haven't learned yet. It's not a lot, but you have everything you need to get
-started!
+If you don't get it yet, don't worry! Language learning takes time, even in Toki
+Pona. Come back again later and try again!
 
-### What did you learn?
-
-In Toki Pona, a sentence could be understood many different ways, depending on
-when it's said! And there are two reasons for that:
-
-**Toki Pona words are broad in meaning**
-
-In Toki Pona, words don't tell you about number, time, or gender. They also
-don't care if they're being used as a verb or adjective, or anything else.
-Because of that, each word can have a huge number of possible meanings.
-
-Instead of changing the words to tell you about time or number, Toki Pona lets
-you figure things out from context- or spell it out literally, as we'll learn
-later!
-
-**Actions and descriptions are the same thing**
-
-In Toki Pona, there is no grammatical difference between "doing" and "being."
-The predicate does both! To describe it in English, you could say that if a
-person walks, they are also a walking person.
-
-Bu this is better understood in Toki Pona: You might assume that [mi tawa]{.tp} means
-"I'm walking" or maybe "I'm leaving." But it could just as easily mean "I am being
-shaken!"
+### What comes next?
 
 ---
 
 ::: info
 
-You've made it through your first full lesson! Congratulations!
+You've made it through your first lesson! [pona]{.tp}!
 
 Tip: If you can't remember a specific symbol, hit the [sitelen+pona]{.tp}
 **Toggle** button to switch back to the alphabet!
