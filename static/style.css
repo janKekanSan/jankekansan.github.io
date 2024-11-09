@@ -175,7 +175,8 @@ blockquote,
 .info,
 .warning,
 .error,
-.convo,
+.convo-you,
+.convo-they,
 .blogentry {
   margin: INDENT;
   padding: INDENT;
@@ -213,12 +214,12 @@ img {
   background-color: #e2b7f7;
 }
 
-.convo p:nth-child(2n) {
+.convo-you p:nth-child(2n), .convo-they p:nth-child(2n+1) {
   border: 1px solid ERRORFG;
   background-color: ERRORBG;
   border-left-width: 4px;
 }
-.convo p:nth-child(2n+1) {
+.convo-you p:nth-child(2n+1), .convo-they p:nth-child(2n) {
   border: 1px solid INFOFG;
   background-color: INFOBG;
   border-right-width: 4px;
@@ -226,7 +227,7 @@ img {
   margin-right: 0;
 }
 
-.convo {
+.convo-you, .convo-they {
   margin: INDENT;
   padding: INDENT;
   border-radius: BLOCK_MARK;
@@ -240,7 +241,7 @@ img {
   max-width: 50%;
 }
 
-.convo p {
+.convo-you p, .convo-they p {
   padding: 1px;
   border-radius: BLOCK_MARK;
   width: fit-content;
@@ -504,7 +505,7 @@ input#sptoggle:active {
   input#sptoggle {
     font-size: 1em;
   }
-  .convo {
+  .convo-you, .convo-they {
     max-width: 100%;
   }
 }
