@@ -51,7 +51,8 @@ Example meanings:
 - ["Uncarved block/wood"](http://forums.tokipona.org/viewtopic.php?p=11307#p11307): based on its theorized etymology
 - ["comma, semicolon"](https://forum.unilang.org/viewtopic.php?f=85&t=8360&start=40#p585041): This also appears [here](http://forums.tokipona.org/viewtopic.php?p=6482#p6482). I have no idea where this came from otherwise, unless it's related to the next entry...
 - [Some sort of ambiguity-reducing particle](http://forums.tokipona.org/viewtopic.php?p=6661#p6661). This one is hilarious, because it originates at [this edit](https://fr.wikipedia.org/w/index.php?title=Toki_pona&oldid=4919649) on the French language Wikipedia article for Toki Pona. There is no earlier source, nor later source other than people referencing this.
-  > Le mot _pu_ est une sorte de virgule utilisée pour éviter certains contresens. Son usage est cependant rejeté par la norme officielle.
+
+  > [Le mot _pu_ est une sorte de virgule utilisée pour éviter certains contresens. Son usage est cependant rejeté par la norme officielle]{lang="fr"}.
 
 # Summary
 
