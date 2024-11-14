@@ -69,10 +69,11 @@ p + p {
   left: 2%;
   display: none;
 }
-.-header > h3 {
+.-header > h1 {
   margin-left: auto;
   margin-right: auto;
   text-align: center;
+  font-size: 1.15em;
 }
 .-header > img {
   border: BLOCK_MARK solid FG1;
