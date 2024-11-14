@@ -32,6 +32,7 @@ image: /avatar_s.png
   - [Info Blocks](#info-blocks)
   - [Blog](#blog)
   - [Toki Pona](#toki-pona)
+  - [Other weird stuff](#other-weird-stuff)
 
 <!-- tocstop -->
 
@@ -276,13 +277,11 @@ text with a different [class-given highlight]{.blue}, from the same
 text with a third [class-given highlight]{.yellow}, do i even need to say it
 
 <details>
-<summary> [mi [toki]{.red} [pona]{.blue} [tawa mama sina]{.yellow}]{.tp} </summary>
+<summary> [[mute la]{.h5} mi [toki]{.h1} [pona]{.h2} [tawa mama sina]{.h3} [lon tenpo poka]{.h4}]{.tp} </summary>
 
-I [speak]{.red} [calmly]{.blue} [to your dad]{.yellow}
+I had [several]{.h5} [friendly]{.h2} [conversations]{.h1}  [with your dad]{.h3} [recently]{.h4}
 
 </details>
-
-
 
 ## Info Blocks
 
@@ -418,3 +417,21 @@ _mun_ li moli la seme? lon poka pi tenpo moli la mun pi suli wawa li kama suli s
 | [kijetesantakalu]{.glyph}<br/>[kijetesantakalu]{.glyphsubtitle} | **raccoon, procyonid, musteloid, skrunkly mammal**     | **raccoon**                                                  |
 |            [lipu]{.glyph}<br/>[lipu]{.glyphsubtitle}            | paper, card, document, website, leaf, small flat thing | Tall rectangle like a piece of paper                         |
 |            [pali]{.glyph}<br/>[pali]{.glyphsubtitle}            | create, work, creation                                 | A hand shape with a circle above it                          |
+
+## Other weird stuff
+
+::: #example
+
+A fenced div with
+
+:::
+
+::: {.container-class #container-id key="val"}
+The content of an anonymous container block.
+:::
+
+[selling lobbies 200ea @@@@@@@]{.wave .glow2}
+
+:::example
+A fenced div which has no space before its attribute.
+:::
