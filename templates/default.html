@@ -63,7 +63,10 @@ $endif$
       <a href="https://gregdan3.dev">
         <img src="/buttons/code_s.gif" alt="Code" class="button">
       </a>
-      <input type="button" id="sptoggle" onclick="toggle()" value="Toggle" role="button" aria-pressed="false" />
+      <label for="sptoggle" id="sptogglelabel">
+        <span class="tp" lang="tok">sitelen&nbsp;pona</span>&nbsp;Toggle
+        <input type="button" id="sptoggle" onclick="toggle()" role="button" aria-pressed="false" />
+      </label>
     </p>
     <div class="article">
       $for(include-before)$ $include-before$ $endfor$ $body$

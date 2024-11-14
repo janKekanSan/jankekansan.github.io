@@ -395,24 +395,22 @@ hr {
   line-height: 0.5em;
 }
 
-input#sptoggle {
-  background-image: url("/sitelenpona.png");
-  background-repeat: no-repeat;
-  background-size: contain;
-  image-rendering: pixelated;
-  padding-left: 2em;
-  height: 2em;
+label#sptogglelabel {
   position: fixed;
-  bottom: 3%;
-  right: 3%;
-  font-size: 0.8em; /* slightly larger than its default */
-  border-style: outset;
+  bottom: 2%;
+  right: 2%;
+  padding: 0.2em;
   cursor: pointer;
+  background-color: BG1;
+  border: 3px outset #888;
 }
-input#sptoggle:hover {
+input#sptoggle {
+  display: none;
+}
+label#sptogglelabel:hover {
   background-color: BG2;
 }
-input#sptoggle:active {
+label#sptogglelabel:active {
   border-style: inset;
 }
 
@@ -508,8 +506,9 @@ input#sptoggle:active {
   html {
     font-size: 16px;
   }
-  input#sptoggle {
-    font-size: 1em;
+  label#sptogglelabel {
+    right: 3%;
+    bottom: 3%;
   }
   .convo-you, .convo-they {
     max-width: 100%;
