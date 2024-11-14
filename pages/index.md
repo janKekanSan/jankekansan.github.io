@@ -47,9 +47,9 @@ height: 1.2em;
 ::: {.tokipona #sike-pona}
 
 <span style="display:inline-block;transform:scale(-1, 1)"> [poka](https://sike.pona.la/jan/jan%20Kekan%20San/prev.html) </span>
-<img src="tokipona.png" alt="toki pona" />
+<img src="tokipona.png" alt="" />
 [sike pona](https://sike.pona.la)
-<img src="tokipona.png" alt="toki pona" />
+<img src="tokipona.png" alt="" />
 [poka](https://sike.pona.la/jan/jan%20Kekan%20San/next.html)
 
 :::
