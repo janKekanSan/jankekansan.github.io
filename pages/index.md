@@ -10,9 +10,9 @@ date: 2024-05-31T00:00:00.000Z
 I speak Toki Pona, a constructed language with ~~no words at all~~ fewer words than you have bones! You'll find me all over the community- if you spot me, say hi! You can join too:
 
 - **[[ma pona pi toki pona]{.tokipona}](https://discord.gg/mapona)** is the big community server!
-- <img src="/icons/kama-sona_s.png" class="icon" alt="server icon for kama sona" /> **[[kama sona]{.tokipona}](https://discord.gg/ChC6qtVsSE)** is a great place to learn!
+- <img src="/icons/kama-sona_s.png" class="icon" alt="" /> **[[kama sona]{.tokipona}](https://discord.gg/ChC6qtVsSE)** is a great place to learn!
 - **[[ma toki pona]{.tokipona} VR](https://vrc.group/TOKI.9663)** is the VRChat community, and my personal favorite!
-- <img src="/icons/ma-mun_s.png" class="icon" alt="server icon for ma mun" /> **[[ma mun]{.tokipona}](https://discord.gg/RPAGqVaJBa)** is my own toki pona only server!
+- <img src="/icons/ma-mun_s.png" class="icon" alt="" /> **[[ma mun]{.tokipona}](https://discord.gg/RPAGqVaJBa)** is my own toki pona only server!
 
 Toki Pona is how I met some of my best friends, and how I've met and worked with many of the most driven people I know. I want to share that excitement and experience with others, meet new people, and see new art in Toki Pona- I want to see Toki Pona grow! To that end, I [write blogs](./lipu/), [share lessons](./sona/), [make videos](https://www.youtube.com/@gregdan3d), and [develop software](https://gregdan3.github.io/ilo-muni/).
 
