@@ -37,6 +37,11 @@ height: 1.2em;
 75% { transform: rotate(-10deg); }
 100% { transform: rotate(0); }
 }
+@media (prefers-reduced-motion) {
+  #sike-pona {
+    animation: none;
+  }
+}
 </style>
 
 ::: {.tokipona #sike-pona}
