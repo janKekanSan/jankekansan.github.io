@@ -1,7 +1,7 @@
 % What is the Easiest Language?
 % gregdan3
 % 2024-10-30
-% published: true
+% published: false
 
 ## It's Toki Pona, but...
 
