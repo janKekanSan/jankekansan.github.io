@@ -518,8 +518,6 @@ You're tall!
 park, when suddenly your foot snags a crack in the sidewalk and you trip! You tumble
 to the ground, and your friend rushes to check on you. You have the following conversation:
 
-<details> <summary>
-
 ::: {.tp .convo-they}
 
 sina pona ala pona?!
@@ -528,7 +526,7 @@ mi pona!
 
 :::
 
-</summary>
+<details> <summary> **Translate** </summary>
 
 ::: {.convo-they}
 
@@ -548,8 +546,6 @@ heard scary rumors about this place for ages, and wanted to see it for yourself!
 But as you approach the basement, you hear a faint voice you don't recognize. Your
 friend, who's gone pale in the face, turns to you and asks:
 
-<details><summary>
-
 ::: {.tp .convo-they}
 
 sina toki ala toki?
@@ -558,7 +554,7 @@ ala.
 
 :::
 
-</summary>
+<details><summary> **Translate** </summary>
 
 ::: {.convo-they}
 
@@ -585,6 +581,25 @@ mi sona ala sona?
 </summary>
 
 Do I understand?
+
+</details>
+
+It's the middle of the night. You and some friends went on a camping trip
+together, and you've woken up well before sunrise. You're a little bit spooked
+by the silence, so you poke a friend's sleeping bag to see if they're awake. You
+whisper to them:
+
+<details><summary>
+
+::: {.tp}
+
+sina lape ala lape?
+
+:::
+
+</summary>
+
+Are you sleeping?
 
 </details>
 
@@ -647,6 +662,12 @@ but also easier to figure out!
 
 </details>
 
+<details> <summary> Did you say something? </summary>
+
+[sina toki ala toki?]{.tp}
+
+</details>
+
 <details> <summary> You're friendly.</summary>
 
 [sina pona]{.tp}
@@ -665,9 +686,27 @@ but also easier to figure out!
 
 </details>
 
+<details> <summary> Are you leaving? </summary>
+
+[sina tawa ala tawa?]{.tp}
+
+</details>
+
 <details> <summary> I'm having a conversation.</summary>
 
 [mi toki]{.tp}
+
+</details>
+
+<details> <summary> Are you a parent? </summary>
+
+[sina mama ala mama?]{.tp}
+
+</details>
+
+<details> <summary> Am I tall?</summary>
+
+[mi suli ala suli?]{.tp}
 
 </details>
 
@@ -686,6 +725,12 @@ but also easier to figure out!
 <details> <summary> You're young.</summary>
 
 [sina lili]{.tp}
+
+</details>
+
+<details> <summary> Did you eat? </summary>
+
+[sina moku ala moku?]{.tp}
 
 </details>
 
