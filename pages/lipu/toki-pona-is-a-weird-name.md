@@ -9,8 +9,8 @@ In Toki Pona, all proper nouns external to the language are adjectives. This
 behavior of the language is on pages 37 to 39 of jan Sonja's [Toki Pona: The
 Language of Good](https://www.amazon.com/gp/product/0978292308), where she gives
 examples of proper nouns transliterated into Toki Pona. In jan Misali's [12 Days
-of sona pi toki pona series](https://www.youtube.com/watch?v=oGysrX1gIBU), he
-gives the example of "jan Robert": here, the word "Robert" means "a thing named
+of sona pi toki pona series](https://www.youtube.com/watch?v=oGysrX1gIBU), they
+give the example of "jan Robert": here, the word "Robert" means "a thing named
 Robert". Since all proper nouns behave as adjectives in this way, they must
 follow a word that indicates what kind of thing they are. People are generally
 "jan [name]". Places are "ma [name]". Most curiously, languages are "toki
