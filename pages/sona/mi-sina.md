@@ -741,7 +741,7 @@ but also easier to figure out!
 In Toki Pona, a word can be understood in many different ways, depending on when
 it's said and where it is in the sentence! And there are two reasons for that:
 
-**1. Toki Pona words are broad in meaning**
+1. Toki Pona words are broad in meaning
 
 In Toki Pona, words don't tell you about number, time, or gender. They also
 don't care if they're being used as a verb or adjective, or anything else.
@@ -752,7 +752,7 @@ Instead of changing the words to tell you about time or number, Toki Pona lets
 you figure things out from context- or spell it out literally, as we'll learn
 later!
 
-**2. Actions and descriptions are the same thing**
+2. Actions and descriptions are the same thing
 
 In Toki Pona, there is no grammatical difference between "doing" and "being."
 The predicate does both! To describe it in English, you could say that if a

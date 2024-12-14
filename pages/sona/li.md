@@ -4,49 +4,27 @@ author: gregdan3
 date: 2022-08-16T00:00:00.000Z
 ---
 
-[Check out the video lesson too!](https://youtu.be/xaYd936H--o)
+## Words to Know
 
-<details><summary>**Table of Contents**</summary>
+New lesson means new ideas: Word will now be split into categories, based on
+how they work in a sentence!
 
-<!-- toc -->
-
-  - [Words to Know](#words-to-know)
-    - [Particles](#particles)
-    - [Content Words](#content-words)
-- [Overview](#overview)
-    - [Predicates and li](#predicates-and-li)
-    - [Multiple li](#multiple-li)
-- [Exercises](#exercises)
-  - [Toki Pona to English](#toki-pona-to-english)
-    - [Single li](#single-li)
-    - [Multiple li](#multiple-li-1)
-  - [English to Toki Pona](#english-to-toki-pona)
-- [Takeaway](#takeaway)
-    - [Summary of li](#summary-of-li)
-    - [Back to mi/sina](#back-to-misina)
-    - [Content Words and Particles](#content-words-and-particles)
-
-<!-- tocstop -->
-
-</details>
-
-### Words to Know
-
-All new words will be separated into categories!
-
-#### Particles
+### Particles
 
 Particles are for grammar. They are used for sentence structure, introducing new
 parts of a sentence. Most do not have meanings, only functions.
 
-|                 Word                  | Use                                          | Writing                |
-| :-----------------------------------: | -------------------------------------------- | ---------------------- |
-| [li]{.glyph}<br/>[li]{.glyphsubtitle} | (mark a predicate; begin a predicate phrase) | One right-facing arrow |
+|                   Word                    | Use                                          | Writing                              |
+| :---------------------------------------: | -------------------------------------------- | ------------------------------------ |
+|   [li]{.glyph}<br/>[li]{.glyphsubtitle}   | (mark a predicate; begin a predicate phrase) | One right-facing arrow               |
+|  [anu]{.glyph}<br/>[anu]{.glyphsubtitle}  | (connect phrases with 'or')                  | A capital letter "Y" with a wide top |
+| [seme]{.glyph}<br/>[seme]{.glyphsubtitle} | (request information)                        | A question mark                      |
 
-#### Content Words
+### Content Words
 
-Content words have meaning, and can be used most places in a sentence- so far,
-the subject and predicate!
+Content words have meaning, and can be used most places in a sentence! So far,
+that's just the subject and predicate, but we'll grow that list after this
+lesson! Aside: All the words from the last lesson were content words too!
 
 |                     Word                      | Definition                                    | Writing                                                                        |
 | :-------------------------------------------: | --------------------------------------------- | ------------------------------------------------------------------------------ |
@@ -62,11 +40,31 @@ the subject and predicate!
 |   [seli]{.glyph}<br/>[seli]{.glyphsubtitle}   | hot, fire, warm, hot object                   | A dot with three almost-vertical lines ("emitters") over top, like a big fire! |
 |   [lete]{.glyph}<br/>[lete]{.glyphsubtitle}   | cold, ice, raw, undercooked, cold object      | Three crossing lines making a simple snowflake                                 |
 
-The words from the last lesson were content words too!
+## Topics
 
-## Overview
+[**Also watch on YouTube!**](https://youtu.be/xaYd936H--o)
 
-#### Predicates and li
+<details><summary>**Table of Contents**</summary>
+
+<!-- toc -->
+
+  - [Intro to "li"](#intro-to-li)
+  - [li and "and"](#li-and-and)
+- [Exercises](#exercises)
+  - [Single li](#single-li)
+  - [Multiple li](#multiple-li)
+  - [Questions](#questions)
+  - [English](#english)
+- [Summary](#summary)
+  - [What did you learn?](#what-did-you-learn)
+  - [What can you say now?](#what-can-you-say-now)
+  - [What comes next?](#what-comes-next)
+
+<!-- tocstop -->
+
+</details>
+
+### Intro to "li"
 
 The next type of Toki Pona sentence is a simple but powerful addition!
 
@@ -122,13 +120,7 @@ entertainment. [musi]{.tokipona} could be either a description or action here,
 and these cannot be told apart without more context- Toki Pona doesn't tell them
 apart! Check under the spoiler for possible interpretations.
 
-#### Multiple li
-
-<!-- ::: info -->
-<!---->
-<!-- [Check out this video lesson too!]() There are a few other topics here, but the very start has what you need! -->
-<!---->
-<!-- ::: -->
+### li and "and"
 
 To say a subject does more than one thing, you say [li]{.tokipona} a second time
 at the end of the predicate, marking another predicate. Saying [li]{.tokipona}
@@ -183,9 +175,7 @@ _normally_ do this with them. Instead, use separate sentences: [mi tawa. mi lape
 
 ## Exercises
 
-### Toki Pona to English
-
-#### Single li
+### Single li
 
 You and a friend are looking through old photos. Your friend points to one of a
 person leaning against a wall, smiling wide at the camera and says:
@@ -322,7 +312,7 @@ The food's gone bad!
 
 </details>
 
-#### Multiple li
+### Multiple li
 
 <!-- You and your camping crew have been out searching for clean water for hours. You're not out of water, lucky for you, but if you can't find some you'll have to go home early! Through your traveling in the forest, you come across a pleasant stream, and kneel down to drink from it. You don't quite remember you're supposed to clean the water first, but one of your friends stops you and says: -->
 
@@ -405,11 +395,12 @@ The tree is so cold, and rock hard!
 
 - The grass is cold and hard to the touch!
 - The flower is frozen solid!
--
 
 </details>
 
-### English to Toki Pona
+### Questions
+
+### English
 
 ::: info
 
@@ -543,9 +534,11 @@ The following use "and." Remember how multiple [li]{.tokipona} works!
 
 </details>
 
-## Takeaway
+## Summary
 
-#### Summary of li
+### What did you learn?
+
+1. You can use "li" to talk about anything
 
 [li]{.tokipona} lets you talk about a variety of subjects in Toki Pona. Remember
 that the word before is the subject, and the word after describes what the
@@ -553,7 +546,7 @@ subject _is_ or _does_- respectively called the subject and predicate! You can
 think of [li]{.tokipona} being similar to English "doing" or "being," but
 comparisons to other languages are no substitute for practice!
 
-#### Back to mi/sina
+2. "mi" and "sina" work like "li"
 
 In the previous lesson, we covered a sentence which exclusively began with
 either [mi]{.tokipona} or [sina]{.tokipona}. In this lesson, we covered a
@@ -571,7 +564,7 @@ think of it as though [mi]{.tokipona} and [sina]{.tokipona} _are_
 [li]{.tokipona} for their kind of sentence. These different ways of looking at
 it are helpful tools, but don't let it get in the way of the language!
 
-#### Content Words and Particles
+3. Most words are
 
 Any _meaningful_ word may appear in either the subject, the predicate, or both
 at once. When I say "meaningful", this refers the idea of a **content word**, or
@@ -591,6 +584,10 @@ _and_ as content words. Again, we'll learn about those in a future lesson!
 **[ma pona pi toki pona on Discord](https://discord.gg/mapona)**, and
 **[try listening to some Toki Pona](https://www.youtube.com/playlist?list=PLwYL9_SRAk8E-dYX8ioR3tt91hcd5bxV0)**!
 :::
+
+### What can you say now?
+
+### What comes next?
 
 ---
 
