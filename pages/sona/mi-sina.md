@@ -41,7 +41,7 @@ how to remember and draw each symbol.
 
 ## Topics
 
-<!--[**Check out the video lesson too!**](https://youtu.be/J93GWOMbgdg)-->
+[**Also watch on YouTube!**](https://youtu.be/J93GWOMbgdg)
 
 <details><summary>**Table of Contents**</summary>
 
@@ -741,7 +741,7 @@ but also easier to figure out!
 In Toki Pona, a word can be understood in many different ways, depending on when
 it's said and where it is in the sentence! And there are two reasons for that:
 
-**Toki Pona words are broad in meaning**
+**1. Toki Pona words are broad in meaning**
 
 In Toki Pona, words don't tell you about number, time, or gender. They also
 don't care if they're being used as a verb or adjective, or anything else.
@@ -752,7 +752,7 @@ Instead of changing the words to tell you about time or number, Toki Pona lets
 you figure things out from context- or spell it out literally, as we'll learn
 later!
 
-**Actions and descriptions are the same thing**
+**2. Actions and descriptions are the same thing**
 
 In Toki Pona, there is no grammatical difference between "doing" and "being."
 The predicate does both! To describe it in English, you could say that if a
@@ -769,15 +769,16 @@ By now, you can say hello or goodbye, read and make sentences with [mi]{.tp} and
 lot, but you already have all the pieces you need to follow along with some
 conversations, and even join them!
 
-, so you can talk about yourself and whoever you're speaking to! You can also
-ask important questions, like whether somebody understands you, or if they're
-okay.
+<!--, so you can talk about yourself and whoever you're speaking to! You can also-->
+<!--ask important questions, like whether somebody understands you, or if they're-->
+<!--okay.-->
 
 ### Test yourself!
 
-Here's a short conversation to test yourself with! It covers everything you've
-learned in this lesson. You've seen all the words here, and there's only one bit
-of grammar you don't know yet, so you're very prepared to
+Here's a short conversation, entirely in toki pona! It covers everything you've
+learned in this lesson. You've seen all the words here, and you've seen nearly
+all the grammar here too- so you're more than ready to figure out what's being
+said. Give it a shot, and good luck!
 
 <details>
 <summary>
@@ -833,9 +834,14 @@ Walk well!
 </details>
 
 If you don't get it yet, don't worry! Language learning takes time, even in Toki
-Pona. Come back again later and try again!
+Pona. Come back later and try again!
 
 ### What comes next?
+
+Now that you can talk about yourself and whoever you're talking to, it's time to
+introduce [**li**]{.tp} so we can talk about everyone and everything else! In
+the next lesson, we'll have lots of examples of this new **verb marker**, and
+cover a new form of questions too.
 
 ---
 
@@ -844,7 +850,7 @@ Pona. Come back again later and try again!
 You've made it through your first lesson! [pona]{.tp}!
 
 Tip: If you can't remember a specific symbol, hit the [sitelen+pona]{.tp}
-**Toggle** button to switch back to the alphabet!
+**Toggle** button to switch to the alphabet!
 
 :::
 
