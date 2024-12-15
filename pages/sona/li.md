@@ -6,19 +6,17 @@ date: 2022-08-16T00:00:00.000Z
 
 ## Words to Know
 
-New lesson means new ideas: Word will now be split into categories, based on
-how they work in a sentence!
+New lesson means new ideas: Word will now be split into categories, based on how
+they work in a sentence!
 
 ### Particles
 
 Particles are for grammar. They are used for sentence structure, introducing new
 parts of a sentence. Most do not have meanings, only functions.
 
-|                   Word                    | Use                                          | Writing                              |
-| :---------------------------------------: | -------------------------------------------- | ------------------------------------ |
-|   [li]{.glyph}<br/>[li]{.glyphsubtitle}   | (mark a predicate; begin a predicate phrase) | One right-facing arrow               |
-|  [anu]{.glyph}<br/>[anu]{.glyphsubtitle}  | (connect phrases with 'or')                  | A capital letter "Y" with a wide top |
-| [seme]{.glyph}<br/>[seme]{.glyphsubtitle} | (request information)                        | A question mark                      |
+|                 Word                  | Use                                          | Writing                |
+| :-----------------------------------: | -------------------------------------------- | ---------------------- |
+| [li]{.glyph}<br/>[li]{.glyphsubtitle} | (mark a predicate; begin a predicate phrase) | One right-facing arrow |
 
 ### Content Words
 
@@ -48,8 +46,8 @@ lesson! Aside: All the words from the last lesson were content words too!
 
 <!-- toc -->
 
-  - [Intro to "li"](#intro-to-li)
-  - [li and "and"](#li-and-and)
+- [Intro to "li"](#intro-to-li)
+- [li and "and"](#li-and-and)
 - [Exercises](#exercises)
   - [Single li](#single-li)
   - [Multiple li](#multiple-li)
