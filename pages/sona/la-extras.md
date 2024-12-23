@@ -131,7 +131,7 @@ One of the coolest ways to use [la]{.tokipona} is to imply a specific object- a 
 
 <!-- TODO: different than pana -->
 
-> [o la kasi li pana]{.tokipona}
+> [ko la kasi li pana]{.tokipona}
 
 This isn't guaranteed to be understood, but it is possible for this statement to mean the same as the following:
 
@@ -149,7 +149,7 @@ Restatements such as these aren't strictly necessary- in this case, you can just
 
 > [mi pana e kiwen mani e ko pi kon pona tawa ona]{.tokipona}
 
-But this multiple object trick can also work for prepositions, where it's much more useful! Here is is for [lon]{.tokipona}:
+But this multiple object trick can also work for prepositions, where it's much more useful! Here it is for [lon]{.tokipona}:
 
 <details><summary> [ma tomo en telo suli la mi lon poka]{.tokipona} </summary>
 

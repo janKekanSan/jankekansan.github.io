@@ -235,7 +235,7 @@ Asking questions about negatives can be just as confusing in Toki Pona as in Eng
 
 ::: info
 
-I've only discussed [anu seme]{.tokipona} at the end of sentences here, but you can add it to any part of speech! It's more common at the end of the sentence, so using using it elsewhere can occasionally confuse your listener, but it's always valid.
+I've only discussed [anu seme]{.tokipona} at the end of sentences here, but you can add it to any part of speech! It's more common at the end of the sentence, so using it elsewhere can occasionally confuse your listener, but it's always valid.
 
 You'll see more of how to do this in the next lesson when we look closer at [anu]{.tokipona}
 
