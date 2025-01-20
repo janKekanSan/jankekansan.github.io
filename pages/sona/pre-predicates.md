@@ -21,7 +21,7 @@ date: date unknown
       - [kama](#kama)
       - [awen](#awen)
       - [sona](#sona)
-      - [alasa / lukin](#alasa--lukin)
+      - [alasa and lukin](#alasa-and-lukin)
     - [Multiple pre-predicates](#multiple-pre-predicates)
     - [ala](#ala)
 - [Exercises](#exercises)
@@ -202,9 +202,9 @@ The same action-versus-thing distinction happens as with the [ken]{.tokipona} pr
 
 ---
 
-##### alasa / lukin
+##### alasa and lukin
 
-<details><summary> [mi alasa pona e sina  /  mi lukin pona e sina]{.tokipona} </summary>
+<details><summary> [mi alasa pona e sina]{.tp} OR [mi lukin pona e sina]{.tokipona} </summary>
 
 I'm trying to help you!
 
@@ -404,7 +404,7 @@ I skillfully created a huge community!
 
 You've been talking up Toki Pona with your friends for a while now, and finally convinced one of them to join you in learning! But your friend asks, why were you so persistent about others learning Toki Pona? You explain:
 
-<details><summary> [jan pi toki pona li alasa nasa e kulupu ona  /  jan pi toki pona li lukin nasa e kulupu ona]{.tokipona} </summary>
+<details><summary> [jan pi toki pona li alasa nasa e kulupu ona]{.tp} OR [jan pi toki pona li lukin nasa e kulupu ona]{.tokipona} </summary>
 
 Toki Pona speakers try to make their communities weird!
 
@@ -430,7 +430,7 @@ They are still getting better.
 
 You are watching your little brother stare into a triangular prism. Light is shining from the window into the prism, and the prism scatters all the light throughout the room in a variety of colors. Your brother says:
 
-<details><summary> [mi wile alasa sona e kule ale  /  mi wile lukin sona e kule ale]{.tokipona} </summary>
+<details><summary> [mi wile alasa sona e kule ale]{.tp} OR [mi wile lukin sona e kule ale]{.tp} </summary>
 
 I want to try understanding all the colors.
 
@@ -482,7 +482,7 @@ You could also say "[ona li seli ala e kasi]{.tokipona}" to similar effect!
 
 You're going swimming in a lake in the middle of summer! The sun is beaming brightly, and your dad is concerned you'll get a sunburn. He's reminded you too many times to bring sunscreen, put on lots of sunscreen, keep re-applying sunscreen, but you know all that already! You finally tell him:
 
-<details><summary> [**mi alasa ala kama loje  /  mi lukin ala kama loje**]{.tokipona} </summary>
+<details><summary> [**mi alasa ala kama loje**]{.tp} OR [**mi lukin ala kama loje**]{.tokipona} </summary>
 
 I'm not trying to get sunburnt!
 
