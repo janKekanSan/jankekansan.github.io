@@ -5,6 +5,7 @@
 
 for my part, i think the left-to-right analysis faded into the any-order
 analysis as toki pona became more established in terms of its number of speakers
+
 by the time i was speaking toki pona comfortably, the any-order analysis was
 more popular for pedagogical and pragmatic reasons.
 
