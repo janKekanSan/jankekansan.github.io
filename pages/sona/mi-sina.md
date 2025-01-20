@@ -254,9 +254,8 @@ sentences in the future, but it's always that first word, doubled and with
 
 To answer a yes or no question, you can say an entire sentence back, or just
 repeat the true part of the predicate- in the above example, you'd say
-[pona]{.tp} for yes, or [ala]{.tp} for no.
-
-You can think of yes or no questions as
+[pona]{.tp} for yes, or [ala]{.tp} for no. But critically, there is no dedicated
+word that means "yes," and [ala]{.tp} means a lot more than just "no!"
 
 ### Hello and Goodbye
 
