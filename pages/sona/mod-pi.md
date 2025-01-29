@@ -10,14 +10,14 @@ date: date unknown
 
 <!-- toc -->
 
-  - [Words to Know](#words-to-know)
-    - [Particles](#particles)
-    - [Content Words](#content-words)
+- [Words to Know](#words-to-know)
+  - [Particles](#particles)
+  - [Content Words](#content-words)
 - [Overview](#overview)
-    - [en, quickly!](#en-quickly)
-    - [One Modifier](#one-modifier)
-    - [Many Modifiers](#many-modifiers)
-    - [pi phrases](#pi-phrases)
+  - [en, quickly!](#en-quickly)
+  - [One Modifier](#one-modifier)
+  - [Many Modifiers](#many-modifiers)
+  - [pi phrases](#pi-phrases)
 - [Exercises](#exercises)
   - [Toki Pona to English](#toki-pona-to-english)
     - [One Modifier](#one-modifier-1)
@@ -25,9 +25,9 @@ date: date unknown
     - [pi phrases](#pi-phrases-1)
   - [English to Toki Pona](#english-to-toki-pona)
 - [Takeaway](#takeaway)
-    - [Terminology](#terminology)
-    - [Grammar](#grammar)
-    - [Modifiers and Meaning](#modifiers-and-meaning)
+  - [Terminology](#terminology)
+  - [Grammar](#grammar)
+  - [Modifiers and Meaning](#modifiers-and-meaning)
 
 <!-- tocstop -->
 
@@ -225,19 +225,19 @@ lete nasa]{.tokipona} are the same thing. Think it through: In English, [wawa
 nasa lete]{.tokipona} is a weird cold power. [wawa lete nasa]{.tokipona} is a
 cold weird power. These statements aren't even different in English!
 
-<details><summary> [jan li kalama musi suwi]{.tokipona} </summary>
+<details><summary> [jan li toki musi suwi]{.tokipona} </summary>
 
-Somebody is singing sweetly.
+Somebody is telling a sweet, funny story.
 
 ---
 
-- A person makes a cute, fun sound.
-- A boy is humming softly.
+- A person talks in an amusing and cute way
+- A boy is speaking funnily and softly
 
 </details>
 
-Same as before, the order does not matter. [kalama musi suwi]{.tokipona} and
-[kalama suwi musi]{.tokipona} are the same.
+Same as before, the order does not matter. [toki musi suwi]{.tokipona} and [toki
+suwi musi]{.tokipona} are the same.
 
 #### pi phrases
 
