@@ -1,6 +1,6 @@
 % What is Toki Pona? in 3 minutes 
 % gregdan3
-% 2024-01-31
+% 2025-01-31
 % published: true
 
 This is a canned pitch for Toki Pona, to help others understand what it is and
